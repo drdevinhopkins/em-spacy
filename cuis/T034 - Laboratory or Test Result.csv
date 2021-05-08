@@ -1,0 +1,202 @@
+cui,name
+C0015562,False Negative Reactions
+C0015563,False Positive Reactions
+C0019029,Hemoglobin concentration result
+C0019699,HIV Seropositivity
+C0031092,Periodontal Index
+C0036810,Serum iron level result
+C0042508,Ventricular Ejection Fraction
+C0149709,Hepatitis B surface antigen positive
+C0151379,Rheumatoid factor positive (finding)
+C0151385,"Circulating anticoagulant, lupus anticoagulant or antiphospholipid antibodies"
+C0151480,Anti-nuclear factor positive
+C0151576,Creatine Phosphokinase Increased
+C0205558,False Negative
+C0206087,Renal Plasma Flow
+C0232012,Transmural pressure
+C0232296,Right axis deviation
+C0232305,Electrocardiogram: right ventricle hypertrophy (finding)
+C0232306,Electrocardiogram: left ventricle hypertrophy (finding)
+C0233243,Apgar score 1
+C0233244,Apgar score 2
+C0233245,Apgar score 3
+C0233247,Apgar score 5
+C0239113,Coombs Test Positive
+C0240802,Pregnancy test positive
+C0241185,Smooth muscle antibodies positive
+C0241988,Monoclonal Band
+C0337444,Urine sodium level result
+C0344386,Schistocytosis
+C0344413,Heart Block by ECG Finding
+C0344420,Electrocardiogram: left bundle branch block (finding)
+C0344423,Atrial Flutter by ECG Finding
+C0344424,Ventricular Arrhythmia by ECG Finding
+C0344428,Ventricular Tachycardia by ECG Finding
+C0344434,Atrial Fibrillation by ECG Finding
+C0344435,Ventricular Fibrillation by ECG Finding
+C0368753,Total bilirubin level
+C0391839,Partial pressure CO2 result
+C0427444,MCHC - raised
+C0427579,Blood coagulation pathway observation
+C0427596,TT - Thrombin time result
+C0427623,Blood group B (finding)
+C0427629,Rh positive (finding)
+C0427780,Pregnancy test negative
+C0427861,Human cells
+C0427877,Cerebrospinal fluid lymphocytosis
+C0427944,Determination of bacterial growth
+C0428212,Finding of drug level
+C0428255,Lead level result
+C0428291,Finding of sodium level
+C0428294,Finding of chloride level
+C0428302,Calcium level result
+C0428304,Phosphate level result
+C0428309,Blood magnesium level observed
+C0428311,Serum osmolality observed
+C0428396,Cortisol level
+C0428436,Ammonia level finding
+C0428479,Protein level - finding
+C0428536,Immunoglobulin level - finding
+C0428548,Glucose level - finding
+C0428554,Finding of blood glucose level
+C0428578,Iron level result
+C0428863,Myocardial oxygen consumption
+C0428876,Intracardiac pressure
+C0428953,Electrocardiogram: myocardial infarction (finding)
+C0428975,Supraventricular Arrhythmia by ECG Finding
+C0429066,Segment deviation (ECG)
+C0429119,Vascular resistance (finding)
+C0429745,Forced expired volume in one second/forced vital capacity ratio
+C0429874,Venous flow
+C0438215,Laboratory test result abnormal
+C0450458,Ventricular pressure result
+C0455280,Plasma glucose result
+C0456166,Right ventricular pressure
+C0456170,Left atrial pressure
+C0456180,Aortic Pressure
+C0456984,Test Result
+C0460097,Within therapeutic range
+C0521144,Seronegative
+C0524587,Mean Corpuscular Volume (result)
+C0543465,Serum Potassium result
+C0553699,Heinz body observation
+C0580948,carboxyhemoglobin level
+C0583332,serum glucose level
+C0587081,Laboratory test finding
+C0587356,Serum sodium level
+C0600103,Blood group transfusion observation
+C0677598,Stomatocytosis Result
+C0677599,Platelet aggregation test result
+C0678232,Serum chloride level result
+C0684332,Macrocytosis result
+C0702094,Agranulocytosis lab result
+C0728877,Serum albumin level
+C0730319,Genetic finding
+C0740299,Blood culture positive for microorganism
+C0742442,Clostridium difficile Toxin Positive
+C0752266,Hypovolemic
+C0853155,No proteinuria
+C0855652,culture negative
+C0855856,Negative Skin Test
+C0856536,Philadelphia chromosome positive
+C0919711,Hepatitis B surface antigen negative
+C1254595,Laboratory Results
+C1261360,Total protein result
+C1261422,Serum lipase level result
+C1261426,Serum bicarbonate level result
+C1261446,Urine organic acid levels result
+C1287242,Finding of antibody titer
+C1287262,Finding of red blood cell count
+C1287267,Finding of platelet count
+C1287281,"Finding of glucose concentration, dipstick"
+C1287351,Finding of liver enzyme levels
+C1287365,Bilirubin level result
+C1304757,"Finding of protein concentration, dipstick"
+C1304767,Lactate level result
+C1318051,Fibrinogen level result
+C1318188,Vitamin level result
+C1318196,Osmolal gap result
+C1318440,Bleeding time result
+C1318442,Reticulocyte count result
+C1319253,No Chlamydia trachomatis
+C1319572,Fractional Excretion of Potassium
+C1527380,Electroencephalogram
+C1550465,Observation Interpretation - intermediate
+C1619634,erythrocyte sedimentation rate result
+C1853129,LABORATORY ABNORMALITIES
+C2061911,Mixed Flora
+C2240374,Eosinophil count raised (finding)
+C2827755,Antimicrobial Intermediate Susceptibility Result
+C2827756,Antimicrobial Nonsusceptibility Result
+C2827757,Antimicrobial Resistance Result
+C2827758,Antimicrobial Susceptibility Result
+C2919446,Left anterior fascicular block on electrocardiogram
+C2939457,Fungus (lab result)
+C2983650,QRS Complex Absent by ECG Finding
+C2983653,R Wave Notched by ECG Finding
+C2983659,S Wave Abnormality by ECG Finding
+C2986505,Genetic Profile
+C3686837,No fungal growth
+C3687225,Human herpesvirus 1 positive
+C3697386,Airway plateau pressure
+C3714541,Forced Vital Capacity
+C3812875,Testicular Cancer Serum Markers Test Result S2
+C3812877,Testicular Cancer Serum Markers Test Result S3
+C3828565,PHQ-9 - Total Score
+C3888511,Philadelphia Chromosome Negative
+C3891069,MRI-Based Angiogram
+C3891555,X-ray-Based Angiogram
+C3898637,Lab Findings of New or Worsening Heart Failure
+C3899938,Blastic Phase
+C4022819,Leukocyte cylindruria
+C4048246,Oligoclonal Bands
+C4054166,Positive Pseudomonas Culture
+C4054571,Maternal Proteinuria
+C4054738,Immunohistochemical Status of PD-L1
+C4277633,Laboratory Critical Values
+C4280732,Anticentromere antibody positivity
+C4280741,Topoisomerase I antibody positivity
+C4283904,Laboratory observation
+C4287875,BCR/ABL1 Fusion Negative
+C4287934,Human Immunodeficiency Virus 1 Positive
+C4288347,Pulmonary Function Test Reference Value
+C4288918,IgM Monoclonal Gammopathy
+C4288919,IgG Monoclonal Gammopathy
+C4288920,IgA Monoclonal Gammopathy
+C4321493,Microsatellite Stable
+C4329216,2-Hour Postprandial Insulin
+C4329410,BCR/ABL1 Fusion Protein Negative
+C4329796,Epstein-Barr Virus Positive
+C4330254,Hepatitis C Virus Positive
+C4331204,RAF Wild Type
+C4331207,RAS Wild Type
+C4331276,Serum-Ascites Albumin Gradient
+C4331363,Survivin Positive
+C4331814,2-Hour Postprandial Glucose
+C4521538,Methicillin-resistant Staphylococcus aureus Measurement
+C4526511,MET Fusion Gene Positive
+C4527431,KIT Gene Mutation Negative
+C4528257,Corpuscular Hemoglobin Concentration Mean
+C4554416,Secreted
+C4683792,Hepatitis B Virus Positive
+C4684431,HTLV-1 Positive
+C4687402,Clostridium difficile Positive
+C4688440,BK Virus Positive
+C4688581,Helicobacter pylori Negative
+C4688626,BRAF Gene Mutation Negative
+C4721539,Viremia (test result)
+C4725014,Unspecified Atypical Cells Present
+C4725829,F3 Positive
+C4725905,Surface Immunoglobulin Positive Cells Present
+C4727275,PTEN Alteration Positive
+C5139299,Positive direct antiglobulin test
+C5201036,Low Platelet Count
+C5201236,Hypoproteinemia (test result)
+C5204700,Fanconi Anemia Complementation Group Gene Mutation Negative
+C5205187,Helicobacter pylori Positive
+C5205188,HRAS Gene Mutation Negative
+C5205215,MET Gene Mutation Negative
+C5205297,PTEN Gene Mutation Negative
+C5206286,ENO2 Negative
+C5206315,ENO2 Positive
+C5206619,Alpha-Fetoprotein Positive

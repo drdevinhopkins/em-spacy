@@ -1,0 +1,45 @@
+cui,name
+C0001585,"Adolescent, Hospitalized"
+C0002695,Amputees
+C0008098,"Child, Hospitalized"
+C0018576,Disabled Persons
+C0021288,Low Birth Weight Infant
+C0021562,inpatient
+C0025360,Mentally Ill Persons
+C0029921,Outpatients
+C0030705,Patients
+C0079822,Mentally Disabled Persons
+C0079958,"Outliers, DRG"
+C0150101,INCEPTION COHORT
+C0206193,Long-Term Survivors
+C0206194,Survivors
+C0242566,Intravenous drug user
+C0242798,Homebound Persons
+C0242810,Battered Women
+C0259916,Disabled Children
+C0338666,Drug abuser
+C0376387,Transplant Recipients
+C0525065,Visually Impaired Persons
+C0687725,Alcoholics
+C0700061,Obstetric Patient
+C0748064,Psychiatric inpatient
+C0858354,addict
+C0870602,geriatric patients
+C0870668,hospitalized patients
+C0870869,medical patients
+C1516231,Cancer Survivors
+C1550504,Participation Type - baby
+C2362515,Coping with Chronic Illness
+C2963173,HIV/AIDS in Women
+C2963182,Living with HIV/AIDS
+C2986511,Evaluable Patient
+C3640869,Long-term Facility Resident
+C3897379,TRICARE Beneficiary
+C4288965,Hematopoietic Cell Transplant Recipient
+C4304779,Kidney Transplant Recipient
+C4321409,Bedridden Persons
+C4329462,Bone marrow transplant recipient
+C4331301,Solid Organ Transplant Recipient
+C4727503,Cord Blood Transplant Recipient
+C5204751,Esophagogastroduodenoscopy Patient
+C5206630,Abdominal Surgery Patient

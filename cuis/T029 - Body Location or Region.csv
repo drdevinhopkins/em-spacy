@@ -1,0 +1,387 @@
+cui,name
+C0000726,Abdomen
+C0001302,Acupuncture Points
+C0003086,Ankle
+C0004454,Axilla
+C0004600,Back
+C0005898,Body Regions
+C0006497,Buttocks
+C0007144,Cardia of stomach
+C0007966,Cheek structure
+C0008114,Chin
+C0009191,Coccygeal Region
+C0013769,Elbow
+C0015450,Face
+C0016539,"Forefoot, Human"
+C0016540,Forehead
+C0016555,Forelimb
+C0017681,glottis
+C0018246,Inguinal region
+C0018670,Head
+C0020654,"Hypothalamic Area, Lateral"
+C0021445,Inguinal canal structure
+C0024090,Lumbar Region
+C0024094,Lumbosacral Region
+C0025066,Mediastinum
+C0025474,Mesentery
+C0025590,Region of metatarsal
+C0026607,Motor Cortex
+C0026638,Sublingual Region
+C0027530,Neck
+C0031066,Anogenital region
+C0036033,Sacral Region
+C0036035,Sacrococcygeal Region
+C0037004,Shoulder
+C0038446,Area striata structure
+C0039866,Thigh structure
+C0041638,Umbilicus (Anatomy)
+C0042591,Vessel Positions
+C0042997,vulvovaginal
+C0043262,Wrist
+C0149543,Base of skull structure
+C0150934,"Ear, nose and throat"
+C0152349,Subthalamic structure
+C0205054,Hepatic
+C0205097,Caudal
+C0222679,Structure of articular surface of bone
+C0222769,Jugular notch of sternum
+C0222809,Tubercle of rib structure
+C0223890,Base of patella
+C0225484,Posterior wall of nasopharynx
+C0225486,lateral wall of nasopharynx
+C0225492,Superior wall of nasopharynx
+C0225703,Structure of apex of lung
+C0225705,Bronchopulmonary segment
+C0225708,Structure of base of right lung
+C0225732,Structure of base of left lung
+C0225759,Lung field
+C0225808,Right side of heart
+C0225809,Left side of heart
+C0225810,Structure of base of heart
+C0225811,Structure of apex of heart
+C0225818,Structure of right margin of heart
+C0225819,Structure of left margin of heart
+C0225884,Structure of crista supraventricularis
+C0226875,Lower Gastrointestinal Tract
+C0226898,Structure of oral cavity proper
+C0227155,Posterior wall of oropharynx
+C0227174,Posterior wall of hypopharynx
+C0227189,Middle third of esophagus
+C0227223,Greater curvature of stomach
+C0227327,Distal part of ileum
+C0227387,Left colic flexure
+C0227425,Structure of anal intersphincteric groove
+C0227622,Structure of renal segment
+C0227762,Posterior commissure of labia majora
+C0227794,Fornix of vagina
+C0227931,Radix penis structure
+C0227960,Structure of anterior surface of prostate
+C0229092,Structure of posterior pole of eye
+C0229227,Structure of anterior surface of lens
+C0229881,Tonsillar fossa
+C0229978,90 percent of body surface or more
+C0230003,Vertex
+C0230004,Parietal area of head
+C0230005,Occipital region
+C0230007,Temporal region
+C0230013,Preauricular region structure
+C0230028,Oral region
+C0230054,Structure of suprasellar region
+C0230062,Structure of medial wall of orbit
+C0230064,Periorbital region
+C0230065,Structure of retroorbital region
+C0230069,Anterior portion of neck
+C0230070,Submandibular triangle structure
+C0230087,Midclavicular line of trunk
+C0230091,Anterior axillary line
+C0230092,Posterior axillary line
+C0230093,Upper trunk structure
+C0230094,Lower trunk structure
+C0230101,Upper back structure
+C0230102,Lower back structure
+C0230108,Infraclavicular region structure
+C0230128,Left thorax structure
+C0230131,Posterior chest wall
+C0230132,Anterior chest wall structure
+C0230134,Structure of precordium
+C0230137,Structure of thoracic inlet
+C0230143,Structure of costal arch
+C0230147,Superior mediastinum
+C0230148,Anterior mediastinum
+C0230149,Middle mediastinum
+C0230150,Posterior mediastinum
+C0230151,Costophrenic angle
+C0230165,Upper abdomen (surface region)
+C0230168,Abdominal Cavity
+C0230171,Flank (surface region)
+C0230177,Structure of right upper quadrant of abdomen
+C0230178,Structure of right lower quadrant of abdomen
+C0230179,Structure of left upper quadrant of abdomen
+C0230180,Structure of left lower quadrant of abdomen
+C0230185,Epigastrium
+C0230189,Hypogastric region
+C0230193,Anterior abdominal wall
+C0230195,Linea alba
+C0230288,Structure of obstetrical canal
+C0230355,Antecubital region
+C0230360,Structure of right forearm
+C0230373,Palmar surface
+C0230374,Thenar eminence
+C0230375,Hypothenar eminence
+C0230417,Femoral region
+C0230444,Shin
+C0230445,Structure of calf of leg
+C0230459,Hindfoot (body structure)
+C0230463,Sole of Foot
+C0230467,Arch of foot
+C0282082,Gluteal Region
+C0392338,Cutaneous Receptive Fields
+C0441907,Lead site V1
+C0441908,Lead site V2
+C0442031,Pericardial body location
+C0442034,peritoneal
+C0442036,Plantar - anatomical location
+C0442044,Ulnar
+C0442158,Perianal
+C0442192,Supraglottic
+C0443349,Volar
+C0446414,Level of the fourth cervical vertebra
+C0446455,Front of neck
+C0446470,Surface region of lower chest
+C0446472,Side of chest
+C0446495,Periumbilical part of abdomen
+C0446516,Upper arm
+C0446523,Antecubital Fossa
+C0447210,Entire maxillary teeth
+C0447301,Tooth surface
+C0447303,Occlusal surface of tooth
+C0447556,Neck of pancreas
+C0447618,Uterine segment
+C0447620,Structure of uterine wall
+C0449197,PUL anatomical site notation for tumour staging
+C0449201,PER tumor staging notation
+C0449205,LIM tumor staging site
+C0449218,Lead site V3
+C0449751,Radial deviation
+C0450108,Arterio-arterial
+C0450724,Gallbladder acupuncture point 3
+C0458098,Midclavicular line
+C0458343,Trigger point
+C0458561,External nose structure
+C0458630,Region of epididymis
+C0458696,Peripheral zone of prostate
+C0458924,Entire anterior portion of diaphragmatic aspect of liver
+C0458925,Posterior surface of liver
+C0459697,Anterior segment of maxilla
+C0460004,Head and neck structure
+C0460005,Trunk structure
+C0460009,"Back structure, including back of neck"
+C0460025,Upper jaw region
+C0460026,Lower jaw region
+C0502473,Inferior margin of rib
+C0503895,Anatomical conduit
+C0504075,Anatomical landmark
+C0504611,Organ subdivision
+C0505369,Zone of continuity
+C0506201,Segment of tracheobronchial tree
+C0507100,Wall of cardiac chamber
+C0507134,Cardiac shadow viewed radiologically
+C0521342,ligamentous
+C0521344,serosal
+C0521352,subglottic
+C0521366,retropharyngeal
+C0521367,Oropharyngeal
+C0521387,Myometrial
+C0521401,Leptomeningeal
+C0521440,Epigastric
+C0521453,Decidual
+C0524425,inside the blood vessel
+C0524466,Intracranial
+C0524468,Structure of right shoulder region
+C0524469,Structure of left shoulder region
+C0524470,Right hip region structure
+C0545734,Aorta and aorta
+C0553534,Cardiopulmonary
+C0555898,Sacroiliac
+C0556956,Cervical region (surface region of back)
+C0559817,Entire trochanteric section of femur
+C0565929,Surface region of back of chest
+C0581758,Nuchal region
+C0582240,Border of rib
+C0596790,interstitial
+C0597383,respiration regulatory center
+C0598032,septal area
+C0694654,Left Lower Forearm
+C0694658,left subclavian
+C0694671,Right Lower Forearm
+C0694673,right naris
+C0694675,right subclavian
+C0700042,Orbital region
+C0728992,Structure of abdominal viscus
+C0729895,Tip of finger
+C0733984,Anterior surface of stomach
+C0744316,gastroesophageal
+C0815275,subcortical
+C0816951,Inguinal part of abdomen
+C0817096,Chest
+C0817662,Palm of hand
+C0817744,Front of trunk
+C0825429,Surface of bone
+C0834530,Medial intercondylar tubercle of tibia
+C0834531,Lateral intercondylar tubercle of tibia
+C0920882,Region of neck (body structure)
+C0921044,Frontal part of head
+C0925111,Myocardium of atrium proper
+C0925985,Viscerocranium
+C0927218,Buccal surface of tooth
+C0929182,Anterior pericardium
+C0931905,Submental triangle structure
+C0931963,Abdomen proper
+C0932029,Anatomical zone
+C0932074,Midfoot region of foot
+C0933834,Structure of subregion of head
+C0934420,Cephalometric nasion point
+C0934569,Hemithoracic structure
+C0935196,Anatomical containment
+C0935456,Temple
+C0935623,anatomical pole
+C1136067,Parotid Region
+C1178970,T8 segment of esophagus
+C1179022,Inframammary fold
+C1179299,Surface of organ system
+C1179623,Inferior pole
+C1179687,T1 innervation
+C1179688,T2 innervation
+C1179690,T6 innervation
+C1179691,T7
+C1179696,T12 Thoracic segmental innervation
+C1179698,L1 innervation
+C1179699,L2 innervation
+C1179700,L3 innervation
+C1179701,L4 Segmental Innervation
+C1179704,S1 innervation
+C1179705,S2 innervation
+C1179706,S3 (sacral segmental innervation)
+C1179707,S4 innervation
+C1180212,Surface of skin
+C1182848,Right upper urinary tract
+C1182849,Left upper urinary tract
+C1183739,Right atrium proper
+C1184145,Occipital
+C1184148,Extensor
+C1184263,Vasculature of pelvis
+C1184344,Right infrascapular part of back
+C1185729,Cusp (anatomic)
+C1267582,Proximal stomach
+C1268222,Body surface region
+C1273723,Brain region
+C1275631,Anal part of perineum
+C1288319,Structure of posterior nasopharynx
+C1305853,C3 innervation
+C1305856,C1 innervation
+C1305857,C2 innervation
+C1305858,C4 innervation
+C1305859,C5 innervation
+C1512338,HEENT
+C1514260,Posterior Inferior Frontal Convolution
+C1515974,Anatomic Site
+C1515975,"Anatomic Sites, Other"
+C1516412,Cervical Curve
+C1516428,Cervical Neck Region
+C1517569,Intraventricular
+C1517911,Liver Acinus Zone 1
+C1517912,Liver Acinus Zone 2
+C1517913,Liver Acinus Zone 3
+C1518890,Parametrial
+C1522407,Supratentorial Brain
+C1522411,Anatomic Border
+C1522434,Right Surface of the Liver
+C1527391,Anterior thoracic region
+C1548801,Body Site Modifier - External
+C1548802,Body Site Modifier - Lower
+C1549530,Body site - Chest Tube
+C1549531,nebulized body site
+C1550296,Preauricular
+C1550314,Suprapubic
+C1562860,Oblique axis
+C1563019,Suture line
+C1563059,Lumbosacral angle
+C1704529,Transitional Region
+C1704550,Anterior Posterior Axis
+C1708569,Inverted Y Radiation Field
+C1720043,Structure of subregion of abdomen
+C1827591,Structure of half of thorax lateral to midsagittal plane
+C1882332,Periampullary Region
+C1882536,Radiation Field
+C1963703,Knee region structure
+C1995000,"Back structure, excluding neck"
+C2239273,Supraglottis (body part)
+C2324305,Segment of pericardial sac
+C2325142,Point of glabella
+C2325979,Scaphoid proper
+C2326066,Free wall of left ventricle
+C2326173,Serous pericardium proper
+C2326799,Condylion laterale
+C2327335,Iliac spine
+C2327545,Endocardium of interatrial septum
+C2327573,Zone 2 of anterior interventricular branch of left coronary artery
+C2329816,Alveolare
+C2334205,Alveolon
+C2335385,Frontal zone of scalp
+C2336763,Cephalometric orbitale point
+C2337740,Brodmann area 18
+C2338258,Cranial incision point
+C2340189,Condylion mediale
+C2348654,Targeted Anatomic Site
+C2349948,Lingual - Oral site descriptor
+C2697752,Injury Site
+C2827582,Orofacial
+C2924612,Cephalometric point A
+C2924613,Cephalometric point B
+C2939142,Lower back (surface region)
+C2953455,Renal collecting system
+C2985204,Thoracolumbar Region
+C2985401,Parameningeal
+C2986553,Vulvovaginal Region
+C2987514,Anatomical base
+C3178884,Anatomic Landmarks
+C3178901,Transplant Donor Site
+C3266684,Cephalometric soft tissue nasion point
+C3266689,Cephalometric articulare point
+C3266717,Cephalometric soft tissue plane
+C3272298,Arterial Access Site
+C3273110,Intracutaneous
+C3282906,Intrapleural
+C3282907,Nasogastric
+C3495441,primary motor cortex
+C3641676,Carpometacarpal Joint 2
+C3669209,Structure of sacrum
+C3828581,Periurethral Region
+C3829531,Interdigital Region
+C3887460,Cardiovascular
+C3887515,Genitourinary
+C3887539,Umbilical region
+C3887615,Lumbar spine structure
+C4041137,Entire epiphyseal plate
+C4055153,Diaphragmatic Pinch
+C4240741,Morphological facial height line
+C4240836,Axilla proper
+C4240841,Nasal width line
+C4240846,Nasal protrusion line
+C4240847,Nasal ala length line
+C4242556,Cranial base width line
+C4244952,Alar curvature point
+C4245083,Internal surface layer of organ
+C4249664,Region of soft palate
+C4251501,Forearm proper
+C4253882,Upper lip height line
+C4254672,Midface
+C4273474,Cardiac auscultation pulmonic area
+C4331000,Periventricular Region
+C4528332,Distal Femur R1
+C4688305,Ill-Defined Anatomic Site
+C4724185,Tangential Fields
+C4763605,Proximal Bile Duct
+C5204374,Left Tubo-Ovarian
+C5204376,Right Tubo-Ovarian
+C5230958,Cross-sectional thorax

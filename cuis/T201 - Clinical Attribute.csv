@@ -1,0 +1,160 @@
+cui,name
+C0003074,Anion Gap
+C0005516,Biological Markers
+C0005850,Blood Volume
+C0005938,Bone Density
+C0007165,Cardiac Output
+C0007809,Cerebrospinal Fluid Pressure
+C0012000,Diastole
+C0012655,Disease susceptibility
+C0018810,heart rate
+C0022869,Fetal Presentation
+C0025515,Metabolic Clearance Rate
+C0026687,Mucociliary Clearance
+C0029387,Osmolarity
+C0030055,Oxygen Consumption
+C0032127,Blood Plasma Volume
+C0032930,Precipitating Factors
+C0034094,Pulmonary Wedge Pressure
+C0034944,"Reflex, Vestibulo-Ocular"
+C0035190,Residual volume
+C0035234,Respiratory Sounds
+C0036785,Serum Calcium Level
+C0038455,Stroke Volume
+C0040210,Tidal Volume
+C0042812,Visual Acuity
+C0042834,Vital capacity
+C0080078,"Range of Motion, Articular"
+C0086589,Surrogate Markers
+C0086741,Osmolality
+C0086879,Pulmonary Capillary Wedge Pressure
+C0162521,Exercise Tolerance
+C0221743,Skin reaction
+C0230036,Jaw angle
+C0231832,Respiratory rate
+C0232117,Pulse Rate
+C0232856,Urine volume function
+C0233130,Duration of uterine contraction
+C0233131,Uterine contraction intensity
+C0262499,Head circumference
+C0278941,prior anthracycline therapy
+C0344335,Body Fat
+C0369057,Creatinine renal clearance function
+C0421272,Ideal Body Weight
+C0423049,Pupil light reflex
+C0424678,Lean body mass
+C0426279,Apgar score at 1 minute (observable entity)
+C0428640,Central venous pressure
+C0428719,Airway pressure
+C0428772,Left ventricular ejection fraction
+C0428781,Right ventricular ejection fraction (observable entity)
+C0428883,Diastolic blood pressure
+C0429012,QRS Axis (observable entity)
+C0429028,QT interval feature (observable entity)
+C0429084,P wave feature
+C0429205,Nasal peak inspiratory flow
+C0429218,Abdominal pressure
+C0429622,Oxygen delivery
+C0449574,Histologic type
+C0449722,Dominant hand
+C0455833,Left ventricular end-diastolic cavity size
+C0456165,Right atrial pressure
+C0489461,Carbohydrate intake
+C0489601,output.stool
+C0489602,Oxygen content level
+C0489625,QTC interval
+C0489645,sodium intake
+C0489815,Deep Tendon Reflex
+C0517965,Size of pupil
+C0518766,Vital signs
+C0520877,PR interval feature
+C0520880,"QRS interval, function"
+C0520997,"Thrombolysis, function"
+C0521982,Response to treatment
+C0552399,Biparietal diameter (observable entity)
+C0552443,effacement
+C0562350,Hip circumference
+C0597631,urine acidity
+C0683325,clinical aspects
+C0806093,Expiratory reserve
+C0812388,Ejection time
+C0854358,Purulence
+C0871470,Systolic Pressure
+C1270999,Invasive blood pressure (observable entity)
+C1271078,No psychomotor retardation
+C1275813,Ratio of mitral valve acceleration time to mitral valve deceleration time
+C1275819,Left ventricular diastolic area
+C1275825,Ratio of mitral valve peak velocity to left ventricular peak tissue velocity e-wave
+C1285623,Motor response
+C1285918,Tone of bladder
+C1286152,Movement of ribs
+C1286315,Characteristic of pain
+C1300072,Tumor stage
+C1301411,Regurgitant flow
+C1302173,Right ventricular peak systolic pressure
+C1302309,Regurgitant fraction (observable entity)
+C1305738,Q wave
+C1305855,Body mass index
+C1306522,Tourniquet on
+C1318143,Retention - dental
+C1328319,Ankle brachial pressure index (observable entity)
+C1383165,Blood Types
+C1384388,Maximum breathing capacity function
+C1509144,Sample pool
+C1511876,Diagnostic Factor
+C1511938,Histopathologic Grade differentiation
+C1512299,HIV-1 Load
+C1512656,Immunocompetent
+C1513475,Mononuclear
+C1514460,Prior Hormone Therapy
+C1514461,Prior Immunotherapy
+C1514474,Prognostic Factors
+C1514593,Psychological Impact
+C1516221,Cancer Prognosis
+C1516974,Estrogen Receptor Status - Clinical Trial Eligibility Criteria
+C1517588,Inviable
+C1518852,Pain Nature
+C1519386,Smoking Status
+C1519810,Unresectable
+C1524022,Radiation-Induced Change
+C1527144,Therapeutic Effect
+C1537110,Skin tanning function
+C1542366,hematocrit attribute
+C1552095,ECG rhythm waveforms
+C1563172,Physiologic motion
+C1659986,vascular compliance
+C1704508,Sutherland Fulcrum
+C1705488,"Female-to-Male Transsexual, Self-Report"
+C1710238,Subtlety Score
+C1831583,Elasticity (tissue integrity)
+C1881054,History of Cardiogenic Shock
+C1881055,Personal History of Coronary Artery Disease
+C1955216,Clusters of differentiation
+C2347784,Clinical Endpoint
+C2732536,Modified Glasgow coma score
+C2825540,Crown to Rump Length Measurement
+C2826634,Physical Examination Clinically Significant
+C2826635,Vital Signs Clinical Significance
+C2982736,Preconception
+C2984554,Emotional Well-being
+C3174092,Medication dose
+C3272266,Thrombolysis in Myocardial Infarction Flow
+C3538984,Social Risk Factor
+C3697361,Expiratory positive airway pressure
+C3827727,Undetectable
+C3830150,Fetal Heart Rate Pattern
+C3830151,Fetal Bradyarrhythmia
+C3830527,Detectable
+C3853773,Residual functional capacity
+C3854153,guidance - Measure Attribute
+C3897119,Response Assessment in Neuro-Oncology Criteria
+C3898133,No Prior Cancer Therapy
+C4040620,Tooth number
+C4082312,Transverse abdominal diameter
+C4086626,Non-Palpable
+C4301970,Non-invasive blood pressure
+C4318566,Deep Resection Margin
+C4489236,Proximal Resection Margin
+C4521188,intermediate clinical outcome measure -- patient reported
+C4521189,intermediate clinical outcome measure -- physiologic
+C4522154,Distal Resection Margin

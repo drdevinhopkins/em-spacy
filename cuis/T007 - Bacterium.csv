@@ -1,0 +1,349 @@
+cui,name
+C0001138,Acinetobacter
+C0001250,Actinomyces
+C0001252,Actinomyces israelii (bacteria)
+C0001699,Klebsiella pneumoniae
+C0001705,Aeromonas
+C0004279,Atypical Bacterial Forms
+C0004587,Bacillus <bacterium>
+C0004589,Bacillus anthracis
+C0004590,Bacillus cereus
+C0004611,Bacteria
+C0004612,"Bacteria, Aerobic"
+C0004613,"Bacteria, Anaerobic"
+C0004661,Bacteroides
+C0004663,Bacteroides fragilis
+C0006017,Bordetella pertussis
+C0006033,Borrelia
+C0006132,Moraxella catarrhalis
+C0006303,Brucella
+C0006813,Campylobacter
+C0006819,Campylobacter jejuni
+C0008148,Chlamydia
+C0008151,Chlamydia trachomatis
+C0008154,Chlamydiales
+C0009054,Clostridium
+C0009063,Clostridium perfringens
+C0009064,Clostridium tetani
+C0010148,Corynebacterium
+C0010150,Corynebacterium diphtheriae
+C0010156,Corynebacterium pyogenes
+C0010240,Coxiella burnetii
+C0013722,Ehrlichia
+C0013738,Eikenella corrodens
+C0014344,Enterobacter
+C0014346,Enterobacteriaceae
+C0014738,Erysipelothrix rhusiopathiae
+C0014834,Escherichia coli
+C0016677,Francisella tularensis
+C0016878,Genus Fusobacterium
+C0016880,Fusobacterium necrophorum
+C0016914,Gaffkya homari
+C0017098,Gardnerella vaginalis
+C0018148,Gram-Negative Aerobic Bacteria
+C0018149,Gram-Negative Anaerobic Bacteria
+C0018150,Gram Negative Bacteria
+C0018152,Gram-Negative Facultatively Anaerobic Rods
+C0018154,Gram-Positive Bacteria
+C0018155,Gram-Positive Cocci
+C0018479,Hemophilus
+C0018483,Haemophilus influenzae
+C0022727,Klebsiella
+C0022828,L Forms
+C0022940,Lactobacillus casei
+C0023237,Legionella
+C0023238,Legionella pneumophila
+C0023859,Listeria
+C0023861,Listeria monocytogenes
+C0026536,Moraxella <genus>
+C0026907,Mycobacteriaceae
+C0026912,Genus Mycobacterium
+C0026913,Mycobacterium avium
+C0026914,Mycobacterium avium Complex
+C0026926,Mycobacterium tuberculosis
+C0026934,Mycoplasma
+C0026941,Mycoplasma pneumoniae
+C0026944,Mycoplasmatales (bacterium)
+C0027571,Neisseria
+C0027573,Neisseria gonorrhoeae
+C0027575,Neisseria meningitidis
+C0027576,Neisseriaceae
+C0028241,Nocardia asteroides
+C0030635,Pasteurella
+C0030637,Pasteurella multocida
+C0030965,Peptococcus
+C0030967,Peptostreptococcus
+C0033475,Propionibacteriaceae
+C0033476,Propionibacterium
+C0033477,Propionibacterium acnes
+C0033697,Proteus
+C0033808,Pseudomonas
+C0033809,Pseudomonas aeruginosa
+C0033811,Pseudomonas fluorescens
+C0033818,Burkholderia mallei
+C0033819,Burkholderia pseudomallei
+C0035497,Rhodopseudomonas
+C0035583,Rickettsia
+C0035588,Rickettsia rickettsii
+C0035596,Order Rickettsiales
+C0036111,Salmonella
+C0036112,Salmonella arizonae (bacteria)
+C0036115,Salmonella paratyphi C
+C0036124,Salmonella paratyphi B
+C0036125,Salmonella typhi
+C0036953,Shigella
+C0036956,Shigella dysenteriae
+C0037973,ORDER SPIROCHAETALES
+C0038170,Genus staphylococcus
+C0038172,Staphylococcus aureus
+C0038174,Staphylococcus epidermidis
+C0038402,Streptococcus
+C0038404,Enterococcus faecalis
+C0038408,Lactococcus lactis
+C0038410,Streptococcus pneumoniae
+C0038411,Streptococcus pyogenes
+C0038420,Streptomyces
+C0040837,Treponema
+C0040840,Treponema pallidum
+C0041944,Ureaplasma
+C0042628,Vibrio
+C0042629,Vibrio cholerae
+C0042637,Vibrio parahaemolyticus
+C0043405,Yersinia <bacteria>
+C0043406,Yersinia enterocolitica
+C0043408,Yersinia pestis
+C0079134,Clostridium difficile
+C0079488,Helicobacter pylori
+C0081786,Microbial Biofilms
+C0085440,Corynebacterium pseudotuberculosis
+C0085442,Mycobacterium avium subsp. paratuberculosis
+C0085460,Gram-Negative Aerobic Rods and Cocci
+C0085465,Legionellaceae
+C0085468,Moraxella bovis
+C0085476,Gram-Negative Anaerobic Cocci
+C0085482,Eikenella
+C0085484,Enterobacter cloacae
+C0085487,Gardnerella
+C0085491,Aeromonas hydrophila
+C0085494,Enterococcus
+C0085495,Enterococcus faecium
+C0085496,Streptococcus bovis
+C0085498,Gram-Positive Rods (bacteria)
+C0085501,Ureaplasma urealyticum
+C0085504,Chlamydophila pneumoniae
+C0085510,Campylobacter coli
+C0085549,Lactococcus
+C0085957,Bacillus Calmette-Guerin
+C0086662,Battey Bacillus
+C0121772,Haemophilus influenzae type b
+C0162421,Thermoactinomyces
+C0206347,Porphyromonas
+C0221084,Mycobacterium marinum
+C0242709,Streptococcus zooepidemicus
+C0242946,Prevotella
+C0300959,Bordetella parapertussis
+C0302285,Diphtheroids
+C0314751,Gram-positive diplococcus
+C0314752,Gram-negative bacillus
+C0314754,Gram-negative coccus
+C0314755,Gram-negative diplococcus
+C0314760,Coliform bacteria
+C0314798,Actinobacillus ureae
+C0314835,Aeromonas punctata (organism)
+C0314861,Pseudopropionibacterium propionicum
+C0314887,Paenibacillus larvae
+C0314929,Prevotella oralis
+C0314932,Dichelobacter nodosus
+C0314946,Prevotella oris
+C0314952,Porphyromonas levii
+C0314957,Bacteroides pyogenes
+C0314968,Bacteroides stercoris
+C0315034,Butyrivibrio
+C0315044,Campylobacter lari
+C0315066,Clostridium rectum
+C0315074,Clostridium sordellii
+C0315090,Clostridium novyi
+C0315093,Clostridium haemolyticum
+C0315111,Erysipelatoclostridium ramosum
+C0315121,Clostridium clostridioforme
+C0315122,Clostridium baratii
+C0315174,Corynebacterium diphtheriae type mitis
+C0315176,Corynebacterium renale
+C0315177,Corynebacterium kutscheri
+C0315183,Corynebacterium striatum
+C0315275,Morganella <proteobacterium>
+C0315276,Morganella morganii
+C0315283,Proteus penneri
+C0317471,Enterococcus durans
+C0317553,Fusobacterium varium
+C0317555,Fusobacterium mortiferum
+C0317556,Fusobacterium necrogenes
+C0317568,Haemophilus parainfluenzae
+C0317571,Haemophilus haemoglobinophilus
+C0317719,Listeria ivanovii
+C0317733,Kocuria varians
+C0317739,Moraxella lacunata
+C0317775,Mycolicibacterium peregrinum
+C0317819,Mycoplasma bovigenitalium
+C0317831,Mycoplasma orale
+C0317838,Mycoplasma hominis
+C0317872,Mycoplasma genitalium
+C0317885,Neisseria canis
+C0317886,Neisseria cinerea
+C0317932,Pasteurella canis
+C0317941,Peptococcus niger
+C0317943,Blautia producta
+C0317944,Parvimonas micra
+C0317946,Peptoniphilus indolicus
+C0318112,Staphylococcus saprophyticus
+C0318113,Staphylococcus hominis
+C0318114,Staphylococcus haemolyticus
+C0318138,Streptobacillus moniliformis
+C0318146,Streptococcus mitis
+C0318147,Streptococcus anginosus
+C0318151,Streptococcus intermedius
+C0318153,Alpha-hemolytic streptococcus
+C0318154,Beta-hemolytic streptococcus
+C0318155,Gamma-hemolytic streptococcus
+C0318157,Streptococcus viridans group
+C0318158,Group C streptococcus
+C0318162,"Streptococcus, group G"
+C0318174,Streptococcus oralis
+C0318185,Streptococcus canis
+C0318222,Treponema denticola
+C0318248,Vibrio cholerae O1
+C0318255,Vibrio alginolyticus
+C0318256,Vibrio vulnificus
+C0318284,Photobacterium damselae subsp damselae
+C0318288,Campylobacter rectus
+C0318328,Ehrlichia canis
+C0376624,Escherichia coli O157-H7
+C0445625,"Staphylococcus, coagulase negative (organism)"
+C0445725,Lactobacillus vaginalis
+C0445748,Proteus hauseri
+C0445767,Fermentative Gram-negative bacillus
+C0445933,Anaerobic Gram-negative bacillus
+C0445939,Fusobacterium necrophorum subspecies necrophorum
+C0445940,Fusobacterium necrophorum subsp. funduliforme
+C0483226,Acid-fast bacillus
+C0522379,Haemophilus influenzae type a
+C0522380,Haemophilus influenzae type c
+C0522382,Haemophilus influenzae type e
+C0525033,Probiotics
+C0563199,bacterial cell
+C0579233,Streptococcus agalactiae
+C0580794,Shiga-Toxigenic Escherichia coli
+C0580797,Enterotoxigenic Escherichia coli
+C0597134,oral bacteria
+C0597955,acid-fast bacteria
+C0599752,intestinal bacteria
+C0600148,Actinobacteria class
+C0600414,Enterohemorrhagic Escherichia coli
+C0682464,aerobic bacteria and anaerobic bacteria
+C0699955,SUBCLASS SPIROCHETES
+C0751985,Proteobacteria
+C0751987,Betaproteobacteria
+C0752016,Stigmatella
+C0887972,Chlamydophila
+C0887974,Simkaniaceae
+C0936083,Borrelia burgdorferi Group
+C0995546,Oscillatoria
+C1002662,Bacteroides sp.
+C1003893,Phylum Fusobacteria
+C1007422,Photobacterium damselae
+C1009867,Porphyromonas catoniae
+C1011636,Corynebacterium auris
+C1017328,Streptococcus gallolyticus
+C1018233,Salmonella bongori
+C1032649,Mycobacterium tuberculosis complex
+C1035575,Cupriavidus pauculus
+C1035851,Prevotella brevis
+C1040285,Moraxella canis
+C1065064,Ureaplasma parvum
+C1076048,Nodularia <Cyanobacteria>
+C1093380,Johnsonella
+C1136211,"Neisseria meningitidis, Serogroup A"
+C1136217,"Neisseria meningitidis, Serogroup B"
+C1136221,"Neisseria meningitidis, Serogroup W-135"
+C1140704,Streptococcus viridans
+C1210563,Clostridiales
+C1210581,Lactobacillales
+C1264818,Campylobacter species
+C1264830,Clostridium species
+C1264834,Corynebacterium species
+C1265124,"Shigella dysenteriae, serovar 1"
+C1265125,"Shigella dysenteriae, serovar 2"
+C1265126,"Shigella dysenteriae, serovar 3"
+C1265129,Shigella species
+C1265175,Vancomycin-Resistant Enterococci
+C1265188,Fusobacterium species
+C1265190,Haemophilus species
+C1265191,"Haemophilus influenzae, not B"
+C1265219,Legionella species
+C1265234,Nontuberculous Mycobacteria
+C1265249,Mycoplasma species
+C1265259,Peptostreptococcus species
+C1265277,Pseudomonas species
+C1265284,Staphylococcus species
+C1265292,Methicillin-Resistant Staphylococcus aureus
+C1265293,"Staphylococcus, coagulase positive"
+C1265294,Streptococcus species
+C1275771,Salmonella enterica subsp. salamae
+C1295736,Actinomyces sp.
+C1295738,Aeromonas species
+C1295752,Borrelia species
+C1295792,Enterobacter sp.
+C1295798,Klebsiella species
+C1295804,Proteus species
+C1295822,Yersinia species
+C1295823,Enterococcus sp.
+C1295861,Moraxella species
+C1295864,Neisseria species
+C1295870,Pasteurella species
+C1295872,Propionibacterium species
+C1295893,Vibrio species
+C1295917,Prevotella species
+C1295918,Porphyromonas species
+C1295935,Chlamydia species
+C1299043,Salmonella species
+C1440659,Haemophilus influenzae B
+C1441245,Streptococcus pneumoniae 1
+C1441255,Streptococcus pneumoniae 4
+C1444097,ESBL Escherichia coli
+C1444098,Extended spectrum beta-lactamase producing Klebsiella pneumoniae
+C1532383,Nocardia asteroides complex
+C1532554,Phylum Chlamydiae
+C1532687,Streptococcus bovis group
+C1541907,"Beta-hemolytic Streptococcus, group A"
+C1563238,Bacteroides fragilis group
+C1623544,Prevotella baroniae
+C1623724,Phylum Spirochaetes
+C1627003,Peptostreptococcus stomatis
+C1635274,Methicillin susceptible Staphylococcus aureus
+C1684534,Porphyromonas somerae
+C1879753,Attenuated Bacteria Vaccine
+C2315938,Genus Meniscus
+C2828040,Aerobic Gram Negative Bacillus
+C2828041,Gram-negative aerobic cocci
+C2828042,Aerobic Gram Positive Bacillus
+C2828043,Aerobic Gram Positive Coccus
+C2919914,Anaerobic Gram negative coccobacillus
+C2984590,Treponema pallidum subsp. pallidum
+C3097091,Pasteurella oralis
+C3163630,Streptococcus equinus
+C3178866,Agricultural Inoculants
+C3715105,Pannus (bacterium)
+C3900050,Anaerobic Coccus
+C4039163,Carbapenem-Resistant Enterobacteriaceae
+C4048836,Salmonella enterica subsp. enterica serovar typhi
+C4055471,Anaerobic Gram Positive Bacteria
+C4075115,Pandrug-resistant bacteria
+C4075646,Extended spectrum beta-lactamase producing Klebsiella oxytoca
+C4076168,Multidrug-resistant bacteria
+C4082179,[Clostridium] sordellii
+C4277510,Extraintestinal Pathogenic Escherichia coli
+C4289990,Aerobic Gram-Negative Coccobacillus
+C4316902,Enteric Bacteria
+C4518829,Mucoid Pseudomonas aeruginosa
+C4527231,Personalized Live-attenuated Double-deleted Listeria monocytogenes
+C4616223,Peptococcus sp.

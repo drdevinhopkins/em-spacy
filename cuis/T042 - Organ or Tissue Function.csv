@@ -1,0 +1,378 @@
+cui,name
+C0000936,Visual Accommodation
+C0005167,Beta Rhythm
+C0005757,Blinking
+C0005778,Blood coagulation
+C0005855,Blood-Retinal Barrier
+C0005856,Blood-Testis Barrier
+C0005935,Bone Conduction
+C0005972,Bone Regeneration
+C0005974,Bone Resorption
+C0006660,Physiologic calcification
+C0006906,Capillary Permeability
+C0007227,Cardiovascular Physiological Phenomena
+C0007818,Cerebrovascular Circulation
+C0010067,Coronary Circulation
+C0010095,Corpus Luteum Maintenance
+C0010096,Luteolysis
+C0010985,Dark Adaptation
+C0011354,Dental Enamel Solubility
+C0011382,Dental Occlusion
+C0011431,Dentin Permeability
+C0011433,Dentin Solubility
+C0012797,Diuresis
+C0013010,"Dominance, Cerebral"
+C0013936,Embryonic Development
+C0014362,Enterohepatic Circulation
+C0014819,Erythropoiesis
+C0015214,Evoked Potentials
+C0015216,Somatosensory Evoked Potentials
+C0015217,Visual evoked cortical potential
+C0016183,"Fixation, Ocular"
+C0016529,Forced expiratory volume function
+C0017120,Gastric acidity
+C0017127,Gastric Emptying
+C0017184,Gastrointestinal Motility
+C0018129,Graft Rejection
+C0018131,Graft Survival
+C0018447,H-Reflex
+C0018820,Heart Sounds
+C0018951,Hematopoiesis
+C0019010,Hemodynamics
+C0019116,Hemostatic function
+C0020965,Active immunity
+C0021055,Immunologic Memory
+C0021516,nerve supply
+C0021826,Intestinal Absorption
+C0021838,Intestinal Motility
+C0021880,Intracranial Pressure
+C0021888,Physiologic Intraocular Pressure
+C0022205,Isometric Contraction
+C0022259,Isotonic Contraction
+C0022925,Lactation
+C0023773,Lipid Mobilization
+C0023889,Liver Circulation
+C0024112,Lung Compliance
+C0024153,Luteal Phase
+C0025962,Microcirculation
+C0026132,Milk Ejection
+C0026828,"Muscle innervation, function"
+C0026836,Muscle relaxation phase
+C0026841,Muscle Tonus
+C0027045,Myocardial Contraction
+C0027477,Natriuresis
+C0027540,Necrosis
+C0027767,Nervous System Physiological Phenomena
+C0027788,Nerve conduction function
+C0028877,Odontogenesis
+C0029213,Organ Specificity
+C0029433,Osteogenesis
+C0029965,Ovulation
+C0029977,"Embryo Implantation, Delayed"
+C0030847,Penile Erection
+C0031133,Peristalsis
+C0031577,Phonation
+C0031924,Piloerection
+C0032058,Placentation
+C0032173,Platelet Activation
+C0034057,Pulmonary Circulation
+C0034071,Pulmonary Gas Exchange
+C0034929,Reflex action
+C0034938,"Reflex, Oculocardiac"
+C0034963,Natural regeneration
+C0034965,Regional Blood Flow
+C0035070,Renal Circulation
+C0035218,Respiratory Dead Space
+C0035230,Respiratory Mechanics
+C0035246,Respiratory Transport
+C0036104,secretion of saliva
+C0036658,Esthesia
+C0037269,Skin Absorption
+C0037271,Skin Aging
+C0037290,Skin Pigmentation
+C0037990,Splanchnic Circulation
+C0039336,Taste Perception
+C0039829,Theta Rhythm
+C0040439,Exfoliation of teeth (function)
+C0040447,Tooth Permeability
+C0042059,Urodynamics
+C0042130,Uterine Contraction
+C0042377,Vascular Patency
+C0042396,Vascular constriction (function)
+C0042401,Vasodilation
+C0042495,Ventilation-Perfusion Ratio
+C0042797,Monocular Vision
+C0043090,"Inhibition, Wedensky"
+C0079043,Bronchoconstriction
+C0079103,Cervical dilatation (function)
+C0079879,"Myoelectric Complex, Migrating"
+C0079991,Passive Range of Motion function
+C0080309,Ventricular Function
+C0080310,Left Ventricular Function
+C0080311,"Ventricular Function, Right"
+C0085268,Bone remodeling
+C0086481,Intracerebral Pressure
+C0150479,Blood gas
+C0162337,Vascular Permeability
+C0162542,Fracture Healing
+C0178482,antidromic impulse
+C0205855,Synaptic Potentials
+C0206162,Baroreflex
+C0206249,Long-Term Potentiation
+C0231452,"Flexion, function"
+C0231484,Muscle function
+C0231491,Antagonist muscle action
+C0231784,Plantar flexion
+C0231823,Inspiratory force
+C0231921,Pulmonary function
+C0231940,Alveolar ventilation function
+C0231953,Lung volume
+C0232108,Arterial pulse pressure
+C0232129,Funic pulse
+C0232139,Peripheral pulse
+C0232148,Femoral pulse
+C0232157,Pedal pulse
+C0232164,Cardiac function
+C0232187,Cardiac rhythm type
+C0232217,Cardiac conduction
+C0232407,Hair growth
+C0232552,Gastric acid secretion
+C0232554,Maximal gastric acid secretory capacity
+C0232572,Gastric motility
+C0232585,Regulation of gastric emptying
+C0232741,Liver function
+C0232757,Bile acid secretion
+C0232772,Gallbladder contraction
+C0232786,Pancreatic function
+C0232804,Renal function
+C0232809,Glomerular filtration
+C0232813,Renal clearance function
+C0232824,Water diuresis
+C0233157,Cervical effacement
+C0234097,Cholinergic synaptic transmission
+C0234112,Facilitation
+C0234154,Postural reflex
+C0234176,Cremasteric reflex
+C0234222,Baresthesia
+C0234290,Seventh cranial nerve function
+C0234388,Electrical activity of brain
+C0234410,Physiologic disinhibition
+C0234557,Cerebrospinal fluid circulation
+C0234830,Vocal articulation
+C0236033,Muscle hypertrophy
+C0237452,Light Adaptation
+C0237543,motor coordination
+C0242104,Sputum production
+C0242416,Physiologic Ossification
+C0242622,Uteroplacental Circulation
+C0243079,microvasculature
+C0260043,neuromuscular transmission
+C0282617,"Evoked Potentials, Motor"
+C0301872,Immune response
+C0302600,Angiogenic Process
+C0311432,Bioaccumulation
+C0311437,Exudation
+C0334029,Epithelialization
+C0334221,Re-Epithelialization
+C0422883,"Dominance, Ocular"
+C0425583,Heart beat
+C0425716,"Capillary filling, function (observable entity)"
+C0428174,Hemoglobin saturation with oxygen
+C0439840,Reflex motion descriptor
+C0517349,Muscle Strength
+C0520990,Host defense
+C0522310,Megakaryocytopoiesis
+C0541840,contraction skeletal muscle
+C0542330,Joint mobilization
+C0544683,reception
+C0596164,bile circulation
+C0596253,carbon dioxide tension
+C0596606,gastrointestinal toxin absorption
+C0596674,heart innervation
+C0596807,Moving jaw
+C0596984,muscle metabolism
+C0597042,neural facilitation
+C0597053,neuromuscular function
+C0597087,nonsurgical revascularization
+C0597166,pancreatic islet function
+C0597324,pulse pressure wave
+C0597393,respiratory gas
+C0597502,spinal reflex
+C0597579,thoracic pressure
+C0597664,visual stimulus
+C0599064,oxygen debt
+C0600519,Ventricular Remodeling
+C0678866,diaphragm function
+C0678876,renal tubular secretion
+C0678899,central vision
+C0678908,brain function
+C0678909,Brain Waves
+C0702221,Touch sensation
+C0814034,Neuronal Hyperexcitability
+C0872237,oculomotor
+C0872293,tissue oxygenation
+C0887803,Placental Circulation
+C0920344,Neural fascicle formation
+C0920509,Esophagus motility
+C0920762,Vascular blood supply
+C0920880,Stabilizer - function
+C0971859,Bone Growth
+C1096529,carotid pulse
+C1155927,regulation of muscle contraction
+C1155937,smooth muscle contraction
+C1155938,striated muscle contraction
+C1160063,head involution
+C1160206,sperm displacement
+C1160208,sperm retention
+C1160312,midgut development
+C1160324,neuromuscular junction development
+C1160340,brain development
+C1160367,Neuronal Remodeling
+C1160406,regulation of ossification
+C1160477,embryo sac development
+C1160582,histamine-induced gastric acid secretion
+C1160601,anther dehiscence
+C1160606,maintenance of gastrointestinal epithelium
+C1161311,brain circulation
+C1171312,kidney development
+C1258036,Vascular Endothelium-Dependent Relaxation
+C1305865,Blood - brain barrier function
+C1325907,modulation of chemical synaptic transmission
+C1326602,morphogenesis of a polarized epithelium
+C1326619,uterine wall growth
+C1326624,phloem or xylem histogenesis
+C1326796,primary follicle stage
+C1326797,primary oocyte stage
+C1327476,"visual perception, sensory transduction of light stimulus"
+C1327503,sensory perception of mechanical stimulus
+C1331538,Atrial Depolarization [PE]
+C1331539,Ventricular Depolarization [PE]
+C1371299,Bronchodilation [PE]
+C1373178,Hepatic Metabolism
+C1373187,Renal Elimination
+C1449935,Tissue Viability
+C1512758,Inflammatory Response Pathway
+C1516294,Cardiac Muscle Contraction
+C1517450,Gastric Acid Secretion Induction
+C1518289,Neurologic Process
+C1519687,Tumor Oxygenation
+C1523303,neural tube closure
+C1523400,otic vesicle formation
+C1523600,"lumen formation, open tracheal system"
+C1523602,"regulation of tube size, open tracheal system"
+C1527409,Renal blood flow
+C1533591,Calcification
+C1533692,Tooth eruption function
+C1535551,Joint function
+C1540845,Muscle tensile strength
+C1562259,Eccentric muscle contraction
+C1563698,"Accommodation, Lens"
+C1621393,fin regeneration
+C1621966,Tissue Growth
+C1622927,heart looping
+C1654621,imaginal disc-derived wing expansion
+C1655730,blood oxygen level dependent
+C1656421,ear development
+C1704398,Immature Bone
+C1720982,Inhibitory Postsynaptic Potentials
+C1749797,heart development
+C1749909,anterior/posterior pattern specification
+C1816474,regulation of fibrinolysis
+C1817168,anatomical structure regression
+C1817396,innate immune response in mucosa
+C1817756,Immune System Processes
+C1818135,ventricular system development
+C1818258,locus ceruleus development
+C1818261,locus ceruleus maturation
+C1818350,postganglionic parasympathetic fiber development
+C1818567,neural plate thickening
+C1820282,anatomical structure development
+C1959585,"Chronotropism, Cardiac"
+C2249967,relaxation of smooth muscle
+C2262673,cardiac muscle tissue growth
+C2262685,positive regulation of cardiac muscle tissue growth
+C2262815,synapse maturation
+C2265792,Skeletal muscle hypertrophy
+C2265829,tonic smooth muscle contraction
+C2265836,vein smooth muscle contraction
+C2265839,Vascular Smooth Muscle Contraction Pathway
+C2265860,ureter smooth muscle contraction
+C2265911,cardiac muscle hypertrophy
+C2350182,Inhibitory Postsynaptic Currents
+C2350309,Night Vision
+C2350339,Postsynaptic Potentials
+C2350341,Miniature Postsynaptic Potentials
+C2350527,Electrophysiological Phenomena
+C2350765,End Plate Potentials
+C2610486,bone trabecula formation
+C2610575,lung vasculature development
+C2611240,uterine smooth muscle relaxation
+C2711852,Mixed venous oxygen saturation (observable entity)
+C2752957,intestinal epithelial structure maintenance
+C2753107,semicircular canal fusion
+C2753588,atrioventricular valve formation
+C2753605,cardiac chamber formation
+C2753627,ventricular cardiac muscle tissue development
+C2754080,bone maturation
+C2754230,sensory perception of wind
+C2754905,anatomical structure maturation
+C2754937,beak formation
+C2755029,glomerular endothelium development
+C2755032,proximal tubule development
+C2755041,thick ascending limb development
+C2755050,renal vesicle formation
+C2755076,cortical collecting duct development
+C2755077,outer medullary collecting duct development
+C2755121,ureteric peristalsis
+C2755174,proximal tubule morphogenesis
+C2755207,ureter smooth muscle development
+C2755226,metanephric nephron development
+C2755422,leaflet formation
+C2755961,neural plate anterior/posterior regionalization
+C2825040,Analgesia [PE]
+C2930407,Local Anesthesia [PE]
+C2930408,Neuromuscular Blockade [PE]
+C3155646,ductus venosus closure
+C3178767,Postsynaptic Potential Summation
+C3178987,Glomerular Filtration Barrier
+C3269016,ductus arteriosus closure
+C3269053,postsynaptic density assembly
+C3270508,regulation of aldosterone secretion
+C3271337,otolith tethering
+C3271396,aldosterone secretion
+C3536811,Bronchoconstriction [PE]
+C3536904,Vasoconstriction [PE]
+C3537066,Bone Resorption Stimulation
+C3537072,Bronchodilation
+C3537092,Respiratory Mucosal Edema Alteration
+C3537093,Respiratory Secretion Alteration
+C3537094,Respiratory Secretion Viscosity Alteration
+C3537098,Uterine Proliferative Phase Alteration
+C3537203,atrial depolarization
+C3546874,regulation of relaxation of cardiac muscle
+C3547636,regulation of relaxation of smooth muscle
+C3547639,regulation of relaxation of muscle
+C3549403,trabecular meshwork development
+C3714657,Gastrointestinal Absorption
+C3816742,Percutaneous Absorption
+C3850006,Intestinal Elimination
+C3850076,Systemic Absorption
+C3850140,Intestinal Reabsorption
+C3850143,Laser-Evoked Potentials
+C3850148,Vascular Remodeling
+C3850161,Subcutaneous Absorption
+C3887657,pulmonary diffusion
+C4042905,Neurovascular Coupling
+C4048282,Airway resistance
+C4076359,Central venous oxygenation saturation
+C4232573,ventral tegmental area development
+C4232669,dorsal root ganglion morphogenesis
+C4235346,dorsal root ganglion development
+C4235369,colon smooth muscle contraction
+C4235414,regulation of smooth muscle hypertrophy
+C4236183,regulation of ductus arteriosus closure
+C4273907,Cerebral oxygen saturation
+C4277734,Cortical Excitability
+C4326926,Nerve Tissue Regeneration
+C4327848,regulation of gastric motility
+C4327854,tracheoesophageal septum formation

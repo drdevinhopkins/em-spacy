@@ -1,0 +1,1130 @@
+cui,name
+C0001802,Agglutination Tests
+C0001852,AIDS Serodiagnosis measurement
+C0002778,Analysis of substances
+C0004618,Bacterial Count Measurement
+C0004642,Bacteriological Techniques
+C0004650,Bacteriophage Typing
+C0005507,Biological Assay
+C0005643,Bismuth Assay
+C0005729,Bleeding time procedure
+C0005771,Blood Cell Count
+C0005774,Blood Chemical Analysis
+C0005790,Blood coagulation tests
+C0005800,Blood Gas Analysis
+C0005809,Blood Grouping and Crossmatching
+C0005831,Blood Protein Electrophoresis
+C0005833,Blood Sedimentation
+C0005844,Blood typing procedure
+C0005845,Blood urea nitrogen measurement
+C0005861,Northern Blotting
+C0005862,Southern blot assay (procedure)
+C0006101,Bradykinin Assay
+C0006950,Carbamazepine measurement
+C0007584,Cell Count
+C0007585,Cell Culture Techniques
+C0007616,Cell Separation
+C0007703,Centrifugation
+C0007706,"Centrifugation, Zonal"
+C0008555,Gas Chromatography
+C0008559,Gel Chromatography
+C0008562,High pressure liquid chromatography procedure
+C0008569,Thin Layer Chromatography
+C0009069,Clot retraction procedure
+C0009385,Colony-Forming Units Assay
+C0009555,Complete Blood Count
+C0009961,Coombs Test
+C0010367,"Crossmatching, Blood"
+C0010405,Cryopreservation
+C0010818,Cytological Techniques
+C0013207,"Drug Screening Assays, Antitumor"
+C0013845,Electron Spin Resonance Spectroscopy
+C0013855,Electrophoresis
+C0013859,"Electrophoresis, Disc"
+C0013861,"Electrophoresis, Paper"
+C0014440,Clinical Enzyme Tests (procedure)
+C0014441,Enzyme-Linked Immunosorbent Assay
+C0014772,Red Blood Cell Count measurement
+C0014779,Erythrocyte Indices
+C0016197,Flame Ionization
+C0016318,Fluorescent Antibody Technique
+C0016350,Fluoroimmunoassay
+C0016456,Food Analysis
+C0016640,Chemical fractionation
+C0016698,Freeze Drying
+C0016700,Freeze Fracturing
+C0017741,Glucose tolerance test
+C0018905,Hemagglutination test
+C0018935,Hematocrit procedure
+C0018941,Hematologic Tests
+C0019633,Histocompatibility Testing
+C0019637,Histological Techniques
+C0020935,Imipramine Assay
+C0020980,Immunoassay method
+C0020985,Immunoblotting
+C0021002,Immunoenzyme Techniques
+C0021060,Immunologic Techniques
+C0021061,Immunologic Tests
+C0022662,Kidney Function Tests
+C0022885,Laboratory Procedures
+C0023508,White Blood Cell Count procedure
+C0023901,Liver Function Tests
+C0024751,Manometry
+C0024868,Gas Chromatography-Mass Spectrometry
+C0025951,Microbiological Techniques
+C0025994,Micromanipulation
+C0026018,Microscopy
+C0026019,Electron Microscopy
+C0026022,"Microscopy, Fluorescence"
+C0026024,"Microscopy, Phase-Contrast"
+C0026025,"Microscopy, Polarization"
+C0026380,Molecular Probe Techniques
+C0027692,Nephelometry
+C0027944,Neutralization Tests
+C0027945,Neutron Activation Analysis
+C0029205,Organ Culture Techniques
+C0030058,oxygen extraction
+C0030291,Pancreatic Function Test
+C0030605,Activated Partial Thromboplastin Time measurement
+C0030625,Passive Cutaneous Anaphylaxis
+C0031067,Periodic Acid-Schiff Reaction
+C0032004,Pituitary Function Tests
+C0032181,Platelet Count measurement
+C0032184,Platelet Function Tests
+C0033085,Biologic Preservation
+C0033707,Prothrombin time assay
+C0033779,Prussian Blue Reaction
+C0034554,Radioallergosorbent Test
+C0034580,Radioimmunoassay
+C0034584,Radioimmunoprecipitation Assay
+C0035269,Restriction Mapping
+C0036406,Scintillation Counting
+C0036743,Serologic tests
+C0036782,Serum Bactericidal Test
+C0036787,SERUM CHLORIDE ION TESTS
+C0036812,serum ketones
+C0036820,Serum Phosphate Test
+C0036828,Serum Alanine Transaminase tests
+C0036836,Serum total protein measurement
+C0037612,Dental Soldering
+C0037711,Sound Spectrography
+C0037793,Specimen processing (procedure)
+C0037805,Spectrophotometry
+C0037806,"Spectrophotometry, Atomic Absorption"
+C0037812,Spectrum Analysis
+C0037813,Mass Spectrometry
+C0037842,Sperm Count Procedure
+C0038479,Strychnine Assay
+C0038577,Substance Abuse Detection
+C0039773,Theophylline Assay
+C0040017,Thrombelastography
+C0040130,Thyroid Function Tests
+C0040284,Tissue culture
+C0041372,Tumor Stem Cell Assay
+C0042014,Urinalysis
+C0042879,Vitamin K Assay
+C0043159,Whole Blood Coagulation Time
+C0079104,Pap smear
+C0079168,Corrosion Casting
+C0079240,Dilution technique
+C0085108,Fluorescent Treponemal Antibody-Absorption Test
+C0085188,Cryoultramicrotomy
+C0085197,Replica Techniques
+C0085672,Microbiology procedure
+C0086231,Enzyme Immunoassay
+C0087124,Bacterial Typing
+C0150411,Analysis of arterial blood gases and pH
+C0162401,Differential white blood cell count procedure
+C0162621,Titration Method
+C0162676,Enzyme Multiplied Immunoassay Technique
+C0162731,Scanning Transmission Electron Microscopy Procedures
+C0178463,affinity labeling
+C0178539,Cellular
+C0200354,Urine Specimen Collection
+C0200396,Clotting factor II assay
+C0200404,Factor VIII R: R Co assay
+C0200408,Coagulation factor IX measurement
+C0200416,Antithrombin III Measurement
+C0200453,Fibrin-fibrinogen split products assay
+C0200462,Fibrin D-Dimer Assay
+C0200464,Fibrin Clot Lysis Time
+C0200484,Dilute Russell viper venom time
+C0200499,ABO blood grouping
+C0200555,Direct Coombs test
+C0200627,Hematology procedure
+C0200633,Neutrophil count (procedure)
+C0200635,Lymphocyte Count measurement
+C0200637,Monocyte count procedure
+C0200638,Eosinophil count procedure
+C0200642,Platelet estimate
+C0200665,Platelet mean volume determination (procedure)
+C0200695,Fetal hemoglobin determination
+C0200696,Hemoglobin F measurement using Kleihauer-Betke method
+C0200898,DNA analysis
+C0200931,Polymerase chain reaction analysis
+C0200932,Nucleic Acid Amplification Tests
+C0200949,Blood culture
+C0200955,Viral culture procedure
+C0200966,"Bacterial stain, routine"
+C0200968,Tzanck smear method
+C0200972,India ink stain method
+C0201231,Sterility testing
+C0201242,Animal inoculation
+C0201379,Heterophile antibody measurement
+C0201405,Rapid Plasma Reagin Measurement
+C0201406,VDRL test
+C0201472,Hepatitis A virus measurement
+C0201477,Hepatitis B surface antigen measurement
+C0201478,Hepatitis B surface antibody measurement
+C0201487,Hepatitis C antibody measurement
+C0201511,Smooth muscle antibody measurement
+C0201514,Antibody to TSH receptor measurement
+C0201534,Antiphospholipid antibodies measurement
+C0201539,Alpha one fetoprotein measurement
+C0201584,IL-2 assay
+C0201595,Tumor necrosis factor assay
+C0201657,C-reactive protein measurement
+C0201660,Rheumatoid Factor Measurement
+C0201682,Chemical procedure
+C0201683,Chemical method
+C0201717,Radial immunodiffusion measurement
+C0201719,Protein electrophoresis
+C0201720,Serum protein electrophoresis
+C0201721,Urine protein electrophoresis
+C0201784,Provocative test
+C0201803,Osmolality Measurement
+C0201804,Osmolarity measurement
+C0201811,Fecal occult blood test
+C0201829,Acetylcholinesterase measurement
+C0201835,Adrenocorticotropic hormone measurement
+C0201836,Alanine aminotransferase measurement
+C0201838,Albumin measurement
+C0201839,Aldolase measurement
+C0201849,Antidiuretic hormone measurement
+C0201850,Alkaline phosphatase measurement
+C0201856,Alpha-1-antitrypsin measurement
+C0201874,Amino acids measurement
+C0201879,Ammonia measurement
+C0201883,Amylase measurement
+C0201885,"Amylase measurement, serum (procedure)"
+C0201888,Angiotensin converting enzyme measurement
+C0201889,Anion gap measurement
+C0201898,Ascorbic acid measurement
+C0201899,Aspartate aminotransferase measurement
+C0201900,Atrial natriuretic factor (ANF) measurement
+C0201913,"Bilirubin, total measurement"
+C0201916,"Bilirubin, direct measurement"
+C0201924,Calcitonin measurement
+C0201925,Calcium measurement
+C0201927,Measurement of serum ionized calcium
+C0201930,Carbon dioxide content measurement
+C0201931,"Carbon dioxide measurement, partial pressure"
+C0201932,Carboxyhemoglobin measurement
+C0201943,Cerebrospinal Fluid Protein Assay
+C0201950,Cholesterol measurement test
+C0201952,Chloride measurement
+C0201956,Citrate measurement
+C0201968,Cortisol Measurement
+C0201973,Creatine kinase measurement
+C0201975,Creatinine measurement
+C0201976,"Creatinine measurement, serum (procedure)"
+C0201979,Cyclic adenosine monophosphate measurement
+C0201985,Base excess measurement
+C0201989,Dopamine Measurement
+C0201992,Electrolytes measurement
+C0201998,Epinephrine measurement
+C0202001,Erythropoietin measurement
+C0202006,Estrogen measurement
+C0202010,Fecal analysis procedure
+C0202022,Follicle stimulating hormone measurement
+C0202035,Gamma glutamyl transferase measurement
+C0202036,Gastrin measurement
+C0202041,"Glucose measurement, serum"
+C0202042,Plasma Glucose Measurement
+C0202056,Growth hormone measurement
+C0202059,Bicarbonate measurement
+C0202070,Histamine measurement
+C0202071,Homovanillic acid measurement
+C0202081,Immunoglobulin measurement
+C0202083,Immunoglobulin A measurement
+C0202084,Immunoglobulin M measurement
+C0202086,Immunoglobulin E measurement
+C0202087,Immunoglobulin G measurement
+C0202093,Cryoglobulin measurement
+C0202098,Insulin measurement
+C0202100,Insulin C-peptide measurement
+C0202105,Transferrin measurement
+C0202110,"Ketone bodies measurement, quantitative"
+C0202113,Lactate dehydrogenase measurement
+C0202115,Lactic acid measurement
+C0202117,Low density lipoprotein cholesterol measurement
+C0202123,Luteinizing hormone measurement
+C0202125,Serum magnesium measurement
+C0202144,Neuron specific enolase measurement
+C0202145,Norepinephrine measurement
+C0202153,Oxalate measurement
+C0202155,"Oxygen measurement, partial pressure, arterial"
+C0202194,Potassium measurement
+C0202195,"Potassium measurement, urine"
+C0202205,Oligoclonal protein measurement
+C0202207,Cholinesterase measurement
+C0202217,Serotonin measurement
+C0202225,T4 free measurement
+C0202227,Total Testosterone Measurement
+C0202230,Thyroid stimulating hormone measurement
+C0202236,Triglycerides measurement
+C0202239,Uric acid measurement (procedure)
+C0202241,Urobilinogen measurement
+C0202251,Vitamin B6 measurement
+C0202252,VITAMIN B12 MEASUREMENT
+C0202274,urine drug screen
+C0202304,Ethanol measurement
+C0202308,Methanol Measurement
+C0202311,Aluminum measurement
+C0202345,Butalbital measurement
+C0202348,Caffeine Measurement
+C0202356,Chlordiazepoxide Measurement
+C0202361,Clonazepam measurement
+C0202362,Cocaine measurement
+C0202368,Diazepam measurement
+C0202385,Fluoxetine measurement
+C0202386,Fluoride measurement
+C0202406,Lysergic acid diethylamide measurement
+C0202408,Meperidine measurement
+C0202414,"Mercury measurement, blood"
+C0202418,Methadone measurement
+C0202419,Methamphetamine Measurement
+C0202431,Nicotine measurement
+C0202436,Oxazepam measurement
+C0202444,Pentobarbital measurement
+C0202445,Phencyclidine measurement
+C0202449,Phenothiazine Measurement
+C0202454,Phenytoin measurement
+C0202458,Propoxyphene measurement
+C0202463,Salicylate measurement
+C0202533,Semen analysis procedure
+C0206161,Reticulocyte count (procedure)
+C0206691,Electroporation
+C0220862,isolation aspects
+C0236300,ANTI-DNA ANTIBODIES MEASUREMENT
+C0236396,Serum cortisol measurement
+C0242401,Opiate Assay
+C0242849,"Microscopy, Atomic Force"
+C0243009,CD4 Count determination procedure
+C0262923,Urine protein test
+C0282547,Coculture Techniques
+C0282665,Spin Trapping
+C0282668,Random Amplified Polymorphic DNA Technique
+C0302187,Cryofibrinogen measurement
+C0302274,Glutamine measurement
+C0302276,Metanephrine measurement
+C0302278,Pyruvate measurement
+C0302279,Thiocyanate measurement
+C0302353,Serum potassium measurement
+C0337428,Fibrinogen assay
+C0337434,Estradiol measurement
+C0337437,Glucagon measurement
+C0337438,Glucose measurement
+C0337439,Iron measurement
+C0337443,Sodium measurement
+C0337446,Tyrosine measurement
+C0337449,Digoxin measurement
+C0337451,Gold measurement
+C0344395,Bilirubin measurement
+C0344441,Histology Procedure
+C0366686,warfarin dose
+C0368676,Antibody screen
+C0369183,Erythrocyte Mean Corpuscular Hemoglobin Test
+C0369320,Free hemoglobin (procedure)
+C0373483,Drug screen (procedure)
+C0373486,Benzodiazepines Assay
+C0373487,Nortriptyline Assay
+C0373527,Acetaminophen Assay
+C0373535,Aldosterone measurement
+C0373546,Angiotensin II Assay
+C0373548,Arsenic measurement
+C0373573,Ceruloplasmin measurement
+C0373577,serum cholinesterase
+C0373587,Copper measurement
+C0373595,Creatinine clearance measurement
+C0373607,Ferritin measurement
+C0373670,Lipase measurement
+C0373675,Magnesium measurement
+C0373680,Myoglobin measurement
+C0373705,Progesterone measurement
+C0373715,Assay of Proinsulin
+C0373716,Pyruvate kinase measurement
+C0373719,Renin measurement
+C0373720,Riboflavin Assay
+C0373723,Somatostatin Assay
+C0373727,Thiamine Assay
+C0373745,Vitamin A measurement
+C0373746,Assay of volatiles
+C0373748,Zinc measurement
+C0373773,Chromogenic substrate assay
+C0373785,Thrombomodulin Assay
+C0373917,HIV-2 Antibody Measurement
+C0376519,"Spectroscopy, Near-Infrared"
+C0391802,Blood viscosity examination
+C0391936,Barbiturates measurement
+C0391940,Fructose measurement
+C0391941,Glucose-6-phosphate dehydrogenase Measurement
+C0391945,Pepsinogen measurement
+C0392201,Blood glucose measurement
+C0392886,Acetoacetate measurement
+C0393006,Genetic testing for cancer risk
+C0427418,"Folic acid measurement, RBC"
+C0427460,Red cell distribution width determination
+C0427508,"Glucose-6-phosphate dehydrogenase measurement, quantitative"
+C0427611,Activated clotting time measurement
+C0427716,"Protein concentration, test strip measurement"
+C0427743,"Glucose concentration, test strip measurement"
+C0427760,Leukocyte esterase measurement
+C0427978,Minimum Inhibitory Concentration measurement
+C0428177,Mixed venous oxygen saturation measurement
+C0428210,Methionine measurement
+C0428256,blood lead level
+C0428257,Mercury measurement
+C0428301,Serum bicarbonate measurement
+C0428303,"Calcium measurement, urine"
+C0428308,"Magnesium measurement, urine"
+C0428321,Measurement of liver enzyme
+C0428402,Human chorionic gonadotropin measurement
+C0428419,Triiodothyronine measurement
+C0428441,Serum bilirubin measurement
+C0428445,D-lactate measurement
+C0428446,Serum lactate measurement
+C0428539,Total immunoglobulin measurement
+C0428580,Vitamin measurement
+C0428601,Measurement of fractional excretion of sodium
+C0428606,Osmolal gap measurement
+C0428627,Protein to Creatinine Ratio Measurement
+C0430027,biochemical test
+C0430056,Urine pregnancy test
+C0430064,serum pregnancy test (non-specific)
+C0430087,Tricyclic antidepressant measurement
+C0430158,Calcium infusion test (procedure)
+C0430262,Indirect Coombs Test
+C0430370,Urine dipstick test (procedure)
+C0430388,Culture and susceptibility
+C0430389,Light Microscopy
+C0430397,Microscopic urinalysis
+C0430402,Bacterial culture (procedure)
+C0430404,Urine culture
+C0430414,Stool culture
+C0430420,Antigen assay
+C0430425,Procedure to identify antibody
+C0430583,"Delayed hypersensitivity skin test, multitest"
+C0441669,Agar Dilution Method
+C0441683,Hormone measurement
+C0455272,Serum urate measurement
+C0455278,Sample serology (procedure)
+C0459958,HIV screen
+C0474535,Mean corpuscular hemoglobin concentration determination
+C0474566,Platelet hematocrit measurement
+C0474643,Antibody titer measurement
+C0474702,Sulfate measurement
+C0486293,Albumin To Creatinine Protein Ratio Measurement
+C0487602,Staining method
+C0489943,Ionized Calcium Assay
+C0518015,Hemoglobin measurement
+C0519825,Comprehensive Metabolic Panel
+C0519826,ASSAY FOR TACROLIMUS
+C0522872,Platelet factor 4 Assay
+C0523113,Blast count procedure
+C0523174,Microbial culture of sputum
+C0523205,Giemsa stain method
+C0523207,Hematoxylin and eosin stain method
+C0523213,Periodic acid Schiff stain method
+C0523243,Vital stain method
+C0523316,Measurement of Varicella-zoster virus antibody
+C0523441,Acetylcholine measurement
+C0523444,Prostatic acid phosphatase measurement
+C0523446,Acylcarnitines measurement
+C0523452,Adenosine diphosphate measurement
+C0523459,Alanine measurement
+C0523460,Alanine aminopeptidase measurement
+C0523465,Serum albumin measurement
+C0523503,Arginine measurement
+C0523520,beta-Alanine measurement
+C0523524,Beta-Hydroxybutyrate Measurement
+C0523530,Bile acid measurement
+C0523565,Cholecystokinin Measurement
+C0523571,Chylomicrons measurement
+C0523584,Creatine kinase MB measurement
+C0523600,Deoxyhemoglobin measurement
+C0523631,Folic acid measurement
+C0523665,Glutamate Measurement
+C0523671,Glutathione S-transferase measurement
+C0523697,Histidine measurement
+C0523702,Hydrogen measurement
+C0523728,Isoleucine measurement
+C0523737,Lactoferrin measurement
+C0523744,Lipids measurement
+C0523760,Lysine measurement
+C0523792,Nitrite Measurement
+C0523795,Normetanephrine measurement
+C0523806,Oxygen measurement
+C0523807,Oxygen saturation measurement
+C0523809,Oxytocin measurement
+C0523823,Phenylketones measurement
+C0523826,Phosphate measurement
+C0523843,Porphyrin measurement
+C0523887,Secretin Measurement
+C0523888,Serine measurement
+C0523891,Serum sodium measurement
+C0523912,Testosterone measurement
+C0523922,Thromboxane B2 measurement
+C0523952,Troponin measurement
+C0523961,Urea measurement
+C0523975,Valine measurement
+C0523979,Vitamin D3 measurement
+C0523997,Acetone measurement
+C0524002,Alprazolam Measurement
+C0524040,Buprenorphine measurement (procedure)
+C0524087,Codeine Measurement
+C0524136,Fentanyl measurement
+C0524150,Hydrocodone measurement
+C0524151,Hydromorphone measurement
+C0524166,Lamotrigine measurement
+C0524167,Lead measurement
+C0524170,Lorazepam Measurement
+C0524191,Midazolam Measurement
+C0524207,Nordazepam Measurement
+C0524222,Oxycodone measurement
+C0524238,Phenobarbital measurement
+C0524249,Prazepam Measurement
+C0524257,Pseudoephedrine Measurement
+C0525032,International Normalized Ratio
+C0542495,Serum Triglyceride Measurement
+C0545131,Blood Cell Count with Differential
+C0546634,Cystine measurement
+C0546660,Methemoglobin measurement
+C0546674,Sorbitol dehydrogenase measurement
+C0546733,Viscosity of Serum (lab test)
+C0555903,Total protein measurement
+C0558979,Serum blood tests
+C0559312,One-Lung Ventilation
+C0559313,Left lung ventilation
+C0577608,C4 complement assay (procedure)
+C0580327,Antibody studies (procedure)
+C0581142,Plasma cell count procedure
+C0581714,Buccal smear procedure
+C0587178,Anti-nuclear antibody measurement
+C0596196,blood osmolarity
+C0596205,bone preservation
+C0596390,countercurrent chromatography
+C0596607,Gel Electrophoresis (lab technique)
+C0596777,infrared microscopy
+C0597239,physical separation
+C0597428,Sedimentation procedure
+C0597717,Fluorescence Resonance Energy Transfer
+C0598888,Gene Cloning
+C0599639,"Blotting, Southwestern"
+C0599818,immunological status
+C0599953,Virus Inactivation
+C0600223,Genetic Marker Expression
+C0600561,"Chromatography, Micellar Electrokinetic Capillary"
+C0677634,Thrombin Time Assay
+C0677635,Blood viscosity measurement
+C0677644,Electron energy loss spectroscopy
+C0677746,Immunological Diagnostic Method
+C0679560,Genetic screening method
+C0681827,Laboratory Study
+C0684292,Illumination Technique
+C0684295,Chemical extraction
+C0696098,Blood thyroid stimulating hormone analysis
+C0696105,Beta carotene measurement
+C0696266,Vaginal Culture
+C0700320,Sectioning technique
+C0728876,Serum calcium measurement
+C0729856,Antigen test
+C0740085,Urine osmolality measurement
+C0750860,serum cpk
+C0770761,Wright staining
+C0796357,Genetic Variation Analysis
+C0806957,Microbial susceptibility tests
+C0812425,S-Phase Fraction
+C0812554,"Hepatic function panel This panel must include the following: Albumin (82040) Bilirubin, total (82247) Bilirubin, direct (82248) Phosphatase, alkaline (84075) Protein, total (84155) Transferase, alanine amino (ALT) (SGPT) (84460) Transferase, aspartate amino (AST) (SGOT)"
+C0848397,Throat culture
+C0851178,Test for Chlamydia
+C0853361,urine electrophoresis
+C0853363,Blood pH
+C0855279,Crossmatch
+C0855646,cervical culture
+C0855657,Wound Culture
+C0855840,Hepatitis C RNA
+C0855900,blood ethanol
+C0856666,serum urea
+C0857490,Granulocyte count
+C0858175,plasma sodium
+C0863148,Mean corpuscular volume analyses
+C0871511,Test Method
+C0872307,assistive reproductive technique
+C0872318,Liquid Chromatography Mass Spectrometry
+C0877347,Globulin measurement
+C0878565,Electrocardiogram J wave
+C0883409,Cardiac troponin I measurement
+C0919241,ASSAY OF HALOPERIDOL
+C0919386,Pathology procedure
+C0919678,Protein S measurement
+C0919738,White blood cells urine (lab test)
+C0919758,Vitamin D measurement
+C0919773,Haptoglobin Analyses
+C0919829,Interleukin 6 Measurement
+C0919842,Treponema pallidum antibody measurement
+C0920210,Troponin I measurement
+C0920267,Platelet aggregation measurement
+C0920508,Enzyme-Linked Immunospot Assay
+C0947630,Scientific Study
+C0948762,Absolute neutrophil count
+C0949466,Western Blot
+C0949748,"Blotting, Far-Western"
+C1095989,Brain natriuretic peptide measurement
+C1096179,Thrombin-antithrombin III complex Assay
+C1096316,Cardiac troponin measurement
+C1134627,Physiologic Testing
+C1141947,Troponin T Assay
+C1141951,Panel-reactive antibody
+C1141990,Hyaluronic Acid Test
+C1142102,Monoblast count
+C1142254,Neutralising antibodies analysis
+C1142562,Vitamin B3 Assay
+C1148554,Determination Aspects
+C1167874,Endocrine Test
+C1167909,T lymphocyte count
+C1168005,Alpha tumour necrosis factor measurement
+C1168369,HIV viral load
+C1168438,Protein C antigen measurement
+C1168443,Pseudocholinesterase Measurement
+C1168591,Oxyhemoglobin measurement
+C1176468,Erythrocyte sedimentation rate measurement
+C1254408,Endocervical Culture
+C1254455,Milk Culture
+C1254572,Chemistry Panel
+C1254855,24 Hour Urine Protein Test
+C1255465,Urine Legionella Antigen Test
+C1256585,"Sodium measurement, urine"
+C1258019,"Spectrophotometry, Atomic"
+C1261153,Drug measurement
+C1261155,AST serum measurement
+C1261478,Viral load measurement
+C1262031,sputum test
+C1262735,Plasminogen measurement
+C1266240,Prostaglandin measurement
+C1266457,Cocaethylene measurement
+C1266617,Methylenedioxymethamphetamine measurement
+C1266653,Nitrate measurement (procedure)
+C1266682,Oxymorphone measurement
+C1266744,Temazepam Measurement
+C1266765,Tramadol measurement (procedure)
+C1266786,Venlafaxine measurement
+C1271630,Cardiac markers
+C1271799,Von Willebrand factor activity measurement
+C1273051,Estimated creatinine clearance
+C1273305,Gene studies
+C1273342,Epithelial cell count (procedure)
+C1273421,Viral studies (procedure)
+C1273935,Anaerobic microbial culture
+C1274044,Plasma cholinesterase measurement
+C1275423,Measurement of hemoglobin C
+C1277709,Transferrin saturation measurement
+C1277803,Hepatitis antibody test
+C1278039,Serum total bilirubin measurement
+C1278052,Serum lactate dehydrogenase measurement
+C1281902,Total Thyroxine Measurement
+C1281911,Hemoglobin A measurement
+C1283004,PO2 measurement
+C1283010,"Antibiotic sensitivity, disk method"
+C1285572,Phenotype determination
+C1285573,Genotype determination
+C1293950,Silver stain method
+C1293959,Mallory bleach stain method
+C1293963,Carmine stain method
+C1293975,Three micron giemsa stain method
+C1294004,Prussian blue stain method
+C1294062,Mononuclear cell count
+C1294065,Macrophage count
+C1294275,Aerobic microbial culture
+C1294313,Bacterial identification method
+C1295018,Measurement of human anti-mouse antibody
+C1295110,Carnitine ester measurement
+C1295117,Corticotropin Releasing Hormone Measurement
+C1295138,Epidermal growth factor measurement
+C1295143,Fetal fibronectin measurement
+C1295184,Melatonin Measurement
+C1305868,Assay of fibrinolysis
+C1314664,Dipstick assessment of hemoglobin concentration
+C1315011,Challenge tests
+C1317978,Serum chloride measurement
+C1318312,Serum iron measurement
+C1318439,Urine creatinine measurement
+C1318462,Antistreptolysin O titer
+C1318787,Fluorescein stain method
+C1318793,Immunofluorescent stain method
+C1319277,Hemoglobin G level
+C1321876,Human immunodeficiency virus test
+C1328729,Tryptase measurement
+C1328856,chromatin immunoprecipitation
+C1328870,DNA chemical synthesis
+C1439852,Incubated
+C1441457,Agar diffusion
+C1441489,Automated count
+C1441614,Immune stain
+C1441629,Kleihauer-Betke Staining Procedure
+C1446042,Pemphigoid antibody measurement
+C1446147,IgG Index (procedure)
+C1446194,Serum C1 inhibitor antigen measurement
+C1508749,Capillary fragility measurement
+C1510438,Assay
+C1510830,Age-Adjusted PSA
+C1511124,"Bioassay, In Vivo"
+C1511148,Biological Testing
+C1511226,Blood Screening
+C1511554,Culture Setup
+C1511556,"Culturing, In Vitro Microbial"
+C1513778,Mutation Detection
+C1514402,Preservation Technique
+C1518598,Optical Methods
+C1518823,PSA Velocity
+C1518922,peak expiratory flow (procedure)
+C1518962,Percent Free Prostate-Specific Antigen Measurement
+C1519335,Sister Chromatid Exchange Assay
+C1522643,Acid Fast Bacillae Staining Method
+C1522662,sample fixation
+C1533728,Hepatitis C virus genotype determination
+C1534735,Hepatitis panel
+C1535922,Procalcitonin measurement
+C1548746,Specimen Collection Method - Shaving
+C1551380,Defibrination
+C1551381,Acidification (Procedure)
+C1551382,Alkalization (procedure)
+C1551403,Observation Method - Magnetic resonance
+C1551404,Serum Neutralization
+C1551405,Observation Method - Agglutination
+C1551406,Card agglutination
+C1551407,Plate agglutination
+C1551412,Observation Method - Cytotoxicity
+C1553114,Observation Method - Dipstick
+C1553138,API Staph
+C1553155,3 Self-Sustaining Sequence Replication
+C1553161,Nucleic acid probe with amplification
+C1553162,Nucleic acid probe with target amplification
+C1553169,Precipitin procedure
+C1553172,Disk dilution
+C1553175,Turbidometric
+C1553177,Equilibrium dialysis
+C1553178,Kleihauer-Betke acid elution
+C1553179,IgE immunoassay antibody
+C1561952,Observation Method - Coagulation
+C1562926,Range of motion technique (procedure)
+C1571707,Observation Method - Hemagglutination
+C1578828,Neutralization (Chemistry)
+C1611269,Immunofixation electrophoresis
+C1705192,Seeding
+C1705740,Pellet Formation
+C1705913,Rapid Antigen Test
+C1706969,Blood Chemistry Measurement
+C1707759,Direct Fluorescent Antibody Test
+C1707903,Embedding
+C1708481,In Vivo Imaging
+C1709474,Passage tissue culture technique
+C1710378,Thaw
+C1720786,Antibiogram
+C1829782,Icteric Index
+C1829809,Lipemic Index
+C1879652,Central Minus
+C1879655,Corner Minus
+C1879656,Corner Plus
+C1880076,Choriogonadotropin Beta Measurement
+C1880121,Color Assessment
+C1880185,Creatine Kinase BB Measurement (procedure)
+C1880245,Dacryocyte Analysis
+C1881193,Indirect Bilirubin Measurement
+C1881306,Ketone Measurement
+C1881506,Macrocyte Count procedure
+C1881921,Multi-Angle Laser Light Scattering
+C1882368,Photon Correlation Spectroscopy
+C1882516,Quick Freeze
+C1882943,Reticulocyte to Erythrocyte Ratio
+C1883008,Serum Alanine Aminotransferase Measurement
+C1883362,Total Basophil Count
+C1948043,Erythrocyte Mean Corpuscular Volume Measurement
+C1977907,Fractional Excretion of Phosphate
+C1979632,Basophil Band Form Count
+C2121048,Toxoplasma gondii IgM antibody test
+C2170357,Aldosterone to Renin Activity Ratio Measurement
+C2199618,Ecarin Clotting Time Measurement
+C2238079,Blood Smear
+C2239219,von Willebrand's factor (lab test)
+C2242979,Microbial culture (procedure)
+C2243092,Insulin Autoantibody Measurement
+C2316832,Arachidonic acid measurement
+C2348195,Serum HCG Measurement
+C2348930,HLA Compatibility Testing
+C2350255,Electron Microscope Tomography
+C2363739,Cryptococcus antigen (laboratory procedure)
+C2363831,Large Platelets to Total Platelets Ratio Measurement
+C2368068,Chlamydia pneumoniae IgM Antibody Measurement
+C2697501,Giant Platelet Count (procedure)
+C2697526,Growth Hormone Inhibiting Hormone Measurement
+C2697540,HIV-1 HIV-2 Antibody Measurement
+C2697573,Heinz-Ehrlich Body Measurement
+C2697574,Helmet Cell Count
+C2697588,High Resolution Transmission Electron Microscopy
+C2697608,Hippuric Acid Crystal Measurement
+C2697666,Immunoenzyme Procedure
+C2697768,Interleukin 1 Measurement
+C2697898,Large Platelet Count
+C2698007,Malignant Cell Count
+C2698029,Mature Plasma Cell Count
+C2698066,Alpha Glutathione-S-Transferase Measurement
+C2698100,Amphetamine Drug Class Measurement
+C2698157,Antidepressant Measurement
+C2698200,Auer Rod Measurement
+C2698260,Monosodium Urate Crystal Measurement
+C2698261,Morphine Measurement
+C2698265,Mu Glutathione-S-Transferase Measurement
+C2698375,Beta-Blocker Measurement
+C2698390,Bilirubin Crystal Measurement
+C2698488,Nonesterified Fatty Acids Measurement
+C2698518,Bite Cell Count (procedure)
+C2698595,CD4 Expressing T Cell Count
+C2698644,Occult Blood Measurement
+C2698762,Peptide Hormone Measurement
+C2698837,Poikilocyte Measurement
+C2698870,Precursor Plasma Cell Count
+C2698887,Promonocyte Count
+C2698951,Calcitriol Measurement
+C2698955,Calcium Oxalate Crystal Measurement
+C2698976,Cannabinoid Drug Class Measurement
+C2699019,Red Blood Cell Cast Measurement
+C2699115,Round Epithelial Cell Count
+C2699127,Cast Present Or Absent (lab procedure)
+C2699154,Cell Wash
+C2699157,Cellular Cast Measurement
+C2699192,Cholesterol Crystal Measurement
+C2699276,Schistocyte Count
+C2699300,Sickle Cell Count
+C2699419,Complement C3 Measurement
+C2699477,Crystal Present Or Absent (lab procedure)
+C2699503,Spermatozoa Cell Count
+C2699789,Diuretic Measurement
+C2699973,Total Carnitine Measurement
+C2699997,Energy Dispersive Spectroscopy
+C2700083,Triple Phosphate Crystal Measurement
+C2700094,Turbidity Measurement
+C2700166,Fecal Immunochemical Test
+C2700236,Gamma-Hydroxybutyrate Measurement
+C2700254,Vitamin B17 Measurement
+C2700257,Vitamin D2 Measurement
+C2700258,Volume Measurement
+C2700289,Yeast Cell Measurement
+C2700353,"3,4-Methylenedioxyethamphetamine Measurement"
+C2707655,Respiratory Pathogen Panel
+C2717747,Semen Quality
+C2717977,Enzyme Assays
+C2718007,Distillation
+C2732404,Corrected measurement of calcium
+C2732429,Measurement of monoclonal protein/total protein ratio
+C2825162,Fasting Blood Sugar Measurement
+C2825846,Hippuric Acid Measurement
+C2825856,Factor VII measurement
+C2825857,Factor VIII measurement
+C2825864,Antithrombin Antigen Measurement
+C2825873,Thyroid Antithyroglobulin Antibody Measurement
+C2825874,Tissue Plasminogen Activator Antigen Measurement
+C2825877,Interferon Gamma Measurement
+C2825883,Calprotectin Measurement
+C2825892,Glutamic Acid Decarboxylase 1 Measurement
+C2825893,Glutamic Acid Decarboxylase 2 Measurement
+C2825894,Glutamic Acid Decarboxylase 2 Antibody Measurement
+C2825895,Granulocyte Colony Stimulating Factor Measurement
+C2825907,ProB-Type Natriuretic Peptide Measurement
+C2825908,Procollagen Type I Carboxy Terminal Peptide Measurement
+C2825916,Vascular Cell Adhesion Molecule 1 Measurement
+C2826333,D-Dimer Measurement
+C2827505,Tau Protein Measurement
+C2827787,Disk Diffusion Method
+C2827828,Iodine Staining Method
+C2827969,Thick Smear Technique
+C2827970,Thin Smear Technique
+C2827982,Dark Field Microscopy
+C2919010,CEA Assay
+C2924406,Genetic disorders screening
+C2936285,Chemical Oxygen Demand Analysis
+C2936496,Blood Safety
+C2979983,Urine cytology
+C2981751,Serum Creatinine Assay
+C2984927,Trichomonas Screening
+C2984939,Hemoglobin B measurement
+C2984943,HIV-2 Nucleic Acid Measurement
+C2984951,Legionella pneumophila Antigen Measurement
+C2985099,Chlamydia pneumoniae IgA Antibody Measurement
+C2985232,Mass Color Assessment
+C2985358,Rh Factor Measurement
+C2987205,Hepatitis C Virus Recombinant Immunoblot Assay
+C2987207,Fluorescent Treponemal Antibody Absorption
+C3178802,Interferon-gamma Release Tests
+C3178849,Immunochromatography
+C3272867,Basophilic Stippling Measurement
+C3272884,Calcium Clearance Measurement
+C3272885,Calcium Sulfate Measurement
+C3272888,Clarity Measurement
+C3272900,N-Terminal ProB-type Natriuretic Peptide Measurement
+C3272904,Oxygen Capacity Measurement
+C3272919,Target Cell Count
+C3272932,Giant Neutrophil Count
+C3272933,Glucose Clearance Measurement
+C3272934,Glutamic Acid Decarboxylase Antibody Measurement
+C3272939,Hemosiderin Measurement
+C3272945,Herpes Simplex Virus 1 IgG Antibody Measurement
+C3272946,Herpes Simplex Virus 2 IgG Antibody Measurement
+C3272950,Immature Cell Count (laboratory procedure)
+C3272957,Immature Plasma Cell Count
+C3272963,Mean Platelet Component Measurement
+C3272966,Methylmalonic Acid Measurement
+C3274375,Anti-Factor Xa Activity Measurement
+C3274393,Factor V Measurement
+C3274395,Fat Droplet Measurement
+C3274435,Prothrombin Activity Measurement
+C3274439,Salivary Amylase Measurement
+C3274476,Activated PTT/Standard Ratio Measurement
+C3274763,Peptide Nucleic Acid Clamping
+C3274902,Fecal DNA Test
+C3494306,Nuclear Microscopy
+C3516405,Alpha-2 Antiplasmin Measurement
+C3538799,Prostaglandin E1 Measurement
+C3538955,Factor IX Activity Measurement
+C3538990,Prostaglandin E2 Measurement
+C3539060,Activated Protein C Resistance Measurement
+C3539065,Dextroamphetamine Measurement
+C3539880,Clue Cell Count
+C3539922,Loop-mediated Isothermal Amplification
+C3540570,Clostridium difficile Toxin Measurement
+C3541261,CD4 Expressing Cell Count
+C3541306,Plasmodium Measurement
+C3541346,Prostaglandin E Synthase Measurement
+C3541350,Factor V Activity Measurement
+C3544087,Absolute lymphocyte count
+C3639405,EDTA Clearance
+C3639419,DNase-B Antibody Measurement
+C3640656,Endogenous Thrombin Potential Measurement
+C3641237,Dilute Russell's Viper Venom Time to Control Ratio Measurement
+C3641238,Dipeptidyl Peptidase-4 Activity Measurement
+C3641244,Factor VII Activity Measurement
+C3641245,Factor VIIa Activity Measurement
+C3641246,Factor VIII Activity Measurement
+C3641250,Hepatitis B DNA Measurement
+C3641325,High Performance Liquid Chromatography Mass Spectrometry
+C3683557,Urea nitrogen (procedure)
+C3693636,Measurement of levetiracetam
+C3810574,Potassium Clearance Measurement
+C3810607,Nitric Oxide Measurement
+C3811058,Absolute Blood Lymphocyte Count
+C3811388,Platelet Activating Factor Measurement
+C3811678,Chemokine (C-C Motif) Ligand 17 Measurement
+C3811745,Mast Cell Count
+C3811844,Estimated Glomerular Filtration Rate
+C3811895,Renin Activity Measurement
+C3812270,Periostin Measurement
+C3812682,Epidermal Growth Factor Receptor Measurement
+C3812686,Interleukin 1 Receptor Antagonist Measurement
+C3813128,Factor XIII Measurement
+C3814776,Budding Yeast Measurement
+C3814778,Hemolytic Index
+C3815102,Protein Precipitation
+C3827024,Colony-Forming Unit-Fibroblasts
+C3827026,Cobblestone Area-Forming Cells
+C3827339,High Sensitivity Troponin T Assay
+C3827370,Flow Microscopy
+C3827844,Terminal Sterilization
+C3827898,Sulfur Dioxide Measurement
+C3827949,Stationary Filter Filtration
+C3827997,Sodium Clearance Measurement
+C3828199,Sediment Analysis
+C3828355,Red Blood Cell Processing
+C3828536,Plasma Protein Cryoprecipitation
+C3828538,Plasmapheresis for Human Source Plasma
+C3828562,Physical Laboratory Testing
+C3829129,Meningeal Cell Count
+C3829179,Mast Cell to Total Cell Ratio Measurement
+C3830082,Fractional Excretion of Chloride
+C3830083,Fractional Excretion of Calcium
+C3830103,Flask or Bottle Culture
+C3830127,Filling Method
+C3830275,Extrusion Granulation
+C3830300,Evaporation Purification
+C3830307,Epstein-Barr Virus Profile Interpretation
+C3830390,Drying Method
+C3830465,Dissolution Mixing
+C3831127,Chemical Laboratory Testing
+C3831151,Centrifugal Filtration
+C3831155,Cell Product Encapsulation
+C3831161,Cell Bank Characterization
+C3831327,Blood Product Storage
+C3831328,Blood Products Laboratory Testing
+C3831330,Blood Product Collection
+C3831581,Alanine Aminotransferase to Aspartate Aminotransferase Ratio Measurement
+C3850137,In Vitro Techniques
+C3853643,Probe with target amplification technique
+C3853850,International Normalized Ratio of Prothrombin Time
+C3854008,Galactomannan antigen test
+C3865733,Synthetic Cannabinoid Measurement
+C3887493,Sclerostin Measurement
+C3889640,Progesterone Receptor Measurement
+C3890400,Leukemic Cells Measurement
+C3890560,Receptor Activator Nuclear KappaB Ligand Measurement
+C3897885,Polarized Reflectance Spectroscopy
+C3897988,Partial Pressure Arterial Oxygen to Fraction Inspired Oxygen Ratio Measurement
+C3898101,Oncotype DX DCIS Score
+C3898571,Low Absorption Reticulocytes to Total Reticulocytes Ratio Measurement
+C3898610,Left Shift Neutrophil Measurement
+C3898805,Immune Function Testing
+C3899387,Diagnostic Microscopy
+C3899955,Basement Membrane Coverage Measurement
+C4042936,Action Spectrum
+C4048784,Reactive Oxygen Metabolite Measurement
+C4049699,Proliferating Cell Nuclear Antigen Measurement
+C4049918,Liquid Chromatography/Tandem Mass Spectrometry
+C4049937,Anti-Neutrophil Cytoplasmic Antibody Measurement
+C4049938,Physical Activity Measurement
+C4049994,Insulin Resistance Measurement
+C4050551,Streptococcus pneumoniae Antigen Measurement
+C4053738,Cardiolipin IgA Antibody Measurement
+C4053801,Factor X Activity Measurement
+C4053868,Viral Identification
+C4054355,Neutrophils Band Form to Neutrophils Ratio Measurement
+C4054359,Neuraminidase Inhibition Assay
+C4054722,Influenza A Antigen Measurement
+C4054773,High-performance Liquid Chromatography/Ion-Exchange Chromatography
+C4054774,High-performance Liquid Chromatography-UV
+C4054775,High-performance Liquid Chromatography-Fluorescence
+C4055457,Anti-Nucleosome Antibody Measurement
+C4084975,Pharmacogenomic Analysis
+C4281706,Granulation procedure
+C4281788,hemodynamics (procedure)
+C4281808,Metabolic Panel
+C4281911,blood electrolyte panel
+C4282405,Islet Amyloid Polypeptide Measurement
+C4283816,Rubricyte Count
+C4283903,Circulating Immune Complex Measurement
+C4284042,S100 Calcium-Binding Protein B Measurement
+C4284307,RNA Isolation
+C4284396,Urea Nitrogen to Creatinine Ratio Measurement
+C4284398,Acid-Fast Bacilli Measurement
+C4284399,Dehydration procedure
+C4284455,Copeptin Measurement
+C4288189,Staining Intensity
+C4288364,Proliferating Cell Count
+C4288812,Local Pathology Review
+C4289745,Consensus PCR
+C4317078,Mycobacterium Tuberculosis Measurement
+C4318462,Viable Cell Count
+C4318939,Nasal Swab (procedure)
+C4319105,Ribonucleic Acid Measurement
+C4321306,Nasal Wash and Collection
+C4330015,G6PD-Deficient Erythrocytes Count
+C4330699,Mixed Venous Oxygen Tension
+C4520712,Carbon Monoxide Measurement
+C4521224,Lymphoid Cell Count
+C4521255,"Human Cells, Tissues, and Cellular and Tissue-Based Products Screening"
+C4521340,Deoxyribonucleic Acid Measurement
+C4521390,Gene Expression Level Analysis
+C4521393,Accelerator Mass Spectrometry
+C4521451,Methicillin-susceptible Staphylococcus aureus Measurement
+C4521539,"Human Cells, Tissues, and Cellular and Tissue-Based Products Packing"
+C4521833,Bradykinin Receptor B1 Measurement
+C4522087,Flagellates Measurement
+C4522135,Loss on Drying
+C4524536,"Human Cells, Tissues, and Cellular and Tissue-Based Products Microorganism Testing Only"
+C4524564,Blood Product Bacterial Testing 24 Hours Prior to Transfusion
+C4524981,Redispersibility
+C4525115,Potency Assay
+C4525117,Reconstitution Time
+C4528261,Reticulocyte Volume Distribution Width Coefficient of Variation
+C4528267,N-Terminal ProA-type Natriuretic Peptide Measurement
+C4528663,Residual Solvent Test
+C4552598,ADAM Metallopeptidase Domain 8 Measurement
+C4552600,Adenosine Triphosphate Measurement
+C4552978,Haemophilus influenzae Measurement
+C4552979,Haemophilus Measurement
+C4553044,Anion Gap 3 Measurement
+C4553045,Anion Gap 4 Measurement
+C4553047,Base Deficit (procedure)
+C4553189,Citalopram Measurement
+C4553212,Staphylococcus aureus Measurement
+C4553236,Burkholderia cepacia Measurement
+C4553258,Cocaine Amphetamine-Regulated Transcript Protein Measurement
+C4553270,Round Cell Count
+C4553272,Macroscopic Blood Measurement
+C4553273,Xanthochromia Measurement
+C4553391,Complement C1 Esterase Inhibitor Measurement
+C4553828,Desvenlafaxine Measurement
+C4554678,Meconium Measurement
+C4684477,Streptococcus pneumoniae Serotype 1 IgG Antibody Measurement
+C4684478,Streptococcus pneumoniae Serotype 2 IgG Antibody Measurement
+C4684479,Streptococcus pneumoniae Serotype 3 IgG Antibody Measurement
+C4684506,Sperm Aggregation Measurement
+C4684534,Kinetic Chromogenic Assay
+C4684535,Micro-Latex Particle-Mediated Immunoassay
+C4687865,Acylcarnitine to Free Carnitine Ratio Measurement
+C4687886,Factor VIII Activity Actual to Control Ratio Measurement
+C4687891,Carboxyhemoglobin to Total Hemoglobin Ratio Measurement
+C4687901,Methemoglobin to Total Hemoglobin Ratio Measurement
+C4687910,Neutral Fats Measurement
+C4722049,Factor VIII Inhibitor Measurement
+C4722183,Mycoplasma pneumoniae Measurement
+C4722208,Fatty Liver Index
+C4722221,HIV-1 Antigen Measurement
+C4722222,Alpha-Aminobutyric Acid Measurement
+C4722229,Gamma-Aminobutyric Acid Measurement
+C4722248,Mannitol Measurement
+C4722267,Tumor Cell Count
+C4722274,Urease Measurement
+C4722280,Bordetella pertussis Antigen Measurement
+C4722290,Streptococcus pyogenes Antigen Measurement
+C4722292,Bizarre Platelet Count
+C4722299,Lactulose Measurement
+C4722402,Beta-Aminobutyric Acid Measurement
+C4722410,Respiratory Syncytial Virus Antigen Measurement
+C4722411,Histoplasma capsulatum Antigen Measurement
+C4722443,Chlamydia trachomatis Antigen Measurement
+C4722469,Hemoglobin Cast Measurement
+C4723634,Clostridium difficile Measurement
+C4723641,Nucleotide Sequence Read
+C4724130,Nucleated Cell Count
+C4724157,Human Parvovirus B19 Measurement
+C4724204,Rotavirus Antigen Measurement
+C4726029,Free Estradiol to Estradiol Ratio Measurement
+C4727001,Polyspecific Direct Antiglobulin Test
+C4744889,Intact Epithelial Reticular Basement Membrane Length to Total Epithelial Reticular Basement Membrane Length Ratio Measurement
+C4744901,Glutamate and Glutamine Measurement
+C4759686,Fungi Measurement
+C4759714,adsorption (laboratory procedure)
+C4761401,Pyridoxal Phosphate Measurement
+C4761515,Cell Expansion
+C4763419,High Sensitivity C-Reactive Protein Measurement
+C4763480,Pegylation
+C4763485,Antigen Cultivation
+C4763512,Serum CEA Measurement
+C4764097,Direct Bilirubin to Bilirubin Ratio Measurement
+C4764103,HIV-1 RNA Measurement
+C4764106,Thermal Ionization Mass Spectrometry
+C4764121,Creatine and Phosphocreatine Measurement
+C4764327,Viral Neuraminidase Purification
+C5197688,Cell Encapsulation
+C5202570,Inorganic Pyrophosphate Measurement
+C5202635,Coherent Anti-Stokes Raman Spectroscopy
+C5202733,Candida albicans Measurement
+C5202780,Neisseria gonorrhoeae Measurement
+C5202858,Trichomonas vaginalis Measurement
+C5202903,Enterococcus faecalis Measurement
+C5202935,Human Immunodeficiency Virus Measurement
+C5203016,Gardnerella vaginalis Measurement
+C5203026,Chlamydia trachomatis DNA Measurement
+C5203031,Complement C5 Measurement
+C5203110,Pus Measurement
+C5204516,Bethesda Assay
+C5205783,Bacterial Beta-lactamase Measurement
+C5206659,ProMark Proteomic Prognostic Test

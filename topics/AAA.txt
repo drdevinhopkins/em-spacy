@@ -1,0 +1,206 @@
+Rapid Access
+Approach to the Critical Patient
+AIRWAY/BREATHING
+Avoid intubation unless respiratory compromise is present due to the risk of cardiovascular collapse with induction.
+CIRCULATION
+Obtain adequate IV access (at least two large-bore IVs), type, and crossmatch.
+Consider arterial line placement.
+Apply the following resuscitation parameters:
+Permissive hypotension is acceptable to avoid exacerbating hemorrhage.
+The goal is a systolic blood pressure (SBP) of 70-90 mm Hg, with the patient remaining conscious.
+Avoid crystalloid resuscitation, given the risk of dilutional coagulopathy and iatrogenic acidosis, unless the patient is in profound shock and blood products are not immediately available.
+Administration of blood products is preferred in shock secondary to ruptured abdominal aortic aneurysm (AAA).
+When a ruptured AAA is suspected, consider immediate point-of-care ultrasound if the patient is unstable or computed tomography (CT) angiography if the patient is stable.
+Intraperitoneal rupture may lead to intra-abdominal free fluid on ultrasound.
+Retroperitoneal rupture may be difficult to identify on ultrasound; therefore, in the correct clinical context, an aneurysmal aorta observed via ultrasound should be considered ruptured until proven otherwise.
+Early vascular surgery consultation
+If the aorta is ruptured, the patient should be considered critical regardless of hemodynamics, and immediate operative intervention should be pursued.
+The goal is 90 min from initial patient contact to operative intervention.
+A delay in surgical care increases the likelihood of mortality.
+If an interfacility transfer is required, the goal remains 90 min until operative intervention; however, in practice, this goal may prove significantly more difficult to achieve.
+Key Concepts
+The normal abdominal aorta Figure (infrarenal) measures 2.0 cm in diameter. An abdominal aorta measuring >3.0 cm is considered aneurysmal.
+The prevalence of AAA is difficult to determine because instances are commonly asymptomatic. Most AAAs are diagnosed either incidentally or when rupture occurs.
+The aortic wall is composed of three contiguous tissue layers in sequence from the vessel lumen moving outward: intima, media, adventitia.
+The AA involves dilation of all three layers of the arterial wall. An aneurysm is defined as a focal dilation of an arterial vessel to at least 50% larger than its expected normal diameter.
+An AA is a true aneurysm, meaning that the localized dilation involves all three layers of the arterial wall (intima, media, and adventitia).
+A pseudoaneurysm communicates with the arterial lumen but not with the normal vessel wall. A pseudoaneurysm is contained only by the adventitia or surrounding soft tissue.
+The most common and clinically significant complication of AAA is rupture. Once the patient is symptomatic, rupture either has occurred or is imminent.
+Most ruptured AAAs have a diameter >5 cm.
+In addition to rupture, critical clinical presentations can include occlusion of the aorta, embolization from the aorta, aortoenteric fistula between an unrepaired AA (or as a late complication of an aortic graft) and the gastrointestinal tract, or an arteriovenous fistula (most common with the vena cava).
+PITFALLS
+The classic triad of an AAA includes abdominal pain, hypotension, and a pulsatile mass; however, a ruptured AAA can exist without any of these classic findings.
+PERSPECTIVES
+Bedside ultrasound can be an important tool for the rapid recognition and identification of AAA. The presence of free fluid suggests rupture in the appropriate clinical setting.
+For the stable patient, CT can be performed to allow for more clear operative planning.
+Outcomes for patients with acute aortic disorders are heavily dependent on timely diagnosis and intervention, whether surgical or medical.
+Of patients who sustain a rupture prior to ED arrival, more than 50% die from sudden cardiovascular collapse. The survival rate decreases by 1% per minute prior to arrival.
+Even in patients with a history of endovascular repair, a risk of rupture remains.
+Endoleak can occur after repair in up to 20% of patients.
+Preoperative hypotension is a predictor of poor surgical outcome.
+Diagnosis
+PITFALLS
+Although the classic triad of an AAA includes abdominal pain, hypotension, and pulsatile mass, patients rarely have all three features, and some patients have none.
+Risk factors include male sex, smoking, increasing age, family history, history of connective tissue diseases, infection, trauma, and arteritis.
+Delayed diagnosis is common.
+Without rupture, patients may have chronic non-specific or colicky abdominal pain.
+With rupture, the pain is often constant, severe, acute, and difficult to localize.
+Physical Examination
+Hypotension is often a late, and ominous, finding that can lead to initial misdiagnosis.
+In AAA rupture, the presence or absence of distal pulses is variable, dependent on the patient’s hemodynamic status. In aortic occlusion or thrombosis, distal pulses may be absent.
+Microemboli may obstruct small distal vessels, leading to livedo reticularis. Photo
+Aortoenteric fistula may present as a massive gastrointestinal (GI) hemorrhage.
+Arteriovenous fistula may present as high-output congestive heart failure.
+Diagnostic Testing
+Ultrasound Image has high sensitivity for the detection of AAAs.
+Ultrasound provides an easy imaging modality that can be performed at the bedside in an unstable patient.
+Body habitus and user skill are limitations in ultrasound testing for AAAs.
+PITFALLS
+Free fluid identification can suggest intraperitoneal rupture, but the absence of free fluid cannot reliably rule out rupture (especially if retroperitoneal).
+CT Image is the test of choice for patients who are stable enough to undergo imaging.
+Contrast is not necessary to identify a rupture but does allow more accurate sizing and distinction of the patent lumen from mural thrombus.
+CT has a significantly higher sensitivity for identifying retroperitoneal bleeding than ultrasound.
+Conventional angiography and magnetic resonance angiography are not appropriate choices for the time-sensitive evaluation of potential aneurysms in the ED.
+Treatment
+Avoid intubation whenever possible, as induction can lead to cardiovascular collapse.
+PEARLS
+Resuscitate the patient to a targeted SBP of 70-90 mm Hg with intact mental status.
+Obtain two large-bore peripheral IVs.
+Type and crossmatch the patient for blood products.
+Ensure that the patient is nothing-by-mouth.
+Provide analgesia as blood pressure allows.
+Consider arterial line placement.
+Pursue immediate vascular surgery consultation or transfer the patient to the closest facility with vascular surgery capabilities.
+Reverse any coagulopathy when applicable.
+PEARLS
+AAA is a time-dependent disease. Note the key time intervals and interventions:
+Time from the onset of symptoms
+Time to order, perform, receive, and interpret imaging
+Time to order and initiate blood pressure control
+Time to receive surgical or radiology consultation
+Time to request emergency transfer; time to initiate emergency transfer
+Disposition
+Home
+Patients who are asymptomatic with incidental discovery of AAA can be considered for discharge only when it is clear that the patient’s presenting symptoms are not related to the AAA.
+Outpatient follow-up instructions and education should be provided.
+Admission
+Any patient who is acutely symptomatic without rupture should be considered for admission.
+A symptomatic AAA may suddenly deteriorate at any time.
+OR/Surgery
+All patients with an acute rupture require immediate operative management.
+Once ruptured, AAA is fatal unless treated surgically.
+Even with surgery, the mortality rate of AAA is still very high.
+Delays in operative repair increase the likelihood of mortality.
+In the asymptomatic patient with findings of an incidental AAA without rupture, operative intervention depends on the AAA size and patient risk factors. AAA larger than 5 cm in diameter, or those with a rapidly expanding diameter, carry increased risk of rupture, and elective repair should be considered.
+Deep Dive
+Background
+Epidemiology
+The prevalence of AAA is directly related to age, with an overall estimated prevalence of 1.4% in the population aged 50 to 85 y.※
+Male sex, smoking, hypertension, hyperlipidemia, age, family history of AAA, and excess weight are associated with an increased risk of aneurysm.※
+Protective factors include Hispanic, African-American, and Asian race/ethnicity as well as smoking cessation, fruit and vegetable or nut consumption, and regular exercise.※
+Despite accounting for only 20% of AAAs, approximately one-third of ruptures and nearly the same number of deaths occur in women as men, likely due to a delay in diagnosis.※
+AAA rupture is associated with a high overall mortality of 85% to 90%. Of those who arrive alive to the hospital, only 50% to 70% survive to hospital discharge.※
+Pathophysiology
+The loss of elastin and collagen leads to destruction of the aortic media and lamina, allowing for rupture.※
+This destructive process occurs with aging and can be accelerated by exposures, such as long-term tobacco smoking.
+The risk of rupture is directly proportional to the aneurysm size:※
+<4 cm: 0% risk of rupture per year
+4-5 cm: 0.5%-5% risk of rupture per year
+5-6 cm: 3%-15% risk of rupture per year
+6-7 cm: 10%-20% risk of rupture per year
+7-8 cm: 20%-40% risk of rupture per year
+>8 cm: 30%-50% risk of rupture per year
+A rapid increase in aneurysm size, >1 cm per year, is also considered to increase the risk of rupture.※
+Symptomatic AAAs are also at increased risk of rupture.
+AAA ruptures are of two types:
+Contained rupture: Aorta ruptures into the retroperitoneal space, which creates a tamponade effect at the rupture site. Often presents as back pain. Because the rupture is contained, it often allows the patient’s blood pressure to stabilize temporarily.
+Free rupture: Aorta ruptures into the peritoneum, leading to rapid exsanguination, shock, and/or death.
+Less commonly, an aortoenteric fistula or aortocaval fistula can occur:
+An unrepaired AAA erodes into the GI tract or inferior vena cava.
+A repaired AAA, by either traditional surgical graft or endograft, forms a fistula.
+Diagnostic Considerations
+Clinical Presentation
+PITFALLS
+Although AAA is classically described as a triad of acute abdominal or back pain, hypotension, and pulsatile abdominal mass, only ~57% of patients with a ruptured AAA present with acute abdominal or back pain and shock.※
+Acute, severe abdominal or back pain may suggest imminent or acute rupture.
+Severe back or flank pain is related to aortic rupture into the retroperitoneal space. Pain may radiate into the testes, inguinal canal, rectum, or hip.※
+Unruptured AAA may present as dull and vague abdominal or back discomfort.
+Severe abdominal pain or abdominal distention may be encountered if the AA ruptures into the peritoneum.
+A pulsatile abdominal mass may be palpated. However, only 69% of patients with a ruptured AAA present with this finding.※
+Most patients will have normal femoral pulses. Abnormal pulses may be related to occlusion or hemorrhagic shock associated with rupture.
+Rarely, an aortoenteric fistula can develop, leading to brisk GI bleeding, or an aortocaval fistula can form, leading to acute heart failure symptoms.※
+Radiographic Evaluation
+Plain radiography has been supplanted by ultrasound and CT as the imaging modality of choice for diagnosing AAA. Abdominal radiographs may identify the presence of AAA when more advanced imaging modalities are not available.
+Bedside ultrasound by emergency medicine physicians can be 99% sensitive and 98% specific for identifying individuals with AAA, with exams typically requiring less than 5 min.※
+Although bedside ultrasound can diagnose an AAA, its ability to discriminate between a non-ruptured and ruptured AAA is poor, with a sensitivity of approximately 4% for ruptured AAA. Observation of an AAA upon bedside ultrasound coupled with abdominal pain and unstable hemodynamics may be helpful in correctly identifying patients requiring emergency operative intervention.※
+CT of the abdominal aorta is the diagnostic study of choice for identifying abdominal aortic rupture.※ Non-contrast CT is suitable for making a diagnosis of AAA or identifying retroperitoneal hemorrhage associated with rupture. CT is approximately 77%-79% sensitive for the diagnosis of retroperitoneal blood associated with AAA.※
+CT angiography with IV contrast is the preferred imaging modality for operative planning to determine whether an open or endovascular repair is appropriate.※
+Although a ruptured AAA is clearly a time-sensitive diagnosis, avoiding CT given the fear of morbidity and mortality associated with delays in operative intervention are, to a certain extent, unfounded.
+87.5% of patients survive their first 2 h after presenting to a hospital with aortic rupture, according to a retrospective case series.※
+Consensus statements from both the Society for Vascular Surgery and European Society for Vascular Surgery support obtaining CT angiography of the abdominal aorta with the exception of a patient who is considered to be hemodynamically unstable for imaging.※
+Using a sustained SBP of <80 mm Hg as a trigger to defer CT angiography may be appropriate.※
+Laboratory Evaluation
+Hematologic investigations do not have a primary role in the diagnosis of acute rupture of an AAA. However, such investigations may suggest an alternative diagnosis.
+Patients presenting with signs or symptoms of a ruptured AAA should have a complete blood count, comprehensive metabolic panel, coagulation studies, and a type and screen sent.
+Therapeutic Considerations
+A ruptured AAA is a surgical emergency and requires expeditious diagnosis and operative intervention. The door-to-intervention time should be less than 90 min.※
+Established algorithms for the management of patients presenting with ruptured AAA can reduce the 30-d mortality from 32% to 18%.※
+Patients with ruptured AAA may present to the ED in cardiovascular collapse. Contemporary management guidelines support the use of permissive hypotension with target SBP of 70-90 mm Hg accompanied by intact mentation.※
+Avoid the induction of anesthesia and endotracheal tube placement in the ED because vasodilation associated with induction can lead to sudden, profound hypotension.※ Endovascular repair can be performed using local anesthesia and sedation rather than general anesthesia.
+Controversy currently exists regarding the pharmacologic lowering of blood pressure in individuals with ruptured AAA. European recommendations suggest that there is insufficient evidence to support the routine use of antihypertensive agents to reduce SBP.※ Conversely, North American guidelines suggest short-acting agents such as esmolol, nitroglycerin, or sodium nitroprusside as reasonable medications to initiate if the patient is hypertensive.※ Collaboration with vascular surgery and anesthesia is indicated in these situations.
+Blood products, rather than crystalloid or colloid solutions, are the resuscitation fluids of choice in a ruptured AAA. A 1:1 ratio of packed red blood cells to fresh frozen plasma appears to reduce the risk of mortality.※
+For symptomatic AAA without rupture, admission to an intensive care unit before operative intervention for medical optimization prior to anesthesia can be considered.※
+Asymptomatic AAA measuring 5.5 cm or larger in diameter should be repaired in an elective fashion with the use of appropriate preoperative risk stratification beforehand.※
+AAA can be repaired in an endovascular fashion via the deployment of a stent graft or in a traditional open procedure through either an abdominal or retroperitoneal incision.
+Pooled observational studies demonstrate 30-d mortality rates associated with the repair of ruptured AAA as 26.8% for endovascular repair or 39.6% for open repair.※
+This difference has not been replicated in randomized controlled trials.
+Insufficient evidence currently exists to support the routine use of risk prediction scores to determine which patients are amenable to operative intervention versus those appropriate for palliative measures only.※
+A preoperative scoring system (Harborview Medical Center AAA score) was recently derived and identifies an age greater than 76 y, creatinine concentration >2 mg/dL [152.5 µmol/L], SBP <70 mm Hg at any time, or a pH <7.2 as being risk factors for mortality.※ The 30-d mortality was 100% if an individual had all 4 risk factors. This risk stratification system requires validation prior to routine use in clinical practice.
+Management of the Incidental Finding of AAA
+With the increasing use of cross-sectional imaging modalities, incidental findings not related to a patient’s complaint are becoming more prevalent.
+The Society for Vascular Surgery provides a best practice recommendation that at the time of identification of AAA, patients should be referred to a vascular surgeon.※ Therefore, any patients with an abdominal aorta measuring greater than 3.0 cm in diameter should be referred to Vascular Surgery for outpatient follow-up. There is limited guidance regarding referral beyond this; however, consideration should be given to expedited Vascular Surgery consultation for individuals with an abdominal aorta measuring greater than 5.0 cm if not currently under surveillance.
+At the time of AAA identification, smoking cessation counselling should be provided as smoking cessation is likely to reduce the rate of aneurysmal growth by 20%.※
+Care of Patients Following the Repair of AAA
+Major complications that can occur in either open or endovascular repair of an AAA include aortoenteric fistula, graft infection, limb occlusion, and para-anastomotic aneurysm formation. Complications exclusive to endovascular repair include endoleak and device migration. Evaluation for the complication of AAA repair is best completed with a CT scan with contrast.
+Aortoenteric fistula:
+Aortoenteric fistula represents a rare cause of GI bleeding following AAA repair, with the fistula typically being aortoduodenal; however, cases involving both the small and large bowel have been reported. The typical presentation is a herald upper GI bleed followed by rapid exsanguination. The diagnosis can be confirmed with upper GI endoscopy or CT angiography.※
+Repair is typically performed in an open fashion, although endovascular strategies may be used to temporize bleeding prior to an open operative intervention.※
+Graft infection:
+Infection of the graft can occur at the time of implantation, as hematologic seeding of the graft material, or via extension of a contiguous infection.※ Staphylococcal species are most frequently identified as the causative agent.※
+Graft infection can occur in either open repair or when using an endovascular approach with an overall incidence of approximately 0.3%. The time of onset of graft infection is variable, with open repair having an average onset of infection of 3 y or longer, whereas endovascular repair graft infections may occur earlier. Specific known risk factors include the presence of a femoral graft component, need for surgical revision, or an emergency indication for repair at the time of the initial procedure.※
+Patients may present with low-grade fever, sepsis, groin drainage, pseudoaneurysm formation, or ill-defined abdominal or back pain.※
+CT angiography of the aorta may be helpful to diagnose an infected graft with evidence of fluid collection, gas, pseudoaneurysm formation, or contiguous sources of infection.※ CT imaging is also helpful for preoperative planning to determine the extent of graft revision that will be required.※
+The treatment for graft infection is the surgical excision of all infected graft material with reconstruction.※
+To reduce the risk of graft infection, the Society for Vascular Surgery strongly recommends antibiotic prophylaxis for patients with both open or endovascular repair of AAA undergoing dental procedures including manipulation of the gingiva, manipulation of the periapical area, or when perforation of the oral mucosa occurs. A weak recommendation exists for antibiotic prophylaxis for any procedures involving the respiratory, GI, or genitourinary tract as well as any dermatologic or musculoskeletal procedures if there is a risk for infection or the patient is immunocompromised.※
+Limb occlusion:
+For patients presenting with ischemic symptoms, consideration should be given to thrombosis of the graft leading to impaired arterial supply.
+Specific risk factors that increase the likelihood of limb occlusion include female sex and grafts that extend into the femoral artery.※
+Endovascular AAA repairs possess an increased risk of limb occlusion compared with open repair. A small fraction (4%) of endovascular repairs are complicated by limb occlusion, typically within 2 months of AAA repair.※
+Limb occlusion can be identified via ultrasound and/or CT angiography and is treated with thrombectomy, thrombolytics, or bypass of the occluded vessel.※
+Para-anastomotic aneurysm formation:
+Para-anastomotic aneurysm formation encompasses both the concept of pseudoaneurysm formation associated with a leak at the anastomosis of the native aorta and the graft material, as well as true aneurysm formation of native vascular tissue either proximal or distal to the graft.※
+Best practices for the management of para-anastomotic aneurysms are unclear at this time. Revision is likely indicated for extremely large para-anastomotic aneurysms or aneurysms exhibiting a rapid change in size. Endovascular management strategies may come with reduced morbidity and mortality compared with revision of a previous open AAA repair.※
+Endoleak:
+Endoleak only occurs with endovascular repair of AAA. By definition, it is the presence of continued blood flow into an aneurysmal sac following endovascular repair. Some endoleaks require immediate revision of the endovascular repair whereas others resolve on their own and require surveillance alone.※
+Endoleaks are classified by their location, which dictates management:※
+Type IA is defined as filling of the aneurysmal sac secondary to an incomplete seal at the proximal portion of the endovascular repair. Given ongoing filling of the aneurysmal sac, this type of endoleak remains at risk of leading to aneurysmal rupture. Ideally, they are repaired at the time of endovascular aortic repair, given the significant risk of rupture.
+Type IB is defined as filling of the aneurysmal sac secondary to an incomplete seal at the anastomosis of the stent graft and the iliac artery.
+Type II is defined as filling of the aneurysmal sac from patent lumbar arteries or the inferior mesenteric artery. This is the most common type of endoleak, occurring in as many as 25% of patients undergoing endovascular repair. Type II endoleaks are typically observed because the risk of rupture is significantly less than that of a Type I endoleak.
+Type III is defined as filling of the aneurysmal sac from an incomplete seal between graft components, separation of graft components, or erosion of the graft material. All type III endoleaks require revision to avoid aneurysmal rupture.
+Type IV is defined as filling of the aneurysmal sac from blood traversing the porous fibers of an endovascular stent graft. Type IV endoleaks resolve spontaneously and do not require any treatment.
+Device migration:
+Limited to patients undergoing endovascular AAA repair, a stent graft can migrate, leading to a delayed Type IA or IB endoleak. Migration typically occurs 2 y or more after repair and requires revision of the original endovascular repair to avoid aneurysmal rupture.※
+AAA postoperative surveillance:
+Following open surgical repair of AAA, CT surveillance of the aorta is indicated at 5-y intervals.※
+Following endovascular repair of AAA, CT surveillance of the aorta is typically indicated at 1 mo post-op and then annually, indefinitely. To reduce radiation exposure, ultrasound exams can be substituted; however, if there are any new findings on ultrasound, prompt CT imaging should be obtained. If ultrasound exams are used, CT surveillance every 5 y is recommended.※
+Prevention of AAA
+Smoking, including quantity and duration, are associated with increased risk of AAA. Exercise and consumption of nuts and vegetables are associated with a decreased risk of AAA.※
+Smoking cessation may reduce AAA growth rate by 20%.※
+There is currently insufficient evidence to routinely recommend the initiation of β-blockade, antihypertensives, or statins to reduce the risk of AAA expansion or rupture.※
+The 2014 recommendations from the US Preventive Services Task Force for AAA screening in the asymptomatic patient are as follows:※
+1-time screening ultrasound should be offered to all men aged 65 to 75 y who have ever smoked (Grade B Recommendation).
+1-time screening ultrasound should be selectively offered to all men aged 65 to 75 y who have never smoked (Grade C Recommendation). Specific risk factors to consider include a first-degree relative with AAA, other vascular aneurysms, coronary artery disease, cerebrovascular disease, atherosclerosis, hyperchloremia, obesity, or hypertension.
+There is currently insufficient evidence to recommend routine 1-time screening ultrasound in women aged 65 to 75 y who have a history of smoking.
+Screening ultrasound is not currently recommended in women aged 65 to 75 y who have never smoked (Grade D Recommendation).
+The Society for Vascular Surgery recommends ongoing ultrasound surveillance of an asymptomatic AAA at 3-y intervals for aneurysms measuring 3 to 3.9 cm, 12-mo intervals for aneurysms measuring 4.0 to 4.9 cm, and 6-mo intervals for aneurysms measuring 5 to 5.4 cm in diameter.※
+There is high-quality evidence for the operative repair of the asymptomatic fusiform AAA when the abdominal aorta measures 5.5 cm or larger in diameter. However, females with aneurysms measuring 5 to 5.4 cm or rapid expansion (1 cm/y) may benefit from earlier repair.※

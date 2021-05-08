@@ -1,0 +1,190 @@
+cui,name
+C0001268,spectinomycin
+C0001714,polymyxin B sulfate
+C0002475,mitomycin
+C0002499,amikacin
+C0002501,amikacin sulfate
+C0002645,amoxicillin
+C0002679,amphotericin B
+C0002680,ampicillin
+C0003232,Antibiotics
+C0003233,"Antibiotics, Aminoglycoside"
+C0003234,Anthracycline Antibiotics
+C0003235,"Antibiotics, Antifungal"
+C0003236,"Antibiotics, Antineoplastic"
+C0003237,"Antibiotics, Antitubercular"
+C0003240,Macrolide Antibiotics
+C0004521,aztreonam
+C0004599,bacitracin
+C0006968,Carbapenems
+C0007308,Carubicin
+C0007537,cefaclor
+C0007546,cefazolin
+C0007554,cefotaxime
+C0007555,cefotetan
+C0007557,cefoxitin
+C0007559,ceftazidime
+C0007560,ceftizoxime
+C0007561,ceftriaxone
+C0007562,cefuroxime
+C0007716,cephalexin
+C0008168,chloramphenicol
+C0008861,Citrinin
+C0008917,Clavulanic Acids
+C0008947,clindamycin
+C0009077,cloxacillin
+C0009316,colistin
+C0010590,cycloserine
+C0010934,dactinomycin
+C0011015,daunorubicin
+C0012093,dicloxacillin
+C0013089,doxorubicin
+C0013090,doxycycline
+C0014806,erythromycin
+C0014810,erythromycin ethylsuccinate
+C0016095,Filipin
+C0016267,floxacillin
+C0016610,fosfomycin
+C0016673,framycetin
+C0017436,Gentamicins
+C0020933,imipenem
+C0022419,josamycin
+C0024452,mafenide
+C0025643,methicillin
+C0026186,minocycline hydrochloride
+C0026187,minocycline
+C0026458,Monobactams
+C0026933,mycophenolic acid
+C0027324,nafcillin
+C0027444,natamycin
+C0027515,neamine
+C0027519,tobramycin sulfate
+C0027603,neomycin
+C0028076,Nigericin
+C0028902,ofloxacin
+C0029983,oxacillin
+C0030576,paromomycin
+C0030771,pefloxacin
+C0030827,penicillin G
+C0030829,penicillin G benzathine
+C0030830,penicillin G procaine
+C0030840,penicillin V
+C0030842,penicillins
+C0031955,piperacillin
+C0032535,polymyxin B
+C0032539,Polymyxins
+C0035608,rifampin
+C0037531,nafcillin sodium
+C0037536,oxacillin sodium
+C0037540,penicillin G sodium
+C0037962,spiramycin
+C0038425,streptomycin
+C0038426,streptomycin sulfate
+C0038665,sulbactam
+C0038675,sulfadiazine
+C0038689,sulfamethoxazole
+C0038702,sulfanilamide
+C0039266,talampicillin
+C0039644,tetracycline
+C0040341,tobramycin
+C0041041,trimethoprim
+C0042313,vancomycin
+C0043483,bacitracin zinc
+C0052145,apalcillin
+C0052796,azithromycin
+C0052865,bacampicillin
+C0053552,Bicillin C-R
+C0054036,Brefeldin A
+C0055003,cefepime
+C0055011,cefpodoxime
+C0055015,cefuroxime axetil
+C0055856,clarithromycin
+C0055860,clavulanic acid
+C0057144,daptomycin
+C0058445,dirithromycin
+C0058731,doxycycline hyclate
+C0060400,cefixime
+C0060405,cefdinir
+C0065002,Lincosamides
+C0065023,fidaxomicin
+C0065295,loracarbef
+C0066005,meropenem
+C0071126,pirarubicin
+C0072980,sirolimus
+C0085259,mupirocin
+C0085795,amphotericin
+C0108938,cefpodoxime proxetil
+C0110038,clavulanate
+C0127527,Menogaril
+C0135981,Peplomycin
+C0137997,clavulanate potassium
+C0140575,rifabutin
+C0145617,"Imipenem-Cilastatin, Sodium Salt"
+C0205881,paromomycin sulfate
+C0205992,vancomycin hydrochloride
+C0244119,stallimycin
+C0279516,Anti-Bacterial Agents
+C0282052,ampicillin sodium
+C0282104,ciprofloxacin hydrochloride
+C0282105,clindamycin hydrochloride
+C0282155,doxycycline calcium
+C0282215,beta-Lactams
+C0282355,sulbactam sodium
+C0282386,levofloxacin
+C0282391,ceftizoxime sodium
+C0304317,First generation cephalosporin
+C0304320,Third generation cephalosporin
+C0310367,Today
+C0361823,Fourth generation cephalosporin
+C0536495,moxifloxacin
+C0543454,fosfomycin tromethamine
+C0546861,doxorubicin hydrochloride
+C0546879,tetracycline hydrochloride
+C0591132,Augmentin
+C0599503,Sulfonamide Anti-Infective Agents
+C0700445,cefotaxime sodium
+C0700446,cefoxitin sodium
+C0700463,piperacillin sodium
+C0700471,cefotetan disodium
+C0700526,cefazolin sodium
+C0700527,ceftriaxone sodium
+C0701852,cefuroxime sodium
+C0724548,ceftazidime sodium
+C0724641,mupirocin calcium
+C0753645,gatifloxacin
+C0754517,moxifloxacin hydrochloride
+C0770655,methacycline hydrochloride
+C0771284,cefepime hydrochloride
+C0771947,doxycycline hydrochloride
+C0887422,dicloxacillin sodium
+C0887551,amoxicillin sodium
+C0887647,cefsulodin sodium
+C0906952,gentamicin C1
+C0906953,gentamicin C2
+C0909450,polymyxin B(1)
+C1120106,ertapenem
+C1120386,micafungin
+C1145701,amphotericin B liposomal
+C1258056,Bacteriocidal Agents
+C1258945,erythromycin G
+C1260298,tigecycline
+C1337395,mycophenolate sodium
+C1533693,Quinolone Antibacterial Agents
+C1688515,SQ-109
+C1744619,Tetracycline Antibiotics
+C1882383,piperacillin anhydrous
+C1882419,polymyxin B2
+C2001521,ceftaroline
+C2001525,ceftaroline fosamil
+C2698293,Aztreonam lysine
+C2983899,ceftazidime anhydrous
+C3536856,Cephalosporins
+C3540704,Antibiotics for systemic use
+C3540705,"Antifungal Antibiotics, Topical"
+C3540706,Antibiotic throat preparations
+C3640990,Boanmycin Hydrochloride
+C3714612,Chloramphenicol Drug Class
+C3714633,Penicillamine Drug Class
+C3810840,beta-Lactamase Inhibitors
+C3854019,gentamicin
+C4706514,Cephalosporin product

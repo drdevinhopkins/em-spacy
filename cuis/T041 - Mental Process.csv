@@ -1,0 +1,234 @@
+cui,name
+C0000828,Abreaction
+C0001721,Affect (mental function)
+C0002957,Anger
+C0003808,Arousal
+C0004056,Aspirations (Psychology)
+C0004083,Mental association
+C0004268,Attention
+C0004271,Attitude
+C0004273,Attitude to Computers
+C0004274,Attitude to Death
+C0004309,Auditory Perception
+C0004404,Autosuggestion
+C0004442,Avoidance Learning
+C0004448,Awareness
+C0005119,Bereavement
+C0005891,Body Image
+C0007239,Career Choice
+C0007952,Personality Character
+C0009240,Cognition
+C0009395,Color Perception
+C0009647,Conditioning (Psychology)
+C0010297,Creativity
+C0011109,Decision Making
+C0011142,Defense Mechanisms
+C0011317,Denial (Psychology)
+C0011586,Depth Perception
+C0012632,Discrimination (process of differentiation)
+C0012725,Psychologic Displacement
+C0012752,Distance Perception
+C0013126,Intrinsic drive
+C0013987,Emotions
+C0015347,"Extinction, Psychological"
+C0015382,"Extraversion, Psychological"
+C0015726,Fear (Mental Process)
+C0016073,Field Dependence-Independence
+C0016770,Frustration
+C0017249,Gender Identity
+C0017324,"Generalization, Psychological"
+C0018235,Grief reaction
+C0018379,Guilt
+C0018592,Happiness
+C0020792,Identification (Psychology)
+C0020793,Identity Crisis
+C0020913,Imagination
+C0021467,Psychological inhibition
+C0021704,Intelligence
+C0021924,"Introversion, Psychological"
+C0022397,Job Satisfaction
+C0022423,Judgment
+C0023185,Learning
+C0023618,Libido
+C0024028,Love
+C0025260,Memory
+C0025265,"Memory, Short-Term"
+C0025353,mental health
+C0025361,Mental Processes
+C0026516,Mood (psychological function)
+C0026598,Motion Perception
+C0026605,Motivation
+C0028325,Nonverbal Communication
+C0028758,Pyschological Bonding
+C0029139,Optical Illusions
+C0029266,Mental Orientation
+C0030709,"Pattern Recognition, Visual"
+C0030971,Perception
+C0030972,Perceptual Closure
+C0030974,Perceptual Defense
+C0030976,Perceptual distortions
+C0030977,Perceptual Masking
+C0031208,Personality
+C0032074,Cognitive function: planning
+C0033205,Probability Learning
+C0033363,Projection Defense Mechanism
+C0033499,Proprioception
+C0034634,Rage
+C0034692,Rationalization
+C0034763,Reality Testing
+C0034770,Mental Recall
+C0035007,Psychological reinforcement
+C0035010,"Reinforcement, Verbal"
+C0035280,Retention (Psychology)
+C0035397,Rewards
+C0036239,Satiation
+C0036240,Satiety Response
+C0036591,Self-Assessment
+C0036849,Set (Psychology)
+C0036938,Shame
+C0037322,"Sleep, REM"
+C0038272,Stereotyping
+C0039474,Temperament
+C0039869,"Thinking, function"
+C0040226,Time Perception
+C0041654,Unconscious Personality Factor
+C0042794,"Vision, Binocular"
+C0042830,Visual Perception
+C0042950,Volition
+C0043012,Wakefulness
+C0043097,Weight Perception
+C0080101,Regret
+C0085380,Dental Anxiety
+C0086045,Mental concentration
+C0150022,Dysfunctional coping using self defense mechanisms
+C0150035,Anticipatory grief
+C0150041,Feeling hopeless
+C0150062,Post-trauma response
+C0150081,Spiritual distress
+C0150814,Transcendental Meditation
+C0152057,Compensation as a Defense Mechanism
+C0162340,Comprehension
+C0162425,Intention - mental process
+C0175631,Imagery
+C0178494,Avoidance Behavior
+C0178842,Sensory Feedback
+C0220929,Mental tolerance
+C0229992,Psyche structure
+C0233413,Attentiveness
+C0233496,Aversion (finding)
+C0233735,"Naming, function"
+C0233793,"Memory, Remote"
+C0233828,Intuition
+C0234421,Conscious
+C0235146,Euphoric mood
+C0237428,Optimism
+C0237497,Emotional bonding
+C0237529,Self Confidence
+C0237607,Practice Experience
+C0237633,Sensory Gating
+C0237834,Resistance (Psychotherapeutic)
+C0237886,Sorting (Cognition)
+C0242114,Suspicion
+C0242428,Satisfaction
+C0312418,Personality Sensitivity
+C0392334,Ability to perform cognitive activity
+C0423896,Feeling content
+C0423909,"Memory, Long-Term"
+C0424090,Level of interest
+C0424134,Pessimism
+C0424215,Sense of identity (observable entity)
+C0459920,Abstract thinking ability
+C0522165,Feeling calm
+C0524637,"Recognition, Psychology"
+C0541879,Detachment psychological
+C0542180,Alarm reaction
+C0542559,contextual factors
+C0546816,Persistence
+C0561843,"Memory, Episodic"
+C0563143,Mental function
+C0577602,Parental anxiety
+C0589154,"Memory, Prospective"
+C0589507,Cognitive function: initiation
+C0589513,Metacognition
+C0596130,Attribution
+C0596475,early experience
+C0596545,Experience
+C0596764,impression (attitude)
+C0596948,mind control
+C0597436,sensory discrimination
+C0600269,Familiarity
+C0600564,Self Efficacy
+C0677838,"Loss, Grief, and Bereavement"
+C0678156,Ecstasy - emotion
+C0679006,Decision
+C0679027,Auditory acuity
+C0679055,mnemonics
+C0679057,Memory Consolidation
+C0679106,anticipation
+C0679110,anxiolysis (emotion)
+C0679112,Embarrassment
+C0679199,Strategy
+C0679201,Inference
+C0680844,estimation <subjective>
+C0684239,Emotional tenderness
+C0684321,Regression - mental defense mechanism
+C0684328,Reasoning
+C0699033,Personal priorities
+C0728721,Psychological suppression
+C0728733,Psychological fixation
+C0814087,Spatial Memory
+C0870186,Avoidance
+C0870312,commitment
+C0870365,Courage
+C0870433,Dissatisfaction
+C0870444,doubt
+C0870485,emotional responses
+C0870509,Escape (mental process)
+C0871633,desire
+C0871641,Affection
+C0871740,Facial Recognition
+C0871786,internalization
+C0876928,Questioning
+C0935584,Executive Function
+C0935620,Emotional states
+C1167624,psychosocial labeling
+C1331418,Comfort
+C1443086,Alertness
+C1448473,"Pattern Recognition, Automated"
+C1449634,"Pattern Recognition, Physiological"
+C1456522,Evaluating Health Information
+C1510539,Emotional Intelligence
+C1510620,"Models, Mental"
+C1518918,Pattern Recognition
+C1527305,Feelings
+C1660142,proprioception involved in equilibrioception
+C1704726,Confidence
+C2347948,Reluctance
+C2350522,Touch Perception
+C2370884,Emotional Regulation
+C2370892,Cognitive Flexibility
+C2584303,Listening
+C2584304,Writing (function)
+C2700617,Irritation - emotion
+C2713542,Brainwave Biofeedback
+C2717766,Therapeutic Misconception
+C2911691,Feedback - evaluative response process
+C2911692,Response (communication)
+C2936181,Visual Feedback
+C2936352,Cognitive Reserve
+C2936631,Diagnostic Self Evaluation
+C2936633,Self-Evaluation
+C2986836,Visual Interpretation
+C2987186,Jittery
+C2987481,Emotional Strain
+C3146231,Secure feeling
+C3179495,"Decision Making, Shared"
+C3495892,Avolition
+C3536794,Sad mood
+C3830544,Delight
+C3850035,Delay Discounting
+C3887804,Feeling upset
+C4042952,Cognitive Aging
+C4086187,Clinical Interpretation
+C4280069,Positive Thinking
+C4553821,Feels

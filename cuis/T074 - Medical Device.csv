@@ -1,0 +1,934 @@
+cui,name
+C0001283,Activator Appliances
+C0001512,Adhesive bandage
+C0002422,Ambulances
+C0003835,Arterial Lines
+C0003911,Articulators
+C0004185,Atomizers
+C0004726,Bandage
+C0005513,Biological Dressings
+C0005557,Bioprosthesis device
+C0005825,Continuous Sphygmomanometers
+C0005975,Bone Screws
+C0005978,Bone Wires
+C0006086,Braces-Orthopedic appliances
+C0007348,"Casts, Surgical"
+C0007439,Indwelling Catheter
+C0007963,Charts (device)
+C0008034,Chest Tubes
+C0009346,Balloon pump
+C0009653,"Condoms, Male"
+C0009836,Contact Lenses
+C0009838,"Contact Lenses, Hydrophilic"
+C0009886,Contraceptive Devices
+C0009887,"Contraceptive Devices, Female"
+C0009890,"Contraceptive Devices, Male"
+C0010317,Cribs
+C0010384,"Prostheses, Dental, Fixed, Crown, Total, Temporary"
+C0010397,Crutches
+C0011326,Dental articulators
+C0011355,Dental Equipment
+C0011373,"Implantable dental prosthesis, device"
+C0011377,Dental Instruments
+C0011381,Dental Models
+C0011388,Dental Pins
+C0011394,Dentures
+C0011450,Denture Liners
+C0011460,"Denture, Partial"
+C0011461,"Denture, Partial, Fixed"
+C0013119,Medical dressing
+C0013194,Drug Packaging
+C0013761,"Stockings, Elastic"
+C0013962,Emergency Medical Tags
+C0014243,Endoscopes
+C0015417,Ocular Prosthesis
+C0015421,Eyeglasses
+C0016266,Flowmeters
+C0016533,Forceps
+C0017004,Gamma Cameras
+C0017108,Gas Scavengers
+C0017124,Gastric Balloon
+C0017230,Geiger-Mueller Counters
+C0018768,Hearing Aids
+C0018825,Heart Valve Prosthesis
+C0018829,"Heart, Artificial"
+C0018830,Heart-Lung Machine
+C0018831,Heart-Assist Devices
+C0021102,Implants
+C0021436,Infusion Pump
+C0021438,"Infusion Pumps, Implantable"
+C0021461,Inhaler
+C0021639,Insufflator
+C0021648,Insulin Infusion Systems
+C0021900,Intrauterine Devices
+C0021901,"Intrauterine Devices, Copper"
+C0021902,"Intrauterine Devices, Medicated"
+C0022414,Joint Prosthesis (device)
+C0022678,"Kidneys, Artificial"
+C0022748,Knee joint prosthesis (device)
+C0023036,Laparoscopes
+C0023081,Laryngeal Prosthesis
+C0023319,Intraocular lens implant device
+C0023692,Ligature
+C0024861,Masks
+C0024962,Maxillofacial Prosthesis
+C0025080,Medical Devices
+C0025973,Microelectrodes
+C0026642,Mouth Protectors
+C0027524,Nebulizers
+C0027525,Nebulizers and Vaporizers
+C0027551,Needle device
+C0028791,Occlusive Dressings
+C0029331,Orthodontic Appliances
+C0029352,Orthopedic Equipment
+C0029353,Orthopedic Fixation Devices
+C0029365,Orthotic Devices
+C0030067,Oxygenators
+C0030163,Artificial cardiac pacemaker
+C0030172,Pacifiers
+C0030216,Palatal Obturators
+C0030850,Penile Prosthesis
+C0031246,Pessaries
+C0033250,Proctoscopes
+C0036405,Scintillation Counters
+C0036605,Self-Help Devices
+C0037816,Speculum
+C0038009,Splint Device
+C0038257,"Stent, device"
+C0038348,Compression Stockings
+C0038916,Surgical Clamps
+C0038917,Surgical Clips
+C0038923,Surgical Equipment
+C0038928,Surgical Instruments
+C0038930,Surgical Mesh
+C0038937,Surgical Sponges
+C0038969,Surgical sutures
+C0039142,Syringes
+C0039288,Tampons
+C0039818,"Thermometer, device"
+C0040289,Tissue Expansion Devices
+C0040519,Tourniquets
+C0040661,Transducers
+C0040662,"Transducers, Pressure"
+C0041208,Trusses
+C0042241,Vaginal contraceptive diaphragm (device)
+C0042497,Mechanical Ventilator
+C0042498,Negative-Pressure Ventilators
+C0043016,Walkers
+C0043143,wheelchair
+C0043303,X-Ray Film
+C0076833,container tops
+C0079321,External Fixation Devices
+C0079635,Internal Fixators
+C0085071,"Denture, Partial, Fixed, Resin-Bonded"
+C0085099,Incontinence pads
+C0085104,Drug Delivery Systems
+C0085275,Rubber Dams
+C0085428,Orthodontic Brackets
+C0085590,catheter device
+C0085678,Nasogastric tube
+C0085734,Absorbent Pads
+C0085842,Artificial Ventricle
+C0086510,Kirschner Wires
+C0087153,Ventilator - respiratory equipment
+C0122734,"Bandages, Hydrocolloid"
+C0150414,"tubes, esophageal, blakemore"
+C0150554,Douche device
+C0150683,"Artificial Airways, Nasopharyngeal"
+C0150694,"Artificial Airways, Oropharyngeal"
+C0150740,Flatus tube
+C0150789,Patient Holding Stretchers
+C0150798,Suprapubic catheter
+C0162528,Occlusal Splints
+C0162589,Implantable defibrillator
+C0162645,Laryngeal Masks
+C0175640,Baths (medical device)
+C0175641,Cauteries Device
+C0175643,Medical Elevators
+C0175645,Heel Device
+C0175648,Mats
+C0175649,Prosthesis
+C0175659,Weight measurement scales
+C0175661,Peritoneovenous Shunts
+C0175662,Ventriculoperitoneal catheter
+C0175663,Sounds device
+C0175718,Medical pins
+C0175722,Clip
+C0175723,Bands
+C0175726,Hyperbaric chamber
+C0175729,Uterine sound
+C0175730,biomedical tube device
+C0175731,T-tube
+C0175733,Arterial cannula
+C0175735,Scissors (device)
+C0175751,Cervical collar (device)
+C0178483,aortic balloon pump
+C0178951,Accelerometer
+C0178987,Artificial Airways
+C0179031,Ampule
+C0179064,Anesthesia machine
+C0179129,Apron
+C0179144,Arthroscopes
+C0179181,"APPARATUS, AUTOTRANSFUSION"
+C0179199,"Balance, device"
+C0179204,Nasal balloon
+C0179212,Pressure bandage
+C0179228,Emesis basin
+C0179245,Water Bath
+C0179263,Bedpans
+C0179281,Pediatric bed
+C0179298,Bile collection bag
+C0179302,"Binder, device"
+C0179303,Abdominal binder
+C0179310,Biofeedback system
+C0179321,Bite block
+C0179323,Blades (device)
+C0179326,"BLADE, SCALPEL"
+C0179334,Bleeding time kit
+C0179335,Blood administration set
+C0179381,Hot/Cold Water Bottles
+C0179390,Bougie
+C0179392,Esophageal bougie
+C0179393,Urethral bougie
+C0179419,Breathing bag
+C0179423,Breathing circuit (physical object)
+C0179432,Bronchoscopes
+C0179456,"BRUSH, SCRUB, OPERATING-ROOM"
+C0179479,Butterfly needle
+C0179504,Electrocardiogram lead (device)
+C0179574,Nasal Cannula
+C0179577,Sinus cannula
+C0179583,Venous cannula
+C0179591,"CUFF, NERVE"
+C0179602,Carbon monoxide analyzer
+C0179605,Cardiac compression board
+C0179608,Cardiac monitors
+C0179630,Cartridge device
+C0179650,"CART, EMERGENCY, CARDIOPULMONARY (EXCLUDING EQUIPMENT)"
+C0179686,Orthopedic Cast
+C0179695,Catheter introducer
+C0179724,Cardiac Catheters
+C0179732,"Pulmonary artery catheter, oximetric"
+C0179740,Peripherally inserted central catheter (physical object)
+C0179743,"CATHETER, CHOLANGIOGRAPHY"
+C0179747,Dialysis catheter
+C0179752,Esophageal balloon
+C0179760,Hemodialysis catheter
+C0179766,Intrauterine catheter
+C0179768,Peripheral intravenous catheter
+C0179783,Peritoneal dialysis catheter
+C0179785,"CATHETER, SEPTOSTOMY"
+C0179788,Suction catheter
+C0179790,Pulmonary artery flotation catheter
+C0179795,Tracheal suction catheter
+C0179797,"Catheters, Vascular, Umbilical"
+C0179799,Ureteral Catheters
+C0179800,Urethral Catheters
+C0179802,Urinary catheter
+C0179804,"CATHETER, FOLEY"
+C0179805,"CATHETER, STRAIGHT"
+C0179834,Centrifuges (device)
+C0179837,Cytological centrifuge
+C0179955,Vascular clamp
+C0179958,Cleaning Device
+C0179986,"CLIP, NOSE"
+C0179993,Vena cava clip
+C0180006,Cold pack (medical device)
+C0180008,Ostomy Collar
+C0180022,Colonoscopes
+C0180053,Compresses (device)
+C0180063,compressor
+C0180094,Contact Lens Case
+C0180158,"COVER, BURR HOLE"
+C0180167,"COVER, MATTRESS (MEDICAL PURPOSES)"
+C0180170,Shoe cover
+C0180236,Curette
+C0180249,Cushion
+C0180274,Cystoscopes
+C0180279,Flow Cytometer
+C0180297,"TESTER, DEFIBRILLATOR"
+C0180301,Defibrillator paddle
+C0180306,Pacemakers and Implantable Defibrillators
+C0180307,Defibrillators
+C0180309,Automated External Defibrillators
+C0180371,Denture cushion
+C0180383,Dermatome device
+C0180407,Dialysis units (machines)
+C0180409,DIALYZER
+C0180431,Dilator
+C0180439,Rectal dilator
+C0180453,Laryngoscopes
+C0180463,Dispenser
+C0180479,Dissector
+C0180499,Drain device
+C0180504,Drapes (device)
+C0180511,Surgical Drapes
+C0180524,Non-adherent dressing
+C0180552,Dropper (physical object)
+C0180567,DURA SUBSTITUTE
+C0180570,Dynamic splints
+C0180578,EAR WICK
+C0180600,Electrocardiographic recorders
+C0180610,"DEVICE, ELECTROCONVULSIVE THERAPY"
+C0180633,"ELECTRODE, ELECTROCARDIOGRAPH"
+C0180641,"ELECTRODE, ELECTROSURGICAL"
+C0180647,Fetal scalp electrode
+C0180677,Electromyographs
+C0180694,Bovie
+C0180711,"DEVICE, EMBOLIZATION, ARTERIAL"
+C0180714,emergency kits
+C0180758,Esophagoscopes
+C0180765,Evaporators
+C0180797,Surgical helmet system
+C0180798,Exophthalmometer
+C0180814,Eye movement monitor
+C0180815,Eye pad
+C0180823,Orthodontic Face Mask
+C0180853,file device
+C0180857,FILIFORM AND FILIFORM FOLLOWER
+C0180915,Peak flow meter (device)
+C0180921,Fluoroscope
+C0180950,Hemostat
+C0180979,Frame (physical object)
+C0181041,Glaucoma Drainage Implants
+C0181051,Examination/treatment glove
+C0181064,Gown
+C0181066,Surgical Gowns
+C0181080,Radiographic grid
+C0181089,"Catheter guide wire, device"
+C0181145,Heat Exchangers
+C0181154,heating pad
+C0181175,"DETECTOR, AIR BUBBLE"
+C0181185,Hemoperfusion system
+C0181220,Tracheal hook
+C0181226,Hot Packs
+C0181233,Heat and moisture exchanger
+C0181262,Hysteroscopes
+C0181264,Ice Bags
+C0181281,Knee immobilizer
+C0181314,INFILTRATOR
+C0181331,Intravenous analgesia unit
+C0181359,"INSUFFLATOR, HYSTEROSCOPIC"
+C0181374,Intrauterine balloon
+C0181452,"SYSTEM, PERFUSION, KIDNEY"
+C0181462,Scalpel handle
+C0181467,knife
+C0181475,Ear knife
+C0181507,Laminar airflow unit
+C0181521,Laparotomy ring
+C0181523,"LARYNGOSCOPE, NON-RIGID"
+C0181524,"LARYNGOSCOPE, RIGID"
+C0181525,Laryngostroboscope
+C0181598,Left ventricular assist device
+C0181620,Hoist device
+C0181637,"Light Sources, Flash"
+C0181687,loops
+C0181691,vascular loops
+C0181716,MALLET
+C0181735,"MARKER, RADIOGRAPHIC, IMPLANTABLE"
+C0181740,Skin marker
+C0181744,Oxygen mask
+C0181748,Venturi oxygen face mask
+C0181751,Anesthesia mask
+C0181758,Surgical face mask
+C0181797,Medical Gas Cylinders
+C0181801,Medicated Pad
+C0181805,Mesh surgical material
+C0181807,Metal mesh
+C0181839,Microscopes
+C0181849,Operating microscope
+C0181904,Monitor Device
+C0181941,Nasopharyngoscope
+C0181952,Needle holder
+C0181956,Acupuncture needle
+C0181957,Airway needle
+C0181959,Aspiration needles
+C0181965,"NEEDLE, DENTAL"
+C0181976,intravenous needles
+C0181982,Spinal needle
+C0182021,Obturators
+C0182046,Ophthalmoscopes
+C0182098,Otoscopes
+C0182109,Pulse oximeter
+C0182117,"Oxygen analyzer, device"
+C0182124,Oxygen cylinder
+C0182135,"OXYGENATOR, CARDIOPULMONARY BYPASS"
+C0182148,"Pacemakers, Cardiac, Implantable (device)"
+C0182158,Pads
+C0182204,Penrose drain
+C0182209,Perforator
+C0182215,Perimeter measuring device
+C0182217,Manual perimeter
+C0182281,Picture Archiving and Communication Systems
+C0182318,Pledgets
+C0182349,Positron emission tomography unit
+C0182377,Pressure monitor
+C0182380,Intracranial Pressure Monitors
+C0182400,Probes
+C0182450,Auricular prosthesis
+C0182473,Acetabular Hip Joint Prostheses
+C0182478,Mandibular condyle prosthesis
+C0182537,pump (device)
+C0182541,Breast pump (device)
+C0182557,"Punches, Biopsy (device)"
+C0182576,Rack
+C0182619,Radiographic-tomographic unit
+C0182650,grab bars
+C0182659,Frontal sinus rasp
+C0182660,Plastic surgery rasp
+C0182913,Physiologic monitoring recorder
+C0182957,Suction regulator
+C0183012,Retinoscopes
+C0183014,"Retractor, device"
+C0183021,Eye retractor
+C0183034,Vaginal retractor
+C0183044,Rhinoscope
+C0183046,Right ventricular assist device (physical object)
+C0183051,Colostomy rod
+C0183078,Fetal blood sampler
+C0183089,saw (device)
+C0183115,Scanning Systems
+C0183129,ECHOCARDIOGRAPH
+C0183163,Nasal scissors
+C0183166,Orthopedic scissors
+C0183177,scoop instrument
+C0183191,"DRESS, SURGICAL"
+C0183195,Scrub suit
+C0183210,sensor (device)
+C0183235,Bed sheets
+C0183255,Face shield (physical object)
+C0183264,"APRON, LEADED"
+C0183294,Sigmoidoscopes
+C0183295,Flexible sigmoidoscope
+C0183309,Simulators
+C0183346,"Sling, device"
+C0183347,Arm sling
+C0183355,Slit lamp biomicroscope (physical object)
+C0183370,Snellen chart
+C0183380,Spatula Device
+C0183400,Spectrophotometer
+C0183414,Nasal speculum
+C0183415,Rectal speculum
+C0183427,Sphygmomanometers
+C0183440,Spine board
+C0183441,Spirometer (device)
+C0183453,Traction splint device
+C0183507,Bone staple
+C0183512,Biliary Stent Devices
+C0183514,Esophageal stent
+C0183518,Ureteric stent
+C0183559,Stethoscopes
+C0183622,Stool seat
+C0183644,Wheeled Stretchers
+C0183652,String (device)
+C0183663,"Stylet, device"
+C0183683,"Support, device"
+C0183699,Scrotal support
+C0183703,Surgical cap
+C0183707,Surgical Head Coverings
+C0183745,Silk suture
+C0183783,bulb syringe
+C0183804,Examination Tables
+C0183807,"BED, SCANNING, NUCLEAR"
+C0183809,Operating Tables
+C0183814,"TABLE, RADIOLOGIC"
+C0183828,Biomedical tape
+C0183837,Surgical Tape
+C0183880,Oxygen tent
+C0183882,Radiographic test pattern
+C0183885,Tester device
+C0183900,"TESTER, PULP"
+C0183916,"THERMOMETER, ELECTRONIC, CLINICAL"
+C0183924,"THERMOMETER, CLINICAL MERCURY"
+C0183932,Thoracoscopes
+C0183964,Tong
+C0183967,Tongue blade
+C0183973,Tonsillectome
+C0183993,Tracheostomy button
+C0184047,Trap medical device
+C0184054,Tray - device
+C0184073,Trephine
+C0184090,Suprapubic trocar
+C0184092,Tracheal trocar
+C0184104,"Tubes, Blood Collection"
+C0184112,Culture tube
+C0184122,Gastrointestinal tube
+C0184146,Laryngectomy tube
+C0184147,Myringotomy tubes (device)
+C0184159,Tracheostomy tube
+C0184165,Tubing
+C0184187,Tweezer
+C0184213,Ureteroscopes
+C0184217,Urethroscope
+C0184219,Urinals
+C0184233,"DEVICE, URINE FLOW RATE MEASURING, NON-ELECTRICAL, DISPOSABLE"
+C0184236,Abortion pump
+C0184252,Medical Valves
+C0184269,Vascular Access Devices
+C0184278,Ventilator alarm
+C0184279,Ventilator IMV controller
+C0184286,jet ventilators
+C0184301,Vial device
+C0184327,Vitrectomy system
+C0184348,"Warmer, device"
+C0184352,Blood warmer
+C0220792,Whirlpool bath
+C0221093,Hypodermic Needles
+C0221799,"Catheters, Vascular, Guiding"
+C0221819,Orthodontic braces
+C0221829,Female Condoms
+C0221839,elastics (orthodontic bands)
+C0221871,Electroencephalographic simulator
+C0221874,spacer device
+C0242636,Skeletal Muscle Ventricle
+C0262888,pediatric ventilators
+C0301559,Screw
+C0302614,Guide device
+C0302620,Oral Syringe
+C0302657,"TUBE, TISSUE CULTURE"
+C0308201,e.p.t. Early Pregnancy Test
+C0336548,Prosthetic valve
+C0336570,Measuring tape
+C0336574,Cardiac transvenous pacemaker
+C0336591,Elastic bandage
+C0336598,Vascular device
+C0336630,Endotracheal tube
+C0336648,Alarm device
+C0336660,Magnetic resonance imaging unit
+C0337184,Physical restraint equipment (device)
+C0358515,Pregnancy testing kit
+C0392220,scalpel
+C0392254,"Lasers, Semiconductor"
+C0392258,"Lasers, Dye"
+C0438895,Rigid collar
+C0441068,Aid to vision
+C0441074,Meters (physical object)
+C0441085,Holmium:YAG laser device
+C0441086,Doppler probe
+C0441090,Dipstick device
+C0441116,Breathing system expiratory limb
+C0441126,Sponges
+C0441127,Balloon dilatation catheter
+C0441134,Vascular Catheters
+C0441144,Medical Balloon Device
+C0441161,Rigid endoscope
+C0441189,Direct needle
+C0441233,External fixator bar
+C0441247,Conduit implant
+C0441330,Intraoral device
+C0441421,Fixed orthodontic appliance
+C0443310,Standard EEG machine
+C0444299,Catheter tip
+C0444755,Centrifugal pump
+C0445377,Venous line
+C0454154,Wedge filter (device)
+C0454273,Tripod
+C0456378,Type of bridge device
+C0456642,Introducer
+C0456898,Cutting needle
+C0457177,Telescopes
+C0457406,Hinge (physical object)
+C0461628,Non-absorbable suture
+C0461643,Absorbable suture
+C0462990,Urine sugar analysis set
+C0475251,Gas analyzer
+C0490091,"SHOE AND SHOE COVER, CONDUCTIVE"
+C0490099,Gas pressure transducer
+C0490101,"METER, AIRWAY PRESSURE (INSPIRATORY FORCE)"
+C0490151,Arterial blood sampling kit
+C0490503,"GAS CHROMATOGRAPHY, DIPHENYLHYDANTOIN"
+C0490591,"LIQUID CHROMATOGRAPHY, DIPHENYLHYDANTOIN"
+C0490619,Catheter stylet
+C0490651,"DEFOAMER, CARDIOPULMONARY BYPASS"
+C0490672,"DEVICE, BIOPSY, ENDOMYOCARDIAL"
+C0490746,"BAR, PREFORMED"
+C0490773,"ANCHOR, PREFORMED"
+C0490801,Subperiosteal oral implant
+C0490831,"SPECULUM, ENT"
+C0490951,"SET, LAPAROSCOPY"
+C0490953,"SNARE, FLEXIBLE"
+C0490960,Rigid esophagoscope
+C0491009,"BELL, CIRCUMCISION"
+C0491015,Simple pneumoperitoneum needle
+C0491041,"MANOMETER, WATER"
+C0491090,"PROTECTOR, SKIN PRESSURE"
+C0491183,Surgical shoes
+C0491194,Operating room stool
+C0491208,"Vein stripper, single-use"
+C0491209,"SUTURE, ABSORBABLE, NATURAL"
+C0491211,"SUTURE, ABSORBABLE, SYNTHETIC"
+C0491217,"Sutures, Synthetic, Nonabsorbable, Polypropylene (device)"
+C0491220,"CATHETER, BALLOON TYPE"
+C0491229,"CATHETER, CONTINUOUS IRRIGATION"
+C0491233,Needle catheter
+C0491243,Flexible endoscope
+C0491304,"TEST, TIME, PARTIAL THROMBOPLASTIN"
+C0491328,Thrombin Time Test Device
+C0491338,Prothrombin time test
+C0491547,"GENERATOR, LESION, RADIOFREQUENCY"
+C0491550,"PROBE, RADIOFREQUENCY LESION"
+C0491565,Tremor transducer
+C0491576,Transcutaneous electrical nerve stimulator
+C0491603,Neurosurgical headrest
+C0491604,Neurosurgical chair
+C0491629,Episiotomy scissors
+C0491640,"INSUFFLATOR, VAGINAL"
+C0491653,"PELVIMETER, EXTERNAL"
+C0491721,PHOTOKERATOSCOPE
+C0491743,Ptosis crutch
+C0491746,Nystagmus tape
+C0491774,Lens gauge
+C0491800,Trabeculotome
+C0491814,"INTRODUCER, SPHERE"
+C0491816,EXPRESSOR
+C0491893,"PLATE, FIXATION, BONE"
+C0491921,IMPACTOR
+C0491928,Passer (Medical Device)
+C0491931,Orthopedic Fork
+C0491970,Light microscope
+C0492070,"TABLE, POWERED"
+C0492092,"ORTHOSIS, LUMBO-SACRAL"
+C0492157,"APRON, PROTECTIVE (device)"
+C0492211,"CONE, RADIOGRAPHIC"
+C0492244,ACTIVATED WHOLE BLOOD CLOTTING TIME
+C0492246,"TEST, HEPARIN NEUTRALIZATION"
+C0492253,PH BUFFER
+C0492293,"PICK, MASSAGING"
+C0492305,"ATOMIC ABSORPTION, CALCIUM"
+C0492487,TUBE TRACHEOSTOMY AND TUBE CUFF
+C0492535,"UNIT, DRYING"
+C0492539,"REGULATOR, TEMPERATURE"
+C0492621,Myringotomy tube inserter
+C0492623,Myringotomy knife
+C0492630,Ear scissors
+C0492646,ENT forceps
+C0492647,ENT speculum holder
+C0492650,ENT mobilizer
+C0492651,ENT probe
+C0492652,ENT retractor
+C0492660,Ethmoid punch
+C0492663,Nasal saw
+C0492708,Microscope micrometer
+C0492749,"TAPE AND BANDAGE, ADHESIVE"
+C0492772,"CUSHION, FLOTATION"
+C0492792,"DISH, TISSUE CULTURE"
+C0492809,"Teething ring, fluid-filled"
+C0492838,"LUBRICANT, PATIENT"
+C0492850,"SET, ANESTHESIA, OBSTETRIC"
+C0492880,"SOLVENT, ADHESIVE TAPE"
+C0492911,Fibrinogen Determination System
+C0492923,"CATHETER, CONTINUOUS FLUSH"
+C0492940,CALIBRATOR FOR HEMOGLOBIN AND HEMATOCRIT MEASUREMENT
+C0492968,ENT trocar
+C0492972,BRONCHOSCOPE ACCESSORY
+C0492977,"SYSTEM, TEST, INFECTIOUS MONONUCLEOSIS"
+C0493020,Fetal cardiac monitor
+C0493195,"GLUCOSE DEHYDROGENASE, GLUCOSE"
+C0493202,"DEVICE, OXIDASE TEST FOR GONORRHEA"
+C0493286,Tracheotome
+C0493299,"ANTINUCLEAR ANTIBODY, ANTIGEN, CONTROL"
+C0493327,CERVICAL CAP FOR CONTRACEPTIVE USE
+C0493419,"RADIOCEPTOR ASSAY, NEUROLEPTIC DRUGS"
+C0493436,CAMPYLOBACTER SPP.
+C0493494,"GRAFT, VASCULAR ACCESS"
+C0493501,"SPACER, CEMENT"
+C0493644,"ANTIGEN, C. DIFFICILE"
+C0493722,Multifocal Intraocular Lenses
+C0493811,"DEVICE, PERCUTANEOUS, BIOPSY"
+C0493817,"DNA PROBE, GARDNERELLA VAGINALIS"
+C0493857,"MONITOR, ST SEGMENT"
+C0493866,HEMOGLOBIN C (ABNORMAL HEMOGLOBIN VARIANT)
+C0493959,GLENOID FOSSA PROSTHESIS
+C0520453,Cannula device
+C0521197,Indwelling urinary catheter
+C0524724,"Staple, Surgical"
+C0524929,Prostheses and Implants
+C0542331,Shunt Device
+C0542459,Aid to hearing
+C0553601,Electrocardiographic monitors
+C0581447,Arterial catheter
+C0588162,Breast tissue expander
+C0590323,Gauzes
+C0595310,Blood glucose testing kit
+C0596206,Bone prosthesis
+C0596972,Monitoring Device
+C0597187,patient monitoring device
+C0677582,"Condoms, Unspecified"
+C0677875,Compression Bandages
+C0687276,"APPARATUS, HIGH PRESSURE LIQUID CHROMATOGRAPHY"
+C0687391,Dark-Field Microscope
+C0687568,Coronary artery stent
+C0687573,Synthetic graft of skin (substance)
+C0687581,Physical therapy table
+C0687738,clean needle
+C0700221,Intravascular line
+C0700351,Burs - medical device
+C0700362,CORKSCREW
+C0702122,Intra-aortic balloon pump device
+C0725066,Advance -- medical device
+C0726642,in touch
+C0727866,Ostomy Skin Barrier
+C0728990,Clinical Use Template
+C0729446,Button battery
+C0740087,Oxygen nasal cannula
+C0740242,Contrast echocardiography device
+C0740245,"TESTER, COLOR VISION"
+C0742379,Chlamydia test kit
+C0745442,Intravenous Catheters
+C0745696,Corrective Lens
+C0750164,venous access
+C0750658,"WEARABLE, DEFIBRILLATOR, AUTOMATIC, EXTERNAL"
+C0770788,Transparent dressing
+C0770807,"TRAY, BLOOD COLLECTION"
+C0770828,"ORTHOSIS, ABDOMINAL"
+C0770874,gonorrhea test
+C0772494,STERILE FIELD
+C0776981,Eye patch
+C0777169,Lancet
+C0791226,Creatine Kinase Test device
+C0807749,Respiratory mask
+C0810516,Cardioverter-Defibrillator
+C0810519,"Defibrillators, External"
+C0810633,Pacemakers
+C0812225,Kit device
+C0812453,Cold Compress
+C0813036,Orthopedic inserts
+C0814019,Nicotine inhaler
+C0850121,Tympanic ventilation tube
+C0878992,Cooling Units
+C0879005,"Catheter, drainage"
+C0879017,examination stools
+C0879203,pigtail catheters
+C0879240,Nasal Swabs
+C0918040,Gelfoam
+C0936234,Computed Tomography Scanning Systems
+C0972395,Automatic Implantable Cardioverter-Defibrillators
+C0982244,KETONE TEST
+C0991556,Transdermal System
+C0991876,Spacer Inhaler
+C0993596,Metered Dose Inhaler
+C0994779,Blood test device
+C0994894,Patch Dosage Form
+C0995127,Embolectomy/thrombectomy catheter
+C0995147,Rasp surgical device
+C1135964,Earplugs
+C1136124,Tube Spacers
+C1136738,"Diapers, Adult"
+C1138654,TOPICAL APPROXIMATION SYSTEM
+C1138730,"TEST, ECARIN CLOTTING TIME (ECT)"
+C1138735,"CEMENT, EAR, NOSE AND THROAT"
+C1138755,"CONSERVER, OXYGEN"
+C1138773,"DEVICE, FLUSH, VASCULAR ACCESS"
+C1138774,"BALLOON, LIVER TAMPONADE"
+C1138878,Consciousness Monitors
+C1138888,Non-invasive blood pressure monitor
+C1139855,Tags (device)
+C1140607,Commodes
+C1140608,Metal detector
+C1140609,Insulin pump
+C1145640,"Central venous catheter, device"
+C1168556,Pins - Internal fixators
+C1168592,Oxyhemoglobin device
+C1258018,Microbubbles
+C1260595,Sickle cell test device
+C1260597,heart valve replacement device
+C1260969,Ring device
+C1260970,Tracheal tube
+C1261188,Swab
+C1262325,"STENT, RENAL"
+C1262326,"STENT, SUPERFICIAL FEMORAL ARTERY"
+C1262336,"STENT, INTRACRANIAL NEUROVASCULAR"
+C1262337,"ANTIBODIES, ANTI-ACTIN, ANTI-SMOOTH MUSCLE"
+C1262350,"SUTURE, NONABSORBABLE, NITINOL"
+C1263430,urine tests kit
+C1272718,Kelly clamp
+C1272719,Metzenbaum scissors
+C1272732,Allis clamp
+C1272835,Test kit
+C1275732,Implantable venous access port
+C1283091,Arterial stent
+C1283123,Sengstaken-Blakemore tube
+C1283124,Minnesota tube
+C1285535,Linton-Nachlas tube
+C1289803,"Long arm splint, device"
+C1289828,Pressure dressing
+C1289829,Packing material
+C1304645,PANENDOSCOPE (GASTRODUODENOSCOPE)
+C1305400,Surgical patch
+C1321564,strip medical device
+C1322293,Pleural catheter
+C1322797,Covered Stent
+C1509845,Unit device
+C1514187,Pneumatic Larynx
+C1532566,Miller laryngoscope blade
+C1533108,Punctal Plugs
+C1550230,Body Parts - Chest Tube
+C1553430,Serum Separator Tube
+C1553633,Maxillary right third molar abutment
+C1576039,Vicryl suture
+C1608324,Vascular Access Ports
+C1609474,Prefilled Syringe
+C1611144,Household ventilator
+C1611676,Thermal Cycler
+C1619679,Oximeter
+C1622509,Blood Pressure Monitor device
+C1704414,Valve Device
+C1704445,Generator Dosage Form
+C1704624,Vaporizer Device
+C1704653,Cell Device
+C1704689,Bearing Device
+C1704730,Packaging Tube
+C1704777,Balloon Device
+C1704779,Battery Device
+C1705115,Recorder Device
+C1705173,Packet (device)
+C1705213,Drug Kit
+C1705235,Detector Device
+C1705499,Flasher Device
+C1705946,Coil Device
+C1706088,Breathing Circuit Device
+C1706135,Cusp Device
+C1706205,Bolt Device
+C1706209,Carrier Device
+C1706255,Packaging Case
+C1706308,Jaw Device
+C1706352,Core Device
+C1706378,Gauge or Meter Device
+C1706424,Calibrator Device
+C1706497,Parenteral Vial
+C1706556,Choke Device
+C1706912,BARRIER
+C1707534,Cup Seal Device
+C1707708,Device Labeled for Single Use
+C1708336,Heart Valve Cage Device
+C1708345,Hemostasis valve
+C1708515,Inner Cannula Device
+C1709004,Meter Needle Device
+C1709557,Pivot Device
+C1709583,Plunger Device
+C1709648,Pressure Signal Device
+C1709739,Protector Device
+C1709769,Pulley Device
+C1709772,Pulser Device
+C1709778,Pusher Device
+C1709905,Repeater Device
+C1709918,Resistor Device
+C1709919,Resolver Device Component
+C1709930,Retaining Pin Device
+C1710081,Side Rail Device
+C1710106,Slip Ring Device
+C1710199,Stopcock Device
+C1710361,Tee Device
+C1710459,Tracheal Seal Device
+C1719274,Biventricular Pacemaker
+C1720469,Sunglasses (physical object)
+C1720563,Prolonged-release transdermal drug delivery system
+C1721049,Capsule Endoscopes
+C1721086,Surgical Fixation Devices
+C1828004,"Magill forceps, device"
+C1875802,Healthcare supplies
+C1875833,Tracheostomy device
+C1875843,ultrasound device
+C1879305,Collars (device)
+C1879462,"CATHETER, FEMORAL"
+C1880310,Dialysate Concentrate
+C1947936,Glass Packaging Device
+C1960093,Nonrebreather oxygen mask
+C1961253,Incentive Spirometers (device)
+C1961676,ENT punch
+C1961833,Shoulder Prostheses (device)
+C1967611,Dry Powder Inhaler (device)
+C1968515,Pack (physical object)
+C2240686,Prefilled Applicator Dose Form
+C2348395,Electrode Grid
+C2684089,"LOOP,CONSTRICTION ADJUSTABLE DEVICE ACTIS"
+C2684091,"TUBE,COLON,22FR,RADIOPAQUE RUBBER B#7370"
+C2697883,Laparoscopic Port
+C2700619,Test Strip (device)
+C2711254,Nasal mask
+C2717762,Septal Occluder Device
+C2717912,Ideal Body Weight Chart
+C2717918,Clinical Alarms
+C2717996,Mosquito Nets
+C2720530,Manometer
+C2720748,Hoods
+C2745925,"Inhalers, Nasal"
+C2746628,"TUBE,RECTAL,24FR,PLASTIC B#6510"
+C2825163,Cardiac Event Monitor
+C2825198,Atrial Lead
+C2825199,Ventricular Lead
+C2825203,Mechanical Aortic Valve
+C2825204,Tissue Aortic Valve
+C2825205,Mechanical Mitral Valve
+C2825206,Tissue Mitral Valve
+C2825933,Rubber Cup
+C2825949,Orthodontic Facemask
+C2826325,Fiducial Markers
+C2911683,Dual Chamber Pacemaker (device)
+C2936377,Cardiac Resynchronization Therapy Devices
+C2936378,"Biventricular Pacemakers, Artificial"
+C2937302,Wick - medical device
+C2937394,"TUBE,NASAL OXYGEN"
+C2939463,"Collapsible balloon, device"
+C2945625,Feeding tube
+C2960094,Umbilical catheter
+C2984091,Auto-Injector
+C2985414,Tethered Capsule Endoscope
+C2985513,Peripheral Venous Catheter
+C2985542,Percutaneous endoscopic tube
+C2987494,Septa - device
+C3152828,WOUND CARE (kit desciptor)
+C3179142,Smoking Cessation Products
+C3204501,Gel Electrode
+C3241923,"Catheters, Urinary, Nephrostomy"
+C3245479,Data call receiving device
+C3273588,Pre-filled Pen Syringe
+C3495449,Mobility aid
+C3496180,SLEEP APNEA (device)
+C3504161,Vascular Closure Devices
+C3540005,URINE TEST DRUGS
+C3641907,Rectal Balloon
+C3642470,MR-Based Treatment Machine
+C3694424,Indwelling Device
+C3812160,Radiotherapy Bolus
+C3829259,Loose Seed Implant
+C3831121,Chest Tube Flutter Valve
+C3854239,Anchor
+C3854314,Metered dose inhaler (physical object)
+C3854330,Gastric band (physical object)
+C3854334,Nasopharyngeal swab (physical object)
+C3854336,Gauge (physical object)
+C3872768,Traction device
+C3876322,Viral filter
+C3878962,Endotracheal tube holder
+C3881509,Anchored bone-conduction hearing aid
+C3897969,Pen Needle
+C4042941,Exoskeleton Device
+C4046099,Robotic Exoskeleton
+C4049974,Prostate Mechanical Imager
+C4053717,Biliary Duct Stent
+C4053877,Ventriculostomy Drain
+C4054178,Pigtail Drain
+C4054317,Oral Endotracheal Tube
+C4054420,Nasal Endotracheal Tube
+C4076036,Supraglottic airway
+C4277526,Static Splints
+C4303876,Oxygen reservoir cannula
+C4318648,COOLER -- device
+C4520792,Radiation Source -- device
+C4552787,Endorectal Coil
+C4706466,Metal stent-graft
+C4707288,External cardiac electrode
+C4708190,Pelvic binder
+C4722220,Melanoma Advanced Imaging Dermatoscope
+C4722594,Straw package type
+C4724238,Pharmaceutical Brush Device
+C4725201,Balling Gun Delivery Device
+C4725264,Drench Gun
+C4725326,Implanter Device
+C4725669,Hepatic Artery Infusion Pump
+C4759784,Atomic Force Microscope
+C4763520,Aspira Indwelling Catheter
+C5202852,Continuous Glucose Monitoring System
+C5203172,FACE SHIELD
+C5206874,Drug Delivery Microdevice

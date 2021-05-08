@@ -1,0 +1,5301 @@
+cui,name
+C0000731,Abdomen distended
+C0000734,Abdominal mass
+C0000804,"Abortion, Criminal"
+C0001118,Acid-Base Imbalance
+C0002453,Amenorrhea
+C0002682,Ampicillin Resistance
+C0003079,Anisocoria
+C0003126,Anosmia
+C0003813,Sinus Arrhythmia
+C0004377,Automatism
+C0005603,Birth History
+C0005607,Birth Order
+C0005687,Bladder distention
+C0005758,Bulla
+C0005826,Abnormal blood pressure
+C0005911,Body Weight Changes
+C0006152,Swelling of breast
+C0006318,Bruit
+C0007166,Low Cardiac Output
+C0007280,Carotid bruit
+C0007294,Genetic Carriers
+C0007465,Cause of Death
+C0009269,Cold intolerance
+C0009488,Comorbidity
+C0009789,Consanguinity (genetic finding)
+C0009791,Consciousness related finding
+C0009866,Contraceptive Failure
+C0009940,Convalescence
+C0010038,Corneal Opacity
+C0010261,Cracked Tooth Syndrome
+C0011053,Deafness
+C0011057,"Hearing Loss, Sudden"
+C0011124,Decreased Libido
+C0011330,Dental Calculus
+C0011998,Diastema of Teeth
+C0012156,Diet Fads
+C0012569,Diplopia
+C0013132,Drooling
+C0013144,Drowsiness
+C0013220,Drug Tolerance
+C0013378,Dysgeusia
+C0013658,Educational Status
+C0014007,Employment Termination
+C0014745,Palmar erythema
+C0015326,Expiratory Reserve Volume
+C0015457,Facial Expression
+C0015663,Fasting
+C0015734,Fecal Impaction
+C0015938,Fetal Macrosomia
+C0016242,Vitreous floaters
+C0016528,Forced Expiratory Flow Rates
+C0016579,Formication
+C0016815,Functional Residual Capacity
+C0016927,Gagging
+C0016928,Gait
+C0017979,Glycosuria
+C0018748,Health Services Accessibility
+C0018772,"Hearing Loss, Partial"
+C0018800,Cardiomegaly
+C0018808,Heart murmur
+C0018811,"Heart Rate, Fetal"
+C0019048,Hemoglobinuria
+C0019209,Hepatomegaly
+C0019521,Hiccough
+C0019572,Hirsutism
+C0019857,Home Childbirth
+C0020303,Hydropneumothorax
+C0020438,Hypercalciuria
+C0020440,Hypercapnia
+C0020461,Hyperkalemia
+C0020505,Hyperphagia
+C0020578,Hyperventilation
+C0020580,Hypesthesia
+C0020621,Hypokalemia
+C0020623,Hypolipoproteinemias
+C0020649,Hypotension
+C0020672,"Hypothermia, natural"
+C0021092,Impacted cerumen
+C0021294,"Infant, Premature"
+C0021610,Inspiratory Capacity
+C0021899,Intrauterine Device Expulsion
+C0022107,Irritable Mood
+C0022410,Joint Instability
+C0022868,Labor Onset
+C0023221,Leg Length Inequality
+C0023974,Loneliness
+C0024032,Low Birth Weights
+C0024103,Mass in breast
+C0024841,"Marriage, life event"
+C0024967,Maximal Voluntary Ventilation
+C0025115,Medication Error
+C0026635,Mouth Breathing
+C0026644,"Mouth, Edentulous"
+C0026751,Multiparity
+C0026826,Muscle Hypertonia
+C0026827,Muscle hypotonia
+C0026858,Musculoskeletal Pain
+C0027080,Myoglobinuria
+C0027343,"Nails, Ingrown"
+C0027429,Nasal obstruction present finding
+C0027443,Natal Teeth
+C0027854,Neurologic Manifestations
+C0029053,Decreased translucency
+C0029131,Abnormality of the optic nerve
+C0029162,Oral health
+C0030232,Pallor
+C0030252,Palpitations
+C0030318,Panic
+C0030563,Parity
+C0031206,Personal Satisfaction
+C0031538,Phimosis
+C0032230,Pleural Rub
+C0032972,Pregnancy Outcome
+C0032989,Multiple Pregnancy
+C0033213,Problem
+C0033687,Proteinuria
+C0033774,Pruritus
+C0034079,Nodule of lung
+C0034359,Pyuria
+C0034642,Rales
+C0034933,"Reflex, Abnormal"
+C0034935,Babinski Reflex
+C0035213,Pulmonary Ventilation
+C0035232,Respiratory Paralysis
+C0035300,Abnormal retinal morphology
+C0035508,Rhonchi
+C0035648,risk factors
+C0036019,Saccades
+C0036454,Scotoma
+C0036973,Shivering
+C0037420,Social Interaction
+C0037431,Social Problems
+C0037932,Curvature of spine
+C0038002,Splenomegaly
+C0038187,Starvation
+C0038238,Steatorrhea
+C0038435,Stress
+C0038661,Suicide
+C0038990,Sweating
+C0038999,Swelling
+C0039231,Tachycardia
+C0039437,Teething syndrome
+C0039621,Tetany
+C0039870,Thinness
+C0040433,Tooth Crowding
+C0040434,Tooth Discoloration
+C0040437,Tooth eruption
+C0040457,"Tooth, Supernumerary"
+C0040509,Total Lung Capacity
+C0041657,Unconscious State
+C0041667,Underweight
+C0041674,Unemployment
+C0041981,Increased uric acid level
+C0042023,Increased frequency of micturition
+C0042282,Valgus deformity
+C0042509,Ventricular End-Diastolic Volume
+C0043084,Weaning
+C0043094,Weight Gain
+C0043352,Xerostomia
+C0043387,Yawning
+C0080048,Privacy
+C0080203,Tachyarrhythmia
+C0080274,Urinary Retention
+C0080308,Ventricular End-Systolic Volume
+C0085086,Weight Bearing
+C0085128,"Cardiac Output, High"
+C0085383,Hypocapnia
+C0085393,Immunocompromised Host
+C0085595,Body odor
+C0085619,Orthopnea
+C0085639,Falls
+C0086066,Acute Coryza
+C0086437,Joint laxity
+C0086439,Hypokinesia
+C0086565,Liver Dysfunction
+C0087130,Uncertainty
+C0087136,Unmarried
+C0117002,Euthyroid (finding)
+C0149508,Obstruction of Eustachian tube
+C0149726,Lung mass
+C0149744,Oral lesion
+C0149823,Acute dilatation of stomach
+C0150009,At risk for activity intolerance
+C0150012,At risk for aspiration
+C0150027,Ineffective family coping
+C0150032,At risk for deficient fluid volume
+C0150034,Impaired gas exchange
+C0150045,Urge Incontinence
+C0150079,Sleep pattern disturbance
+C0150082,At risk for suffocation
+C0150312,Present
+C0150583,Fetal Heart Tone
+C0150598,Sets goals
+C0150618,History and physical examination
+C0151208,Nasal cartilage loss
+C0151233,Cardiac murmur of MI
+C0151347,Synovial biopsy: tenosynovitis
+C0151479,Amylase increased
+C0151529,Prolonged bleeding time
+C0151539,Blood urea increased
+C0151578,Creatinine increased
+C0151583,Abnormality of the cerebrospinal fluid
+C0151598,Decreased Drug Level
+C0151599,Increased Drug Level
+C0151602,Facial swelling (finding)
+C0151611,Electroencephalogram abnormal
+C0151613,Electrolytes abnormal
+C0151631,Low erythrocyte sedimentation rate
+C0151632,Erythrocyte sedimentation rate raised
+C0151662,Gamma-Glutamyltransferase Increased
+C0151671,Glucose tolerance decreased (finding)
+C0151683,Neutrophilia (finding)
+C0151684,Granuloma of skin
+C0151685,Accelerated Growth
+C0151692,Impaired wound healing
+C0151740,Intracranial Hypertension
+C0151754,Lactate Dehydrogenase Increased
+C0151766,Liver function tests abnormal finding
+C0151872,Prothrombin time increased (finding)
+C0151878,Prolonged QT interval
+C0151879,Shortened QT interval
+C0151888,Hyporeflexia
+C0151889,Hyperreflexia
+C0151904,Aspartate Aminotransferase Increased
+C0151905,Alanine Aminotransferase Increased
+C0151907,Discoloration of skin
+C0151934,Hypogeusia
+C0151990,Urinary casts present
+C0151994,Enlarged uterus
+C0151995,Uterine Corpus Degenerated Leiomyoma
+C0152009,White blood cell abnormality
+C0152030,Skin irritation
+C0152031,Joint swelling
+C0152191,"Scotoma, Central"
+C0154270,Localized adiposity
+C0154920,Pigmentary iris degeneration
+C0154936,Pupillary abnormality
+C0155100,Peripheral opacity of cornea
+C0155540,Ear discharge
+C0156404,Irregular Menstruation
+C0156543,Unspecified Abortion
+C0157733,Abnormal hair morphology
+C0158915,Exceptionally large baby (disorder)
+C0159059,Visible peristalsis
+C0159060,Abnormal bowel sounds
+C0161008,Foreign body in nose
+C0162119,Hemoglobin low
+C0162643,treatment failure
+C0162703,Pain Threshold
+C0178415,Raised prostate specific antigen
+C0178808,Preoperative state
+C0178815,psychological stressor
+C0184511,Improved
+C0184512,Stabilized (qualifier value)
+C0184544,Medication Risk
+C0184570,Peripheral vascular alteration
+C0184571,Renal alteration
+C0205082,Severe (severity modifier)
+C0205160,Negative
+C0205161,Abnormal
+C0205255,Imprisonment (finding)
+C0205400,Thickened
+C0205557,False Positive
+C0206160,Reticulocytosis
+C0206177,Physiologic intraventricular pressure
+C0206275,Widowhood
+C0206308,Dual diagnosis (psychiatry)
+C0220761,Dizygotic twins (disorder)
+C0220797,biopsy characteristics
+C0220854,Hyperpnea
+C0221082,adverse effect due to surgery
+C0221101,Pel Ebstein fever
+C0221104,Hyperviscosity
+C0221158,Multifocal atrial tachycardia
+C0221185,Xanthopsia
+C0221198,Lesion
+C0221203,Vesicular rash
+C0221226,Distended umbilical veins
+C0221245,Fissure in skin
+C0221263,Cafe-au-Lait Spots
+C0221621,Chondrocalcinosis present
+C0221629,Proximal muscle weakness
+C0221690,Syndesmophyte
+C0227791,Vaginal Discharge
+C0229197,Retinal fold (finding)
+C0231170,Disability
+C0231173,Invalidism
+C0231187,Decompensation
+C0231221,Asymptomatic
+C0231224,Crisis
+C0231225,Pain crisis
+C0231246,Failure to gain weight
+C0231254,Increased body mass index
+C0231255,Decreased body mass index
+C0231262,Temperature normal
+C0231287,Postoperative state
+C0231303,Distress
+C0231337,Senility
+C0231353,Deficient Food Intake
+C0231377,At risk for impaired home maintenance management
+C0231418,At risk for violence
+C0231441,Immobile
+C0231444,Flail motion
+C0231454,Increased flexion
+C0231475,Decorticate posture
+C0231519,Gegenhalten
+C0231530,Muscle twitch
+C0231666,Wrist-Drop
+C0231669,Finkelsteins test response
+C0231679,Ulnar deviation of the fingers
+C0231686,"Gait, Unsteady"
+C0231687,Spastic gait
+C0231698,"Gait, Scissors"
+C0231819,Air trapping
+C0231835,Tachypnea
+C0231837,Slow respiration
+C0231856,Abnormal breath sounds
+C0231872,Egophony
+C0231873,Bronchial breathing
+C0231919,Nasal mucosa dry
+C0231974,Anatomical dead space
+C0232021,Peak inspiratory pressure
+C0232051,Cough reflex
+C0232101,exsanguinated
+C0232118,Pulsus paradoxus
+C0232132,Weak arterial pulse
+C0232180,Cardiac shunt
+C0232200,Gallop rhythm
+C0232201,Sinus rhythm
+C0232202,Normal sinus rhythm
+C0232210,Junctional escape beats
+C0232214,Ventricular escape beat
+C0232237,S3 - Third heart sound
+C0232257,Systolic Murmurs
+C0232258,Pansystolic murmur
+C0232259,Mid-systolic murmur
+C0232262,Diastolic Murmurs
+C0232267,Pericardial friction rub
+C0232269,Cardiac thrill (finding)
+C0232275,Opening snap
+C0232278,Protodiastolic gallop with abnormally audible third heart sound
+C0232297,Left axis deviation
+C0232308,P pulmonale by EKG (finding)
+C0232310,P mitrale (finding)
+C0232333,Electrocardiogram U wave present
+C0232339,Normal vascular flow
+C0232347,No-Reflow Phenomenon
+C0232359,Increased capillary filling time
+C0232459,Abnormal digestive tract function
+C0232466,Feeding difficulties
+C0232474,Increased peristalsis
+C0232475,Decreased peristalsis
+C0232488,Abdominal colic
+C0232599,Vomiting bile
+C0232605,Regurgitates after swallowing
+C0232693,Bowel sounds
+C0232694,Hyperactive bowel sounds
+C0232695,Decreased bowel sounds
+C0232696,Bowel sounds absent
+C0232744,Decreased liver function
+C0232799,Grey Turner's sign
+C0232805,Normal renal function
+C0232823,Osmotic diuresis
+C0232831,Impairment of urinary concentration
+C0232915,No visible estrus
+C0232937,Missed period
+C0232970,Postmenopausal state
+C0232973,Not pregnant (finding)
+C0232989,Normal pregnancy
+C0233224,Finding related to attitude of fetus
+C0233256,Fetal Malpresentation
+C0233257,Longitudinal fetal presentation
+C0233269,Face presentation
+C0233283,Complete breech presentation
+C0233286,Frank Breech Presentation
+C0233302,Funic presentation
+C0233308,Spontaneous rupture of membranes
+C0233315,Premature birth of newborn
+C0233417,Poor concentration (finding)
+C0233471,Flat affect
+C0233481,Worried
+C0233542,Family conflict
+C0233715,Speech impairment
+C0233849,Personality Traits
+C0233921,Sexual exposure
+C0233931,Nocturnal emission
+C0234004,Trial separation
+C0234146,Absent reflex
+C0234147,Knee reflex
+C0234162,Cerebellar Dysmetria
+C0234180,Chvostek sign
+C0234181,Trousseau sign
+C0234216,Hemianesthesia
+C0234225,Absence of pain
+C0234422,Awake
+C0234425,Level of consciousness
+C0234428,Disturbance of consciousness
+C0234509,Finger Agnosia
+C0234518,Slurred speech
+C0234543,Post-ictal state
+C0234622,Emmetropia
+C0234629,Abnormal color vision
+C0234632,Reduced visual acuity
+C0234665,Retraction of eyelid
+C0234708,Raised intraocular pressure (finding)
+C0234861,Cri du chat
+C0234918,Morbilliform rash
+C0234987,Postural dizziness
+C0235008,MUSCULAR HYPERACTIVITY
+C0235042,Does crawl (finding)
+C0235095,Visual field constriction
+C0235195,Sedated state
+C0235198,Unable to concentrate
+C0235207,yawning excessive
+C0235231,Pin point pupils
+C0235248,Peripheral vasoconstriction
+C0235396,Hypertonicity
+C0235415,salt retention
+C0235461,Androgen excess
+C0235472,Abnormal pulse
+C0235475,Wide QRS complex
+C0235532,Peripheral cyanosis
+C0235546,Slow shallow breathing
+C0235557,Pulmonary granuloma
+C0235659,Reduced fetal movement
+C0235735,Unexpected therapeutic effect
+C0235744,Breath Holding
+C0235818,Bullous eruption
+C0235821,Increased therapeutic response
+C0235827,Decreased therapeutic response
+C0235828,Lack of Efficacy
+C0235857,Lacrimation decreased
+C0235896,Pulmonary Infiltrate
+C0235932,lung irritation
+C0235971,Elevated alpha-fetoprotein
+C0235986,Growth hormone excess
+C0235991,Small for gestational age (disorder)
+C0236018,Aura
+C0236062,Haptoglobin Decreased
+C0236071,Feeling of throat tightness
+C0236175,Increased circulating total IgE level
+C0237137,foul odor
+C0237154,Homelessness
+C0237284,unresponsive behavior
+C0237299,tremors and/or seizures
+C0237313,Pulse deficit
+C0237361,Physical activity - other
+C0237677,insensitivity
+C0237849,Peeling of skin
+C0238300,Stenosis of nasolacrimal duct
+C0238547,Abdominal guarding (finding)
+C0238569,Abdominal rebound tenderness
+C0238651,Ankle clonus
+C0238699,Western Asian
+C0238705,Left atrial hypertrophy
+C0238729,Mass of axilla
+C0238732,AXILLARY PURPURA
+C0238819,Red breast
+C0238898,Carotenosis Cutis
+C0239043,Difficulty chewing
+C0239064,Jaw claudication
+C0239067,Difficulty walking up stairs
+C0239074,Clue cells present
+C0239076,Cocaine user
+C0239093,Conjunctival irritation
+C0239110,Consciousness clear
+C0239126,corticosteroid use
+C0239134,Productive Cough
+C0239137,Coxa valga
+C0239138,Hip joint varus deformity - observation
+C0239154,High pitched cry
+C0239174,Late tooth eruption
+C0239177,DERMATOMAL RASH
+C0239242,T Wave Peaked by ECG Finding
+C0239301,estrogen use
+C0239340,Edema of lower extremity
+C0239343,Acral erythema
+C0239479,Round face
+C0239488,Facial erythema
+C0239496,FACIAL HAIR (finding)
+C0239548,"Fasciculation, Tongue"
+C0239571,Fetor hepaticus
+C0239574,Low grade fever
+C0239676,High forehead
+C0239707,Digestive System Hemangioma
+C0239830,Hand muscle atrophy
+C0239831,Hand muscle weakness
+C0239935,Hematocrit increased
+C0239937,Microscopic hematuria
+C0239940,Hemoglobin A1c Increased
+C0239941,Persistence of hemoglobin F
+C0239984,Increased circulating IgA level
+C0239997,Maternal infection
+C0239998,Recurrent infections
+C0240083,Abnormal joint morphology
+C0240095,JOINT WARMTH
+C0240130,Swollen knee region
+C0240147,LACRIMAL DYSFUNCTION
+C0240173,Left shifted white blood cells
+C0240231,Fractures of the long bones
+C0240318,Mediastinal mass
+C0240320,medication use
+C0240379,Open mouth (finding)
+C0240417,muscle mass
+C0240425,MUSHROOM EXPOSURE
+C0240464,Neck Edema
+C0240479,Neck muscle weakness
+C0240547,Deformity of the nose
+C0240601,OPIOID TOLERANCE
+C0240607,orbital pain
+C0240611,Mass of ovary
+C0240649,Palmar pruritus
+C0240671,Partial thromboplastin time increased (finding)
+C0240682,Pelvic Girdle Pain
+C0240709,Pericardial constriction
+C0240783,Increased circulating renin level
+C0240795,positional
+C0240840,Narrow pulse pressure
+C0240859,Basilar Rales
+C0240873,Rectal mass
+C0240893,RESPIRATORY REFLEX LOSS
+C0240897,Retinal exudates
+C0240916,Roth spots
+C0240919,Rural
+C0240953,Winged scapula
+C0240962,Scleral icterus
+C0241005,Creatine phosphokinase serum increased
+C0241013,Increased serum ferritin
+C0241028,Sexually active
+C0241126,Moist skin
+C0241148,Cutaneous plaque
+C0241157,pustule
+C0241158,Scar Tissue
+C0241165,Thick skin
+C0241181,Fragile skin
+C0241225,spinal defect
+C0241236,Does squat (finding)
+C0241240,Tall stature
+C0241246,STERNAL TENDERNESS
+C0241267,Absence of subcutaneous fat
+C0241277,Swelling of subcutaneous tissue
+C0241311,post operative (finding)
+C0241314,Sweet craving
+C0241353,Testicular mass
+C0241355,Small testicle
+C0241442,Protrusion of tongue
+C0241451,Exudate on tonsils
+C0241488,TRUNK MACULOPAPULAR RASH
+C0241521,Ulnar deviation of hand
+C0241526,Unresponsiveness
+C0241606,UVULAR DISPLACEMENT
+C0241607,UVULAR EDEMA
+C0241635,Erythema of vagina
+C0241654,Abnormal heart valve morphology
+C0241657,Abnormality of the vasculature
+C0241668,venous distention
+C0241688,Peripheral visual field loss
+C0241703,High pitched voice
+C0241729,Weight fluctuates
+C0241775,Organic aciduria
+C0241863,diabetic
+C0241889,Family history
+C0241934,Hypomania
+C0242271,Employment status
+C0242385,Crossbite
+C0242771,Cephalosporin Resistance
+C0243095,Finding
+C0259752,Hyperosmolarity
+C0259758,Incomplete Bundle Branch Block
+C0260515,Family history of cancer
+C0260662,Hearing problem
+C0262365,Mammography abnormal
+C0262374,Stricture of anus
+C0262444,Abnormality of the dentition
+C0262461,Eccentric visual fixation
+C0262463,Increased blood lead level
+C0262478,Wrinkled face
+C0262496,Molecular Abnormality
+C0262512,History of present illness
+C0262613,Renal mass
+C0262926,Medical History
+C0263540,Nail Loss
+C0263870,Narrowing of intervertebral disc space
+C0264169,Saddle nose
+C0264576,Mediastinal shift
+C0264902,Unifocal PVCs
+C0264939,Systemic Vasculitis
+C0265898,Coronary artery fistula
+C0266052,Precocious exfoliation of primary tooth
+C0266054,Premature tooth eruption
+C0266813,Fecal occult blood: positive
+C0266981,Torus palatinus
+C0268128,Orotic aciduria
+C0269011,Increased size of penis
+C0269734,Retroverted Gravid Uterus
+C0269845,Prolapsed cord
+C0270328,Diurnal Enuresis
+C0270614,Intracranial mass
+C0271196,"Scotoma, Centrocecal"
+C0271198,"Scotoma, Arcuate"
+C0277589,Death of unknown cause
+C0277591,Unexpected death
+C0277608,Death in hospital
+C0277638,Accidental death
+C0277786,Chief complaint (finding)
+C0277787,Social stigmata
+C0277797,Apyrexial
+C0277799,Intermittent fever (finding)
+C0277803,Normal vital signs
+C0277804,Abnormal vital signs
+C0277814,Sitting position
+C0277828,Late fontanel closure
+C0277839,Hoffman's Reflex
+C0277854,dyspneic
+C0277858,Absent breath sounds
+C0277877,Radiologic infiltrate of lung
+C0277885,Decreased systolic arterial pressure
+C0277890,Decreased diastolic arterial pressure
+C0277898,Normal pulse
+C0277899,Absent pulse
+C0277925,Cold extremity
+C0277937,Skin turgor
+C0277942,Butterfly rash
+C0277959,Coarse hair
+C0277960,Dry hair
+C0278016,Hard stool
+C0278026,Aciduria
+C0278030,Color of urine
+C0278034,Cloudy urine
+C0278060,Mental state
+C0278138,Mild pain
+C0278151,facial muscle spasm
+C0278180,Drugged state
+C0278244,Red reflex (finding)
+C0278252,Prognosis bad
+C0278960,History of myocardial infarction within 6 months
+C0279134,Prior Radiation Therapy
+C0279752,Premenopausal - menopausal status
+C0280956,Poor Vascular Access
+C0281825,Dysequilibrium
+C0281986,Sterile pyuria
+C0282021,uncircumcised
+C0302133,Mottling
+C0302313,Osteolytic lesion
+C0302604,Encounter due to low income
+C0302845,MCV - raised
+C0311277,"Obesity, Abdominal"
+C0311392,Physical findings
+C0311394,Difficulty walking
+C0311395,Lameness
+C0311468,Increased bilirubin level (finding)
+C0312413,Overflow incontinence of urine
+C0314761,Normal flora
+C0332119,Past history of
+C0332124,No past history
+C0332128,Examined
+C0332145,Postmortem Diagnosis
+C0332148,Probable diagnosis
+C0332149,Possible
+C0332151,Asymptomatic diagnosis of
+C0332155,Did not receive therapy or drug for
+C0332167,High risk of
+C0332218,Difficult (qualifier value)
+C0332377,Tumor stage TX
+C0332461,Plaque (lesion)
+C0332477,Erythematous plaque
+C0332516,Symmetrical
+C0332523,Retraction (finding)
+C0332535,Friability (finding)
+C0332563,Papule
+C0332572,Abnormal color
+C0332573,Macule
+C0332575,Redness
+C0332579,Lividity
+C0333139,Gas retention
+C0333271,Bloody discharge finding
+C0333361,Acute inflammation
+C0333744,Mallory Bodies
+C0333812,Basophilic Stippling
+C0334212,Cervical mucous arborization
+C0337664,Smoker
+C0337667,Cigarette smoker (finding)
+C0337671,Former smoker
+C0337672,Non-smoker
+C0337676,Social drinker
+C0339662,Afferent Pupillary Defect
+C0339693,Internal Ophthalmoplegia
+C0341564,Gastric Anastomotic Leakage
+C0342420,Pituitary cyst
+C0342548,Early menarche
+C0342582,Pseudohyponatremia
+C0342952,Hypermetabolism
+C0343166,Knee joint effusion
+C0343495,Lockjaw
+C0344232,Blurred vision
+C0344307,Absence of pain sensation
+C0344311,Blistering eruption
+C0344329,Collapse (finding)
+C0344357,Nocturnal dyspnea
+C0344421,Electrocardiogram: right bundle branch block
+C0344431,"Ventricular tachycardia, monomorphic"
+C0347530,Base deficit (finding)
+C0347697,Secondary hemorrhage
+C0347944,Pelvic mass
+C0349482,High birth weight
+C0349588,Short stature
+C0349702,Corneal Scar
+C0349705,Abnormal hemoglobin finding
+C0349790,Exacerbation of asthma
+C0362063,Other prophylactic chemotherapy
+C0362065,Encounter due to sterilization
+C0362085,Encounter due to diagnostic skin or sensitization test
+C0375548,No vomiting
+C0376415,Late Onset Disorders
+C0376705,Viral Load result
+C0391841,Oxygen content
+C0391870,Abnormality of red blood cells
+C0392162,Clammy skin
+C0392178,Lipiduria
+C0392191,Irregular tachycardia
+C0392209,Nutritional status
+C0392386,Decreased platelet count
+C0392684,Pulse irregular
+C0392692,Decreased serum protein level
+C0392703,Shakes
+C0392751,In prison (finding)
+C0393009,Level of Evidence
+C0396053,Singers' nodes
+C0396064,Bowing of vocal cord
+C0399519,Asymmetry of maxilla
+C0404588,Finding related to risk factor in pregnancy
+C0405028,Long umbilical cord
+C0405124,Nuchal Cord
+C0406834,Wound discharge finding
+C0410916,Neonatal Death
+C0410918,Fetal tachycardia
+C0410935,Wide cranial sutures
+C0412771,Spontaneous respiration
+C0417744,Mosquito bite -- finding
+C0421611,Place of death
+C0422809,Number of fetuses
+C0422837,Neurological observations
+C0422974,Sees haloes around lights
+C0422985,Binocular diplopia
+C0423000,Visual neglect
+C0423153,Lacrimation
+C0423224,Sunken eyes
+C0423232,Corneal epithelial staining pattern
+C0423250,Corneal stromal opacities
+C0423276,Shallow anterior chamber of eye
+C0423280,Deep anterior chamber of eye
+C0423281,Anterior chamber flare
+C0423285,Keratic precipitates
+C0423301,Pupil reactions normal
+C0423401,Retinal arterial tortuosity
+C0423421,Atrophic macular change
+C0423477,Ear finding
+C0423581,Have Numbness
+C0423602,Foreign body sensation
+C0423742,Painful intercourse female
+C0423757,Thin skin
+C0423791,Maculopapular Lesion
+C0423798,Increased tendency to bruise
+C0423823,Thin nails
+C0423867,Fine hair
+C0423899,Above average intellect
+C0423908,Difficulty making decisions
+C0424000,Feeling suicidal (finding)
+C0424092,Withdrawn
+C0424109,Weepiness
+C0424230,Motor retardation
+C0424323,Physical aggression
+C0424336,Delayed reaction time - finding
+C0424366,Self-harm
+C0424375,Biting self
+C0424448,Mask-like facies
+C0424470,Undressed
+C0424489,Chapping of lips
+C0424496,Plethoric face
+C0424503,Dysmorphic facies
+C0424522,Asleep
+C0424532,Semiconscious
+C0424547,Moribund (finding)
+C0424551,Impaired exercise tolerance
+C0424561,Bleeds profusely
+C0424578,Psychological Well Being
+C0424589,Vitality
+C0424594,Frailty
+C0424596,Illness: Cannot describe symptoms
+C0424641,Decrease in height
+C0424683,Chest circumference (observable entity)
+C0424688,Small head
+C0424730,Finding of palmar crease
+C0424731,Single transverse palmar crease
+C0424742,Warm extremities
+C0424823,Parotid swelling
+C0424927,Details of education
+C0424945,Social and personal history
+C0425043,Death of relative
+C0425087,Made redundant (finding)
+C0425105,Return to Work
+C0425152,Engaged to be married
+C0425245,Mobility as a finding
+C0425251,Bed-ridden
+C0425293,Never smoked tobacco
+C0425358,North American origin (finding)
+C0425382,Personal status - Adopted
+C0425422,restricted diet
+C0425442,Respiratory System Finding
+C0425446,No breathlessness
+C0425466,Respiratory effort
+C0425470,Intercostal Retractions
+C0425488,Rapid shallow breathing
+C0425492,Irregular breathing
+C0425502,No cough
+C0425542,Added respiratory sounds
+C0425548,Transmitted sounds
+C0425560,Cardiovascular finding
+C0425593,Fourth sound gallop
+C0425614,Heart sounds diminished
+C0425687,Jugular venous engorgement
+C0425710,Peripheral perfusion
+C0425772,Premature development of the breasts
+C0425782,Breast size
+C0425934,Measure of duration of menstrual cycle
+C0425963,Obstetric history
+C0425979,Nulliparous
+C0426012,Height of uterine fundus
+C0426037,Fetal heart finding
+C0426146,Incomplete breech presentation
+C0426164,Acromion presentation
+C0426180,Engagement of presenting part
+C0426199,Intact membranes
+C0426209,amniotic fluid meconium stained
+C0426226,Placental finding
+C0426345,Retraction of foreskin
+C0426346,Foreskin retracts
+C0426396,Urine looks dark
+C0426415,Large nose
+C0426421,Wide nose
+C0426422,Narrow nose
+C0426439,Narrow nostril
+C0426440,Large nostrils
+C0426489,Gingival cleft
+C0426492,Small tongue
+C0426578,Appetite normal
+C0426642,Frequency of bowel action
+C0426647,Finding of passage of meconium
+C0426682,Fluid thrill in abdomen
+C0426703,Kidney finding
+C0426739,Stool size
+C0426779,Musculoskeletal System Finding
+C0426790,Narrow thorax
+C0426801,Broad clavicle
+C0426805,Hooked clavicle
+C0426808,Long clavicle
+C0426818,Thin rib
+C0426820,Thick rib
+C0426827,Gap in ribs
+C0426848,Sacral dimple
+C0426886,Tapering fingers (finding)
+C0426891,Broad thumbs
+C0426976,Poor posture
+C0427065,Distal muscle weakness
+C0427108,General unsteadiness
+C0427149,"Gait, Drop Foot"
+C0427184,No incoordination
+C0427195,Muscle Tension
+C0427257,Joint stability
+C0427262,Unstable knee
+C0427437,MCH - low
+C0427457,RBC count low
+C0427540,Blast cells present
+C0427620,Blood group A (finding)
+C0427624,Blood group AB
+C0427630,Rh negative (finding)
+C0427965,Antimicrobial susceptibility
+C0428167,Inspired fraction of oxygen
+C0428282,Serum creatinine low
+C0428465,Serum lipids high (finding)
+C0428642,Pulmonary artery pressure
+C0428643,Pulmonary artery systolic pressure
+C0428644,Pulmonary artery diastolic pressure
+C0428646,Oxygen concentration
+C0428686,Inspiratory time
+C0428687,Expiratory time
+C0428713,Cerebral Perfusion Pressure
+C0428714,Cerebral Blood Flow
+C0428720,End-expiratory pressure
+C0428743,Ventilator rate
+C0428776,Cardiac index
+C0428870,Left to right cardiovascular shunt (finding)
+C0428871,Right to left cardiovascular shunt (finding)
+C0428872,Bidirectional cardiovascular shunt
+C0428877,Atrial Pressure
+C0428886,Mean blood pressure
+C0428977,Bradycardia
+C0429027,Narrow QRS complex
+C0429087,Electrocardiogram: P-R interval
+C0429091,R wave feature
+C0429097,QRS complex feature
+C0429103,T wave feature
+C0429199,Hearing change
+C0429206,Nasal pressure
+C0429216,Gastric pressure
+C0429306,Burst suppression
+C0429406,Pattern ERG N95
+C0429477,Baseline fetal heart rate
+C0429478,Fetal Heart Rate Variance from Normal Baseline
+C0429480,Fetal heart deceleration
+C0429481,Early fetal heart deceleration
+C0429482,Late fetal heart deceleration
+C0429523,Angle patency
+C0429528,Angle closure
+C0429620,Bone maturation age
+C0429632,Total body water
+C0429633,Total body potassium (observable entity)
+C0429681,Static lung compliance
+C0429711,Expiratory vital capacity
+C0429742,Peak inspiratory flow rate
+C0429856,Arterial flow
+C0429863,"Pulsatility index, arterial velocity waveform"
+C0429866,Arterial pressure index
+C0429877,Tissue perfusion measure
+C0429916,Number of miscarriages
+C0429956,Bowels: fully continent (finding)
+C0429964,Dependent for dressing
+C0429966,Independent with dressing
+C0429986,Dependent for bathing
+C0436032,"Fracture of crown of tooth, enamel only"
+C0436319,No symptom pattern
+C0436331,Symptom aggravating factors
+C0436343,Symptom mild
+C0436471,Renal arteriogram normal
+C0438098,H/O: stillbirth
+C0438142,Urine screening abnormal
+C0438154,Electrocardiogram finding
+C0438186,Lung function testing normal
+C0438235,Liver function tests normal
+C0438242,Blood urea abnormal
+C0438286,Absent response to treatment
+C0439044,Living Alone
+C0439662,Immune
+C0439663,Infected
+C0441960,N2 category
+C0441962,N1 category
+C0441971,Metastasis stage M1
+C0442726,Detected (finding)
+C0442735,Nothing
+C0442737,Not detected
+C0442739,No status change
+C0442740,No reaction
+C0442797,Decreasing
+C0442844,Crystal deposition
+C0443168,Cardiac activity
+C0443213,Extrusion
+C0443343,Unstable status
+C0445100,Non-weight-bearing
+C0445356,Unrelated (finding)
+C0449381,Observation parameter
+C0449411,Causative_agents
+C0449416,Source
+C0449417,Source of energy
+C0449437,Patient status
+C0449752,Ulnar deviation
+C0449850,Patient position finding
+C0449901,Peritoneal dialysis used
+C0450094,Grade three rank
+C0452415,"Diet, Healthy"
+C0454596,"Dysarthria, Spastic"
+C0455204,Homicidal thoughts
+C0455205,Skin finding
+C0455458,PMH - past medical history
+C0455471,History of malignant neoplasm
+C0455503,H/O: depression
+C0455588,H/O: poisoning
+C0455624,History of - risk factor
+C0455769,Increased energy
+C0455825,Left ventricular mass
+C0455987,Late neonatal death
+C0456128,Term infant (finding)
+C0456132,Large fontanelle
+C0456133,Small fontanelle
+C0456181,Right ventricular systolic pressure level
+C0456189,Left ventricular systolic pressure
+C0456190,Left ventricular end-diastolic pressure level
+C0456240,Core body temperature
+C0456261,Pulmonary Vascular Resistance
+C0456814,Loss of motivation
+C0456892,Low intracranial pressure
+C0457085,Sausage toe
+C0457086,Morning stiffness - joint
+C0457245,Variable fetal heart decelerations
+C0457246,Prolonged fetal heart deceleration
+C0457639,Good oral hygiene
+C0457640,Poor oral hygiene
+C0457750,Tooth angulation
+C0457756,Tooth absent
+C0457801,Current non-drinker of alcohol
+C0458074,Human immunodeficiency virus (HIV) status
+C0458247,Allodynia
+C0458254,Cramping pain
+C0459190,Arch trunk position
+C0459816,Gangrene of toe
+C0459907,Cervical os open
+C0459908,Cervical os closed
+C0460077,Sample lipemic (finding)
+C0460139,Pressure (finding)
+C0473237,Frank hematuria
+C0474395,Behavior showing increased motor activity
+C0474407,Bizarre behavior
+C0474432,Offensive body odor
+C0474444,Corneal stromal edema
+C0474509,Feces normal
+C0474529,Hemoglobin normal
+C0474715,ECG myocardial ischemia
+C0475269,Tumor grade G1
+C0475372,Tumor stage T1
+C0475373,Tumor stage T2
+C0475374,Tumor stage T3
+C0475413,Tumor stage Tis
+C0475689,History of hemolytic anemia
+C0475704,Observation of color of skin
+C0475747,Deep anesthesia
+C0475751,Tumor stage T4
+C0475806,1/3 meter (distance vision finding)
+C0475809,Color of sputum
+C0475880,Sample hemolyzed
+C0476327,Serum Amylase Increased
+C0476337,Blood gases abnormal
+C0476369,Echocardiogram abnormal
+C0476405,Lung function testing abnormal
+C0481485,Encounter for artificial heart valve
+C0481493,Has colostomy
+C0481504,Maintenance Chemotherapy
+C0481667,Live Birth
+C0483203,NRBC - Nucleated red blood cell present result
+C0489542,History of travel
+C0489547,Hospital course
+C0489642,Intrapulmonary shunt
+C0489749,Rectal temperature
+C0495285,Deliveries by destructive operation
+C0495689,smell and taste disorder
+C0495706,elevated blood glucose level
+C0496682,Encounter due to unemployment
+C0497202,Abnormal ocular motility
+C0497247,Increase in blood pressure
+C0497365,Generalized rash
+C0497406,Overweight
+C0516535,safety of children
+C0516979,energy level
+C0516981,Physical function
+C0517226,Physical Well-being
+C0517356,"Libido, CTCAE"
+C0517929,Muscle function outcome
+C0517967,Respiratory pattern
+C0518003,autonomic function
+C0518010,body mass
+C0518014,Hematocrit level
+C0518026,body fat percentage (physical finding)
+C0518031,Endurance
+C0518087,Pain level
+C0518447,extremity fractures
+C0518450,Spinal fracture risk control
+C0518455,Control of Closed head injuries
+C0518459,Dressing self-care
+C0518460,Bathing self care
+C0518595,Sleep Efficiency
+C0518609,Consideration
+C0518610,Social warmth
+C0518656,Chronic fatigue
+C0520753,Swallowed Foreign Body in Digestive System
+C0520823,Patellar clonus
+C0520836,Forced expiratory volume increased
+C0520842,Increased peak expiratory flow rate
+C0520843,Decreased peak expiratory flow rate
+C0520849,Normal pulmonary arterial wedge pressure
+C0520850,Increased pulmonary arterial wedge pressure
+C0520851,Decreased pulmonary arterial wedge pressure
+C0520861,Raised jugular venous pressure
+C0520878,Shortened PR interval
+C0520886,ST segment elevation (finding)
+C0520887,ST segment depression (finding)
+C0520888,Inverted T wave
+C0520946,Emotional hypersensitivity
+C0520966,Abnormal coordination
+C0521428,Adrenal
+C0521525,Short neck
+C0521532,Diaphragmatic paresis
+C0521654,Neurologic Deficits
+C0521874,Victim of neglect (finding)
+C0521983,Absence of therapeutic response
+C0521987,Pre-existing condition
+C0522055,Electrocardiogram abnormal
+C0522082,Normal glucose level
+C0522153,Urine Discoloration
+C0522157,Pregnancy with Intrauterine Device
+C0522224,Paralysed
+C0541749,Does turn (finding)
+C0541813,Kussmaul's respiration
+C0541817,BURN LOCAL
+C0541819,burning rectal
+C0541911,Dullness
+C0541919,dystonic reaction
+C0542073,lip smacking
+C0542115,NEUROLOGIC CHANGES
+C0542127,Oversedated
+C0542203,Water retention (finding)
+C0542243,toxic reaction (non-specific)
+C0542247,Tremulousness
+C0542277,Cleans drug injection equipment finding
+C0542518,Enlarged kidney
+C0542538,Observation of Sensation
+C0543441,Voice changes due to male physical maturation
+C0544452,Disease remission
+C0544726,Hole Finding
+C0544755,Genu varum
+C0545053,Advanced bone age
+C0546258,Nephrostomy Site
+C0546259,Tracheostomy site
+C0546884,Hypovolemia
+C0546956,Trachyonychia
+C0547030,Visual disturbance
+C0549099,Perforation (observation)
+C0549123,Large tonsils (finding)
+C0549184,None
+C0549206,Patient currently pregnant
+C0549249,Depressed Level of Consciousness
+C0549370,Pancreatic Enzymes Decreased
+C0549399,Low density lipoprotein increased
+C0549406,INSTABILITY CARDIOVASCULAR
+C0549409,Packed cell volume increased
+C0549433,Surgical intervention (finding)
+C0549448,Hemoglobin increased
+C0549465,Observation of tone of skeletal muscle
+C0549474,Device migration
+C0549634,Lipids abnormal
+C0549649,MISUSE
+C0549651,Abnormality of the lens
+C0552506,Immunization status
+C0552579,Pregnancy Status
+C0553544,Gaze
+C0553584,Encounter due to routine chest X-ray
+C0553700,Actual blood loss
+C0553727,Muscular paralysis
+C0554854,Blood for culture
+C0554970,Pallor of optic disc
+C0555047,Married (finding)
+C0556280,Gross motor impairment
+C0556298,Occasional drinker
+C0556338,Drinker
+C0556398,Sniffs drugs
+C0557094,Number of siblings
+C0557128,Lives with friends
+C0557130,Lives with family
+C0557163,Household income
+C0557286,No formal education
+C0557351,Employed
+C0557880,No injuries apparent
+C0558141,Transsexual (finding)
+C0558143,Macerated skin (finding)
+C0558145,Skin appearance normal (finding)
+C0558171,Deteriorating vision
+C0558368,Vaginal irritation
+C0558762,Lymphadenopathy absent
+C0558844,Knee reflex absent
+C0558845,"Reflex, Ankle, Absent"
+C0559306,Endocrine finding
+C0559473,maternal history
+C0559565,Finding related to pregnancy
+C0559593,Convenience food intake
+C0559873,Magnesium intake
+C0559892,Normal menstruation - observation
+C0560046,Unable to walk (finding)
+C0560169,dermatological finding
+C0560175,Carrier of disorder
+C0560184,Ability to balance
+C0560414,Does tiptoe
+C0560435,Does skip
+C0560453,Does jump
+C0560837,Does sit up
+C0560902,Does turn head (finding)
+C0561942,Does climb
+C0562007,Does move head
+C0562340,Poor daily routine
+C0562366,Peer Pressure
+C0562381,Victim of abuse finding
+C0562389,Victim of child abuse
+C0562491,Cardiac cachexia
+C0562551,Shouting
+C0563243,Poor coordination
+C0563664,At risk for suicide
+C0564182,Vocalization (finding)
+C0564221,Difficulty talking
+C0564405,Feeling relief
+C0564408,Manic mood
+C0566001,Does communicate
+C0566217,Does ask questions
+C0566620,Nasal voice
+C0566690,Vaginal delivery (finding)
+C0566873,Normal fetal heart rate
+C0566899,Small labia majora
+C0566967,No vaginal blood loss
+C0567091,Gravid Uterus (finding)
+C0567125,Regular uterine contractions
+C0567132,Mild uterine contractions
+C0567312,Menopause present (finding)
+C0574729,Skin clean
+C0574776,Wound healed (finding)
+C0574780,Wound dirty
+C0574845,Date of onset
+C0575023,Joint stable
+C0575030,Joint non-tender
+C0575034,Joint warm
+C0575044,Joint problem
+C0575081,Gait abnormality
+C0575154,Temporomandibular joint crepitus
+C0575484,Long thorax
+C0575503,Pain of sternum
+C0575519,Long upper limb
+C0575535,Thin clavicle
+C0575802,Small hand
+C0575803,Radial deviation of hand
+C0575827,Small finger
+C0575904,Ulnar deviation of the thumb
+C0575989,Long leg
+C0576225,Long foot
+C0576227,Narrow foot
+C0576456,Feeding poor
+C0577053,Lesion of liver
+C0577213,Tender testes
+C0577242,Foreskin absent
+C0577559,Mass of body structure
+C0577599,Swelling absent
+C0577822,Heart sounds abnormal
+C0577916,Lesion of lung
+C0577961,Inspiratory crackles
+C0577962,Expiratory crackles
+C0577984,Foul smelling sputum
+C0578022,Finding of body mass index
+C0578038,Thin lips
+C0578150,Hemodynamically stable
+C0578395,Chest clear
+C0578626,blue iris (physical finding)
+C0578635,Optic disc normal
+C0578652,General visual observation
+C0578671,Does move
+C0578718,Does mobilize
+C0578862,Intraocular pressure finding
+C0579133,Aortic diameter
+C0580173,Neurogenic claudication
+C0580317,Platelet count abnormal
+C0580352,Treatment completed
+C0580413,Prothrombin time low (finding)
+C0580517,Blood oxygen level abnormal
+C0580531,White blood cell count abnormal
+C0580545,Blood glucose normal
+C0580549,MCH - abnormal
+C0580841,Does push (finding)
+C0580846,Does pull
+C0581121,Requests pregnancy termination
+C0581135,Birth of child
+C0581388,Prescription Drug Misuse
+C0581883,Complete Hearing Loss
+C0582067,Pink skin
+C0582114,DNR - Do not resuscitate
+C0582147,At risk of infection
+C0582148,Pain score
+C0582411,Pulmonary venous congestion
+C0582456,At risk of injury
+C0582459,At risk from fire
+C0582496,Suicidal intent
+C0586553,Raised TSH level
+C0586806,Power of attorney
+C0587052,Hilar mass
+C0587246,Muscle weakness of limb
+C0587953,Finding of urine cytology
+C0589120,Follow-up status
+C0595888,Serum phosphate concentration below normal
+C0595901,Serum chloride level decreased (finding)
+C0595939,Stillbirth
+C0595940,Burns and Wounds
+C0595998,Household composition
+C0596002,Observation of reflex
+C0596012,Does reach
+C0596013,Does stand
+C0596117,antithrombogenic surface
+C0596519,environmental stressor
+C0597241,physiologic stressor
+C0598121,Hypoglycorrhachia
+C0598463,Functional Status
+C0599655,Asexual
+C0600061,Serum creatinine level
+C0600109,Willing
+C0600116,Does speak
+C0600118,Does talk
+C0600125,Prolonged PR interval
+C0600138,Does play
+C0600220,Family health status
+C0600457,Gravidity
+C0677049,Does suck
+C0677505,Behaviors and observations relating to behavior
+C0677548,Encounter due to puberty
+C0677874,In complete remission
+C0677946,Stable Disease
+C0678034,Negative Lymph Node
+C0678215,Patient observed to be pale
+C0678803,Chemical Exposure
+C0679246,advanced disease
+C0679254,disease recurrence
+C0679261,analgesic abuse
+C0679838,Misdiagnosis
+C0680174,ethnic
+C0682294,Part-time employment (finding)
+C0682295,Full-time employment (finding)
+C0683176,drug ingestion
+C0683317,activity level
+C0683321,Poor Health
+C0683340,total recovery
+C0683369,Clouded consciousness
+C0683519,disease history
+C0683521,Patient Physiological Condition
+C0683525,treatment options
+C0684262,Blood alcohol concentration
+C0684322,Emotional state observations
+C0684331,Litigation affecting health status
+C0685786,Cleft mandible
+C0686750,Well adult
+C0686785,Nose-picking
+C0687152,Does cough
+C0687695,Grade one rank
+C0694536,Drug seeking behavior
+C0694550,Recurrent pneumonia
+C0699809,Does carry
+C0699816,Does chew (finding)
+C0700078,Decreased tendon reflex
+C0700124,Dilated
+C0700225,Serum creatinine raised
+C0700231,Does bend
+C0700281,Voice changes due to female physical maturation
+C0700292,Hypoxemia
+C0700297,Carrier or suspected carrier of Group B streptococcus
+C0700322,Encounter due to multiparity
+C0700323,Observation of Neuromuscular Block
+C0700327,Memory observations
+C0700329,Physical shape
+C0700361,Emotional distress
+C0700363,Idioventricular rhythm
+C0700573,Encounter due to normal pregnancy
+C0700590,Increased sweating
+C0700634,Serum uric acid observed
+C0700645,Encounter for ear piercing
+C0701159,Patient in hospital
+C0701810,Poor long-term memory
+C0701826,Perinatal death
+C0702118,Abnormally hard consistency
+C0702119,Specimen unsatisfactory for diagnosis
+C0702182,Eye movement observation
+C0728710,Pupil constriction observed
+C0728713,Does sit
+C0728731,Prematurity of fetus
+C0728899,Intoxication
+C0728993,vaginal spotting
+C0729262,Slow transit constipation
+C0740170,Does swallow
+C0740237,Does ironing
+C0740316,Hematocrit normal
+C0740321,Abnormal cardiac catheterization
+C0740852,Upper airway obstruction
+C0741302,atypia morphology
+C0741453,Bedridden
+C0741494,Elevated total bilirubin
+C0741564,Partial sight
+C0742135,Cervical Change
+C0742257,chest abnormal
+C0742969,D-dimer above reference range
+C0743284,Drug Exposure
+C0743360,Recurrent ear infections
+C0743400,Ejection Fraction Decreased
+C0743626,etiology unknown
+C0743630,exacerbation acute
+C0743912,Increased ferritin
+C0743924,Short fetal femur length
+C0743973,FEVER HIGH (finding)
+C0743997,Incidental Findings
+C0744257,gallbladder wall thickening
+C0744356,Abnormality of the genital system
+C0744369,Lesion of genitalia
+C0744683,heart rhythm irregular
+C0744689,heart size
+C0744727,Hematocrit decreased
+C0744961,surgical history
+C0745076,poor hygiene
+C0745114,hypertension chronic
+C0745188,Chronic hypoxemia
+C0745213,idiosyncratic reaction
+C0745472,jaundice painless
+C0746319,Positive Lymph Node
+C0746367,Chronic malnutrition
+C0746459,Widened mediastinum
+C0746467,Current Medication
+C0746857,Focal Neurologic Deficits
+C0746864,Neurologic sequelae
+C0746866,Neurological status
+C0746919,NO TREATMENT
+C0746923,nodular density
+C0746935,Medication Nonadherence
+C0746940,Nonverbal
+C0746961,Oxygen saturation below reference range
+C0747241,Erythematous papule
+C0747465,perianal lesion
+C0747490,Perinephric fluid collection
+C0747751,polysubstance
+C0747933,Frequent Premature Ventricular Complexes by ECG Finding
+C0747936,Multifocal Ventricular Premature Complex by ECG Finding
+C0748024,protein elevated
+C0748164,Multiple Pulmonary Nodules
+C0748604,seizure new onset
+C0748605,nocturnal seizures
+C0748618,Sensory deficit
+C0749040,stool melenic
+C0749192,Surgery Declined
+C0749647,treatment empiric
+C0750280,Visual changes
+C0750394,White blood cell count decreased
+C0750421,weight loss rapid
+C0750426,White blood cell count increased (lab result)
+C0750484,Confirmation
+C0750558,Unlikely
+C0750937,"Ataxia, Appendicular"
+C0751054,"Consciousness, Level Altered"
+C0751377,Neurologic Dysfunction
+C0805732,Completion Status
+C0813217,Expressionless face
+C0813230,Serum triglycerides increased
+C0813996,acute stressor
+C0814090,Occupational Stress
+C0814299,genetic risk factors
+C0815110,Perfectionism
+C0849912,Emotional
+C0849970,Feeling tired
+C0850252,health counseling
+C0850826,Localized skin lesion
+C0851148,Lifetime Drinking History
+C0851511,family issues
+C0852710,High Blood Oxygen Saturation
+C0852795,Increased insulin level
+C0852866,Cervical cord compression
+C0852967,Aggravated Acne
+C0853034,Blood creatine phosphokinase increased
+C0853068,Decreased glomerular filtration rate
+C0853085,Decreased LDL cholesterol concentration
+C0853150,Abnormality of peripheral nervous system electrophysiology
+C0853154,Fetal arrhythmia
+C0853225,INR Increased
+C0853487,Endoscopic retrograde cholangiopancreatography normal
+C0853655,Abnormal mean corpuscular volume
+C0853697,Neutrophil count decreased
+C0853698,Lymphocyte count increased
+C0853711,Sperm count decreased
+C0853716,Basophilia (finding)
+C0853986,Lymphocyte count decreased
+C0854373,Lip discoloration
+C0854379,Haemoconcentration
+C0854467,Myelosuppression
+C0855322,Abnormal pulse pressure
+C0855323,High pulse pressure
+C0855329,Electrocardiographic changes
+C0855333,Corrected Prolonged QT Interval by ECG Finding
+C0855775,Pulmonary Function Test Decreased
+C0855881,lead urine
+C0856256,Posterior Occiput Presentation
+C0856984,Hyperexcitability Behavior
+C0857121,Hypertensive (finding)
+C0857322,anaemic
+C0857334,Colicky sensation quality
+C0857379,Abnormality of the pinna
+C0857460,Increased number of platelets
+C0857465,peak flow
+C0857741,Vulvovaginal atrophy
+C0857899,Decreased circulating aldosterone level
+C0858237,Aldosterone concentration below normal
+C0858628,Pulmonary eosinophilic infiltration
+C0858697,White papule
+C0859897,Vocal Cord Dysfunction
+C0860439,Mottled pigmentation
+C0860515,Freezing of gait
+C0860800,glucose normal
+C0860801,Glucose low
+C0860813,Q Axis Left Axis Deviation
+C0860904,Decreased circulating total IgE
+C0860967,calcium low
+C0860970,Normal calcium level
+C0860987,phosphate low
+C0863146,Yellow color on exam
+C0871269,Rhythm
+C0872173,Functional Disability
+C0877035,Estrogen Effect
+C0877165,Short phalanx of finger
+C0877168,Abnormal hematocrit
+C0877225,Decreased bone density
+C0878640,Decreased urinary potassium
+C0878659,Disproportionate short stature
+C0878789,Encounter due to shellfish allergy
+C0919578,Idiosyncratic drug reaction
+C0919737,Negative Regulation of Platelet Aggregation Process
+C0919997,Thickened Achilles tendon
+C0920048,Decreased vigilance
+C0920155,Q Axis Right Axis Deviation
+C0920763,feeding schedule
+C0940637,Non bleeding hemorrhoids
+C0946431,Substance Use Status
+C0947509,Difficulty concentrating
+C0948106,Rupture of Membranes
+C0948482,analgesic effect
+C0948643,Uric acid concentration in urine above normal
+C0948688,Physical deconditioning
+C0949072,Extracorporeal Circuit Clot
+C1096099,Iris transillumination defect
+C1096624,Periumbilical pain
+C1113685,cardiovascular disorder risk
+C1116171,Vaccinated at
+C1135954,Incidental Discovery
+C1142132,Carnitine deficiency
+C1142551,Electrical alternation of heart
+C1148406,Pain quality
+C1148433,Vital Status
+C1148438,general appearance (physical finding)
+C1167939,potomania
+C1167958,Jugular vein distension
+C1167986,Pulmonary Function Test Increased
+C1168239,Asymmetry of the ears
+C1168318,Paced Ventricular Rhythm
+C1171158,Delivery risk
+C1171168,At risk for perioperative injury
+C1171307,health disparity
+C1185616,Hair whorls
+C1254481,Patient Problem
+C1257752,Infant Malnutrition
+C1260920,Kneeling (finding)
+C1260922,Abnormal breathing
+C1261502,Finding of Mean Corpuscular Hemoglobin
+C1262477,Weight decreased
+C1262869,Body position
+C1263023,Macroorchidism
+C1265804,Non-pitting edema
+C1268637,At risk for self-mutilation
+C1268647,Extremely dense breast composition
+C1268740,At risk for falls
+C1268766,Blood pressure alteration (finding)
+C1268767,Skin Incision (finding)
+C1269830,Tumor margin status
+C1271007,Glasgow coma score finding
+C1271077,No psychomotor agitation
+C1271100,Lower limb spasticity
+C1271104,Blood pressure finding
+C1271991,Early neonatal death
+C1272329,Bright red color (finding)
+C1272641,Systemic arterial pressure
+C1272755,Lowered (qualifier value)
+C1273390,curative treatment
+C1273519,Subdivision of (attribute)
+C1275743,Co-morbid conditions
+C1276357,No suicidal thoughts
+C1276371,No cardiac failure
+C1276425,Pushing Tumor Margin
+C1277248,General health poor
+C1279889,Deterioration of status
+C1285497,Entrapment (morphologic abnormality)
+C1286286,Umbilical stump observable
+C1286298,Position of fetus
+C1286421,Fetal presentation finding
+C1287298,Urine volume finding
+C1290896,Motor vehicle accident victim
+C1290905,Discrepancy (finding)
+C1290912,Finding by palpation
+C1290916,Radiologic finding
+C1290928,Instrumental activities of daily living
+C1290940,Independent for Transfer
+C1290954,medication assisted
+C1291008,Reverse sneezing
+C1291044,Integumentary System Finding
+C1291045,Abnormal peristalsis
+C1291658,Urinary system finding
+C1291764,Immune System Finding
+C1292123,Hematopoietic system finding
+C1292173,X^o^rX^o^r blood group phenotype
+C1295585,Decreased vibratory sense
+C1295715,Fibrinogen Decreased
+C1298908,no
+C1299583,Independently able
+C1299586,Has difficulty doing (qualifier value)
+C1299932,Head tilt
+C1301510,Moderate visual impairment
+C1301624,Medical contraindication
+C1301655,Minute ventilation
+C1301705,Sniffing position
+C1302313,Lost to Follow-Up
+C1304680,Observation of attack
+C1304686,Finding of pH
+C1304698,Liquid (finding)
+C1306577,Death (finding)
+C1306710,Facial asymmetry
+C1313921,Urinoma
+C1313951,Encounter due to blood donor
+C1314665,Serum alkaline phosphatase raised
+C1314687,Sexual intercourse - finding
+C1314691,Age at menarche
+C1317608,Perineural spread
+C1318963,Readiness
+C1319047,Site of intravenous insertion
+C1319166,Symptom severity (finding)
+C1319171,Medication response
+C1320371,In paid employment
+C1320474,Nuchal Rigidity
+C1320657,Diabetes type
+C1320716,Cardiovascular event
+C1320924,Acute somatic dysfunction
+C1320925,Chronic somatic dysfunction
+C1321006,Dietary indiscretion
+C1321013,Hydration status
+C1321023,Bone healing status
+C1321308,Pericentral scotoma
+C1321771,Central venous pressure finding
+C1321798,Muscle denervation
+C1328539,Reflex tachycardia
+C1328773,Ineffective tissue perfusion
+C1328799,Deep breathing
+C1331016,Low income
+C1332594,Borderline Lesion
+C1333036,Chronic Inflammatory Infiltrate
+C1333077,Cold Nodule
+C1333121,Columnar Metaplasia
+C1333262,Decidual Reaction
+C1333299,Diffuse Pattern
+C1333381,Encapsulated Mass
+C1333400,Gadolinium-Enhancing Lesion
+C1333803,Gastrointestinal System Finding
+C1334045,Hot Nodule
+C1334278,Invasive Lesion
+C1334819,Multifocal Lesion
+C1334928,Necrotic changes (finding)
+C1334932,Negative Test Result
+C1334948,Nested Pattern
+C1334962,Polymorphonuclear Cell Infiltrate
+C1334983,Non-Invasive Lesion
+C1335497,Prior Primary
+C1336528,Superficial Lesion
+C1336835,Tumor Cell Necrosis
+C1363945,Therapy Object (animal model)
+C1367053,Blue baby
+C1368221,Litigation finding
+C1382398,Increased capillary permeability (finding)
+C1384485,Normal delivery
+C1384606,Dyspareunia
+C1384674,Cesarean section (finding)
+C1390376,War Exposure
+C1390474,Increased susceptibility to fractures
+C1392839,Hypoplastic colon
+C1395724,Donor Lymphocytes
+C1398117,Post Term Birth
+C1399128,Growth arrest lines
+C1401336,"Jejunal Obstruction, CTCAE"
+C1404304,Molarization of premolar
+C1405990,Disaster Victims
+C1406054,"Rectal Obstruction, CTCAE"
+C1406835,Flexion contracture of toe
+C1406988,Vital Exhaustion
+C1408353,Undiagnosed
+C1442786,Recurrent acute respiratory tract infection
+C1442858,Surgical fistula
+C1443394,Vaccination status
+C1444656,Indicated
+C1444657,Contraindicated
+C1444662,Discontinued
+C1444775,Sharp sensation quality
+C1444777,Splitting sensation
+C1444783,Instability
+C1446409,Positive
+C1455844,Hearing examination finding
+C1456711,Sun Exposure
+C1456822,Claudication (finding)
+C1456876,Legal abortion (finding)
+C1457868,Worse
+C1458132,Treatment/Psychosocial Effects
+C1504561,Hypophagia
+C1504600,Electromagnetic interference
+C1508663,Inhalation rib dysfunction
+C1510410,Sense of smell altered
+C1511113,Bilateral Disease
+C1511341,Bulky Disease
+C1511492,Contiguous Disease
+C1512122,Normal Axis Deviation by ECG Finding
+C1512663,Immunoglobulin Deposition
+C1512706,Individual Cancer History
+C1513302,Mild Adverse Event
+C1513374,Moderate Adverse Event
+C1513735,Multilocular Lesion
+C1513751,Multiple Tumor Masses
+C1513916,Negative Finding
+C1514241,Positive Finding
+C1516998,Exogenous Factors
+C1517054,Extracutaneous Dissemination of Disease
+C1517874,Life Threatening Adverse Event
+C1517940,Long Term Survivorship
+C1518340,No Evidence of Disease
+C1518352,Non-Contiguous Disease
+C1518681,Outcome of Therapy
+C1518965,Performance Status
+C1519255,Serious Adverse Event
+C1519275,Grade 3 Severe Adverse Event
+C1519333,Sinusoidal Infiltration
+C1519353,Skin Papule
+C1519384,Tobacco Smoking History
+C1519604,Transfusion History
+C1519789,Unexpected Adverse Event
+C1519885,Vaccinated (qualifier)
+C1522133,Hypercholesterolemia result
+C1522135,Hypermagnesemia result
+C1522136,Hypernatremia result
+C1522137,Hypertriglyceridemia result
+C1527169,Encounter due to being a donor
+C1527347,Difficulty speaking
+C1527405,Erythrocytosis
+C1527429,increased blood npn
+C1532085,Hamman's sign
+C1532124,Left lateral tilt
+C1532216,Oral temperature
+C1532253,Sedentary lifestyle
+C1533075,History of chronic lung disease
+C1535893,Orthostatic intolerance
+C1535947,Normal Ventricular Ejection Fraction
+C1535978,Hyperchylomicronemia
+C1536696,Overactivity
+C1537236,Medical Device Problem
+C1542834,Peak expiratory flow rate
+C1545981,Wound edge observable
+C1546180,Age at death
+C1546399,Encounter Admission Source - emergency
+C1546400,Encounter Admission Source - labor and delivery
+C1546410,No functional limitations
+C1546419,Ambulatory Status - Oxygen therapy
+C1546848,Living Arrangement - Institution
+C1546850,Spouse Only - living situation
+C1546933,Event Reported To - Manufacturer
+C1546956,Patient Outcome - Died
+C1547668,Level of Care
+C1548222,Bed Status - Contaminated
+C1548428,Referral type - Psychiatric
+C1548670,Not Asked
+C1548727,Specimen collected via catheterization
+C1548791,Specimen Condition - Contaminated
+C1548863,Consent Type - Hysterectomy
+C1548982,Washed
+C1549057,No information - temporarily unavailable
+C1549111,Marital Status - Domestic partner
+C1549114,Unreported
+C1549464,Deceased - ActIneligibilityReason
+C1550043,Container status - Identified
+C1550446,Person Disability Type - Mentally impaired
+C1550450,Living Arrangement - Transient
+C1550457,Normal Observation Interpretation
+C1550514,full awareness
+C1550517,Target Awareness - marginal
+C1551035,Newborn Encounter Admission Source
+C1551040,Encounter Special Courtesy - staff
+C1551357,intended - ParticipationSignature
+C1551393,Container status - Missing
+C1551394,normal Device Alert Level
+C1551395,Device Alert Level - Serious
+C1551396,DeviceAlertLevel - Critical
+C1552099,adjudicated with adjustments
+C1552571,unrelated service
+C1552745,Equipment Alert Level - Serious
+C1553188,Hemolysis - observation
+C1553191,Fibrin Index
+C1553391,Requires crutches
+C1553680,repeated service
+C1554187,Gender Status - Intact
+C1555023,Medical Status Altered
+C1555288,Therapy Appropriate
+C1555289,Assessed patient - therapy appropriate
+C1555290,"Therapy Appropriate, Patient Explanation"
+C1555449,Floor Convenience
+C1555471,Not Eligible
+C1555556,Consulted Supplier - Therapy Appropriate
+C1556172,"Grade 1 Sinus Bradycardia, CTCAE"
+C1556173,"Grade 2 Sinus Bradycardia, CTCAE"
+C1556177,"Grade 1 Sinus Tachycardia, CTCAE"
+C1556193,"Grade 1 Supraventricular Tachycardia, CTCAE"
+C1556194,"Grade 2 Supraventricular Tachycardia, CTCAE"
+C1556207,"Grade 1 Idioventricular Rhythm, CTCAE"
+C1556208,"Grade 2 Idioventricular Rhythm, CTCAE"
+C1556209,"Grade 3 Idioventricular Rhythm, CTCAE"
+C1556212,"Grade 1 PVCs, CTCAE"
+C1556213,"Grade 2 PVCs, CTCAE"
+C1556214,"Grade 3 PVCs, CTCAE"
+C1556217,"Grade 1 Torsade de Pointes, CTCAE"
+C1556218,"Grade 2 Torsade de Pointes, CTCAE"
+C1556219,"Grade 3 Torsade de Pointes, CTCAE"
+C1556221,"Grade 5 Torsade de Pointes, CTCAE"
+C1556232,"Grade 1 Ventricular Fibrillation, CTCAE"
+C1556242,"Grade 1 Ventricular Tachycardia, CTCAE"
+C1556255,"Grade 1 Cardiac Ischemia or Infarction, CTCAE"
+C1556256,"Grade 2 Cardiac Ischemia or Infarction, CTCAE"
+C1556257,"Grade 3 Cardiac Ischemia or Infarction, CTCAE"
+C1556258,"Grade 4 Cardiac Ischemia or Infarction, CTCAE"
+C1556259,"Grade 5 Cardiac Ischemia or Infarction, CTCAE"
+C1556277,"Grade 1 Hypotension, CTCAE"
+C1556278,"Grade 2 Hypotension, CTCAE"
+C1556287,"Grade 1 Left Ventricular Systolic Dysfunction, CTCAE"
+C1556288,"Grade 2 Left Ventricular Systolic Dysfunction, CTCAE"
+C1556305,"Grade 1 Pulmonary Hypertension, CTCAE"
+C1556315,"Right Ventricular Dysfunction, CTCAE"
+C1556316,"Grade 1 Right Ventricular Dysfunction, CTCAE"
+C1556317,"Grade 2 Right Ventricular Dysfunction, CTCAE"
+C1556321,"Grade 1 Valvular Heart Disease, CTCAE"
+C1556322,"Grade 2 Valvular Heart Disease, CTCAE"
+C1556323,"Grade 3 Valvular Heart Disease, CTCAE"
+C1556326,Adverse Event Associated with Coagulation
+C1556333,"Grade 2 Disseminated Intravascular Coagulation, CTCAE"
+C1556334,"Grade 3 Disseminated Intravascular Coagulation, CTCAE"
+C1556336,"Grade 5 Disseminated Intravascular Coagulation, CTCAE"
+C1556343,"Grade 1 International Normalized Ratio of Prothrombin Time, CTCAE"
+C1556344,"Grade 2 International Normalized Ratio of Prothrombin Time, CTCAE"
+C1556350,"Grade 1 Thrombotic Microangiopathy, CTCAE"
+C1556351,"Grade 3 Thrombotic Microangiopathy, CTCAE"
+C1556353,"Grade 5 Thrombotic Microangiopathy, CTCAE"
+C1556354,Adverse Event Associated with Constitutional Symptoms
+C1556356,"Grade 1 Other Constitutional Symptoms, CTCAE"
+C1556357,"Grade 2 Other Constitutional Symptoms, CTCAE"
+C1556358,"Grade 3 Other Constitutional Symptoms, CTCAE"
+C1556372,"Grade 2 Hypothermia, CTCAE"
+C1556496,"Grade 3 Hepatic Necrosis, CTCAE"
+C1556498,"Grade 5 Hepatic Necrosis, CTCAE"
+C1556525,"Grade 3 Small Bowel Necrosis NOS, CTCAE"
+C1556527,"Grade 5 Small Bowel Necrosis NOS, CTCAE"
+C1556575,"Grade 1 Small Bowel Obstruction NOS, CTCAE"
+C1556576,"Grade 2 Small Bowel Obstruction NOS, CTCAE"
+C1556577,"Grade 3 Small Bowel Obstruction NOS, CTCAE"
+C1556579,"Grade 5 Small Bowel Obstruction NOS, CTCAE"
+C1556591,"Grade 1 Appendix Perforation, CTCAE"
+C1556592,"Grade 2 Appendix Perforation, CTCAE"
+C1556593,"Grade 3 Appendix Perforation, CTCAE"
+C1556656,"Grade 1 Cholecystitis, CTCAE"
+C1556677,"Grade 1 Pancreatitis, CTCAE"
+C1556678,"Grade 2 Pancreatitis, CTCAE"
+C1556682,Adverse Event Associated with Infection
+C1557119,Adverse Event Associated with the Lymphatic System
+C1557162,"Grade 1 Lymphocele, CTCAE"
+C1557163,"Grade 2 Lymphocele, CTCAE"
+C1557299,"Grade 3 Syncope, CTCAE"
+C1557321,"Keratitis, CTCAE"
+C1557322,"Grade 1 Keratitis, CTCAE"
+C1557323,"Grade 2 Keratitis, CTCAE"
+C1557331,"Grade 1 Nystagmus, CTCAE"
+C1557336,"Grade 1 Ocular Surface Disease, CTCAE"
+C1557337,"Grade 2 Ocular Surface Disease, CTCAE"
+C1557338,"Grade 3 Ocular Surface Disease, CTCAE"
+C1557350,"Grade 1 Optic Disc Edema, CTCAE"
+C1557351,"Grade 2 Optic Disc Edema, CTCAE"
+C1557358,"Grade 1 Retinal Detachment, CTCAE"
+C1557362,"Grade 1 Retinopathy, CTCAE"
+C1557363,"Grade 2 Retinopathy, CTCAE"
+C1557364,"Grade 3 Retinopathy, CTCAE"
+C1557371,"Grade 1 Uveitis, CTCAE"
+C1557375,"Blurred Vision, CTCAE"
+C1557376,"Grade 1 Blurred Vision, CTCAE"
+C1557377,"Grade 2 Blurred Vision, CTCAE"
+C1557386,"Grade 1 Photophobia, CTCAE"
+C1557387,"Grade 2 Photophobia, CTCAE"
+C1557388,"Grade 3 Photophobia, CTCAE"
+C1557397,Adverse Event Associated with Pain
+C1557431,"Grade 1 Chest Wall Pain, CTCAE"
+C1557509,"Grade 1 Muscle Pain, CTCAE"
+C1557637,"Grade 1 Atelectasis, CTCAE"
+C1557638,"Grade 2 Atelectasis, CTCAE"
+C1557639,"Grade 3 Atelectasis, CTCAE"
+C1557654,"Grade 1 Chylothorax, CTCAE"
+C1557655,"Grade 2 Chylothorax, CTCAE"
+C1557656,"Grade 3 Chylothorax, CTCAE"
+C1557662,"Grade 1 Dyspnea, CTCAE"
+C1557663,"Grade 2 Dyspnea, CTCAE"
+C1557664,"Grade 3 Dyspnea, CTCAE"
+C1557739,"Grade 1 Larynx Obstruction and Stenosis, CTCAE"
+C1557740,"Grade 2 Larynx Obstruction and Stenosis, CTCAE"
+C1557741,"Grade 3 Larynx Obstruction and Stenosis, CTCAE"
+C1557742,"Grade 4 Larynx Obstruction and Stenosis, CTCAE"
+C1557743,"Grade 5 Larynx Obstruction and Stenosis, CTCAE"
+C1557768,"Grade 1 Pneumothorax, CTCAE"
+C1557769,"Grade 2 Pneumothorax, CTCAE"
+C1557770,"Grade 3 Pneumothorax, CTCAE"
+C1557795,"Grade 1 Vital Capacity, CTCAE"
+C1557918,"Grade 1 Bladder Obstruction, CTCAE"
+C1557919,"Grade 2 Bladder Obstruction, CTCAE"
+C1557920,"Grade 3 Bladder Obstruction, CTCAE"
+C1558141,"Urinary Retention, CTCAE"
+C1558142,"Grade 1 Urinary Retention, CTCAE"
+C1558143,"Grade 2 Urinary Retention, CTCAE"
+C1558144,"Grade 3 Urinary Retention, CTCAE"
+C1558168,"Grade 1 Erectile Dysfunction, CTCAE"
+C1558169,"Grade 2 Erectile Dysfunction, CTCAE"
+C1558170,"Grade 3 Erectile Dysfunction, CTCAE"
+C1558171,"Grade 2 Gynecomastia, CTCAE"
+C1558180,"Grade 1 Libido, CTCAE"
+C1558817,"Grade 1 Upper Aerodigestive NOS Intra-Operative Injury, CTCAE"
+C1558818,"Grade 2 Upper Aerodigestive NOS Intra-Operative Injury, CTCAE"
+C1558819,"Grade 3 Upper Aerodigestive NOS Intra-Operative Injury, CTCAE"
+C1558822,"Grade 1 Upper Airway NOS Intra-Operative Injury, CTCAE"
+C1558823,"Grade 2 Upper Airway NOS Intra-Operative Injury, CTCAE"
+C1558824,"Grade 3 Upper Airway NOS Intra-Operative Injury, CTCAE"
+C1558825,"Grade 4 Upper Airway NOS Intra-Operative Injury, CTCAE"
+C1558916,Adverse Event Associated with Syndromes
+C1558931,"Flu-Like Syndrome, CTCAE"
+C1558932,"Grade 1 Flu-Like Syndrome, CTCAE"
+C1558933,"Grade 2 Flu-Like Syndrome, CTCAE"
+C1558934,"Grade 3 Flu-Like Syndrome, CTCAE"
+C1558936,"Grade 5 Flu-Like Syndrome, CTCAE"
+C1558948,"Grade 3 Tumor Lysis Syndrome, CTCAE"
+C1558949,"Grade 5 Tumor Lysis Syndrome, CTCAE"
+C1558950,Adverse Event Associated with Vascular
+C1559081,Adverse Event Associated with Death
+C1559085,"Grade 5 Multi-Organ Failure, CTCAE"
+C1559086,"Grade 5 Sudden Death, CTCAE"
+C1559110,"Grade 1 Dry Skin, CTCAE"
+C1559111,"Grade 2 Dry Skin, CTCAE"
+C1559113,"Grade 1 Flushing, CTCAE"
+C1559115,"Alopecia, CTCAE"
+C1559116,"Grade 1 Alopecia, CTCAE"
+C1559118,"Grade 1 Hyperpigmentation, CTCAE"
+C1559138,"Pruritus, CTCAE"
+C1559188,"Urticaria, CTCAE"
+C1559189,"Grade 1 Urticaria, CTCAE"
+C1559198,Adverse Event Associated with Endocrine
+C1559265,Adverse Event Associated with the Gastrointestinal System
+C1559277,"Grade 1 Colitis, CTCAE"
+C1559300,"Periodontal Disease, CTCAE"
+C1559301,"Grade 1 Periodontal Disease, CTCAE"
+C1559302,"Grade 2 Periodontal Disease, CTCAE"
+C1559321,"Grade 1 Gallbladder Perforation, CTCAE"
+C1559322,"Grade 2 Gallbladder Perforation, CTCAE"
+C1559341,"Grade 1 Small Bowel Perforation NOS, CTCAE"
+C1559342,"Grade 2 Small Bowel Perforation NOS, CTCAE"
+C1559343,"Grade 3 Small Bowel Perforation NOS, CTCAE"
+C1559351,"Grade 1 Proctitis, CTCAE"
+C1559352,"Grade 2 Proctitis, CTCAE"
+C1559458,"Grade 3 Typhlitis, CTCAE"
+C1559459,"Grade 4 Typhlitis, CTCAE"
+C1559460,"Grade 5 Typhlitis, CTCAE"
+C1559497,"Grade 1 Rectal Ulcer, CTCAE"
+C1559498,"Grade 2 Rectal Ulcer, CTCAE"
+C1559499,"Grade 3 Rectal Ulcer, CTCAE"
+C1559538,"Grade 1 Slipped Capital Femoral Epiphysis, CTCAE"
+C1559539,"Grade 2 Slipped Capital Femoral Epiphysis, CTCAE"
+C1559540,"Grade 3 Slipped Capital Femoral Epiphysis, CTCAE"
+C1559541,"Grade 4 Slipped Capital Femoral Epiphysis, CTCAE"
+C1559911,"Grade 1 Glomerular Filtration Rate, CTCAE"
+C1559912,"Grade 2 Glomerular Filtration Rate, CTCAE"
+C1559928,"Grade 1 Hemoglobinuria, CTCAE"
+C1559997,"Grade 1 Non-Septic Arthritis, CTCAE"
+C1559998,"Grade 2 Non-Septic Arthritis, CTCAE"
+C1559999,"Grade 3 Non-Septic Arthritis, CTCAE"
+C1560036,"Grade 1 Fracture, CTCAE"
+C1560037,"Grade 2 Fracture, CTCAE"
+C1560038,"Grade 3 Fracture, CTCAE"
+C1560039,"Grade 4 Fracture, CTCAE"
+C1560040,"Grade 5 Fracture, CTCAE"
+C1560041,"Grade 1 Joint Effusion, CTCAE"
+C1560042,"Grade 2 Joint Effusion, CTCAE"
+C1560043,"Grade 3 Joint Effusion, CTCAE"
+C1560142,"Grade 1 Autoimmune Reaction, CTCAE"
+C1560143,"Grade 2 Autoimmune Reaction, CTCAE"
+C1560144,"Grade 3 Autoimmune Reaction, CTCAE"
+C1560147,"Grade 3 Serum Sickness, CTCAE"
+C1560149,"Grade 1 Vasculitis, CTCAE"
+C1560182,"Grade 2 Tinnitus, CTCAE"
+C1560196,"Grade 1 CD4 Count, CTCAE"
+C1560197,"Grade 2 CD4 Count, CTCAE"
+C1560198,"Grade 3 CD4 Count, CTCAE"
+C1560209,"Hemolysis, CTCAE"
+C1560215,"Grade 2 Iron Overload, CTCAE"
+C1560216,"Grade 3 Iron Overload, CTCAE"
+C1560225,"Grade 1 Lymphopenia, CTCAE"
+C1560230,"Grade 3 Myelodysplasia, CTCAE"
+C1560232,"Grade 5 Myelodysplasia, CTCAE"
+C1560244,Splenic Function Adverse Event
+C1560245,"Grade 1 Splenic Function, CTCAE"
+C1560246,"Grade 2 Splenic Function, CTCAE"
+C1560247,"Grade 4 Splenic Function, CTCAE"
+C1560248,"Grade 5 Splenic Function, CTCAE"
+C1560250,"Grade 1 Other Cardiac Arrhythmia, CTCAE"
+C1560251,"Grade 2 Other Cardiac Arrhythmia, CTCAE"
+C1560256,"Grade 1 Asystole, CTCAE"
+C1560266,"Mobitz Type I, CTCAE"
+C1560283,"Grade 1 Conduction Abnormality NOS, CTCAE"
+C1560284,"Grade 2 Conduction Abnormality NOS, CTCAE"
+C1560288,"Grade 1 Sick Sinus Syndrome, CTCAE"
+C1560298,"Grade 1 Wolff-Parkinson-White Syndrome, CTCAE"
+C1560299,"Grade 2 Wolff-Parkinson-White Syndrome, CTCAE"
+C1560300,"Grade 3 Wolff-Parkinson-White Syndrome, CTCAE"
+C1560302,"Grade 5 Wolff-Parkinson-White Syndrome, CTCAE"
+C1560303,"Grade 1 Palpitations, CTCAE"
+C1560304,"Grade 2 Palpitations, CTCAE"
+C1560312,"Grade 1 Atrial Fibrillation, CTCAE"
+C1560313,"Grade 2 Atrial Fibrillation, CTCAE"
+C1560317,"Grade 1 Atrial Flutter, CTCAE"
+C1560331,"Dysphagia, CTCAE"
+C1560332,"Grade 1 Dysphagia, CTCAE"
+C1560333,"Grade 2 Dysphagia, CTCAE"
+C1560433,"Grade 1 Flatulence, CTCAE"
+C1560434,"Grade 2 Flatulence, CTCAE"
+C1560435,"Gastritis, CTCAE"
+C1560451,"Grade 1 Hemorrhoids, CTCAE"
+C1560456,"Ileus, CTCAE"
+C1560457,"Grade 1 Ileus, CTCAE"
+C1560458,"Grade 2 Ileus, CTCAE"
+C1560528,"Grade 2 Malabsorption, CTCAE"
+C1560644,"Oral Hemorrhage, CTCAE"
+C1560682,"Grade 2 Esophageal Varices Hemorrhage, CTCAE"
+C1560763,"Grade 1 Vaginal Hemorrhage, CTCAE"
+C1560764,"Grade 2 Vaginal Hemorrhage, CTCAE"
+C1560765,"Grade 3 Vaginal Hemorrhage, CTCAE"
+C1561211,"Grade 1 Myositis, CTCAE"
+C1561212,"Grade 2 Myositis, CTCAE"
+C1561266,"Trismus, CTCAE"
+C1561267,"Grade 1 Trismus, CTCAE"
+C1561268,"Grade 2 Trismus, CTCAE"
+C1561269,"Grade 3 Trismus, CTCAE"
+C1561270,Adverse Event Associated with Neurology
+C1561281,"Grade 1 Ataxia, CTCAE"
+C1561302,"Grade 1 Cognitive Disturbance, CTCAE"
+C1561303,"Grade 2 Cognitive Disturbance, CTCAE"
+C1561307,"Grade 1 Confusion, CTCAE"
+C1561316,"Grade 2 Encephalopathy, CTCAE"
+C1561317,"Grade 3 Encephalopathy, CTCAE"
+C1561318,"Grade 4 Encephalopathy, CTCAE"
+C1561319,"Grade 5 Encephalopathy, CTCAE"
+C1561326,"Grade 1 Hydrocephalus, CTCAE"
+C1561327,"Grade 2 Hydrocephalus, CTCAE"
+C1561328,"Grade 3 Hydrocephalus, CTCAE"
+C1561350,"Grade 1 Memory Impairment, CTCAE"
+C1561354,"Grade 2 Mental Status, CTCAE"
+C1561356,"Grade 1 Agitation, CTCAE"
+C1561357,"Grade 2 Agitation, CTCAE"
+C1561371,"Grade 1 Euphoria, CTCAE"
+C1561376,"Grade 1 Myelitis, CTCAE"
+C1561377,"Grade 2 Myelitis, CTCAE"
+C1561378,"Grade 3 Myelitis, CTCAE"
+C1561381,Other Neurology Adverse Event
+C1561505,"Haptoglobin, CTCAE"
+C1561534,"Lipase, CTCAE"
+C1561535,"Creatinine, CTCAE"
+C1561546,"Alkaline Phosphatase, CTCAE"
+C1561549,"Glomerular Filtration Rate, CTCAE"
+C1561551,"Amylase, CTCAE"
+C1561564,Container Unavailable
+C1561565,CTCAE CD4 count
+C1561581,Allergy Severity - Severe
+C1561593,Administrative Gender - Undifferentiated
+C1561955,"Fibrinogen, CTCAE"
+C1561980,Somatic dysfunction of cranium
+C1562042,Somatic dysfunction of rib
+C1562119,Pubic gapping
+C1562206,Inferior pubic shear (finding)
+C1562326,Psoas syndrome
+C1562353,Anterior sacrum
+C1562392,Ligamentous strain
+C1562447,Bucket handle rib motion
+C1562509,Anatomic motion barrier
+C1562820,Tender point
+C1562826,Facet asymmetry
+C1562937,Transient hallucinations
+C1563056,Motion barrier
+C1563064,Tissue bogginess
+C1563069,Pubic compression
+C1563107,Sacral flexion
+C1563162,End feel
+C1563241,Membranous balance
+C1578513,Query Status Code - new
+C1578545,Unprotected sexual intercourse
+C1579830,Blister of skin AND/OR mucosa
+C1608430,Medication dose changed
+C1621860,Mentally dull
+C1623040,Breastfeeding (mother)
+C1623041,Breastfeeding (infant)
+C1626912,Posterior pressure in eye
+C1628325,Pre-pubertal
+C1629609,Age at menopause
+C1630403,Neck circumference (observable entity)
+C1640361,Transport delay
+C1659543,Breast Density
+C1660792,Stiff toe
+C1695984,Esophageal food impaction
+C1698001,age eligibility
+C1698196,Muscle Weakness Upper Limb
+C1698521,Food Non-Allergy Intolerance
+C1698591,multiple criteria eligibility
+C1698593,provides evidence for
+C1699181,Muscle Weakness Right-Sided
+C1700247,Renal scarring
+C1704212,Embolus
+C1704257,Molecular Genetic Abnormality
+C1704258,Abnormality
+C1704300,Induced abortion (finding)
+C1704381,Glucose decreased
+C1704488,Forward Torsion
+C1704512,Physiologic Barrier
+C1704513,Restrictive Barrier
+C1704514,Common Compensatory Fascial Pattern
+C1704522,Bogginess
+C1704528,Fryette Regional Flexion
+C1704571,Backward Torsion
+C1704632,Disease Response
+C1705232,Death Related to Adverse Event
+C1705236,Protocol Deviation
+C1705489,"Male-to-Female Transsexual, Self-Report"
+C1705586,Adverse Event Outcome
+C1705849,Expulsion (finding)
+C1706307,Irritation (finding)
+C1706353,Crack
+C1706358,Overcorrection (physiologic)
+C1706412,Lipidemias
+C1706867,B-Symptoms
+C1706968,Blockage (obstruction - finding)
+C1707258,Cannot Be Assessed
+C1707417,Clinical TNM Finding
+C1707497,Cross-Patient Exposure to Body Fluids
+C1707791,Disfigurement
+C1708351,Hereditary Lesion
+C1708555,Intraocular Pressure Rise
+C1708558,Intravasation
+C1708680,Lesion by Focality
+C1708739,Loss of Range of Motion
+C1709025,Microperforation
+C1709043,Missed Dose
+C1709157,Negative Surgical Margin
+C1709219,Neurological Deficit or Dysfunction
+C1709257,Non-Sudden Cardiac Death
+C1709456,Pannus formation
+C1709480,Pathologic TNM Finding
+C1709789,QS Wave by ECG Finding
+C1709795,Quantitative Result
+C1709832,Radiation Overdose
+C1709863,Recovered or Resolved
+C1710178,Stacking Breath
+C1710256,Surgical Procedure Delayed
+C1710257,Surgical Procedure Stopped
+C1710544,Unifocal Lesion
+C1711316,Dome-Shaped Lesion
+C1720436,Under anesthesia
+C1720485,Corneal epithelial dots
+C1720510,Vitreous pigment cells
+C1740801,Exaggerated startle response
+C1740819,Idiopathic short stature
+C1744706,intolerance to substance
+C1760428,Suicidal behavior
+C1761613,Conjunctival hyperemia
+C1806780,Cerebrospinal fluid protein increased above normal
+C1820738,Feeding intolerance
+C1821244,Normal development
+C1821269,Waist-Height Ratio
+C1821293,Worthlessness
+C1821417,RESTING HEART RATE
+C1821770,Post-surgical bleeding
+C1826990,Serum magnesium finding
+C1827223,Macular exudate
+C1827547,Repetitious behavior
+C1828017,Intermittent hyperventilation
+C1828173,Unexplained weight loss
+C1829460,Tongue thrusting
+C1830750,Extreme Heat
+C1831741,Poor Performance Status
+C1832072,Accommodation
+C1832073,Handling
+C1832130,Pursed lips
+C1832160,Abnormality of temperature regulation
+C1832168,BLOOD GROUP--FROESE
+C1832324,Recurrent opportunistic infections
+C1832348,Slow-growing hair
+C1832451,Cranial hyperostosis
+C1832988,Metaphyseal spurs
+C1833054,Hypocortisolemia
+C1833144,Slender long bone
+C1833148,Long thumb
+C1833172,Abnormal delayed hypersensitivity skin test
+C1833325,Thin bony cortex
+C1833334,Early-onset
+C1833362,Sleep-wake cycle disturbance
+C1833692,"OTITIS MEDIA, SUSCEPTIBILITY TO (finding)"
+C1834057,Vertebral hyperostosis
+C1834124,Shield chest
+C1834384,Glenoid fossa hypoplasia
+C1834412,Yellow discoloration
+C1834433,Obsessive-compulsive trait
+C1834451,No muscle weakness
+C1834650,MUSICAL PERFECT PITCH
+C1834696,Hyporeflexia of lower limbs
+C1834697,No sensory deficit
+C1834873,Headache is unilateral
+C1834930,Fusion of the left and right thalami
+C1835008,Fibroblast metachromasia
+C1835095,Macrodontia of permanent maxillary central incisor
+C1835573,Multiple carpal ossification centers
+C1835686,Recurrent bacterial skin infections
+C1835762,Widely-spaced maxillary central incisors
+C1835881,Fluctuating hepatomegaly
+C1835882,Fluctuating splenomegaly
+C1835884,Triangular face
+C1836003,Facial diplegia
+C1836047,Long face
+C1836057,Muscle fiber splitting
+C1836141,Respiratory muscle weakness
+C1836142,Congenital onset
+C1836156,Progressive proximal muscle weakness
+C1836184,Short femoral neck
+C1836189,Radial deviation of finger
+C1836296,Muscle Weakness Lower Limb
+C1836308,Generalized joint laxity
+C1836392,Dysmetric saccades
+C1836407,Early death
+C1836440,Increased serum lactate
+C1836508,Generalized tonic seizures
+C1836542,Depressed nasal bridge
+C1836543,Thick vermilion border
+C1836609,Progressive distal muscle weakness
+C1836623,Decreased circulating cortisol level
+C1836646,Dermal translucency
+C1836688,Narrow iliac wings
+C1836767,Proximal lower limb amyotrophy
+C1836806,Mild microcephaly
+C1836870,Irregular patellae
+C1836923,Gastrointestinal dysmotility
+C1836996,Disproportionate tall stature
+C1837066,Recurrent viral infection
+C1837084,Short metacarpal
+C1837142,Poor suck
+C1837256,Macrovesicular hepatic steatosis
+C1837260,Prominent forehead
+C1837323,Decreased Achilles reflex
+C1837350,No cardiomyopathy
+C1837385,Poor growth
+C1837388,Abnormal pattern of respiration
+C1837402,Flat occiput
+C1837407,Ankle flexion contracture
+C1837463,Narrow face
+C1837483,Posterior rib cupping
+C1837503,Small cerebral cortex
+C1837514,Phenotypic Variation
+C1837522,Impaired pain sensation
+C1837532,Fused labia minora
+C1837623,Opisthotonic posturing
+C1837639,Intermittent hypothermia
+C1837655,Multifactorial
+C1837761,Narrow nasal ridge
+C1837770,Sparse hair
+C1837785,Prominent superficial veins
+C1837795,Prominent umbilicus
+C1838063,Focal sensory auditory seizure
+C1838319,"Primitive reflexes (palmomental, snout, glabellar)"
+C1838421,No kidney disease
+C1838877,"Myoglobinuria, Recurrent"
+C1838993,Episodic vomiting
+C1839025,Decreased light- and dark-adapted electroretinogram amplitude
+C1839254,Hypoplasia of the capital femoral epiphysis
+C1839341,Abnormal T-wave
+C1839364,Progressive visual loss
+C1839436,Severe lactic acidosis
+C1839437,Chronic lactic acidosis
+C1839546,Microretrognathia
+C1839603,Proximal tubulopathy
+C1839606,Low-molecular-weight proteinuria
+C1839739,Thick lower lip vermilion
+C1839798,Long nose
+C1839816,Long neck
+C1839867,Elevated serum protein
+C1840006,Mild intrauterine growth retardation
+C1840068,Patellar hypoplasia
+C1840069,Sandal gap
+C1840088,Limited wrist movement
+C1840319,Redundant neck skin
+C1840374,Elevated systolic blood pressure
+C1840375,Elevated diastolic blood pressure
+C1840376,Elevated mean arterial pressure
+C1840457,Retinal pigment epithelial atrophy
+C1842084,Posterior rib fusion
+C1842153,Irregular vertebral endplates
+C1842154,Sclerotic vertebral body
+C1842155,Flat capital femoral epiphysis
+C1842173,No hypertrophic cardiomyopathy
+C1842229,Broad metacarpals
+C1842231,Broad metatarsal
+C1842249,No congenital heart defect
+C1842364,Central hypotonia
+C1842384,No neurologic sequelae
+C1842406,Pancreatic calcification
+C1842419,No opportunistic infections
+C1842587,Sensory axonal neuropathy
+C1842688,Hypoplasia of the brainstem
+C1842774,Hypermelanotic macule
+C1842820,Cardiac conduction abnormality
+C1842876,Depressed nasal ridge
+C1843386,Reduced delayed hypersensitivity
+C1843517,Retinal arteriolar tortuosity
+C1843663,Urinary bladder sphincter dysfunction
+C1843865,Vestibular dysfunction
+C1843885,Progressive gait ataxia
+C1843893,Square-wave jerks
+C1844383,Recurrent bacterial infection
+C1844527,Clitoral hypoplasia
+C1844529,Midclavicular aplasia
+C1844530,Midclavicular hypoplasia
+C1844537,Cleft ala nasi
+C1844548,Hypoplastic finger
+C1844573,Large earlobe
+C1844592,Soft skin
+C1844662,Unexplained fevers
+C1844666,Immune dysregulation
+C1844704,Platyspondyly
+C1844810,Thick nasal septum
+C1844820,Range of joint movement increased
+C1844857,Short nasal septum
+C1844891,Ulnar deviation of the 2nd finger
+C1844925,Cervical spinal canal stenosis
+C1845169,Renal phosphate wasting
+C1845206,Decreased circulating renin level
+C1845207,Normal aldosterone
+C1845208,Euvolemia
+C1845250,Small forehead
+C1845251,Facial hypotonia
+C1845847,Coarse facial features
+C1845878,Irregularly spaced teeth
+C1845977,X- linked recessive
+C1846018,Muffled voice
+C1846223,Adrenal hypoplasia
+C1846288,Recurrent hypoglycemia
+C1846345,Hyperactive renin-angiotensin system
+C1846347,Renal salt wasting
+C1846348,Renal potassium wasting
+C1846423,Thick upper lip vermilion
+C1846434,Hypoplastic scapulae
+C1846439,Hypoplasia of the odontoid process
+C1846473,Aplasia of metacarpal bones
+C1846478,Upper limb muscle hypoplasia
+C1846678,Reduced forced vital capacity
+C1846718,CREATININE CLEARANCE QUANTITATIVE TRAIT LOCUS
+C1846821,Abnormality of coagulation
+C1847189,Absent scaphoid
+C1847397,Global systolic dysfunction
+C1847492,"ANOREXIA NERVOSA, SUSCEPTIBILITY TO, 1"
+C1847584,Distal sensory impairment
+C1847730,"GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO (finding)"
+C1847766,Shoulder girdle muscle atrophy
+C1847879,X-linked dominant inheritance
+C1848108,Long ulna
+C1848109,Long fibula
+C1848395,Large for gestational age
+C1848431,Xanthine nephrolithiasis
+C1848465,Agitated delirium
+C1848606,Vestibular hypofunction
+C1848783,Euthyroidism
+C1848785,No goiter
+C1848908,Maxillozygomatic hypoplasia
+C1848980,Developmental stagnation
+C1849016,Broad femoral neck
+C1849020,Short metatarsal
+C1849025,Oval face
+C1849063,Short iliac bones
+C1849081,Metaphyseal striations
+C1849089,Broad forehead
+C1849198,Opacification of the corneal epithelium
+C1849221,Fair hair
+C1849263,Sclerotic scapulae
+C1849265,Overgrowth
+C1849292,Advanced ossification of carpal bones
+C1849426,Lack of T cell function
+C1849686,Diffuse hepatic steatosis
+C1849715,Pink urine
+C1849766,Periportal fibrosis
+C1850041,Facial hirsutism
+C1850135,Flared metaphysis
+C1850415,Microvesicular steatosis (disorder)
+C1850719,Recurrent encephalopathy
+C1850780,Reduced leukocyte alkaline phosphatase
+C1850851,Distal joint laxity
+C1851059,Broad columella
+C1851476,ESTERASE C
+C1851542,Limited hip movement
+C1851612,Narrowing of medullary canal
+C1851759,ELECTROENCEPHALOGRAPHIC VARIANT PATTERN 1 (disorder)
+C1851789,Poor wound healing
+C1851936,Paroxysmal choreoathetosis
+C1851988,Dorsal subluxation of ulna
+C1852470,Extrapyramidal muscular rigidity
+C1852504,Misalignment of teeth
+C1852534,Hypoplastic male external genitalia
+C1852539,CORONAVIRUS 229E SUSCEPTIBILITY
+C1853171,Multiple prenatal fractures
+C1853236,Stereotypic movements
+C1853237,Isolated cases
+C1853241,Flat face
+C1853242,Midface retrusion
+C1853394,Gaze-evoked horizontal nystagmus
+C1853404,Spasticity of facial muscles
+C1853562,Adult onset
+C1853638,Broad neck
+C1853737,Prominent occiput
+C1853743,Muscular hypotonia of the trunk
+C1854114,Short nose
+C1854301,Motor delay
+C1854489,Limb dysmetria
+C1854645,Gradual progression
+C1854657,Limb fasciculations
+C1854718,J-shaped sella turcica
+C1854780,Flaring of rib cage
+C1854783,Grayish enamel
+C1854838,Progressive neurologic deterioration
+C1854882,Absent speech
+C1854912,Short long bone
+C1855000,Agenesis of central incisor
+C1855067,B lymphocytopenia
+C1855073,"Mortality, Premature"
+C1855177,Flat glenoid fossa
+C1855185,Broad phalanx
+C1855239,Cone-shaped metacarpal epiphyses
+C1855285,Protruding ear
+C1855333,External genital hypoplasia
+C1855352,Duodenal bands
+C1855538,Small face
+C1855575,Very rare
+C1855652,Fetus Small for Gestational Age
+C1855665,Ovoid vertebral bodies
+C1855669,Absent frontal sinuses
+C1855685,Undetectable electroretinogram
+C1855694,Hypoplasia of the primary teeth
+C1855710,Bone marrow hypocellularity
+C1855728,Low posterior hairline
+C1855752,Abnormality of T cells
+C1855781,Cutaneous anergy
+C1855801,Calcium nephrolithiasis
+C1855843,Severe intrauterine growth retardation
+C1856087,Biconcave vertebral bodies
+C1856203,Microdontia of primary teeth
+C1856231,Thin calvarium
+C1856691,Impaired proprioception
+C1856786,Hypoplastic fingernail
+C1856872,Down-sloping shoulders
+C1856911,Ivory epiphyses
+C1856923,Double-layered patella
+C1856963,Fragile nails
+C1857021,Spontaneous neonatal pneumothorax
+C1857131,Absent paranasal sinuses
+C1857164,Poor oral coordination
+C1857280,Infra-orbital crease
+C1857287,Stroke-like episode
+C1857304,Flexion contracture of finger
+C1857353,Posterior fossa cyst
+C1857476,Multiple small bowel atresias
+C1857482,Slender finger
+C1857483,Decreased palmar creases
+C1857485,Flat forehead
+C1857501,Facial hyperostosis
+C1857527,Flattened epiphysis
+C1857539,Deep palmar crease
+C1857632,Narrow palm
+C1857640,Decreased nerve conduction velocity
+C1857644,Retinal pigment epithelial mottling
+C1857657,Reduced subcutaneous adipose tissue
+C1858025,Spinal rigidity
+C1858033,Asymmetry of the thorax
+C1858036,Periorbital fullness
+C1858120,Generalized hypotonia
+C1858430,Death in infancy
+C1858452,Thickened calvaria
+C1858460,Maternal
+C1858570,Fair Skin
+C1858576,Heterogeneous disorder
+C1858586,Mild anemia
+C1858732,Malar prominence
+C1859126,Stippled epiphyses
+C1859223,Deep longitudinal plantar crease
+C1859430,Life-threatening infections
+C1859438,Frontalis muscle weakness
+C1859461,Femoral bowing
+C1859470,Large basal ganglia
+C1859480,Cone-shaped epiphyses of the phalanges of the hand
+C1859495,Episodic hemolytic anemia
+C1859506,Acute hyperammonemia
+C1859516,Episodic metabolic acidosis
+C1859682,Hypoplastic frontal sinuses
+C1859691,Easily fatigued
+C1859717,Depressed nasal tip
+C1859778,Postnatal growth retardation
+C1859860,Episodic ketoacidosis
+C1860128,Recurrent candida infections
+C1860245,Cranial asymmetry
+C1860247,Prominent glabella
+C1860449,Equinus calcaneus
+C1860475,Retinal vascular tortuosity
+C1860601,Flattening of femoral head
+C1860816,Preauricular skin tag
+C1860972,GENIOSPASM 1
+C1861199,Irregular chondrocostal junctions
+C1861218,Hypoplastic ilia
+C1861328,Hypoplastic nasal septum
+C1861331,Limited pronation/supination of forearm
+C1861395,Small hypothenar eminence
+C1861937,Anterior tibial bowing
+C1862142,Short 2nd finger
+C1863314,Cervical instability
+C1863715,Severe B lymphocytopenia
+C1863739,Narrow femoral neck
+C1863749,Carpal bone hypoplasia
+C1864361,Lower thoracic kyphosis
+C1864795,Superior pectus carinatum
+C1864796,Pectus excavatum of inferior sternum
+C1864853,Increased vertebral height
+C1865017,Thin upper lip vermilion
+C1865037,Cone-shaped epiphysis
+C1865039,Cupped ribs
+C1865244,Shallow orbits
+C1865279,Fetal polyuria
+C1865313,Speech articulation difficulties
+C1865353,Ethylmalonic aciduria
+C1865412,Abnormal lower motor neuron morphology
+C1865570,Proximal radial head dislocation
+C1865841,Flared iliac wings
+C1865847,Ulnar bowing
+C1865877,Renal cortical microcysts
+C1866013,Proximal upper limb amyotrophy
+C1866134,Wide anterior fontanel
+C1866231,Full cheeks
+C1866284,Motor deterioration
+C1866503,ACUTE INSULIN RESPONSE
+C1866806,Unilateral ptosis
+C1866934,Reduced tendon reflexes
+C1867131,Broad hallux
+C1867421,Elevated right atrial pressure
+C1867864,Poor fine motor coordination
+C1867876,Decreased vomiting
+C1867893,Breech position
+C1868085,Craniofacial hyperostosis
+C1868252,Post-transfusion thrombocytopenia
+C1868524,Autonomic erectile dysfunction
+C1868842,Lead Dislodgement
+C1879338,"Bereavement, life event (finding)"
+C1879526,Aberrant Crypt Foci
+C1879644,Adulthood Lesion
+C1879646,Affected Area
+C1879675,No Audible Alarm
+C1879690,Ambient Temperature Problem
+C1879730,Electrical Arcing
+C1879731,Electrical Arcing at Electrodes
+C1879732,Electrical Arcing at Paddles
+C1879751,Pacing Asynchronously
+C1879843,Biocompatibility Issue Associated with Medical Device
+C1879844,Biofilm Coating in Device
+C1879885,Backflow
+C1879887,Blockage within Medical Device
+C1879905,Thermal Decomposition of Device
+C1879982,Calcified Medical Device Material
+C1879997,Capturing Problem
+C1880024,Delayed Charge Time
+C1880068,Childhood Lesion
+C1880099,Contamination/Decontamination Problem
+C1880113,Coagulation in Medical Device
+C1880176,Continuous Firing
+C1880190,Cross Reactivity Medical Device Problem
+C1880250,Data Back-Up Problem
+C1880258,Decoupling
+C1880260,Decrease in Suction
+C1880264,Defective Alarm
+C1880265,Defective Device
+C1880267,Deflation Problem
+C1880268,Material Deformation
+C1880278,Dent in Material
+C1880315,Difficult to Insert
+C1880320,Difficult to Remove
+C1880353,Discolored Medical Device Material
+C1880354,Disconnection
+C1880357,Material Disintegration
+C1880398,Dose Calculation Error Due to Software Problem Associated with Medical Device
+C1880427,Dull Medical Device Problem
+C1880434,Delta Wave by ECG Finding
+C1880458,Mean ST Segment Elevation
+C1880489,Electromagnetic Interference Associated with Medical Device
+C1880494,Emergency Power Failure
+C1880549,Erosion of Medical Device Material
+C1880612,Excessive Cooling
+C1880671,Failure to Advance
+C1880673,Failure to Analyze Signal
+C1880674,Failure to Back-Up
+C1880704,Failure to Pump
+C1880711,Defibrillation Problem
+C1880712,Inappropriate Waveform
+C1880718,False Alarm Medical Device Problem
+C1880722,False Negative Result Medical Device Problem
+C1880724,False Positive Result Medical Device Problem
+C1880775,Fire Medical Device Problem
+C1880781,Fitting Problem
+C1880785,Flare or Flash
+C1880801,Tidal Volume Fluctuations
+C1880805,Fluid Leak
+C1880838,Foreign Material Present in Medical Device
+C1880851,Fracture of Medical Device Material
+C1880864,Fume or Vapors
+C1880868,Fungus in Medical Device Environment
+C1880906,Gas Leak Medical Device Problem
+C1880929,Gastric Cancer pTis TNM Finding v6 and v7
+C1880932,"Gastrointestinal Perforation, CTCAE"
+C1880936,Gel Leak
+C1880999,Gradient Increase (medical device problem)
+C1881009,Grounding Malfunction
+C1881048,High Impedance
+C1881050,High Readings
+C1881052,High Sensing
+C1881056,History of peripheral vascular disease
+C1881145,Device Imprecision
+C1881158,Inaccurate Delivery
+C1881160,Inaccurate Flow Rate
+C1881165,Pacing Inadequately
+C1881169,Inappropriate Shock
+C1881171,Inaudible or Unclear Audible Prompt/Feedback
+C1881185,Off-Label Use (medical device)
+C1881188,Increase in Suction
+C1881204,Inflation Problem
+C1881223,Insufficient Cooling
+C1881224,Insufficient Heating
+C1881228,Intermittent Infusion
+C1881243,Intramucosal Lesion
+C1881251,Invagination of Medical Device Material
+C1881332,Killip Class
+C1881366,Leakage Associated with Medical Device
+C1881442,Loose Connection
+C1881453,Loss of Threshold
+C1881455,Low Audible Alarm
+C1881458,Low Impedance
+C1881459,Low Readings
+C1881483,Lung Cancer pTis TNM Finding v6 and v7
+C1881601,Malposition of Medical Device
+C1881645,Device Alarm System
+C1881648,Battery Problem
+C1881651,Charging Problem
+C1881653,Complete Blockage Device
+C1881659,Medical Device Contamination during Use
+C1881662,Device Damaged Prior to Use
+C1881663,Delivered As Unsterile Product
+C1881674,Medical Device Emits Smoke
+C1881686,Failure to Run on Battery
+C1881693,Medical Device Incompatibility Problem
+C1881704,Medical Device Break
+C1881705,Medical Device Burst
+C1881706,Medical Device Material Crack
+C1881707,Material Degradation
+C1881708,Medical Device Material Fragmentation
+C1881710,Medical Device Material Perforation
+C1881711,Medical Device Material Puncture
+C1881712,Medical Device Material Rupture
+C1881713,Medical Device Material Separation
+C1881717,Medical Device Mechanical Issue
+C1881718,Mechanics Altered
+C1881725,Medical Device Optical Issue
+C1881736,Pressure Issue
+C1881747,Structural Problem
+C1881856,Minimally Invasive Lesion
+C1881859,Power Calculation Error due to Application Program Problem
+C1881862,Misconnection
+C1881881,Moisture Damage
+C1881888,Molten Medical Device Material
+C1882038,Naturally Worn Material
+C1882083,New York Heart Association Class
+C1882084,New York Heart Association Class I
+C1882085,New York Heart Association Class II
+C1882086,New York Heart Association Class III
+C1882087,New York Heart Association Class IV
+C1882092,No Flow
+C1882094,No Device Output
+C1882095,No Pressure
+C1882112,Nonspecific Intraventricular Conduction Delay by ECG Finding
+C1882113,Nonstandard Device
+C1882136,Obstruction within Medical Device
+C1882150,Opacification of Medical Device Material
+C1882158,Optical Distortion
+C1882160,Optical Obstruction
+C1882234,Oversensing Medical Device Problem
+C1882272,"Pain by Anatomic Descriptor, CTCAE"
+C1882299,Particulates in Medical Device Environment
+C1882306,Pediatric Death
+C1882345,Perivalvular Leak Medical Device Problem
+C1882410,Pocket Stimulation
+C1882443,Precipitate in Medical Device
+C1882448,Premature Elective Replacement Indicator
+C1882506,Pumping Problem
+C1882507,Pumping Stopped
+C1882537,Radiation Leak
+C1882919,Reflux within Device Medical Device Problem
+C1882942,Resuscitated Cardiac Arrest Event
+C1882952,Rigid or Stiff Medical Device Material
+C1882981,Scratched Medical Device Material
+C1883025,Shielding Failure
+C1883035,Single Cell Necrosis
+C1883041,Device Slipped
+C1883069,Sparking
+C1883175,Material Stretched
+C1883274,Telemetry Discrepancy
+C1883417,Ultrafiltration Issue Associated with Medical Device
+C1883423,Undersensing Medical Device Problem
+C1883433,Unintended Movement Medical Device Problem
+C1883468,Unstable Medical Device Problem
+C1883529,"Ventricular Arrhythmia, CTCAE 3.0"
+C1883532,Vibration Medical Device Problem
+C1883544,Volume Accuracy Problem
+C1883554,Wedge-Shaped Growth Pattern
+C1883685,Tubular Structures Present
+C1883696,Juvenile Lesion
+C1883717,"Premature Ventricular Contraction, CTCAE"
+C1948128,respiratory therapy care
+C1948177,KNOWLEDGE (recall and interpretation ability)
+C1959629,"Seizure, CTCAE 3.0"
+C1959630,"Eye Pain, CTCAE 3.0"
+C1959930,Absent fetal heart rate variability
+C1960160,Constant pain
+C1960631,History of vaccination
+C1961100,"Erectile Dysfunction, CTCAE"
+C1961131,"Cough, CTCAE"
+C1962921,"Vital Capacity, CTCAE"
+C1962948,"Atelectasis, CTCAE"
+C1962956,"Flatulence, CTCAE"
+C1962957,"Flushing, CTCAE 3.0"
+C1962958,"Hematoma, CTCAE"
+C1962962,"Hyperpigmentation, CTCAE 3"
+C1962963,"Osteoporosis, CTCAE 3.0"
+C1962966,"Retinopathy, CTCAE"
+C1962971,"Myocarditis, CTCAE 3.0"
+C1962972,"Proteinuria, CTCAE 3.0"
+C1962974,"Chylothorax, CTCAE"
+C1962976,"Ventricular Fibrillation, CTCAE 3.0"
+C1962979,"Burn, CTCAE"
+C1962983,"Cataract, CTCAE 3.0"
+C1962986,"Glaucoma, CTCAE"
+C1963056,"Chest Wall Pain, CTCAE 3.0"
+C1963059,"Adrenal Insufficiency, CTCAE"
+C1963060,"Agitation, CTCAE 3.0"
+C1963063,"Anorexia, CTCAE"
+C1963064,"Anxiety, CTCAE 3.0"
+C1963065,"Apnea, CTCAE"
+C1963066,"Joint Pain, CTCAE 3"
+C1963067,"Atrial Fibrillation, CTCAE"
+C1963068,"Atrial Flutter, CTCAE"
+C1963070,"Autoimmune Reaction, CTCAE"
+C1963071,"Back Pain, CTCAE 3.0"
+C1963074,"Bladder Obstruction, CTCAE"
+C1963076,"Platelets, CTCAE"
+C1963077,"Bone Pain, CTCAE 3.0"
+C1963079,"Restrictive Cardiomyopathy, CTCAE"
+C1963083,"Cholecystitis, CTCAE 3.0"
+C1963084,"Colitis, CTCAE"
+C1963086,"Confusion, CTCAE 3.0"
+C1963087,"Constipation, CTCAE"
+C1963088,"Cystitis, CTCAE 3"
+C1963090,"Dehydration, CTCAE"
+C1963091,"Diarrhea, CTCAE"
+C1963092,"Disseminated Intravascular Coagulation, CTCAE"
+C1963093,"Dizziness, CTCAE 3.0"
+C1963094,"Dry Skin, CTCAE"
+C1963099,"Myelodysplasia, CTCAE"
+C1963100,"Dyspnea, CTCAE"
+C1963101,"Encephalopathy, CTCAE 3.0"
+C1963104,"Esophageal Fistula, CTCAE"
+C1963106,"Esophagitis, CTCAE"
+C1963107,"Euphoria, CTCAE 3.0"
+C1963113,"Fracture, CTCAE"
+C1963120,"Gynecomastia, CTCAE 3.0"
+C1963121,"Head Soft Tissue Necrosis, CTCAE"
+C1963122,"Asystole, CTCAE 3.0"
+C1963123,"Valvular Heart Disease, CTCAE"
+C1963124,"Hemoglobinuria, CTCAE 3.0"
+C1963125,"Ovarian Hemorrhage, CTCAE"
+C1963127,"Renal Hemorrhage, CTCAE"
+C1963130,"Spermatic Cord Hemorrhage, CTCAE"
+C1963134,"Hemorrhoids, CTCAE 3.0"
+C1963135,"Hepatic Necrosis, CTCAE 3.0"
+C1963137,"Hydrocephalus, CTCAE"
+C1963138,"Hypertension, CTCAE"
+C1963140,"Hypoxia, CTCAE"
+C1963141,"Idioventricular Rhythm, CTCAE"
+C1963144,"Cognitive Disturbance, CTCAE 3.0"
+C1963148,"Iron Overload, CTCAE"
+C1963154,"Renal Failure, CTCAE"
+C1963158,"Left Ventricular Diastolic Dysfunction, CTCAE"
+C1963159,"Left Ventricular Systolic Dysfunction, CTCAE 3.0"
+C1963162,"Lymphocele, CTCAE"
+C1963164,"Lymphopenia, CTCAE 3"
+C1963165,"Malabsorption, CTCAE"
+C1963167,"Memory Impairment, CTCAE 3.0"
+C1963169,"Death Due to Multi-Organ Failure Not Associated with More Specific Term, CTCAE"
+C1963170,"Hypothermia, CTCAE"
+C1963175,"Sinus Bradycardia, CTCAE"
+C1963177,"Muscle Pain, CTCAE 3"
+C1963178,"Myelitis, CTCAE"
+C1963179,"Nausea, CTCAE 3.0"
+C1963180,"Neck Pain, CTCAE 3.0"
+C1963181,"Neck Soft Tissue Necrosis, CTCAE"
+C1963184,"Nystagmus, CTCAE 3.0"
+C1963185,"Obesity, CTCAE"
+C1963195,"Skin Pain, CTCAE 3"
+C1963198,"Pancreatitis, CTCAE 3.0"
+C1963204,"Gallbladder Perforation, CTCAE 3.0"
+C1963211,"Pericarditis, CTCAE"
+C1963215,"Pneumothorax, CTCAE"
+C1963216,"Proctitis, CTCAE"
+C1963217,"Prolonged QTc Interval, CTCAE"
+C1963220,"Pulmonary Hypertension, CTCAE"
+C1963221,"Aspiration, CTCAE"
+C1963226,"Kidney Pain, CTCAE"
+C1963227,"Adult Respiratory Distress Syndrome, CTCAE"
+C1963229,"Retinal Detachment, CTCAE 3.0"
+C1963230,"Appendix Perforation, CTCAE"
+C1963233,"Seroma, CTCAE"
+C1963234,"Serum Sickness, CTCAE 3.0"
+C1963235,"Sick Sinus Syndrome, CTCAE"
+C1963237,"Insomnia, CTCAE 3.0"
+C1963244,"Supraventricular Tachycardia, CTCAE"
+C1963246,"Sinus Tachycardia, CTCAE 3.0"
+C1963247,"Ventricular Tachycardia, CTCAE 3.0"
+C1963249,"Tinnitus, CTCAE 3.0"
+C1963252,"Tremor, CTCAE 3.0"
+C1963254,"Tumor Lysis Syndrome, CTCAE 3.0"
+C1963256,"Ulceration, CTCAE"
+C1963258,"Rectal Ulcer, CTCAE"
+C1963266,"Uveitis, CTCAE"
+C1963274,"Vasculitis, CTCAE"
+C1963278,"Bigeminy, CTCAE"
+C1963279,"Viral Hepatitis, CTCAE 3"
+C1963281,"Vomiting, CTCAE"
+C1963282,"Wolff-Parkinson-White Syndrome, CTCAE"
+C1964022,"Sudden Death Not Associated with More Specific CTCAE Term, CTCAE"
+C1964030,"Mobitz (Type) II Atrioventricular Block, CTCAE"
+C1968816,Broad fingertip
+C1969156,EEG with burst suppression
+C1969185,Undulate ribs
+C1969408,Prominent U wave
+C1969680,High iliac wings
+C1969738,Premature loss of permanent teeth
+C1970263,Recurrent meningococcal disease
+C1970394,Bleeding episodes
+C1970591,Abnormal pupillary light reflex
+C1970625,Hypoplastic left atrium
+C1971624,Loss of appetite (finding)
+C1976106,Fasting Status
+C1997354,Early repolarization
+C1997771,Chronic hypercapnia
+C1998154,No loss of consciousness
+C1998313,T wave alternans
+C1998827,Respiratory Status
+C1998980,Caregiver role strain
+C1998986,Deficient knowledge
+C1998998,Socialization alteration
+C1999000,Ineffective breathing pattern
+C1999002,Actual Negative Coping
+C1999006,Actual Negative Infant Feeding Behavior
+C1999266,"Depression, CTCAE"
+C2004062,History of previous events
+C2004284,"Mental Status, CTCAE"
+C2004464,birth control method (history)
+C2010848,jaundice
+C2017869,sparse facial hair
+C2019882,Fetal Station
+C2055674,TEMPORAL ARTERY TENDERNESS
+C2059391,continuous electrocardiogram atrial tachycardia
+C2059610,Mitral Valve Regurgitant Fraction
+C2059613,Aortic Valve Regurgitant Fraction
+C2068043,Coronary Culprit Lesion
+C2081572,Low lying placenta
+C2108093,continuous electrocardiogram - paroxysmal supraventricular tachycardia
+C2108107,continuous electrocardiogram sinus bradycardia (finding)
+C2108109,continuous electrocardiogram sinus tachycardia
+C2109272,Corneal keratic precipitates
+C2115817,kyphosis
+C2115875,Disordered Thinking
+C2121436,PR segment elevation
+C2129310,sexual orientation - bisexual
+C2132198,Abnormal blistering of the skin
+C2138388,Absent cremaster reflex
+C2169794,Recurrent streptococcus pneumoniae infections
+C2176208,Retinal arteriolar constriction
+C2184149,living situation
+C2187340,Retraction of upper eyelid
+C2208973,Tapered sperm head
+C2215935,Electrocardiogram atrioventricular block complete heart block
+C2215995,electrocardiogram - left anterior hemiblock
+C2216002,electrocardiogram left posterior hemiblock (finding)
+C2220104,Blister of skin
+C2220266,exposure history
+C2220426,Exposure to lead
+C2228040,Annular Lesion
+C2228270,Erythematous macule
+C2234408,Eyelid laxity
+C2237142,Moderate global developmental delay
+C2237371,Hip flexion
+C2239101,"Hemoglobin, CTCAE"
+C2239127,Drug use history
+C2239193,Controlling (action)
+C2240399,Encounter for body mass index [BMI]
+C2242558,"Pathologic calcification, calcified structure"
+C2242708,Hypertransaminasaemia
+C2243051,Large head (disorder)
+C2266662,Dubowitz score (physical finding)
+C2315245,Agonal respiration
+C2317548,Infectious agent in bloodstream
+C2322572,showering
+C2347231,Bundle Branch Re-Entrant Ventricular Tachycardia by ECG Finding
+C2347416,Overcorrection Medical Device Problem
+C2347551,Last Calibration Date
+C2347783,Clinical Chemistry Finding
+C2347881,Radiation Overexposure Medical Device Problem
+C2348360,EKG Finding Atrial Enlargement
+C2348640,T Waves Flat by ECG Finding
+C2348811,Toxicology Finding
+C2348956,Heterogeneous Echotexture
+C2348988,Homogeneous Fat Echotexture
+C2348993,Hospitalization or Prolongation of Existing Hospitalization Required
+C2349117,Ventricular Tachycardia Storm by ECG Finding
+C2349945,electrocardiogram: low voltage QRS complete
+C2355591,Encounter due to Methicillin susceptible Staphylococcus aureus
+C2362760,Acute Anterior Wall Myocardial Infarction - Electrocardiographic Finding
+C2362792,Fusion of labia (finding)
+C2363736,Unintentional weight loss
+C2363939,High Grade Atrioventricular Block by ECG Finding
+C2364040,Impaired Thermoregulation
+C2364164,Fluid imbalance
+C2364172,Adherence To Medication Regime
+C2364334,Actual Negative Cardiac Output
+C2364379,Noncompliance with dietary regimen
+C2584889,Number of ectopic pregnancies
+C2584946,Alive (finding)
+C2585412,Seatbelt sign
+C2585997,New diagnosis (finding)
+C2587207,For resuscitation (finding)
+C2603353,Mass of thoracic structure
+C2673441,Renal calcium wasting
+C2673462,Recurrent Staphylococcus aureus infections
+C2673579,Prolonged bleeding
+C2673622,Mucosal lesions
+C2673646,Antenatal onset
+C2673776,Vascular tortuosity
+C2674163,Thrombotic episodes
+C2674403,Scleral thickening
+C2674451,Anterior radial head dislocation
+C2674459,Limited Walking Ability
+C2674608,Feeding difficulties in infancy
+C2674620,Fragile teeth
+C2674853,Subperiosteal bone formation
+C2675627,Acholic stool
+C2675918,Elevated ammonia
+C2675972,Ventricular enlargement
+C2675973,Open operculum
+C2676167,"Seizures, refractory"
+C2677485,Aplasia of the sweat glands
+C2678186,No growth retardation
+C2678323,C2-C3 subluxation
+C2678517,Thrill (finding)
+C2697310,"SARCOIDOSIS, SUSCEPTIBILITY TO, 1 (finding)"
+C2697670,Incomplete Coaptation
+C2697844,Killip Class I
+C2697845,Killip Class II
+C2697846,Killip Class III
+C2697847,Killip Class IV
+C2697908,Left Ventricular Ejection Time
+C2698234,Mitotic Figure
+C2698967,Canadian Cardiovascular Society Grading Scale Class I
+C2698969,Canadian Cardiovascular Society Grading Scale Class III
+C2700132,Uterine Cervical Stenosis
+C2700406,"SCOLIOSIS, IDIOPATHIC, SUSCEPTIBILITY TO, 1 (finding)"
+C2702546,Exposure Method
+C2711168,Victim of physical violence
+C2711610,Imaging of brain abnormal
+C2712036,Actual Impaired Interactive Behavior
+C2712122,Normal blood pressure
+C2712160,Normal nervous system function
+C2712244,No Peripheral Edema
+C2712334,Actual Aspiration
+C2717756,Corneal Endothelial Cell Loss
+C2717793,Small Airway Remodeling
+C2717794,Asthmatic Airway Remodeling
+C2717879,Genotype-Phenotype Associations
+C2732402,Type 1 diabetes mellitus uncontrolled
+C2733146,Type II diabetes mellitus uncontrolled
+C2746082,depolarization; ventricular
+C2748531,Perifollicular fibrosis
+C2748540,Mucosal bleeding
+C2748576,Renal sodium wasting
+C2749419,Mild weakness
+C2749513,No cognitive decline
+C2749625,Motor axonal neuropathy
+C2749920,No neurofibromas
+C2750120,Interstitial thickening
+C2750915,Basal ganglia gliosis
+C2751375,LONGEVITY 2
+C2751884,Long digits
+C2751993,No metabolic abnormalities
+C2752018,Pigmenturia
+C2752077,Midgut volvulus
+C2825141,Experimental Finding
+C2825142,Experimental Result
+C2825161,Family history of sudden cardiac death
+C2825180,Proximal Left Anterior Descending Coronary Artery Stenosis
+C2825208,Coronary Lesions Treated
+C2825214,Hospitalization Event
+C2825223,Ischemic Myocardium Percentage
+C2825493,Non-Enhancing Lesion
+C2825502,Vasogenic Edema
+C2825541,Sibling deceased
+C2825543,Expected Date of Confinement
+C2825562,Sick Newborn
+C2825571,Heart Rate Score
+C2825577,Skin Color Score
+C2826208,Death by Natural Cause
+C2826233,Adverse Event Caused Study Discontinuation
+C2826244,Life Threatening
+C2826281,Outcome Death
+C2826292,Related to Cancer
+C2826293,Clinical Significance
+C2826565,Mild Chronic Inflammation
+C2826576,Ischemic Change
+C2826596,Vascular Regression
+C2826600,Tissue Congestion
+C2826603,Mucin Depletion
+C2826606,Fungal Colonization
+C2826608,Gland Distortion
+C2826609,Architectural Distortion
+C2826615,Gland Branching
+C2826636,Physical Examination Abnormal Finding
+C2826669,Disposition Continuation
+C2826673,Exposure Dose Adjustment
+C2826729,Physical Exam Result
+C2826940,Physical Examination Location
+C2827068,Microscopic Finding
+C2827071,Unintentional Material Aspiration
+C2827431,Recurrent Intrahepatic Cholestasis
+C2828075,Suboptimal Image Reason
+C2828106,Metal Artifact
+C2828114,Ring Artifact
+C2828115,Streaking Artifact
+C2828117,Dose Extravasation
+C2828126,Body Habitus Artifact
+C2828129,Incorrect Patient Position
+C2828143,Incorrect Protocol Artifact
+C2828155,Cyanotic Body
+C2828156,Cyanotic Limbs
+C2828358,Lactating (finding)
+C2828363,Implanted Medical Device (finding)
+C2828386,Pass (indicator)
+C2911243,Encounter due to family history of colonic polyps
+C2911642,"Optic Disc Edema, CTCAE 3"
+C2911643,Encounter due to family history of osteoporosis
+C2911645,"Weight Loss, CTCAE"
+C2911646,"Vaginal Hemorrhage, CTCAE"
+C2911647,"Weight Gain, CTCAE"
+C2911690,Disease Controlled
+C2919015,ANTICOAGULATION (finding)
+C2919051,Ischemic Myocardium
+C2919432,Glucose in blood specimen above reference range
+C2919760,New sexual contact
+C2919764,Left posterior fascicular block on electrocardiogram
+C2924037,Immunization series
+C2931322,T-Lymphocytopenia
+C2937292,Social engagement
+C2945560,Hemolysis (lab result)
+C2945598,Dacrocytosis (finding)
+C2945609,Urinary sediment (finding)
+C2945640,compromise
+C2945766,dieting
+C2981153,Finding related to focusing
+C2981711,Paced Rhythm
+C2982164,Melanoma of the Ciliary Body and Choroid pTX TNM Finding v7
+C2982188,Melanoma of the Uvea pNX TNM Finding v7
+C2983415,Persistent Disease
+C2983555,Type of Valve Dysfunction
+C2983605,Food Consumption
+C2983688,Unscheduled Death
+C2984080,Quite a Bit
+C2984768,Complement Activation Problem
+C2984771,Configuration Issue
+C2984773,Deformation Problem
+C2984782,Endotoxin Contamination
+C2984783,Energy Storage System Problem
+C2984797,Inappropriate Device Material
+C2984812,Mechanical Shock Problem
+C2984814,Mutagenic Problem
+C2984817,Non-Functional Defect
+C2984819,Open Circuit
+C2984827,Platelet Activation Problem
+C2984828,Power Fluctuation
+C2984839,Short Circuit
+C2984840,Signal Loss
+C2984855,Tolerance Stack-Up
+C2984873,Incorrect Algorithm
+C2984918,RSR' by ECG Finding
+C2984922,Left Ventricular Conduction Delay by ECG Finding
+C2984923,Paced Atrial And Ventricular Rhythm
+C2984924,Right Ventricular Conduction Delay by ECG Finding
+C2985135,Endobronchial Lesion
+C2985235,Other Experiencer
+C2985293,Fetal Heart Tone Location
+C2985300,Intense Uterine Contraction
+C2985311,Persistent Fetal Bradycardia
+C2985312,Persistent Fetal Tachycardia
+C2985325,Short-Term Fetal Heart Rate Variability
+C2985338,Uterine Involution
+C2985339,Uterine Tachysystole
+C2985346,Fetal Position above Umbilicus
+C2985347,Fetal Position below Umbilicus
+C2985354,Latent Phase of Labor
+C2985356,Active Phase of Labor
+C2985506,PSA Failure
+C2985628,Adverse Event Outcome Result
+C2985723,Baseline Indicator
+C2985724,Biomarker Indicator
+C2985739,Clinically Significant Indicator
+C2985768,Expected Indicator
+C2986382,VARIANT OF UNKNOWN SIGNIFICANCE
+C2986551,Matted Tumor Mass Present
+C2986602,Chemical Imbalance
+C2986611,Dirty Necrosis
+C2986693,Clark Level I
+C2986694,Clark Level II
+C2986695,Clark Level III
+C2986850,Pregnancy and Lactation Status
+C3149223,Aplasia of the abdominal wall musculature
+C3149608,No facial weakness
+C3149878,Posterior subluxation of radial head
+C3150070,Mucocutaneous bleeding
+C3150613,Long toe
+C3151495,Long upper lip
+C3151523,Abnormal cervical curvature
+C3151529,Lethal
+C3160712,"Palpitations, CTCAE"
+C3160715,Mixed Cell Morphology
+C3160731,Pulmonary function (finding)
+C3163616,Blood Loss
+C3163620,"Hypotension, CTCAE"
+C3164374,Abnormality of pulmonary valve
+C3165508,No Fatigue
+C3203528,Hypomagnesiuria
+C3241966,Current Smoker
+C3242192,expired lot
+C3242194,medical precaution
+C3242201,order stopped
+C3242204,product unavailable
+C3242209,drug level too high
+C3242218,Entered in error
+C3242226,information change
+C3242230,response to monitoring
+C3242232,not covered
+C3242233,patient refuse
+C3242244,not picked up
+C3242247,long term care use
+C3242259,medication on hold
+C3242261,too early - pharmacy supply request renewal refusal reason
+C3242263,no permission
+C3242264,fully filled
+C3242336,Unordered
+C3242381,no longer in use
+C3242620,active coverage
+C3242621,active - pending investigation
+C3242635,IV drug use
+C3242656,dependent young children
+C3242657,unrelated person
+C3242676,fully insured
+C3242775,executor of estate
+C3242776,guardian ad lidem
+C3244287,School Grade
+C3245517,Patient's teacher when immunized
+C3251812,Bleeding Risk
+C3258122,Return of spontaneous circulation
+C3258223,Clarity of Voice is Unpredictable
+C3262229,Primary Cause of Death
+C3262233,Secondary Cause of Death
+C3263685,Hormone abnormality
+C3272281,American College of Cardiology/American Heart Association Lesion Complexity Score A
+C3272282,American College of Cardiology/American Heart Association Lesion Complexity Score B
+C3272283,American College of Cardiology/American Heart Association Lesion Complexity Score C
+C3272285,Thrombolysis in Myocardial Infarction Flow-1
+C3272286,Thrombolysis in Myocardial Infarction Flow-2
+C3272287,Thrombolysis in Myocardial Infarction Flow-3
+C3272304,Coronary Vessel Lesion
+C3272306,Coronary Lesion Complexity
+C3272318,Guidewire Across Lesion
+C3272404,No Pacing
+C3272629,Epithelial Damage
+C3272645,Serosal Lesion
+C3273231,Deposition of calcium oxalate crystals
+C3273245,Acute Rejection
+C3273930,Tumor Mass
+C3274487,Ureterovesical Obstruction
+C3274545,In Utero Bowel Perforation
+C3274649,Probable Case Status
+C3274775,Mildly Abnormal Ejection Fraction
+C3274779,Hyperdynamic Ventricular Ejection Fraction
+C3274783,Ventricular Tachycardia/Ventricular Fibrillation Arrest
+C3274943,Presumed Dead
+C3274944,Pronounced Dead
+C3275042,Abandoned Lead
+C3275053,Cardiac Arrest Prior to Percutaneous Coronary Intervention
+C3275065,Cardiac Lead Insulation Failure
+C3275073,Coronary Artery Right Dominance
+C3275075,Died in a Medical Facility
+C3275082,Extracted Cardiac Lead
+C3275090,Inserted During a Non-Percutaneous Coronary Intervention
+C3275097,Left Atrium Dimension
+C3275098,Left Cardiac Artery Dominance
+C3275107,Mechanical Circulatory Support in Place at Start of Procedure
+C3275117,No Evidence of Coronary Artery Disease
+C3275118,No Treatment for Diabetes
+C3275427,Stroke-like symptoms
+C3276815,Stiff skin
+C3277117,Caudal appendage
+C3277184,Decreased patellar reflex
+C3277591,Food impaction
+C3277906,Cardiac dysfunction
+C3277934,Anomalous
+C3278865,Pigment gallstones
+C3278923,Dilated ventricles (finding)
+C3279191,Arterial tortuosity
+C3279336,Impaired gluconeogenesis
+C3279407,Hypoplasia of the abdominal wall musculature
+C3279439,Recurrent spontaneous abortion
+C3279454,Renal dysfunction
+C3279725,Hip flexor weakness
+C3280708,Upper limb dysmetria
+C3280743,"Systemic lupus erythematosus, childhood onset"
+C3280768,Abnormality of the posterior cranial fossa
+C3280831,Dilated bowel
+C3281034,Multifocal seizures
+C3281105,"HEMORRHAGE, INTRACEREBRAL, SUSCEPTIBILITY TO"
+C3472261,For cardiopulmonary resuscitation
+C3472705,Mild dehydration
+C3494516,Positive end expiratory pressure (finding)
+C3495422,Finding relating to sexuality and sexual activity
+C3495932,Pathologic Intimal Thickening
+C3532827,Thrombus of left atrium
+C3534430,Serum glucose
+C3536713,Acute Lateral Myocardial Infarction by ECG Finding
+C3536746,Anterior Myocardial Infarction by ECG Finding
+C3536761,Leukemoid reaction of the newborn
+C3536991,Acute Inferior Myocardial Infarction by ECG Finding
+C3537125,Life Threatening or Disabling Adverse Event
+C3537184,Non-ST Elevation Myocardial Infarction by ECG Finding
+C3538872,ST Elevation Myocardial Infarction by ECG Finding
+C3538874,Stable chronic Graft vs Host Disease
+C3538993,Complete Response with Incomplete Bone Marrow Recovery
+C3539909,Allergic disposition
+C3540542,Exacerbation of cGVHD
+C3540840,Sign or Symptom
+C3541890,Extracted Lead
+C3541950,Acute Myocardial Infarction by ECG Finding
+C3542426,Inferior Myocardial Infarction by ECG Finding
+C3542449,Drug Resistance Status
+C3549495,Low flow state
+C3549703,Retinal thinning
+C3550150,Recurrent thrombophlebitis
+C3550430,Eclabion
+C3552526,Metaphyseal sclerosis
+C3553084,Bilateral cleft palate
+C3553331,Subcortical heterotopia
+C3553368,Limited hip extension
+C3553482,Cranial nerve dysfunction
+C3553704,High arch
+C3554568,Young adult onset
+C3554617,Adducted thumb
+C3554639,Severe cognitive impairment
+C3554669,Clavicular sclerosis
+C3639952,Cerebral Venous Aneurysm
+C3639956,Functional intestinal obstruction
+C3639994,Discordance
+C3640051,Peripheral Embolus
+C3640069,Perinatal Central Nervous System Depression
+C3640072,Ileal Band
+C3640073,Jejunal Band
+C3640079,Colonic Band
+C3640667,Reused Lead
+C3640764,Intermediate Risk
+C3640792,Disability or Permanent Damage
+C3640832,Acute Right Ventricular Myocardial Infarction by ECG Finding
+C3640853,Extreme Right Axis Deviation
+C3640854,Failure After First Treatment
+C3640857,Fusion Complex
+C3640864,Late R Wave Transition by ECG Finding
+C3640865,Left Ventricular Hypertrophy with Strain by ECG Finding
+C3640871,Medication Lost
+C3640877,Multifocal Atrial Premature Complex by ECG Finding
+C3640896,QRS Axis Indeterminate
+C3640899,Short QTc Interval
+C3640907,Unifocal Atrial Premature Complex by ECG Finding
+C3640917,New Inferior Myocardial Infarction by ECG Finding
+C3641089,Hematopoietic Cell Transplant Relapse
+C3641260,Not All Tumors Evaluated
+C3641668,Epinephrine-Secreting
+C3641826,Strongly Disagree
+C3641827,Agree
+C3641828,Disagree
+C3642316,Posterior Myocardial Infarction by ECG Finding
+C3642317,Lateral Myocardial Infarction by ECG Finding
+C3647360,Hyperpigmented nodule
+C3665347,Visual Impairment
+C3665348,Fluid vitreous
+C3665386,Abnormal vision
+C3665437,Serum phosphate concentrations above normal (finding)
+C3665623,Serum albumin level decreased below normal (finding)
+C3665624,Serum calcium below normal (finding)
+C3668831,Lactation established in non-human animal
+C3668946,Activity (animal life circumstance)
+C3669012,Fetal diagnosis
+C3669047,Gestation results in multiple offspring
+C3670503,Neuronal swelling
+C3670652,Paddling
+C3670763,Subcutaneous edema
+C3670821,Open physis
+C3671966,Abnormal pulmonary interstitial pattern
+C3686502,Mucosal thickening
+C3686547,Malposition 1
+C3686582,Cholesterol cleft
+C3686869,Microthrombosis
+C3693346,Delayed Treatment
+C3697329,History of repair of hip joint
+C3698366,Bone fragment
+C3714287,Excessive mineral intake
+C3714294,Excessive phosphorus intake
+C3714343,Unintentional weight gain
+C3714367,Excessive boron intake
+C3714374,Excessive sulfate intake
+C3714375,Excessive magnesium intake
+C3714377,Excessive sodium intake
+C3714388,Inadequate sodium intake
+C3714390,Inadequate magnesium intake
+C3714418,Excessive caffeine intake
+C3714432,Excessive oral intake
+C3714434,Predicted inadequate energy intake
+C3714517,Connective and Soft Tissue Finding
+C3714536,Social History
+C3714614,Distention
+C3714625,Neuropathic pain
+C3714639,Exit Block by ECG Finding
+C3714652,Ventricular Premature Complex by ECG Finding
+C3714697,AV Block Second Degree by ECG Finding
+C3714738,Compliance
+C3714745,Malabsorption
+C3714958,"PULMONARY HYPERTENSION, NEONATAL, SUSCEPTIBILITY TO"
+C3715208,AV Block First Degree by ECG Finding
+C3715215,S1
+C3805014,Abnormality of body mass index
+C3805764,Biceps aplasia
+C3805765,Quadriceps aplasia
+C3805899,Pigment deposition in the trabecular meshwork
+C3805917,Elevated pulmonary artery pressure
+C3805919,Recurrent intrapulmonary hemorrhage
+C3806166,Poor outcome
+C3806218,Episodic tachypnea
+C3806221,Giant melanosomes in melanocytes
+C3806299,Central respiratory failure
+C3806347,Hyperhomocystinemia
+C3806467,Respiratory insufficiency due to muscle weakness
+C3806510,Horizontal ribs
+C3806961,Giant somatosensory evoked potentials
+C3807306,Acute rhabdomyolysis
+C3807885,No neurologic abnormalities
+C3807980,Apneic episodes in infancy
+C3808022,Episodic abdominal pain
+C3808039,Nemaline bodies
+C3808046,Breathing dysregulation
+C3808225,Autonomic signs
+C3808249,Abnormality of the optic disc
+C3809514,Thoracic aortic dissection
+C3809739,No adrenal insufficiency
+C3809765,No abnormalities
+C3809827,Staring gaze
+C3810254,No vestibular dysfunction
+C3810484,Triceps aplasia
+C3810845,Brittle
+C3810854,Close
+C3811814,AV Block Second Degree Mobitz Type I by ECG Finding
+C3811815,AV Block Second Degree Mobitz Type II by ECG Finding
+C3812171,Bradycardia by ECG Finding
+C3812244,Minimal Disseminated Disease
+C3812660,Skin Bruise
+C3812876,S2
+C3812891,All of the Time
+C3813607,Infantile Gastroesophageal Reflux
+C3814420,Full Term Birth
+C3814530,Skin Vesicle
+C3814872,Junctional Tachycardia by ECG Finding
+C3815112,Chronic Decubitus
+C3815188,Supraventricular Tachycardia by ECG Finding
+C3815278,Ventricular Trigeminy by ECG Finding
+C3815594,Subject is Randomized
+C3815882,Lost Medical Device
+C3816499,Pathogenic
+C3816734,Absence of Signs or Symptoms
+C3825673,Skeletally Mature
+C3827002,Ground Glass Opacity
+C3827231,Time of Onset of Labor
+C3827254,Chronic Maternal Hypertension
+C3827657,Ventricular Parasystole by ECG Finding
+C3827658,Ventricular Bigeminy by ECG Finding
+C3827688,Ureter Compression
+C3827730,Unable to Draw Blood
+C3827857,Targetoid Lesion
+C3827868,Tachycardia by ECG Finding
+C3827961,Spontaneous Preterm Birth
+C3827992,Some of the time
+C3828431,QTcF Prolongation
+C3828433,QTcB Prolongation
+C3828462,Prosthetic Valve Dysfunction
+C3828491,Pregnancy-Related Nausea and/or Vomiting
+C3828493,Precipitous Birth
+C3828954,Most of the time
+C3829314,Late Term Birth
+C3829315,Late Preterm Birth
+C3829316,Late Fetal Death
+C3829428,Karnofsky Performance Status 30
+C3829432,Karnofsky Performance Status 0
+C3829513,Intrapartum Shock
+C3829543,Indicated Preterm Birth
+C3829578,Hypoechoic Focus
+C3829580,Hyperechoic Strand
+C3829581,Hyperechoic Focus
+C3829661,Hot Lesion
+C3829672,Homicide and Legal Intervention
+C3829692,Histologic Chorioamnionitis
+C3830147,Fetal Tachyarrhythmia
+C3830149,Fetal Hypoxemia
+C3830314,Enhancing Lesion
+C3830315,End Organ Damage from Diabetes
+C3830346,ECOG Performance Status 0
+C3830361,Early Term Birth
+C3830362,Early Pregnancy Loss
+C3830363,Early Fetal Death
+C3830369,Duration of Rupture of Membrane
+C3830528,Destroyed Medical Device
+C3831106,Chronic Maternal Hypertension with Superimposed Preeclampsia
+C3833401,Neutral - answer to question
+C3833702,Excited
+C3839013,Anogenital distance
+C3839214,No history of depression
+C3839366,Perimenopausal state
+C3839407,Edema of upper eyelid
+C3839658,Borderline respiratory obstruction on spirometry
+C3839997,Edema of lower eyelid
+C3840083,Late closure of anterior fontanel
+C3840271,Stage 1
+C3840275,Diversion
+C3840684,Modification
+C3840693,No Sexual Activity
+C3841784,Daily or Almost Daily Response
+C3841785,Less than once a month
+C3841811,Transplant
+C3842079,Sluggish
+C3842349,Visible blood
+C3842396,No difference
+C3842554,Can Do Without Any Difficulty
+C3842804,Definitely True
+C3843197,One or Two Days
+C3843353,Very Difficult
+C3843355,Not Difficult
+C3843412,Something else
+C3844034,Some Days
+C3844113,Almost All of the Time
+C3844120,Can Do With Some Difficulty
+C3844157,Always or Almost Always
+C3844158,Never or Almost Never
+C3844729,Very Important
+C3844738,No Response - Disease Response
+C3846374,Stage IIID
+C3846720,Not Assessed
+C3853264,Obese class I
+C3853727,Tobacco user
+C3854605,Mean Pulmonary Arterial Pressure
+C3858487,record suppressed
+C3858637,merge data
+C3858641,administrative error in order
+C3858642,clinical modification
+C3872857,Suspected Ebola virus disease
+C3872858,Ebola virus disease not suspected
+C3872860,At low risk for Ebola virus disease
+C3872897,Cares for self
+C3873447,No hyperkeratosis
+C3873628,Victim of intimate partner abuse
+C3874318,Deep symmetric anterior T wave inversion
+C3874459,Lateral ST segment elevation
+C3874460,Anterior ST segment elevation
+C3874479,Anterior T wave inversion
+C3875066,At risk of elopement from healthcare setting
+C3875386,Tripod position
+C3887467,Perceived constipation (disorder)
+C3887488,Skin depigmented
+C3887612,Psychomotor Agitation
+C3887628,Circulating immune complexes
+C3887644,Inflammatory infiltrate
+C3887651,Palsy
+C3887663,Atrioventricular Nodal Reentry Tachycardia by ECG Finding
+C3887784,Decreased urine output
+C3887873,Hearing Loss
+C3887875,Visual field defects
+C3887876,OSTEOARTHRITIS SUSCEPTIBILITY 1
+C3887935,POLYKARYOCYTOSIS INDUCER
+C3890554,Physical Inactivity
+C3890580,Asystole by ECG Finding
+C3890598,Crown-Like Structure
+C3890719,Pause by ECG Finding
+C3891813,Had No Pain
+C3896584,Ultra Low Birth Weight
+C3897049,Green Fetal Membrane
+C3897073,Central Visual Field Defect
+C3897171,Which Diagnostic Criteria Met
+C3897189,Vessel Patency Indicator
+C3897214,Urinary Leakage
+C3897250,Umbilical Cord Discoloration
+C3897271,Tumor Results Original Result
+C3897423,Supraventricular Couplet by ECG Finding
+C3897448,Subdural Hemorrhage Related to Birth
+C3897545,Splenic Rupture Related to Birth
+C3897619,Short ST Segment by ECG Finding
+C3897693,Ruptured Velamentous Vessel
+C3897819,Proprioceptive Hallucination
+C3897833,Procedure Occurrence
+C3897895,Placental Lesion
+C3897927,Physical Examination Findings of New or Worsening Heart Failure
+C3898107,Ocular Foreign Body
+C3898110,Occult Umbilical Cord Prolapse
+C3898122,Normal Virilization
+C3898130,Non-Diagnostic Q Waves by ECG Finding
+C3898140,New Regional Wall Motion Abnormality by Non-invasive Imaging Technique
+C3898156,National Guard Status
+C3898437,Tip Breakage
+C3898465,Marginal Insertion of Fetal Membrane
+C3898471,Malunion of Bone
+C3898608,Lesion Restenosis Indicator
+C3898620,Late Pregnancy Loss
+C3898658,Joint Task Force Type 1 Myocardial Infarction
+C3898664,Ischemic Discomfort Indicator
+C3898700,Intrapartum Uterine Rupture
+C3898702,Intraparenchymal Hemorrhage of the Newborn
+C3898757,Insignificant Disease by ECG Finding
+C3898766,Inducible Myocardial Ischemia
+C3898772,Increase in B-type Natriuretic Peptide or N-terminal pro-B-type Natriuretic Peptide
+C3898775,In-Stent Restenosis Indicator
+C3898813,Idiopathic Tall Stature
+C3898816,Iatrogenic Growth Failure
+C3899010,Gross Placental Abruption
+C3899081,Frank Umbilical Cord Prolapse
+C3899092,Forceps Injury
+C3899240,Exclusion of Type 1 and Type 2 Myocardial Infarction Diagnosis Indicator
+C3899268,Elevated Blood Pressure Measurement
+C3899331,ECG Continuous Monitoring Indicator
+C3899384,Dialysis Catheter Fracture
+C3899391,Device Remains Implanted
+C3899394,Definitely
+C3899396,Definitely Not So Much
+C3899397,Definitely Less
+C3899494,Coronary Lesion by Angiographic Finding
+C3899523,Cognitive Side Effects of Cancer Therapy
+C3900108,Acute Myocardial Ischemia by ECG Assessment
+C3900169,ACC/AHA Ischemic ECG Changes
+C4011722,Aural fullness
+C4014106,Abscess formation
+C4014359,Poor fixation
+C4014364,Elevated body mass index
+C4014733,Follicular hyperplasia
+C4014891,Renal abnormalities
+C4015052,Vestibular areflexia
+C4015236,Sterile pustules
+C4015726,Variable presentation
+C4015923,AGAMMAGLOBULINEMIA 3
+C4016215,AGAMMAGLOBULINEMIA 1
+C4016221,AGAMMAGLOBULINEMIA 6
+C4016411,ARRHYTHMOGENIC RIGHT VENTRICULAR DYSPLASIA 1
+C4016650,KLIPPEL-FEIL SYNDROME 2
+C4018858,J wave
+C4018905,Too early
+C4018909,Overdose
+C4018912,Patient preference for care action
+C4019436,Antiphospholipid antibody positivity
+C4020818,Conical mandibular incisor
+C4020901,Broad xiphoid process
+C4020919,Dense metaphyseal bands
+C4020963,Absent nares
+C4021038,Abnormal circulating renin
+C4021056,Struvite nephrolithiasis
+C4021078,Hypochloriduria
+C4021087,Abnormal social behavior
+C4021099,Orthostatic tachycardia
+C4021106,Elevated coagulation factor V activity
+C4021146,Hyperpigmentation of the fundus
+C4021198,EEG with generalized slow activity grade 4
+C4021259,Limitation of knee mobility
+C4021260,Long metacarpals
+C4021262,Absent palmar crease
+C4021298,Scapular aplasia
+C4021526,Exercise-induced rhabdomyolysis
+C4021527,Abdominal wall muscle weakness
+C4021550,Elevated circulating follicle stimulating hormone level
+C4021574,Decreased number of sweat glands
+C4021589,Absent glenoid fossa
+C4021630,Broad long bones
+C4021643,Impairment of galactose metabolism
+C4021651,Hypoplasia of the nasal bone
+C4021671,Large carpal bones
+C4021734,Abnormality of mitochondrial metabolism
+C4021767,Decreased platelet glycoprotein IIb-IIIa
+C4021780,Abnormality of the liver
+C4021795,Abnormality of Krebs cycle metabolism
+C4021823,"Ambiguous genitalia, male"
+C4021947,Hemimacroglossia
+C4021957,Recurrent cutaneous abscess formation
+C4022012,Death in early adulthood
+C4022404,Aplasia of lymphatic vessels
+C4022450,Abnormal circulating calcium concentration
+C4022516,Lower extremity joint dislocation
+C4022517,Upper extremity joint dislocation
+C4022554,Hyperpigmented genitalia
+C4022561,Maternal first trimester fever
+C4022576,Slow pupillary light response
+C4022577,Calcium channel antibody positivity
+C4022587,Fatigable weakness of respiratory muscles
+C4022591,Fatigable weakness of bulbar muscles
+C4022592,Oral motor hypotonia
+C4022593,Tremor by anatomical site
+C4022606,Lack of bowel sounds
+C4022619,Impaired ristocetin cofactor assay activity
+C4022672,Auricular pit
+C4022690,Neck muscle hypertrophy
+C4022691,Facial muscle hypertrophy
+C4022719,Unilateral facial palsy
+C4022727,Stellate iris
+C4022738,Neurodevelopmental delay
+C4022740,CSF polymorphonuclear pleocytosis
+C4022750,Thin fingernail
+C4022769,Small basal ganglia
+C4022792,Reduced ejection fraction
+C4022793,Mildly reduced ejection fraction
+C4022812,Iris hypoperfusion
+C4022818,Erythrocyte cylindruria
+C4022824,Hyponatriuria
+C4022825,Abnormal urine sodium concentration
+C4022826,Renal chloride wasting
+C4022832,Mild proteinuria
+C4022860,Maternal anticardiolipin antibody positive
+C4022864,Absence of alpha granules
+C4022911,Duodenal atrophy
+C4022918,Jaw hyporeflexia
+C4022971,Hyposerinemia
+C4022978,Episodic upper airway obstruction
+C4022995,Sex reversal
+C4023003,Recurrent vulvovaginal candidiasis
+C4023071,Hypergalactosemia
+C4023085,Mnemonic auras
+C4023089,Postprandial hyperlactemia
+C4023124,Short digit
+C4023147,Decreased platelet P2Y12 receptor
+C4023172,Broad chin
+C4023327,Central opacification of the cornea
+C4023355,Alcohol-induced rhabdomyolysis
+C4023368,Death in adolescence
+C4023370,Moderate intrauterine growth retardation
+C4023390,Cochlear aplasia
+C4023422,Long palm
+C4023434,Abnormality of urine calcium concentration
+C4023438,Recurrent mycobacterial infections
+C4023449,Infra-orbital fold
+C4023491,Interictal epileptiform activity
+C4023493,Beta-EEG
+C4023542,Conical maxillary incisor
+C4023556,Misalignment of incisors
+C4023575,Abnormal blood potassium concentration
+C4023597,Abnormal blood glucose concentration
+C4023644,Abnormal blood sodium concentration
+C4023696,Narrow uvula
+C4023697,Long uvula
+C4023699,Perioral hyperpigmentation
+C4023768,Total anosmia
+C4023815,Oligosacchariduria
+C4024154,Sunken cheeks
+C4024615,Adipose tissue loss
+C4024618,Large iliac wings
+C4024619,Broad femoral head
+C4024656,Absent vestibular function
+C4024694,Impaired platelet adhesion
+C4024704,Elevated leukocyte alkaline phosphatase
+C4024717,Adrenal medullary hypoplasia
+C4024825,Peripheral tractional retinal detachment
+C4024878,Generalized hyperpigmentation
+C4024943,Decreased amplitude of sensory action potentials
+C4025060,Peg-shaped maxillary lateral incisors
+C4025194,Absent ethmoidal sinuses
+C4025195,Sclerotic cranial sutures
+C4025202,Recurrent protozoan infections
+C4025207,Recurrent herpes
+C4025238,Generalized morning stiffness
+C4025280,Respiratory infections in early life
+C4025286,Recurrent thromboembolism
+C4025298,Effort-induced polymorphic ventricular tachycardia
+C4025347,Weakness of muscles of respiration
+C4025574,Genetic anticipation with paternal anticipation bias
+C4025585,Lacticaciduria
+C4025603,Glutaric acidemia
+C4025605,Reduced ratio of renal calcium clearance to creatinine clearance
+C4025649,Reduced factor VIII activity
+C4025655,Abnormality of urine homeostasis
+C4025684,Recurrent abscess formation
+C4032686,No Complication
+C4034374,Liver Stiffness
+C4035872,Discharged Alive
+C4035875,Ambulatory Visit
+C4035876,Healthcare Delivery Setting Reporting
+C4036143,A Lot Worse
+C4036310,Sometimes True
+C4038670,Linea alba of oral mucosa
+C4038738,Steep mandibular plane angle
+C4038931,Bacteria present
+C4039246,History of bone marrow transplant
+C4039932,Pelvic floor tension
+C4045969,Physical Barriers
+C4047528,Pain in right thumb
+C4048181,Impaired skin integrity
+C4048270,Decreased antibody level in blood
+C4048287,External cause codes: Firearm
+C4049612,Marrow Complete Response
+C4049629,Experimental Organism Decidual Reaction
+C4049705,Moderate Extremity Pain
+C4049706,Borg Category-Ratio 10 Perceived Exertion Score 3
+C4049712,Academic Research Council Subacute Stent Thrombosis
+C4049822,Stable Metabolic Disease
+C4049863,Radiologic Impression
+C4050019,Clinical Partial Response
+C4050094,Clinical Complete Response
+C4050131,Accepting of Extremity
+C4050171,Sustained Virologic Response
+C4050242,Pathologic Complete Response
+C4050248,Borg Scale Rating of Perceived Exertion Score 11
+C4050301,Parasite Present
+C4050308,Molecular Complete Response
+C4050309,Central Nervous System Involvement
+C4050364,Cytogenetic Complete Response
+C4050405,Suspicious for Malignancy
+C4050414,Rapid Virologic Response
+C4050465,Severe Extremity Pain
+C4050466,Borg Category-Ratio 10 Perceived Exertion Score 5
+C4050549,Academic Research Council Acute Stent Thrombosis
+C4050568,High Risk Acute Leukemia
+C4053782,Early Relapse of Acute Myeloid Leukemia
+C4053804,Experimental Organism Luteinized Unruptured Follicle
+C4053862,Virologic Response
+C4053866,Virologic End Of Treatment Response
+C4053870,Very Preterm Birth
+C4053895,Unfavorable Response
+C4053899,Undetermined Supraventricular Rhythm by ECG Finding
+C4053901,Unconfirmed Progressive Disease
+C4053942,Testicular Involvement
+C4053944,Terminal Hematuria
+C4053967,Supraventricular Run by ECG Finding
+C4054001,Spermatic Stasis
+C4054065,Respiratory Tract Epithelial Alteration
+C4054143,Pulmonary Compliance
+C4054192,Peritumoral Brain Edema
+C4054278,P3 Hydronephrosis
+C4054279,P2 Hydronephrosis
+C4054281,P1 Hydronephrosis
+C4054313,Ostomy Site
+C4054318,Optimal Morphologic Response
+C4054409,Neonatal Lesion
+C4054467,Morphologic Complete Response
+C4054468,Morphologic Complete Remission with Incomplete Blood Count Recovery
+C4054523,Mildly Short of Breath
+C4054663,Late Stillbirth
+C4054664,Late Relapse
+C4054666,Late Relapse of Acute Lymphoblastic Leukemia
+C4054725,Infantile Lesion
+C4054748,Iatrogenic Obesity
+C4054756,Elevated lactate level
+C4054925,Frequent Premature Atrial Complexes by ECG Finding
+C4054935,Forced Expiratory Volume in 1 Second to Forced Vital Capacity in 6 Seconds
+C4054987,Favorable Response
+C4055046,Extreme Preterm Birth
+C4055062,Enhanced Pause
+C4055065,End Inspiratory Pause
+C4055066,End Expiratory Pause
+C4055085,Early Stillbirth
+C4055086,Early Relapse
+C4055087,Early Relapse of Acute Lymphoblastic Leukemia
+C4055157,Degeneration and Regeneration
+C4055169,Cytogenetic Partial Response
+C4055173,Cystostomy Site
+C4055223,Clinical Response
+C4055225,Clinical Change by Non-Invasive Imaging Procedure
+C4055264,Cellular Debris
+C4055482,Airway Compromise
+C4055506,Accumulation
+C4055623,A1 Hydronephrosis
+C4062457,Decreased cardiac stroke volume index
+C4064401,"Patient status determination, deceased and buried"
+C4072999,Mild constriction of peripheral visual field
+C4073074,Abnormal fundus fluorescein angiography
+C4073117,Vitreous inflammatory cells
+C4073155,Abnormal CSF biopterin level
+C4073162,Elevated hemoglobin A1c
+C4073184,Thick hair
+C4073207,Bilateral facial muscle weakness
+C4073287,Abnormality of anterior ethmoidal artery
+C4075508,Sexually active in last month
+C4075516,Sexually active in last year
+C4075715,Victim of child sexual exploitation
+C4076023,History of pre-eclampsia
+C4082130,Prepared
+C4082459,Oral hygiene status
+C4082832,Atrial Premature Complex by ECG Finding
+C4083072,Acute ST Elevation Myocardial Infarction by ECG Finding
+C4083256,Bristol Stool Type 3
+C4084203,Improved - answer to question
+C4084859,Peribronchial Cuffing
+C4084883,Ossification Abnormality
+C4085229,Unclassified Abnormality
+C4085643,Moderate Response
+C4085651,Bristol Stool Type 1
+C4085652,Bristol Stool Type 2
+C4085653,Bristol Stool Type 4
+C4085654,Bristol Stool Type 5
+C4085655,Uncertain - Response
+C4085923,ASSIGN Score - Risk Score
+C4086026,Blood-Filled
+C4086027,Blunt-Tipped Tail
+C4086123,Cardiovascular System Findings Consciousness State
+C4086144,Cartilaginous Fusion
+C4086149,Centrilobular Opacity
+C4086258,Early Delivery of Experimental Organism
+C4086259,Early Intrauterine Death
+C4086268,Exacerbation
+C4086367,Gravid Uterus Adjusted Maternal Body Weight Gain
+C4086446,"Histological Subtype Different, Other Pathology Review"
+C4086504,Hypoattenuation
+C4086512,Implantation Site Characterization
+C4086513,Importance Rating Score 1 (4-Point Importance Scale)
+C4086551,Liver Iron Concentration
+C4086564,Mass Effect
+C4086580,Midline Shift
+C4086586,Minimal Residual Disease Persistence
+C4086587,Minimal Residual Disease Relapse
+C4086605,Most Severe Acute Stressor
+C4086623,Nodular Opacity
+C4086632,Not Very Sure
+C4086771,Readiness to Quit Smoking Score 1
+C4086772,Readiness to Quit Smoking Score 2
+C4086773,Readiness to Quit Smoking Score 3
+C4086775,Readiness to Quit Smoking Score 5
+C4086857,Slow Growing
+C4086879,Symptomatic Deterioration
+C4086928,Use Heroin
+C4086949,Very Slow Growing
+C4087047,Late Intrauterine Death
+C4225546,PREGNANCY LOSS 4
+C4228025,Arreflexia
+C4228353,Cardiac malformations
+C4228985,No vestibular symptoms
+C4229169,No polyhydramnios
+C4230628,No cognitive impairment
+C4231046,No clinical manifestations
+C4231054,Cranial nerve deficits
+C4255036,Sips
+C4255080,Cystogram
+C4255126,Angiogram - result
+C4264510,Emergency surgery
+C4273903,Westmead Post-traumatic Amnesia Scale score
+C4274450,At risk of child sexual exploitation
+C4280682,Eyelid fasciculation
+C4280707,Increased ratio of VWF propeptide to VWF antigen
+C4280710,Impaired binding of factor VIII to VWF
+C4280715,Decreased level of plasminogen
+C4280719,Abnormality of fibrinolysis
+C4280721,Maternal thrombophilia
+C4280729,Reduced FEV1/FVC ratio
+C4280730,Abnormality of pulmonary circulation
+C4280731,Oxygen desaturation on exertion
+C4280733,Abnormal cardiac ventricular function
+C4280737,Large elbow
+C4280743,Low pulse pressure
+C4280751,Ski jump nail
+C4280763,Increased C-peptide level
+C4280764,Reduced C-peptide level
+C4280777,Modic type I vertebral endplate changes
+C4280778,Modic type vertebral endplate changes
+C4280783,Erythrodontia
+C4280802,Pulmonary venous occlusion
+C4281574,Much
+C4281748,Leakage
+C4281786,Presence of foam cells
+C4281993,Neonatal respiratory distress
+C4282165,Swollen Lymph Node
+C4282382,No response
+C4283785,Complete Pharyngeal Contraction
+C4283786,Residue on Palate
+C4283818,Residue on Tongue
+C4283846,Skin Progression GvHD
+C4283847,Lung Progression GvHD
+C4283941,Oral Impairment During Swallowing
+C4284035,Partial Response with Lymphocytosis
+C4284144,Zero Activity Time
+C4284179,Used Quit Cigarette Smoking Videos
+C4284930,Location of Pharyngeal Residue Following Swallowing
+C4284931,Location of Oral Residue Following Swallowing
+C4285062,Pharyngeal Stripping Wave Absent
+C4285075,Impairment of Lip Closure
+C4287877,Severity Score 1
+C4287887,HLA Mismatch
+C4287903,Cardiac Wall Motion Type
+C4288015,Volume at End Ventricular Diastole
+C4288020,Very Tired
+C4288086,Two or Less Flights of Steps Daily
+C4288099,Tricuspid Valve Vena Contracta Width
+C4288102,Tricuspid Valve Regurgitant Jet Area
+C4288130,Three to Four Flights of Steps Daily
+C4288171,Submucosal Lesion
+C4288237,Severity Score 5
+C4288239,Severity Score 3
+C4288240,Severity Score 2
+C4288293,Residue on Valleculae Following Swallowing
+C4288343,Pulmonary Vein Dominance
+C4288344,Pulmonary Valve Vena Contracta Width
+C4288395,Pharyngeal Stripping Wave Present but Diminished
+C4288418,Peak E Velocity
+C4288419,Peak Blood Flow Velocity
+C4288420,Peak A Velocity
+C4288448,Partial Distension or Partial Duration of Pharyngoesophageal Segment Opening During Swallowing
+C4288552,Oral Residue Following Swallowing
+C4288557,One Activity Hour
+C4288590,Non-Organic Failure to Thrive
+C4288599,No Inversion of Epiglottis During Swallowing
+C4288611,Nearly Every Day for 2 Weeks
+C4288726,Moderately Tired
+C4288731,Mitral Valve Vena Contracta Width
+C4288732,Mitral Valve Regurgitant Jet Area
+C4288735,Mitral E/A Ratio
+C4288810,Loss of Stoma
+C4288825,Left Ventricular Outflow Tract Peak Velocity
+C4288913,Impairment of Anterior Hyoid Excursion
+C4289020,H Score Total Score
+C4289275,Fifteen or More Flights of Steps Daily
+C4289570,Esophageal Retention Following Swallowing
+C4289757,Complete Distension and Complete Duration of Pharyngoesophageal Segment Opening During Swallowing
+C4289767,Colonization
+C4289806,Cesarean Scar Pregnancy
+C4289905,Bronchial Epithelial Dysplasia
+C4289920,Bilateral Bulging on Pharyngeal Contraction
+C4289962,Area at End Ventricular Systole
+C4289966,Aortic Valve Vena Contracta Width
+C4290005,Acquired Solitary Kidney
+C4293678,Glabellar reflex
+C4296616,Adverse Childhood Experiences
+C4302012,Probable SARS (severe acute respiratory syndrome)
+C4302020,Suspected SARS (severe acute respiratory syndrome)
+C4302494,Nicotine user
+C4302653,Neurodisability
+C4302768,Under immunized
+C4304146,Mother victim of domestic violence
+C4304283,Refractory hypotension
+C4304545,Pale conjunctiva
+C4304688,Decline in functional status
+C4305187,Transient hypotension
+C4313225,Interstitial infiltrates
+C4313322,Alveolar damage
+C4313440,No endocrine abnormalities
+C4314692,Neurologic decline
+C4315105,Short QT interval
+C4315395,No systemic symptoms
+C4315615,Chronic condition
+C4317067,Brugada Syndrome Ventricular Arrhythmia by ECG Finding
+C4317093,Reduced factor XI activity
+C4317107,Abnormality of the thyroid gland
+C4317146,Acid reflux
+C4318482,Crutches Usually Used
+C4318483,Usually Need Help from Another Person for Eating
+C4318616,Usually Need Help from Another Person for Arising
+C4319571,High risk
+C4319730,Completely Able
+C4319731,Complete Agreement
+C4321250,Usually Need Help from Another Person for Reach
+C4321303,Ectopic Tissue present
+C4321304,Walker Usually Used
+C4321315,Care team
+C4321325,Lupus anticoagulant -- finding
+C4321351,Low Level
+C4321392,Bone Lesion Identification
+C4321393,Immunoresponse finding
+C4321394,Foci
+C4321458,Progressive Heterotopic Heteroplasia
+C4321495,Extravascular Extracellular Volume Fraction
+C4321500,Not Sexually Active
+C4329461,Block Depleted
+C4329668,Chronically Sun-exposed Site
+C4329685,Continued Complete Hematologic Response
+C4329786,Eligibility Criteria Met By Subject
+C4330008,Frequently Disagree
+C4330673,Metastatic Disease Indicator
+C4330816,Needle Tract Seeding
+C4330824,New Bone Lesion Lesion Identification
+C4330832,Non-target Non-enhancing Lesion Identification
+C4330848,Occasionally Agree
+C4330858,Oral Dysplasia
+C4331357,Sun-exposed Site
+C4476563,Enlarged mesenteric lymph node
+C4476578,U wave inversion
+C4476580,Abnormal QRS complex
+C4476583,Bloody mucoid diarrhea
+C4476601,White lesion of the oral mucosa
+C4476615,Dark choroid
+C4476619,Poor visual behavior for age
+C4476636,Intralobular interstitial thickening
+C4476637,Peribronchovascular interstitial thickening
+C4476638,Subpleural interstitial thickening
+C4476652,Triggered by cold
+C4476661,Triggered by heat
+C4476678,Triggered by vestibular stimulation
+C4476682,Ameliorated by heat
+C4476688,Aggravated by activity
+C4476809,Palmoplantar erythema
+C4476829,Scaling skin on fingertip
+C4476832,Serpiginous cutaneous lesion
+C4476833,Annular cutaneous lesion
+C4476869,Elevated gamma-glutamyltransferase activity
+C4476882,Abnormal pulmonary artery physiology
+C4476884,Abnormal pulmonary vein physiology
+C4476887,Abnormal systemic blood pressure
+C4476905,Hemiareflexia
+C4476976,Decreased fibular diameter
+C4476996,Storage in hepatocytes
+C4476998,Frog-leg posture
+C4476999,Abnormal liver sonography
+C4477000,Increased hepatic echogenicity
+C4477002,Decreased hepatic echogenicity
+C4477016,Postterm pregnancy
+C4477047,Purple urine
+C4477076,Abnormal cardiac MRI
+C4477079,Abnormal cardiac biomarker test
+C4477087,Abnormal hepatic glycogen storage
+C4477098,Pulmonary venous hypertension
+C4477103,Blue urine
+C4479351,Pale stools
+C4489241,None Identified
+C4505222,Sleep Onset Latency
+C4505286,"Contraindications, Drug"
+C4505287,"Contraindications, Procedure"
+C4510745,Does use arms to get out of chair
+C4512001,History of chest pain
+C4518814,Stroke volume variation
+C4520847,Immunoglobulin G subclass deficiency (finding)
+C4520849,Living
+C4520890,Nasal (intended site)
+C4521006,Endocervical (intended site)
+C4521075,Childhood Overweight
+C4521130,Intraocular (intended site)
+C4521294,Urethral (intended site)
+C4521296,Ocular (intended site)
+C4521343,Vaginal (intended site)
+C4521576,Neck Pain Score 0
+C4521763,Killed
+C4521780,Gastroenteral (intended site)
+C4521854,Gingival (intended site)
+C4521903,Rectal (intended site)
+C4521982,Sublingual (intended site)
+C4521986,Oral (intended site)
+C4522129,Medical Device Explosion Issue
+C4522138,Device Migration Problem
+C4522208,Neck Pain Score 10
+C4522267,Parenteral (intended site)
+C4522268,Pulmonary (intended site)
+C4522280,Neck Pain Score 2
+C4522282,A Medium Amount of Time
+C4522283,A Medium Amount
+C4524606,Esophagus and Esophagogastric Junction Cancer pTX TNM Finding v8
+C4524618,Esophagus and Esophagogastric Junction Cancer pNX TNM Finding v8
+C4524690,Sharp Edges
+C4524691,Device Fell
+C4524698,Unintended Electrical Shock
+C4524729,Radiation Output Failure
+C4524736,Excessive Heating (medical device)
+C4524766,Gastric Cancer pTX TNM Finding v8
+C4524778,Gastric Cancer pNX TNM Finding v8
+C4524793,Premature Separation
+C4524801,Inaccurate Information
+C4525166,Hepatocellular Carcinoma pTX TNM Finding v8
+C4525174,Hepatocellular Carcinoma pNX TNM Finding v8
+C4525756,Calculated Right Ventricular Ejection Fraction
+C4525757,Estimated Right Ventricular Ejection Fraction
+C4525821,Non-Target Non-Enhancing Lesion Response
+C4526780,Apparent Sporadic Paraganglioma or Pheochromocytoma
+C4527217,Infiltrative Tumor Margin
+C4527400,Solid Pulmonary Nodule
+C4527410,Endocrine Therapy Toxicity
+C4527434,Assistance Reading Questions
+C4527435,Assistance Entering Answers
+C4527438,Used Personal Smartphone
+C4527560,Used Paper Form
+C4528146,Goes Out
+C4528224,Florid Follicular Hyperplasia
+C4528232,Aortic Coarctation Severity
+C4528238,Peak Pressure Rise Rate
+C4528292,Decreased Dentin
+C4528294,Growth Plate Closed
+C4528389,Deceased Donor Donation Condition
+C4528411,IPSS Risk Score
+C4528630,Migration or Expulsion of Device
+C4528655,Interrogation Problem
+C4528715,As Good as Others
+C4529963,Reflux in Children
+C4531024,Subretinal deposits
+C4531051,Abnormal QT interval
+C4531081,Night gasping
+C4531092,Reduced contraction of the left ventricular apex
+C4531093,Abnormal regional left ventricular contraction
+C4531104,Pulmonary opacity
+C4531144,Impaired cytokine signaling
+C4531175,Cutaneous sclerotic plaque
+C4531191,Cardiomyocyte degeneration
+C4531201,Myocardial lymphocytic infiltration
+C4531219,Elevated left atrial pressure
+C4531225,Perifollicular erythema
+C4531233,Absent ankle pulse
+C4531279,Striatal T2 hyperintensity
+C4531281,Bacterial cell casts
+C4534529,Former Oral Contraceptive User
+C4534530,Never Used Oral Contraceptives
+C4540869,Labor Exploitation
+C4544057,Chronic neuropathic pain
+C4544584,Distance between molar teeth
+C4551441,"Uterine Infection, CTCAE"
+C4551513,"Leukocytosis, CTCAE"
+C4551560,Truncal obesity
+C4551563,Microcephaly (physical finding)
+C4551601,"Pelvic Infection, CTCAE"
+C4551620,"Chest Pain - Cardiac, CTCAE"
+C4551655,Cardiovascular Manifestation
+C4551685,Paralysis of diaphragm
+C4551724,"Pregnancy Loss, CTCAE"
+C4551755,"Appendicitis Perforated, CTCAE"
+C4551828,"Fetal Growth Retardation, CTCAE"
+C4551855,"Breast Infection, CTCAE"
+C4551915,"Gait Disturbance, CTCAE"
+C4551916,"Hyperthyroidism, CTCAE"
+C4551922,"Bone Infection, CTCAE"
+C4551923,"Injection Site Reaction, CTCAE"
+C4551927,"Laryngeal Inflammation, CTCAE"
+C4551932,"Otitis Media, CTCAE"
+C4551936,"Anal Stenosis, CTCAE"
+C4551938,"Arthralgia, CTCAE 5"
+C4551939,"Restlessness, CTCAE"
+C4551941,"Floaters, CTCAE"
+C4551944,"Duodenal Ulcer, CTCAE 5"
+C4551970,Sclerotic vertebral endplates
+C4552006,Atrioventricular Reentrant Tachycardia by ECG Finding
+C4552094,Polymorphic Ventricular Tachycardia by ECG Finding
+C4552597,"Acute Kidney Injury, CTCAE"
+C4552634,"Mucosal Infection, CTCAE"
+C4552635,"Mucositis Oral, CTCAE"
+C4552636,"Multi-Organ Failure, CTCAE"
+C4552638,"Muscle Cramp, CTCAE"
+C4552641,"Muscle Weakness Right-Sided, CTCAE"
+C4552646,"Myalgia, CTCAE 5"
+C4552647,"Myasthenia Gravis, CTCAE"
+C4552649,"Renal Calculi, CTCAE"
+C4552650,"Renal Colic, CTCAE"
+C4552651,"Respiratory Failure, CTCAE"
+C4552652,"Retinal Detachment, CTCAE 5.0"
+C4552653,"Retinal Tear, CTCAE"
+C4552655,"Retroperitoneal Hemorrhage, CTCAE 5.0"
+C4552657,"Reversible Posterior Leukoencephalopathy Syndrome, CTCAE"
+C4552660,"Rhabdomyolysis, CTCAE"
+C4552662,"Rhinorrhea, CTCAE"
+C4552664,"Pleuritic Pain, CTCAE 5.0"
+C4552665,"Pneumonitis, CTCAE"
+C4552669,"Portal Hypertension, CTCAE"
+C4552670,"Portal Vein Thrombosis, CTCAE"
+C4552733,"External Ear Pain, CTCAE 5.0"
+C4552735,"Anxiety, CTCAE 5.0"
+C4552736,"Skin Infection, CTCAE"
+C4552737,"Toothache, CTCAE"
+C4552740,"Fever, CTCAE"
+C4552741,"Amenorrhea, CTCAE"
+C4552743,"Budd-Chiari Syndrome, CTCAE"
+C4552746,"Sore Throat, CTCAE"
+C4552747,"Kyphosis, CTCAE"
+C4552760,"Mania, CTCAE"
+C4552773,"Scoliosis, CTCAE"
+C4552774,"Phantom Pain, CTCAE 5.0"
+C4552776,"Hip Fracture, CTCAE"
+C4552777,"Pleural Effusion, CTCAE"
+C4552806,"Thromboembolic Event, CTCAE"
+C4552807,"Gastroparesis, CTCAE"
+C4552808,"Disease Progression, CTCAE"
+C4552809,"Gallbladder Infection, CTCAE"
+C4552810,"Irritability, CTCAE"
+C4552811,"Generalized Muscle Weakness, CTCAE"
+C4552812,"Cytokine Release Syndrome, CTCAE"
+C4552813,"Biliary Fistula, CTCAE"
+C4552818,"Hepatic Failure, CTCAE"
+C4552819,"Gastric Hemorrhage, CTCAE"
+C4552820,"Acidosis, CTCAE"
+C4552822,"Folliculitis, CTCAE"
+C4552824,"Joint Infection, CTCAE"
+C4552826,"Obstruction Gastric, CTCAE"
+C4552833,"Hyperglycemia, CTCAE"
+C4552835,"Belching, CTCAE"
+C4552836,"Viremia, CTCAE"
+C4552837,"Sepsis, CTCAE"
+C4552838,"Intestinal Stoma Site Bleeding, CTCAE"
+C4552839,"Hypomagnesemia, CTCAE"
+C4552840,"Guillain-Barre Syndrome, CTCAE"
+C4552841,"Venous Injury, CTCAE"
+C4552842,"Upper Respiratory Infection, CTCAE"
+C4552843,"Hypercalcemia, CTCAE"
+C4552844,"Meningitis, CTCAE"
+C4552845,"Arthritis, CTCAE"
+C4552846,"Anal Fistula, CTCAE 5"
+C4552855,"Agitation, CTCAE 5.0"
+C4552858,"Akathisia, CTCAE"
+C4552862,"Alkalosis, CTCAE"
+C4552863,"Allergic Reaction, CTCAE"
+C4552864,"Allergic Rhinitis, CTCAE"
+C4552880,"Myocarditis, CTCAE 5.0"
+C4552881,"Myositis, CTCAE 5.0"
+C4552886,"Nail Loss, CTCAE"
+C4552901,"Bronchospasm, CTCAE"
+C4552902,"Rash Maculo-Papular, CTCAE"
+C4552903,"Lethargy, CTCAE"
+C4552909,"Purpura, CTCAE"
+C4552918,"Presyncope, CTCAE"
+C4552938,"Productive Cough, CTCAE"
+C4552939,"Death Neonatal, CTCAE"
+C4552941,"Delirium, CTCAE"
+C4552944,"Tooth Infection, CTCAE"
+C4552947,"Bullous Dermatitis, CTCAE"
+C4552950,"Lung Infection, CTCAE"
+C4552953,"Urinary Tract Obstruction, CTCAE"
+C4552955,"Bronchial Stricture, CTCAE"
+C4552959,"Myocardial Infarction, CTCAE"
+C4552960,"Ear Pain, CTCAE"
+C4552961,"Gingival Pain, CTCAE"
+C4552963,"Fat Atrophy, CTCAE"
+C4552964,"Biliary Anastomotic Leak, CTCAE"
+C4552966,"Urine Discoloration, CTCAE"
+C4552968,"Dyspepsia, CTCAE"
+C4552972,"Extraocular Muscle Paresis, CTCAE"
+C4552973,"Anal Ulcer, CTCAE 5"
+C4552974,"Ankle Fracture, CTCAE"
+C4552980,"Bronchopleural Fistula, CTCAE"
+C4552982,"Stridor, CTCAE"
+C4552983,"Hyperkalemia, CTCAE"
+C4552984,"Tracheitis, CTCAE"
+C4552987,"White Blood Cell Decreased, CTCAE"
+C4552989,"Malaise, CTCAE"
+C4552990,"Anosmia, CTCAE"
+C4552992,"Biliary Tract Infection, CTCAE"
+C4552998,"Periorbital Infection, CTCAE"
+C4552999,"Infusion Related Reaction, CTCAE"
+C4553000,"Rectal Mucositis, CTCAE"
+C4553001,"Ischemia Cerebrovascular, CTCAE"
+C4553003,"Intraoperative Splenic Injury, CTCAE"
+C4553005,"Peripheral Motor Neuropathy, CTCAE"
+C4553008,"Capillary Leak Syndrome, CTCAE"
+C4553015,"Anaphylaxis, CTCAE"
+C4553018,"Avascular Necrosis, CTCAE"
+C4553069,"Hyperuricemia, CTCAE"
+C4553071,"Anal Pain, CTCAE 5"
+C4553091,"Subcutaneous Emphysema, CTCAE"
+C4553092,"Endophthalmitis, CTCAE"
+C4553094,"Vaginal Inflammation, CTCAE"
+C4553098,"Rash Pustular, CTCAE"
+C4553099,"Atrioventricular Block Complete, CTCAE"
+C4553100,"Chylous Ascites, CTCAE"
+C4553101,"Methemoglobinemia, CTCAE"
+C4553103,"Aortic Valve Disease, CTCAE"
+C4553104,"Vagus Nerve Disorder, CTCAE"
+C4553105,"Cardiac Arrest, CTCAE 5"
+C4553108,"Dysesthesia, CTCAE"
+C4553111,"Otitis Externa, CTCAE"
+C4553115,"Bloating, CTCAE"
+C4553118,"Anorectal Infection, CTCAE"
+C4553119,"Flank Pain, CTCAE"
+C4553120,"Esophageal Perforation, CTCAE 5"
+C4553164,"Localized Edema, CTCAE"
+C4553166,"Vestibular Disorder, CTCAE"
+C4553173,"Thrush, CTCAE"
+C4553176,"Amnesia, CTCAE"
+C4553179,"Anal Hemorrhage, CTCAE 5"
+C4553181,"Anal Necrosis, CTCAE"
+C4553184,"Chest Wall Pain, CTCAE 5.0"
+C4553185,"Chills, CTCAE"
+C4553186,"Cholecystitis, CTCAE 5.0"
+C4553188,"Chronic Kidney Disease, CTCAE"
+C4553197,"Headache, CTCAE"
+C4553198,"Erythroderma, CTCAE"
+C4553199,"Left Ventricular Systolic Dysfunction, CTCAE 5.0"
+C4553201,"Gastroesophageal Reflux Disease, CTCAE"
+C4553202,"Glucose Intolerance, CTCAE"
+C4553203,"Leukoencephalopathy, CTCAE"
+C4553206,"GGT Increased, CTCAE"
+C4553207,"Hepatitis Viral, CTCAE 5"
+C4553214,Serious Adverse Experience
+C4553220,"Paresthesia, CTCAE"
+C4553231,"Prostate Infection, CTCAE"
+C4553232,"Prostatic Obstruction, CTCAE"
+C4553299,"Trigeminal Nerve Disorder, CTCAE"
+C4553302,"Toxic Epidermal Necrolysis, CTCAE"
+C4553304,"Wound Dehiscence, CTCAE"
+C4553305,"Conjunctivitis, CTCAE"
+C4553307,"Wound Complication, CTCAE"
+C4553308,"Pharyngitis, CTCAE"
+C4553310,"Hypothyroidism, CTCAE"
+C4553311,"Abdominal Distension, CTCAE"
+C4553313,"Periorbital Edema, CTCAE"
+C4553314,"Hallucinations, CTCAE"
+C4553317,"Gastric Ulcer, CTCAE 5"
+C4553382,"Aortic Injury, CTCAE"
+C4553384,"Cognitive Disturbance, CTCAE 5.0"
+C4553385,"Colonic Fistula, CTCAE"
+C4553394,"Lower Gastrointestinal Hemorrhage, CTCAE 5"
+C4553395,"Scalp Pain, CTCAE 5.0"
+C4553400,"Scrotal Pain, CTCAE 5.0"
+C4553401,"Seizure, CTCAE 5.0"
+C4553403,"Serum Amylase Increased, CTCAE"
+C4553404,"Serum Sickness, CTCAE 5.0"
+C4553407,"Pulmonary Edema, CTCAE"
+C4553408,"Pulmonary Fibrosis, CTCAE"
+C4553409,"Pulmonary Fistula, CTCAE"
+C4553410,"Pulmonary Valve Disease, CTCAE"
+C4553423,"Dyspareunia, CTCAE"
+C4553491,Effectiveness (finding)
+C4553525,"Aphonia, CTCAE"
+C4553526,"Appendicitis, CTCAE"
+C4553527,"Arachnoiditis, CTCAE"
+C4553533,"Corneal Infection, CTCAE"
+C4553534,"CPK Increased, CTCAE"
+C4553535,"Cranial Nerve Infection, CTCAE"
+C4553541,"Lymph Node Pain, CTCAE 5.0"
+C4553542,"Lymphedema, CTCAE"
+C4553551,"Shingles, CTCAE"
+C4553554,"Sinus Tachycardia, CTCAE 5.0"
+C4553555,"Sinusitis, CTCAE"
+C4553557,"Skin Atrophy, CTCAE 5.0"
+C4553558,"Skin Hyperpigmentation, CTCAE 5"
+C4553560,"Skin Induration, CTCAE"
+C4553566,"Rectal Anastomotic Leak, CTCAE"
+C4553586,"Euphoria, CTCAE 5.0"
+C4553589,"Hypertriglyceridemia, CTCAE"
+C4553630,Subject Not Assigned to Arm
+C4553639,"Arterial Injury, CTCAE"
+C4553641,"Ascites, CTCAE"
+C4553642,"Asystole, CTCAE 5.0"
+C4553645,"Cushingoid, CTCAE"
+C4553646,"Cyanosis, CTCAE"
+C4553652,"Small Intestinal Obstruction, CTCAE 5"
+C4553657,"Sneezing, CTCAE"
+C4553658,"Esophageal Pain, CTCAE 5"
+C4553659,"Hypoglycemia, CTCAE"
+C4553661,"Soft Tissue Infection, CTCAE"
+C4553662,"Hematosalpinx, CTCAE"
+C4553663,"Rectal Pain, CTCAE 5.0"
+C4553718,"Autoimmune Disorder, CTCAE"
+C4553720,"Extrapyramidal Disorder, CTCAE"
+C4553722,"Eye Pain, CTCAE 5.0"
+C4553723,"Facial Muscle Weakness, CTCAE"
+C4553724,"Facial Nerve Disorder, CTCAE"
+C4553726,"Fall, CTCAE"
+C4553728,"Fallopian Tube Obstruction, CTCAE 5.0"
+C4553736,"Meningismus, CTCAE"
+C4553737,"Menorrhagia, CTCAE"
+C4553740,"Somnolence, CTCAE"
+C4553743,"Spasticity, CTCAE"
+C4553762,"Vascular Access Complication, CTCAE"
+C4553763,"Vasovagal Reaction, CTCAE 5"
+C4553764,"Ventricular Arrhythmia, CTCAE 5.0"
+C4553765,"Memory Impairment, CTCAE 5.0"
+C4553819,"Febrile Neutropenia, CTCAE"
+C4553820,"Fecal Incontinence, CTCAE 5"
+C4553823,"Delusions, CTCAE"
+C4553824,"Dental Caries, CTCAE"
+C4553826,"Depressed Level of Consciousness, CTCAE"
+C4553832,"Mitral Valve Disease, CTCAE"
+C4553835,"Hoarseness, CTCAE"
+C4553836,"Spinal Cord Compression, CTCAE"
+C4553837,"Spinal Fracture, CTCAE"
+C4553849,"Tumor Lysis Syndrome, CTCAE 5.0"
+C4553851,"Typhlitis, CTCAE 5.0"
+C4553852,"Visceral Arterial Ischemia, CTCAE"
+C4553853,"Vision Decreased, CTCAE"
+C4553897,"Dry Eye, CTCAE"
+C4553900,"Duodenal Perforation, CTCAE"
+C4553903,"Dysarthria, CTCAE"
+C4553904,"Dysmenorrhea, CTCAE"
+C4553908,"Neck Edema, CTCAE"
+C4553909,"Neck Pain, CTCAE 5.0"
+C4553910,"Nephrotic Syndrome, CTCAE"
+C4553916,"Intestinal Stoma Obstruction, CTCAE"
+C4553918,"Upper Gastrointestinal Hemorrhage, CTCAE"
+C4553919,"Superficial Thrombophlebitis, CTCAE"
+C4553922,"Urinary Fistula, CTCAE"
+C4553923,"Urinary Frequency, CTCAE"
+C4553924,"Urinary Incontinence, CTCAE 5.0"
+C4553925,"Wheezing, CTCAE"
+C4553926,"Wound Infection, CTCAE"
+C4553945,"Back Pain, CTCAE 5.0"
+C4553946,"Bacteremia, CTCAE"
+C4553950,"Flu Like Symptoms, CTCAE"
+C4553953,"Fungemia, CTCAE"
+C4553954,"Dysphasia, CTCAE"
+C4553955,"Dysuria, CTCAE"
+C4553957,"Eczema, CTCAE"
+C4553960,"Edema Face, CTCAE"
+C4553962,"Hyperkeratosis, CTCAE"
+C4553963,"Hyperparathyroidism, CTCAE"
+C4553964,"Hypersomnia, CTCAE"
+C4553966,"Hypokalemia, CTCAE"
+C4553967,"Hyponatremia, CTCAE"
+C4553968,"Hypophysitis, CTCAE"
+C4553969,"Hypopituitarism, CTCAE"
+C4553971,"Non-Cardiac Chest Pain, CTCAE"
+C4553975,"Urinary Tract Pain, CTCAE"
+C4553976,"Urinary Urgency, CTCAE 5"
+C4553979,"Urostomy Site Bleeding, CTCAE"
+C4554001,"Ventricular Fibrillation, CTCAE 5.0"
+C4554002,"Vertigo, CTCAE"
+C4554020,"Gallbladder Pain, CTCAE 5.0"
+C4554021,"Gallbladder Perforation, CTCAE 5.0"
+C4554022,"Gastric Anastomotic Leak, CTCAE"
+C4554025,"Gastric Perforation, CTCAE 5"
+C4554029,"Ejection Fraction Decreased, CTCAE"
+C4554030,"Encephalopathy, CTCAE 5.0"
+C4554031,"Endocarditis Infective, CTCAE"
+C4554032,"Enterocolitis, CTCAE"
+C4554033,"Enterocolitis Infectious, CTCAE"
+C4554036,"Nystagmus, CTCAE 5.0"
+C4554044,"Oral Dysesthesia, CTCAE"
+C4554061,"Body Odor, CTCAE"
+C4554063,"Bone Pain, CTCAE 5.0"
+C4554066,"Gastrointestinal Pain, CTCAE"
+C4554073,"Erythema Multiforme, CTCAE"
+C4554077,"Esophageal Obstruction, CTCAE 5"
+C4554078,"Esophageal Ulcer, CTCAE 5"
+C4554079,"Esophageal Varices Hemorrhage, CTCAE 5.0"
+C4554084,"Osteonecrosis, CTCAE"
+C4554094,"Ovulation Pain, CTCAE 5.0"
+C4554096,"Stevens-Johnson Syndrome, CTCAE"
+C4554100,"Stroke, CTCAE"
+C4554103,"Sudden Death NOS, CTCAE"
+C4554104,"Suicidal Ideation, CTCAE"
+C4554105,"Suicide Attempt, CTCAE"
+C4554123,"Bronchial Obstruction, CTCAE"
+C4554124,"Eosinophilia, CTCAE"
+C4554125,"Buttock Pain, CTCAE 5.0"
+C4554128,"Gynecomastia, CTCAE 5.0"
+C4554130,"Injury To Carotid Artery, CTCAE 5"
+C4554133,"Pain of Skin, CTCAE 5"
+C4554136,"Pancreatic Enzymes Decreased, CTCAE"
+C4554139,"Thrombotic Thrombocytopenic Purpura, CTCAE"
+C4554142,"Peripheral Sensory Neuropathy, CTCAE"
+C4554143,"Testicular Pain, CTCAE 5.0"
+C4554150,"Flushing, CTCAE 5.0"
+C4554158,"Heart Failure, CTCAE"
+C4554160,"Hemoglobinuria, CTCAE 5.0"
+C4554161,"Hemolytic Uremic Syndrome, CTCAE"
+C4554162,"Hemorrhoidal Hemorrhage, CTCAE"
+C4554163,"Hemorrhoids, CTCAE 5.0"
+C4554166,"Hepatic Necrosis, CTCAE 5.0"
+C4554168,"Intra-Abdominal Hemorrhage, CTCAE 5"
+C4554169,"Intracranial Hemorrhage, CTCAE"
+C4554172,"Intraoperative Cardiac Injury, CTCAE"
+C4554174,"Intraoperative Gastrointestinal Injury, CTCAE"
+C4554177,"Intraoperative Neurological Injury, CTCAE"
+C4554178,"Pancreatic Necrosis, CTCAE 5"
+C4554179,"Pancreatitis, CTCAE 5.0"
+C4554180,"Papilledema, CTCAE 5"
+C4554181,"Papulopustular Rash, CTCAE"
+C4554184,"Penile Pain, CTCAE 5.0"
+C4554185,"Tinnitus, CTCAE 5.0"
+C4554234,"Hiccups, CTCAE"
+C4554235,"Hirsutism, CTCAE"
+C4554240,"Laryngeal Edema, CTCAE 5"
+C4554242,"Intraoperative Ocular Injury, CTCAE"
+C4554252,"Pericardial Tamponade, CTCAE"
+C4554253,"Perineal Pain, CTCAE 5.0"
+C4554257,"Personality Change, CTCAE"
+C4554262,"Tracheal Stenosis, CTCAE"
+C4554265,"Tremor, CTCAE 5.0"
+C4554322,"Abdominal Infection, CTCAE"
+C4554323,"Abdominal Pain, CTCAE 5"
+C4554327,"Activated Partial Thromboplastin Time Prolonged, CTCAE"
+C4554328,"Catheter Related Infection, CTCAE"
+C4554332,"Laryngospasm, CTCAE"
+C4554335,"Joint Effusion, CTCAE 5.0"
+C4554340,"Phlebitis, CTCAE"
+C4554342,"Photophobia, CTCAE 5.0"
+C4554343,Cogan lid twitch
+C4554345,"Hypoalbuminemia, CTCAE 5"
+C4554346,"Proteinuria, CTCAE 5.0"
+C4554349,Wound type
+C4554407,"Bruising, CTCAE"
+C4554413,Fractured
+C4554418,Parallel
+C4554445,"Facial Pain, CTCAE"
+C4554446,"Ventricular Tachycardia, CTCAE 5.0"
+C4554476,Remnant
+C4554530,Bloody
+C4554547,3 phase
+C4554551,"Pelvic Pain, CTCAE 5.0"
+C4554566,Immigration status
+C4554621,"Cerebrospinal Fluid Leakage, CTCAE 5"
+C4554622,"Osteoporosis, CTCAE 5.0"
+C4554623,"Breast Pain, CTCAE 5.0"
+C4554624,"Hypocalcemia, CTCAE"
+C4554625,"Dysgeusia, CTCAE"
+C4554626,"Insomnia, CTCAE 5.0"
+C4554627,"Epistaxis, CTCAE"
+C4554628,"Tricuspid Valve Disease, CTCAE"
+C4554629,"Psychosis, CTCAE"
+C4554630,"Hematuria, CTCAE"
+C4554631,"Nasal Congestion, CTCAE"
+C4554633,"Anemia, CTCAE"
+C4554635,"Hypoparathyroidism, CTCAE"
+C4554636,"Hypernatremia, CTCAE"
+C4554637,"Hypophosphatemia, CTCAE"
+C4554638,"Urinary Tract Infection, CTCAE"
+C4554639,"Ataxia, CTCAE 5.0"
+C4554640,"Oral Pain, CTCAE 5.0"
+C4554641,"Transient Ischemic Attacks, CTCAE"
+C4554644,"Syncope, CTCAE 5.0"
+C4554645,"Fatigue, CTCAE 5.0"
+C4554646,"Pericardial Effusion, CTCAE"
+C4554647,"Hypermagnesemia, CTCAE"
+C4554648,"Vaginal Discharge, CTCAE"
+C4554649,"Hyperphosphatemia, CTCAE"
+C4554650,"Anal Fissure, CTCAE"
+C4554659,"Arterial Thromboembolism, CTCAE"
+C4554664,"Epstein-Barr Virus Infection Reactivation, CTCAE"
+C4554669,"Oropharyngeal Pain, CTCAE"
+C4555209,"Cataract, CTCAE 5.0"
+C4555211,"Confusion, CTCAE 5.0"
+C4555212,"Hyperlipidemia, CTCAE"
+C4555214,"Sleep Apnea, CTCAE"
+C4683638,No Dysphagia
+C4683672,Cardiac Arrest Requiring Cardiopulmonary Resuscitation
+C4683837,Presumed Alive
+C4683877,Pain Score 1
+C4683878,Pain Score 2
+C4683879,Pain Score 3
+C4683881,Pain Score 5
+C4684547,iRECIST Unconfirmed Progressive Disease
+C4684723,Open To Enrollment
+C4684759,Residual Risk
+C4684790,Study Subject Enrolled
+C4684805,Trial Termination
+C4685006,"Grade 1 Abdominal Distension, CTCAE"
+C4685013,"Grade 1 Akathisia, CTCAE"
+C4685016,"Grade 1 Alkalosis, CTCAE"
+C4685017,"Grade 1 Allergic Reaction, CTCAE"
+C4685018,"Grade 1 Allergic Rhinitis, CTCAE"
+C4685019,"Grade 1 Amnesia, CTCAE"
+C4685020,"Grade 1 Anal Fissure, CTCAE"
+C4685027,"Grade 1 Anemia, CTCAE"
+C4685028,"Grade 1 Anorectal Infection, CTCAE"
+C4685030,"Grade 1 Anosmia, CTCAE"
+C4685031,"Grade 1 Aortic Valve Disease, CTCAE"
+C4685032,"Grade 1 Arachnoiditis, CTCAE"
+C4685033,"Grade 1 Arterial Injury, CTCAE"
+C4685034,"Grade 1 Arthralgia, CTCAE"
+C4685036,"Grade 1 Ascites, CTCAE"
+C4685039,"Grade 1 Autoimmune Disorder, CTCAE"
+C4685040,"Grade 1 Avascular Necrosis, CTCAE"
+C4685041,"Grade 1 Belching, CTCAE"
+C4685057,"Grade 1 Bronchial Obstruction, CTCAE"
+C4685059,"Grade 1 Bronchopleural Fistula, CTCAE"
+C4685061,"Grade 1 Bronchospasm, CTCAE"
+C4685062,"Grade 1 Bruising, CTCAE"
+C4685073,"Grade 1 Chest Pain - Cardiac, CTCAE"
+C4685074,"Grade 1 Chills, CTCAE"
+C4685076,"Grade 1 Chronic Kidney Disease, CTCAE"
+C4685090,"Grade 1 Cytokine Release Syndrome, CTCAE"
+C4685093,"Grade 1 Delirium, CTCAE"
+C4685094,"Grade 1 Dental Caries, CTCAE"
+C4685095,"Grade 1 Depressed Level of Consciousness, CTCAE"
+C4685097,"Grade 1 Dry Eye, CTCAE"
+C4685102,"Grade 1 Duodenal Ulcer, CTCAE"
+C4685103,"Grade 1 Dysarthria, CTCAE"
+C4685104,"Grade 1 Dysgeusia, CTCAE"
+C4685105,"Grade 1 Dysmenorrhea, CTCAE"
+C4685106,"Grade 1 Dyspareunia, CTCAE"
+C4685107,"Grade 1 Dyspepsia, CTCAE"
+C4685108,"Grade 1 Dysphasia, CTCAE"
+C4685109,"Grade 1 Dysuria, CTCAE"
+C4685111,"Grade 1 Ear Pain, CTCAE"
+C4685119,"Grade 1 Encephalopathy, CTCAE"
+C4685121,"Grade 1 Enterocolitis, CTCAE"
+C4685123,"Grade 1 Epistaxis, CTCAE"
+C4685125,"Grade 1 Erythema Multiforme, CTCAE"
+C4685128,"Grade 1 Esophageal Obstruction, CTCAE"
+C4685131,"Grade 1 Esophageal Ulcer, CTCAE"
+C4685136,"Grade 1 Facial Muscle Weakness, CTCAE"
+C4685138,"Grade 1 Facial Pain, CTCAE"
+C4685142,"Grade 1 Fecal Incontinence, CTCAE"
+C4685144,"Grade 1 Fever, CTCAE"
+C4685147,"Grade 1 Flank Pain, CTCAE"
+C4685149,"Grade 1 Floaters, CTCAE"
+C4685153,"Grade 1 Gait Disturbance, CTCAE"
+C4685157,"Grade 1 Gastric Ulcer, CTCAE"
+C4685158,"Grade 1 Gastroesophageal Reflux Disease, CTCAE"
+C4685163,"Grade 1 Gastroparesis, CTCAE"
+C4685166,"Grade 1 Generalized Muscle Weakness, CTCAE"
+C4685171,"Grade 1 Glucose Intolerance, CTCAE"
+C4685175,"Grade 1 Guillain-Barre Syndrome, CTCAE"
+C4685177,"Grade 1 Gynecomastia, CTCAE"
+C4685184,"Grade 1 Hematosalpinx, CTCAE"
+C4685185,"Grade 1 Hematuria, CTCAE"
+C4685187,"Grade 1 Hemorrhoidal Hemorrhage, CTCAE"
+C4685194,"Grade 1 Hiccups, CTCAE"
+C4685195,"Grade 1 Hirsutism, CTCAE"
+C4685196,"Grade 1 Hoarseness, CTCAE"
+C4685198,"Grade 1 Hyperglycemia, CTCAE"
+C4685200,"Grade 1 Hyperkalemia, CTCAE"
+C4685201,"Grade 1 Hyperkeratosis, CTCAE"
+C4685202,"Grade 1 Hyperlipidemia, CTCAE"
+C4685203,"Grade 1 Hypermagnesemia, CTCAE"
+C4685204,"Grade 1 Hypernatremia, CTCAE"
+C4685206,"Grade 1 Hyperphosphatemia, CTCAE"
+C4685207,"Grade 1 Hypersomnia, CTCAE"
+C4685208,"Grade 1 Hyperthyroidism, CTCAE"
+C4685210,"Grade 1 Hypertriglyceridemia, CTCAE"
+C4685211,"Grade 1 Hyperuricemia, CTCAE"
+C4685212,"Grade 1 Hypoalbuminemia, CTCAE"
+C4685213,"Grade 1 Hypocalcemia, CTCAE"
+C4685215,"Grade 1 Hypoglycemia, CTCAE"
+C4685216,"Grade 1 Hypokalemia, CTCAE"
+C4685217,"Grade 1 Hypomagnesemia, CTCAE"
+C4685218,"Grade 1 Hyponatremia, CTCAE"
+C4685219,"Grade 1 Hypoparathyroidism, CTCAE"
+C4685220,"Grade 1 Hypophosphatemia, CTCAE"
+C4685222,"Grade 1 Hypopituitarism, CTCAE"
+C4685226,"Grade 1 Infusion Related Reaction, CTCAE"
+C4685234,"Grade 1 Intracranial Hemorrhage, CTCAE"
+C4685242,"Grade 1 Intraoperative Neurological Injury, CTCAE"
+C4685251,"Grade 1 Irritability, CTCAE"
+C4685252,"Grade 1 Ischemia Cerebrovascular, CTCAE"
+C4685258,"Grade 1 Kyphosis, CTCAE"
+C4685261,"Grade 1 Laryngeal Edema, CTCAE"
+C4685267,"Grade 1 Lethargy, CTCAE"
+C4685268,"Grade 1 Leukoencephalopathy, CTCAE"
+C4685273,"Grade 1 Localized Edema, CTCAE"
+C4685276,"Grade 1 Lymphedema, CTCAE"
+C4685278,"Grade 1 Malaise, CTCAE"
+C4685280,"Grade 1 Meningismus, CTCAE"
+C4685281,"Grade 1 Menorrhagia, CTCAE"
+C4685286,"Grade 1 Mucosal Infection, CTCAE"
+C4685291,"Grade 1 Muscle Weakness Right-Sided, CTCAE"
+C4685296,"Grade 1 Myalgia, CTCAE"
+C4685297,"Grade 1 Myasthenia Gravis, CTCAE"
+C4685300,"Grade 1 Nail Loss, CTCAE"
+C4685302,"Grade 1 Nasal Congestion, CTCAE"
+C4685303,"Grade 1 Neck Edema, CTCAE"
+C4685310,"Grade 1 Non-Cardiac Chest Pain, CTCAE"
+C4685319,"Grade 1 Osteonecrosis, CTCAE"
+C4685320,"Grade 1 Otitis Externa, CTCAE"
+C4685327,"Grade 1 Pancreatic Enzymes Decreased, CTCAE"
+C4685328,"Grade 1 Papilledema, CTCAE"
+C4685329,"Grade 1 Papulopustular Rash, CTCAE"
+C4685334,"Grade 1 Pelvic Pain, CTCAE"
+C4685336,"Grade 1 Perineal Pain, CTCAE"
+C4685337,"Grade 1 Periorbital Edema, CTCAE"
+C4685338,"Grade 1 Peripheral Motor Neuropathy, CTCAE"
+C4685340,"Grade 1 Personality Change, CTCAE"
+C4685348,"Grade 1 Pleural Effusion, CTCAE"
+C4685349,"Grade 1 Pleuritic Pain, CTCAE"
+C4685350,"Grade 1 Pneumonitis, CTCAE"
+C4685356,"Grade 1 Productive Cough, CTCAE"
+C4685362,"Grade 1 Pulmonary Edema, CTCAE"
+C4685363,"Grade 1 Pulmonary Fibrosis, CTCAE"
+C4685366,"Grade 1 Purpura, CTCAE"
+C4685371,"Grade 1 Rash Maculo-Papular, CTCAE"
+C4685375,"Grade 1 Rectal Pain, CTCAE"
+C4685380,"Grade 1 Renal Colic, CTCAE"
+C4685385,"Grade 1 Rhabdomyolysis, CTCAE"
+C4685386,"Grade 1 Rhinorrhea, CTCAE"
+C4685390,"Grade 1 Scoliosis, CTCAE"
+C4685392,"Grade 1 Scrotal Pain, CTCAE"
+C4685395,"Grade 1 Serum Sickness, CTCAE"
+C4685396,"Grade 1 Shingles, CTCAE"
+C4685399,"Grade 1 Skin Hyperpigmentation, CTCAE"
+C4685410,"Grade 1 Sneezing, CTCAE"
+C4685412,"Grade 1 Somnolence, CTCAE"
+C4685413,"Grade 1 Sore Throat, CTCAE"
+C4685414,"Grade 1 Spasticity, CTCAE"
+C4685416,"Grade 1 Spinal Fracture, CTCAE"
+C4685420,"Grade 1 Subcutaneous Emphysema, CTCAE"
+C4685421,"Grade 1 Suicidal Ideation, CTCAE"
+C4685427,"Grade 1 Testicular Pain, CTCAE"
+C4685429,"Grade 1 Thromboembolic Event, CTCAE"
+C4685432,"Grade 1 Tinnitus, CTCAE"
+C4685435,"Grade 1 Toothache, CTCAE"
+C4685438,"Grade 1 Tracheal Stenosis, CTCAE"
+C4685440,"Grade 1 Transient Ischemic Attacks, CTCAE"
+C4685448,"Grade 1 Urinary Frequency, CTCAE"
+C4685449,"Grade 1 Urinary Tract Obstruction, CTCAE"
+C4685463,"Grade 1 Vaginal Discharge, CTCAE"
+C4685465,"Grade 1 Vaginal Inflammation, CTCAE"
+C4685473,"Grade 1 Venous Injury, CTCAE"
+C4685474,"Grade 1 Vertigo, CTCAE"
+C4685480,"Grade 1 Wheezing, CTCAE"
+C4685483,"Grade 1 Wound Dehiscence, CTCAE"
+C4685484,"Grade 1 Wound Infection, CTCAE"
+C4685486,"Grade 2 Abdominal Distension, CTCAE"
+C4685487,"Grade 2 Abdominal Infection, CTCAE"
+C4685493,"Grade 2 Akathisia, CTCAE"
+C4685499,"Grade 2 Amenorrhea, CTCAE"
+C4685500,"Grade 2 Amnesia, CTCAE"
+C4685509,"Grade 2 Ankle Fracture, CTCAE"
+C4685510,"Grade 2 Anorectal Infection, CTCAE"
+C4685512,"Grade 2 Aortic Injury, CTCAE"
+C4685514,"Grade 2 Arachnoiditis, CTCAE"
+C4685515,"Grade 2 Arterial Injury, CTCAE"
+C4685516,"Grade 2 Arthralgia, CTCAE"
+C4685522,"Grade 2 Avascular Necrosis, CTCAE"
+C4685524,"Grade 2 Bacteremia, CTCAE"
+C4685525,"Grade 2 Belching, CTCAE"
+C4685529,"Grade 2 Biliary Tract Infection, CTCAE"
+C4685532,"Grade 2 Bloating, CTCAE"
+C4685543,"Grade 2 Breast Infection, CTCAE"
+C4685546,"Grade 2 Bronchial Obstruction, CTCAE"
+C4685548,"Grade 2 Bronchopleural Fistula, CTCAE"
+C4685550,"Grade 2 Bronchospasm, CTCAE"
+C4685551,"Grade 2 Bruising, CTCAE"
+C4685552,"Grade 2 Budd-Chiari Syndrome, CTCAE"
+C4685566,"Grade 2 Chills, CTCAE"
+C4685580,"Grade 2 Corneal Infection, CTCAE"
+C4685584,"Grade 2 Cyanosis, CTCAE"
+C4685586,"Grade 2 Cytokine Release Syndrome, CTCAE"
+C4685589,"Grade 2 Delirium, CTCAE"
+C4685590,"Grade 2 Delusions, CTCAE"
+C4685591,"Grade 2 Dental Caries, CTCAE"
+C4685592,"Grade 2 Depressed Level of Consciousness, CTCAE"
+C4685595,"Grade 2 Dry Eye, CTCAE"
+C4685600,"Grade 2 Duodenal Perforation, CTCAE"
+C4685602,"Grade 2 Duodenal Ulcer, CTCAE"
+C4685603,"Grade 2 Dysarthria, CTCAE"
+C4685605,"Grade 2 Dysgeusia, CTCAE"
+C4685606,"Grade 2 Dysmenorrhea, CTCAE"
+C4685608,"Grade 2 Dyspepsia, CTCAE"
+C4685611,"Grade 2 Ear Pain, CTCAE"
+C4685620,"Grade 2 Endophthalmitis, CTCAE"
+C4685622,"Grade 2 Enterocolitis, CTCAE"
+C4685624,"Grade 2 Epistaxis, CTCAE"
+C4685626,"Grade 2 Erythema Multiforme, CTCAE"
+C4685627,"Grade 2 Erythroderma, CTCAE"
+C4685631,"Grade 2 Esophageal Obstruction, CTCAE"
+C4685633,"Grade 2 Esophageal Perforation, CTCAE"
+C4685635,"Grade 2 Esophageal Ulcer, CTCAE"
+C4685649,"Grade 2 Fever, CTCAE"
+C4685652,"Grade 2 Flank Pain, CTCAE"
+C4685654,"Grade 2 Floaters, CTCAE"
+C4685658,"Grade 2 Fungemia, CTCAE"
+C4685659,"Grade 2 Gait Disturbance, CTCAE"
+C4685664,"Grade 2 Gastric Perforation, CTCAE"
+C4685665,"Grade 2 Gastric Ulcer, CTCAE"
+C4685666,"Grade 2 Gastroesophageal Reflux Disease, CTCAE"
+C4685672,"Grade 2 Gastroparesis, CTCAE"
+C4685675,"Grade 2 Generalized Muscle Weakness, CTCAE"
+C4685680,"Grade 2 Glucose Intolerance, CTCAE"
+C4685684,"Grade 2 Guillain-Barre Syndrome, CTCAE"
+C4685686,"Grade 2 Hallucinations, CTCAE"
+C4685700,"Grade 2 Hiccups, CTCAE"
+C4685701,"Grade 2 Hip Fracture, CTCAE"
+C4685702,"Grade 2 Hirsutism, CTCAE"
+C4685703,"Grade 2 Hoarseness, CTCAE"
+C4685704,"Grade 2 Hypercalcemia, CTCAE"
+C4685705,"Grade 2 Hyperglycemia, CTCAE"
+C4685707,"Grade 2 Hyperkalemia, CTCAE"
+C4685708,"Grade 2 Hyperlipidemia, CTCAE"
+C4685709,"Grade 2 Hypernatremia, CTCAE"
+C4685711,"Grade 2 Hyperphosphatemia, CTCAE"
+C4685712,"Grade 2 Hypersomnia, CTCAE"
+C4685713,"Grade 2 Hyperthyroidism, CTCAE"
+C4685716,"Grade 2 Hypoalbuminemia, CTCAE"
+C4685717,"Grade 2 Hypocalcemia, CTCAE"
+C4685721,"Grade 2 Hypokalemia, CTCAE"
+C4685722,"Grade 2 Hypomagnesemia, CTCAE"
+C4685723,"Grade 2 Hyponatremia, CTCAE"
+C4685724,"Grade 2 Hypoparathyroidism, CTCAE"
+C4685736,"Grade 2 Injury To Carotid Artery, CTCAE"
+C4685744,"Grade 2 Intra-Abdominal Hemorrhage, CTCAE"
+C4685763,"Grade 2 Irritability, CTCAE"
+C4685764,"Grade 2 Ischemia Cerebrovascular, CTCAE"
+C4685767,"Grade 2 Joint Infection, CTCAE"
+C4685776,"Grade 2 Laryngeal Edema, CTCAE"
+C4685783,"Grade 2 Laryngospasm, CTCAE"
+C4685784,"Grade 2 Lethargy, CTCAE"
+C4685785,"Grade 2 Leukoencephalopathy, CTCAE"
+C4685789,"Grade 2 Localized Edema, CTCAE"
+C4685792,"Grade 2 Lung Infection, CTCAE"
+C4685795,"Grade 2 Lymphedema, CTCAE"
+C4685798,"Grade 2 Malaise, CTCAE"
+C4685800,"Grade 2 Meningismus, CTCAE"
+C4685801,"Grade 2 Menorrhagia, CTCAE"
+C4685803,"Grade 2 Methemoglobinemia, CTCAE"
+C4685807,"Grade 2 Mucosal Infection, CTCAE"
+C4685812,"Grade 2 Muscle Weakness Right-Sided, CTCAE"
+C4685817,"Grade 2 Myalgia, CTCAE"
+C4685818,"Grade 2 Myasthenia Gravis, CTCAE"
+C4685822,"Grade 2 Nasal Congestion, CTCAE"
+C4685823,"Grade 2 Neck Edema, CTCAE"
+C4685830,"Grade 2 Non-Cardiac Chest Pain, CTCAE"
+C4685839,"Grade 2 Osteonecrosis, CTCAE"
+C4685840,"Grade 2 Otitis Externa, CTCAE"
+C4685851,"Grade 2 Papilledema, CTCAE"
+C4685852,"Grade 2 Papulopustular Rash, CTCAE"
+C4685857,"Grade 2 Pelvic Infection, CTCAE"
+C4685859,"Grade 2 Pericardial Effusion, CTCAE"
+C4685860,"Grade 2 Perineal Pain, CTCAE"
+C4685861,"Grade 2 Periorbital Edema, CTCAE"
+C4685864,"Grade 2 Peripheral Motor Neuropathy, CTCAE"
+C4685867,"Grade 2 Personality Change, CTCAE"
+C4685877,"Grade 2 Pleural Effusion, CTCAE"
+C4685881,"Grade 2 Portal Hypertension, CTCAE"
+C4685882,"Grade 2 Portal Vein Thrombosis, CTCAE"
+C4685890,"Grade 2 Productive Cough, CTCAE"
+C4685894,"Grade 2 Prostatic Obstruction, CTCAE"
+C4685898,"Grade 2 Pulmonary Edema, CTCAE"
+C4685899,"Grade 2 Pulmonary Fibrosis, CTCAE"
+C4685916,"Grade 2 Renal Colic, CTCAE"
+C4685922,"Grade 2 Retroperitoneal Hemorrhage, CTCAE"
+C4685923,"Grade 2 Reversible Posterior Leukoencephalopathy Syndrome, CTCAE"
+C4685932,"Grade 2 Scrotal Pain, CTCAE"
+C4685934,"Grade 2 Serum Sickness, CTCAE"
+C4685935,"Grade 2 Shingles, CTCAE"
+C4685937,"Grade 2 Sinusitis, CTCAE"
+C4685940,"Grade 2 Skin Hyperpigmentation, CTCAE"
+C4685953,"Grade 2 Sneezing, CTCAE"
+C4685955,"Grade 2 Soft Tissue Infection, CTCAE"
+C4685958,"Grade 2 Somnolence, CTCAE"
+C4685960,"Grade 2 Spasticity, CTCAE"
+C4685962,"Grade 2 Spinal Fracture, CTCAE"
+C4685967,"Grade 2 Subcutaneous Emphysema, CTCAE"
+C4685968,"Grade 2 Suicidal Ideation, CTCAE"
+C4685970,"Grade 2 Superficial Thrombophlebitis, CTCAE"
+C4685975,"Grade 2 Testicular Pain, CTCAE"
+C4685977,"Grade 2 Thromboembolic Event, CTCAE"
+C4685980,"Grade 2 Tooth Infection, CTCAE"
+C4685984,"Grade 2 Tracheal Stenosis, CTCAE"
+C4685985,"Grade 2 Tracheitis, CTCAE"
+C4685987,"Grade 2 Transient Ischemic Attacks, CTCAE"
+C4685997,"Grade 2 Urinary Fistula, CTCAE"
+C4685998,"Grade 2 Urinary Frequency, CTCAE"
+C4685999,"Grade 2 Urinary Tract Infection, CTCAE"
+C4686000,"Grade 2 Urinary Tract Obstruction, CTCAE"
+C4686009,"Grade 2 Uterine Infection, CTCAE"
+C4686016,"Grade 2 Vaginal Discharge, CTCAE"
+C4686018,"Grade 2 Vaginal Inflammation, CTCAE"
+C4686027,"Grade 2 Venous Injury, CTCAE"
+C4686029,"Grade 2 Vertigo, CTCAE"
+C4686030,"Grade 2 Vestibular Disorder, CTCAE"
+C4686031,"Grade 2 Viremia, CTCAE"
+C4686038,"Grade 2 Wheezing, CTCAE"
+C4686041,"Grade 2 Wound Dehiscence, CTCAE"
+C4686042,"Grade 2 Wound Infection, CTCAE"
+C4686044,"Grade 3 Abdominal Distension, CTCAE"
+C4686045,"Grade 3 Abdominal Infection, CTCAE"
+C4686053,"Grade 3 Acute Kidney Injury, CTCAE"
+C4686054,"Grade 3 Akathisia, CTCAE"
+C4686058,"Grade 3 Alkalosis, CTCAE"
+C4686060,"Grade 3 Amnesia, CTCAE"
+C4686068,"Grade 3 Anaphylaxis, CTCAE"
+C4686070,"Grade 3 Ankle Fracture, CTCAE"
+C4686071,"Grade 3 Anorectal Infection, CTCAE"
+C4686072,"Grade 3 Aortic Injury, CTCAE"
+C4686074,"Grade 3 Aphonia, CTCAE"
+C4686075,"Grade 3 Appendicitis Perforated, CTCAE"
+C4686076,"Grade 3 Appendicitis, CTCAE"
+C4686085,"Grade 3 Autoimmune Disorder, CTCAE"
+C4686090,"Grade 3 Biliary Tract Infection, CTCAE"
+C4686101,"Grade 3 Breast Infection, CTCAE"
+C4686104,"Grade 3 Bronchial Obstruction, CTCAE"
+C4686106,"Grade 3 Bronchopleural Fistula, CTCAE"
+C4686108,"Grade 3 Bronchospasm, CTCAE"
+C4686109,"Grade 3 Budd-Chiari Syndrome, CTCAE"
+C4686139,"Grade 3 Corneal Infection, CTCAE"
+C4686146,"Grade 3 Cytokine Release Syndrome, CTCAE"
+C4686148,"Grade 3 Delirium, CTCAE"
+C4686149,"Grade 3 Delusions, CTCAE"
+C4686151,"Grade 3 Depressed Level of Consciousness, CTCAE"
+C4686159,"Grade 3 Duodenal Perforation, CTCAE"
+C4686160,"Grade 3 Duodenal Ulcer, CTCAE"
+C4686163,"Grade 3 Dysmenorrhea, CTCAE"
+C4686165,"Grade 3 Dyspepsia, CTCAE"
+C4686170,"Grade 3 Edema Cerebral, CTCAE"
+C4686178,"Grade 3 Endocarditis Infective, CTCAE"
+C4686180,"Grade 3 Endophthalmitis, CTCAE"
+C4686185,"Grade 3 Epistaxis, CTCAE"
+C4686188,"Grade 3 Erythroderma, CTCAE"
+C4686195,"Grade 3 Esophageal Perforation, CTCAE"
+C4686197,"Grade 3 Esophageal Ulcer, CTCAE"
+C4686210,"Grade 3 Fever, CTCAE"
+C4686215,"Grade 3 Floaters, CTCAE"
+C4686220,"Grade 3 Fungemia, CTCAE"
+C4686221,"Grade 3 Gait Disturbance, CTCAE"
+C4686227,"Grade 3 Gastric Perforation, CTCAE"
+C4686229,"Grade 3 Gastric Ulcer, CTCAE"
+C4686230,"Grade 3 Gastroesophageal Reflux Disease, CTCAE"
+C4686236,"Grade 3 Gastroparesis, CTCAE"
+C4686238,"Grade 3 Generalized Muscle Weakness, CTCAE"
+C4686254,"Grade 3 Hemolytic Uremic Syndrome, CTCAE"
+C4686256,"Grade 3 Hepatic Failure, CTCAE"
+C4686265,"Grade 3 Hip Fracture, CTCAE"
+C4686266,"Grade 3 Hoarseness, CTCAE"
+C4686268,"Grade 3 Hypercalcemia, CTCAE"
+C4686271,"Grade 3 Hyperkalemia, CTCAE"
+C4686272,"Grade 3 Hyperkeratosis, CTCAE"
+C4686274,"Grade 3 Hypermagnesemia, CTCAE"
+C4686280,"Grade 3 Hyperuricemia, CTCAE"
+C4686286,"Grade 3 Hypokalemia, CTCAE"
+C4686287,"Grade 3 Hypomagnesemia, CTCAE"
+C4686288,"Grade 3 Hyponatremia, CTCAE"
+C4686301,"Grade 3 Injury To Carotid Artery, CTCAE"
+C4686309,"Grade 3 Intra-Abdominal Hemorrhage, CTCAE"
+C4686333,"Grade 3 Joint Infection, CTCAE"
+C4686348,"Grade 3 Laryngospasm, CTCAE"
+C4686349,"Grade 3 Leukocytosis, CTCAE"
+C4686357,"Grade 3 Lung Infection, CTCAE"
+C4686360,"Grade 3 Lymphedema, CTCAE"
+C4686363,"Grade 3 Malaise, CTCAE"
+C4686369,"Grade 3 Methemoglobinemia, CTCAE"
+C4686373,"Grade 3 Mucosal Infection, CTCAE"
+C4686375,"Grade 3 Multi-Organ Failure, CTCAE"
+C4686379,"Grade 3 Muscle Weakness Right-Sided, CTCAE"
+C4686384,"Grade 3 Myasthenia Gravis, CTCAE"
+C4686387,"Grade 3 Nasal Congestion, CTCAE"
+C4686388,"Grade 3 Neck Edema, CTCAE"
+C4686390,"Grade 3 Nephrotic Syndrome, CTCAE"
+C4686395,"Grade 3 Non-Cardiac Chest Pain, CTCAE"
+C4686416,"Grade 3 Pancreatic Necrosis, CTCAE"
+C4686417,"Grade 3 Papilledema, CTCAE"
+C4686418,"Grade 3 Papulopustular Rash, CTCAE"
+C4686422,"Grade 3 Pelvic Infection, CTCAE"
+C4686428,"Grade 3 Periorbital Edema, CTCAE"
+C4686431,"Grade 3 Peripheral Motor Neuropathy, CTCAE"
+C4686435,"Grade 3 Personality Change, CTCAE"
+C4686440,"Grade 3 Pharyngitis, CTCAE"
+C4686448,"Grade 3 Portal Hypertension, CTCAE"
+C4686449,"Grade 3 Portal Vein Thrombosis, CTCAE"
+C4686461,"Grade 3 Pulmonary Edema, CTCAE"
+C4686462,"Grade 3 Pulmonary Fibrosis, CTCAE"
+C4686471,"Grade 3 Rash Pustular, CTCAE"
+C4686480,"Grade 3 Renal Colic, CTCAE"
+C4686485,"Grade 3 Retroperitoneal Hemorrhage, CTCAE"
+C4686486,"Grade 3 Reversible Posterior Leukoencephalopathy Syndrome, CTCAE"
+C4686487,"Grade 3 Rhabdomyolysis, CTCAE"
+C4686492,"Grade 3 Scoliosis, CTCAE"
+C4686497,"Grade 3 Shingles, CTCAE"
+C4686514,"Grade 3 Soft Tissue Infection, CTCAE"
+C4686521,"Grade 3 Spinal Cord Compression, CTCAE"
+C4686525,"Grade 3 Stevens-Johnson Syndrome, CTCAE"
+C4686530,"Grade 3 Subcutaneous Emphysema, CTCAE"
+C4686531,"Grade 3 Suicidal Ideation, CTCAE"
+C4686532,"Grade 3 Suicide Attempt, CTCAE"
+C4686538,"Grade 3 Testicular Pain, CTCAE"
+C4686539,"Grade 3 Thromboembolic Event, CTCAE"
+C4686540,"Grade 3 Thrombotic Thrombocytopenic Purpura, CTCAE"
+C4686543,"Grade 3 Tooth Infection, CTCAE"
+C4686546,"Grade 3 Tracheal Stenosis, CTCAE"
+C4686547,"Grade 3 Tracheitis, CTCAE"
+C4686560,"Grade 3 Urinary Fistula, CTCAE"
+C4686571,"Grade 3 Uterine Infection, CTCAE"
+C4686578,"Grade 3 Vaginal Inflammation, CTCAE"
+C4686587,"Grade 3 Vasovagal Reaction, CTCAE"
+C4686588,"Grade 3 Venous Injury, CTCAE"
+C4686591,"Grade 3 Viremia, CTCAE"
+C4686598,"Grade 3 Wheezing, CTCAE"
+C4686623,"Grade 4 Appendicitis Perforated, CTCAE"
+C4686624,"Grade 4 Appendicitis, CTCAE"
+C4686698,"Grade 4 Edema Cerebral, CTCAE"
+C4686705,"Grade 4 Endophthalmitis, CTCAE"
+C4686853,"Grade 4 Multi-Organ Failure, CTCAE"
+C4686877,"Grade 4 Papilledema, CTCAE"
+C4686883,"Grade 4 Pericardial Tamponade, CTCAE"
+C4686937,"Grade 4 Serum Sickness, CTCAE"
+C4686964,"Grade 4 Stevens-Johnson Syndrome, CTCAE"
+C4686968,"Grade 4 Suicide Attempt, CTCAE"
+C4686974,"Grade 4 Thrombotic Thrombocytopenic Purpura, CTCAE"
+C4686976,"Grade 4 Toxic Epidermal Necrolysis, CTCAE"
+C4686985,"Grade 4 Tumor Lysis Syndrome, CTCAE"
+C4687024,"Grade 5 Abdominal Infection, CTCAE"
+C4687027,"Grade 5 Acute Kidney Injury, CTCAE"
+C4687029,"Grade 5 Alkalosis, CTCAE"
+C4687039,"Grade 5 Aortic Injury, CTCAE"
+C4687041,"Grade 5 Appendicitis Perforated, CTCAE"
+C4687042,"Grade 5 Appendicitis, CTCAE"
+C4687053,"Grade 5 Biliary Tract Infection, CTCAE"
+C4687070,"Grade 5 Cardiac Arrest, CTCAE"
+C4687089,"Grade 5 Corneal Infection, CTCAE"
+C4687094,"Grade 5 Delusions, CTCAE"
+C4687102,"Grade 5 Duodenal Perforation, CTCAE"
+C4687106,"Grade 5 Edema Cerebral, CTCAE"
+C4687117,"Grade 5 Erythroderma, CTCAE"
+C4687122,"Grade 5 Esophageal Obstruction, CTCAE"
+C4687123,"Grade 5 Esophageal Perforation, CTCAE"
+C4687129,"Grade 5 Fever, CTCAE"
+C4687135,"Grade 5 Gastric Perforation, CTCAE"
+C4687151,"Grade 5 Hemolytic Uremic Syndrome, CTCAE"
+C4687163,"Grade 5 Hypermagnesemia, CTCAE"
+C4687167,"Grade 5 Hyperuricemia, CTCAE"
+C4687187,"Grade 5 Injury To Carotid Artery, CTCAE"
+C4687194,"Grade 5 Intra-Abdominal Hemorrhage, CTCAE"
+C4687216,"Grade 5 Joint Infection, CTCAE"
+C4687226,"Grade 5 Laryngospasm, CTCAE"
+C4687231,"Grade 5 Lung Infection, CTCAE"
+C4687240,"Grade 5 Methemoglobinemia, CTCAE"
+C4687250,"Grade 5 Nephrotic Syndrome, CTCAE"
+C4687262,"Grade 5 Pancreatic Necrosis, CTCAE"
+C4687269,"Grade 5 Pericardial Tamponade, CTCAE"
+C4687278,"Grade 5 Pharyngitis, CTCAE"
+C4687283,"Grade 5 Portal Hypertension, CTCAE"
+C4687284,"Grade 5 Portal Vein Thrombosis, CTCAE"
+C4687310,"Grade 5 Reversible Posterior Leukoencephalopathy Syndrome, CTCAE"
+C4687333,"Grade 5 Soft Tissue Infection, CTCAE"
+C4687342,"Grade 5 Stevens-Johnson Syndrome, CTCAE"
+C4687347,"Grade 5 Suicide Attempt, CTCAE"
+C4687352,"Grade 5 Thrombotic Thrombocytopenic Purpura, CTCAE"
+C4687353,"Grade 5 Tooth Infection, CTCAE"
+C4687354,"Grade 5 Toxic Epidermal Necrolysis, CTCAE"
+C4687368,"Grade 5 Urinary Fistula, CTCAE"
+C4687747,Peak Pressure Gradient
+C4687958,Severity One Out of Three
+C4687959,Severity One Out of Five
+C4688349,"Blasts Under 20,000 in Peripheral Blood White Cells"
+C4688511,"Grade 1 Ankle Fracture, CTCAE"
+C4688512,"Grade 1 Bloating, CTCAE"
+C4688514,"Grade 1 Dysesthesia, CTCAE"
+C4688516,"Grade 1 Gastric Anastomotic Leak, CTCAE"
+C4688517,"Grade 1 Hallucinations, CTCAE"
+C4688518,"Grade 1 Hypercalcemia, CTCAE"
+C4688523,"Grade 1 Prostatic Obstruction, CTCAE"
+C4688528,"Grade 2 Autoimmune Disorder, CTCAE"
+C4688531,"Grade 2 Fecal Incontinence, CTCAE"
+C4688535,"Grade 2 Hypopituitarism, CTCAE"
+C4688538,"Grade 2 Nail Loss, CTCAE"
+C4688540,"Grade 2 Rash Pustular, CTCAE"
+C4688545,"Grade 3 Arterial Injury, CTCAE"
+C4688551,"Grade 3 Meningismus, CTCAE"
+C4688553,"Grade 3 Osteonecrosis, CTCAE"
+C4688555,"Grade 3 Prostatic Obstruction, CTCAE"
+C4688559,"Grade 3 Vestibular Disorder, CTCAE"
+C4688563,"Grade 4 Hemolytic Uremic Syndrome, CTCAE"
+C4703378,Lower limb dysmetria
+C4703434,P wave inversion
+C4703435,Abnormal mucociliary clearance
+C4703436,Impaired nasal mucociliary clearance
+C4703449,Aborted sudden cardiac death
+C4703489,Anterior chamber inflammatory cells
+C4703569,Urine xenobiotic
+C4703574,Sleep-wake inversion
+C4703579,Abnormal heart rate variability
+C4703580,Decreased heart rate variability
+C4703581,Increased heart rate variability
+C4703584,Optic ataxia
+C4703632,Increased level of hippuric acid in urine
+C4703721,Compensatory head posture
+C4721418,Legally Separated
+C4721445,Teasing
+C4721824,Smoking History
+C4722168,"Neonatal Coagulation Disorder, Adverse Event"
+C4722188,"Bronchopulmonary Dysplasia, Adverse Event"
+C4722210,Mild Hallucination
+C4722263,"Neonatal Intraventricular Hemorrhage, Adverse Event"
+C4722293,Other Gender
+C4722404,Age-Related Clonal Hematopoiesis
+C4722425,Very Mild Hallucination
+C4722444,Healthcare Encounter
+C4722466,Severe Hallucination
+C4722488,Thyroid Stimulating Hormone Resistance
+C4722602,Underlying
+C4724041,irSD (Immune-Related Response Criteria)
+C4724044,LYRIC Indeterminate Response
+C4724045,Confidence 2 (5-Point Confidence Scale)
+C4724085,"Necrotizing Enterocolitis, Adverse Event"
+C4724129,Non-Opioid Analgesic (answer)
+C4724158,"Hypoxic Ischemic Encephalopathy, Adverse Event"
+C4724175,No Difference in Likelihood
+C4724202,"Feeding Intolerance, Adverse Event"
+C4724256,"Neonatal Respiratory Distress Syndrome, Adverse Event"
+C4724275,Confidence 1 (5-Point Confidence Scale)
+C4724521,Agreement Rating 1 (7 Point Agreement Rating Scale)
+C4724568,Lose weight
+C4725679,"Pre-existing Chronic Kidney Disease, Stage 3"
+C4725750,Blasts More than 10000 of Peripheral Blood White Cells
+C4726611,No Analgesic
+C4726612,Weak Opioids
+C4727107,Decrease in Blasts
+C4727178,Castration-Sensitive
+C4727340,Moderately Disagree
+C4727347,Peak Oxygen Consumption
+C4727460,Blasts 0 Percent of Peripheral Blood White Cells
+C4727463,"Blasts Under 10,000 of Peripheral Blood White Cells"
+C4728256,Posterior deviation of posterior interarch
+C4728257,Anterior deviation of posterior interarch
+C4732749,Abnormal hemoglobin concentration
+C4732759,Rope sign
+C4732780,Reduced blood urea nitrogen
+C4732809,Retinal dots
+C4732810,Macular dots
+C4732811,Floppy eyelid
+C4732812,Lateral canthal tendon laxity
+C4732813,Medial canthal tendon laxity
+C4732817,Mildly reduced visual acuity
+C4732834,Elevated serum bicarbonate concentration
+C4732847,Folate deficiency in CSF
+C4732851,Hypoxemia in cord blood
+C4732852,Hypercapnia in cord blood
+C4732853,Hypocapnia in cord blood
+C4732882,Positive urine benzodiazepines test
+C4732894,Hypoprolinemia
+C4732898,Hypoleucinemia
+C4738113,Fatalities
+C4743753,Tumor Resected Indicator
+C4743767,Pustule Indicator
+C4743768,Peeling Indicator
+C4743769,Ecchymosis Indicator
+C4743774,Abnormal Bleeding Indicator
+C4743797,"Neonatal Culture Negative Sepsis, Adverse Event"
+C4743800,"Neonatal Epileptic Seizure, Adverse Event"
+C4743804,"Neonatal Tachyarrhythmia, Adverse Event"
+C4743805,"Neonatal Bradyarrhythmia, Adverse Event"
+C4743806,"Neonatal Respiratory Insufficiency, Adverse Event"
+C4743827,"Grade 1 Hypoxic Ischemic Encephalopathy, AE"
+C4743828,"Grade 2 Hypoxic Ischemic Encephalopathy, AE"
+C4743829,"Grade 3 Hypoxic Ischemic Encephalopathy, AE"
+C4743866,"Grade 1 Neonatal Bradyarrhythmia, AE"
+C4743910,"Grade 1 Bronchopulmonary Dysplasia, AE"
+C4743914,"Grade 3 Necrotizing Enterocolitis, AE"
+C4743916,"Grade 5 Necrotizing Enterocolitis, AE"
+C4743927,"Grade 1 Feeding Intolerance, AE"
+C4743928,"Grade 2 Feeding Intolerance, AE"
+C4743929,"Grade 3 Feeding Intolerance, AE"
+C4744467,Tumor Regression Score 3
+C4744605,Able to Hear with Hearing Aids
+C4744641,Somewhat Forgetful
+C4744642,Very Forgetful
+C4744784,Combination Product Report Indicator
+C4744872,Bowel Obstruction Indicator
+C4744873,Bowel Perforation Indicator
+C4745065,Skeletally Immature
+C4745081,New Primary Tumor
+C4745084,Medical Condition
+C4745086,Medical History Source
+C4745104,Participant Exposed to Secondhand Smoke
+C4745105,No/Minimal Secondhand Smoke Exposure
+C4745136,Solder Fume Exposure
+C4745223,No Spacing Errors
+C4745225,Other Errors
+C4745226,No Hospital Admission
+C4745227,One or Two Hospital Admissions
+C4745294,"Grade 2 Bronchopulmonary Dysplasia, AE"
+C4747995,Nasal secretions
+C4748249,No permanent neurologic sequelae
+C4748623,Ventilatory support
+C4748710,Perianal disease
+C4748952,Hepatopulmonary fusion
+C4749000,No recurrent infections
+C4759673,Skin Sloughing
+C4759928,BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 20
+C4760388,Mechanical ventilation finding
+C4760449,Intraperitoneal (intended site)
+C4760706,Increased circulating band cell count
+C4761374,Smooth Nodule
+C4761375,Solid Nodule
+C4761380,Poorly Marginated Nodule
+C4761388,Nodule Margin Type
+C4761389,Indeterminate Nodule Type
+C4761390,Round Nodule
+C4761670,Complex Nodule Shape
+C4763440,Chemical/Occupational Exposure History
+C4763448,AR Status by Immunochemistry
+C4763474,ESR1 Status by Immunohistochemistry
+C4763597,Borderline Operable
+C4763601,Current Oral Contraceptive User
+C4763608,International Normalized Ratio of Prothrombin Time Level Finding
+C4763615,Motor / Movement Change
+C4763617,Helicobacter pylori Status
+C4763622,Epstein-Barr Viral Status
+C4763678,Therapy Used at Visit
+C4763777,Pure Ground Glass Nodule
+C4763778,Semiconsolidation Nodule
+C4763819,ESS - Total Score
+C4764073,Nonrandom X Chromosome Inactivation
+C4764168,Increased Alveolar Macrophages
+C4764257,Androgen Receptor Status
+C4764276,Jaundice Status
+C4764335,Questionnaire Not Completed Due to Institutional Error
+C5139060,Abnormal circulating prostaglandin circulation
+C5139075,Prolonged need of intravenous antibiotic therapy
+C5139076,Recurrent streptococcal infections
+C5139133,Saccadic oscillation
+C5139134,Mildly reduced contrast sensitivity
+C5139142,Very low visual acuity
+C5139172,Signet ring sign
+C5139173,Apical pulmonary opacity
+C5139187,Abnormal S wave
+C5139206,Periportal emperipolesis
+C5139210,Cytoplasmic antineutrophil antibody positivity
+C5139220,Abnormal metabolism
+C5139222,Persistent viremia
+C5139297,Abnormal CSF amino acid level
+C5139302,Increased peripheral blast count
+C5139347,Reduced C-reactive protein level
+C5139349,Status post organ transplantation
+C5139363,Past obstetric history
+C5139371,Preimplantation lethality
+C5139387,Exacerbated by tobacco use
+C5139391,Labiomental fasciculations
+C5139397,Masseter muscular weakness
+C5139399,Ameliorated by immunosuppresion
+C5139401,Ameliorated by acetylcholinesterase inhibitor
+C5139402,Inferiorly positioned umbilicus
+C5139409,Exacerbated by methylxanthine ingestion
+C5139567,Hypotaurinemia
+C5194913,Pale retina
+C5197778,Missed Diagnosis
+C5200925,Normal Gait
+C5200994,Increased circulating prolactin concentration
+C5201228,Low risk
+C5202576,Biochemical Diagnosis
+C5202644,Clinical Regional Lymph Nodes TNM Finding
+C5202689,HIV Seroconversion
+C5202762,International Prognostic Index Low Risk Group
+C5202763,Occasional Fecal Incontinence
+C5202764,Occasional Urinary Incontinence
+C5202779,True or Present Nearly Every Day
+C5202819,No Effort
+C5202835,IPSS-R Risk Category Intermediate
+C5202851,Montreal Cognitive Assessment Total Score
+C5202862,Clinical Distant Metastasis TNM Finding
+C5202917,IPSS-R Risk Category Very Low
+C5202919,Residual Cancer Burden Class 0
+C5202936,IPSS-R Risk Category High
+C5202993,Neoplasm Polygenic Risk Score
+C5202996,Quite a lot of Effort
+C5203022,Global Complete Response in Blood
+C5203028,Clinical Primary Tumor TNM Finding
+C5203068,Global Relapse in Skin
+C5203069,Global Relapse in Viscera
+C5203070,Global Relapse
+C5203073,Myelin Sheath Regeneration
+C5203098,Global Stable Disease in Lymph Nodes
+C5203099,Global Stable Disease in Blood
+C5203106,IPSS-R Risk Category Low
+C5203340,Lethality
+C5203874,High Level of Hyaluronic Acid
+C5204035,Primary Site of Disease
+C5204040,Classified by World Health Organization Only
+C5204053,Indeterminate Microsatellite Instability
+C5204260,Lung Parenchyma Tumor Location
+C5204275,Homologous Recombination Repair Proficient
+C5204458,Partly Agree
+C5204459,Partly Disagree
+C5204580,Other Edition
+C5204642,First Confirmed Visit
+C5204647,Ever Used
+C5204680,Shelter or Transitional Living Situation
+C5204686,Rarely True
+C5204758,Other Risk Factor
+C5204777,RECIST Comments
+C5204998,First Degree Family History Cancer Positive
+C5205015,Cancer History Present
+C5205024,Documentation Present
+C5205032,Tumor Laterality Bilateral
+C5205486,Other Pathologic Findings
+C5205583,Atypical Peritoneal Fluid
+C5205715,Glottic Laryngeal Tumor with Subglottic Extension
+C5205733,Supraventricular Trigeminy by ECG Finding
+C5205798,Malignant Disease Indicator
+C5205881,Astrocyte Swelling
+C5205890,Loss of Cell Polarity
+C5205891,Trabecular Meshwork Proliferation
+C5205918,Extravascular Volume Overload
+C5206279,Serum CEA Level Normal
+C5206333,Low Calcium Level
+C5206335,High Leukocyte Count
+C5206336,Low Leukocyte Count
+C5206721,Widespread Metastasis
+C5206989,Astrocyte Swelling And Vacuolation
+C5207071,Low Hemoglobin Level
+C5209224,Conception by assisted reproductive technology
+C5209226,Periarticular soft-tissue mass
+C5209245,Elevated urinary uromodulin
+C5209255,Increased blood drug concentration
+C5209256,Decreased blood drug concentration
+C5209286,Oval macrocytosis
+C5230900,Weight change intent
+C5231206,Hypertension stage 1
+C5233653,No neurologic impairment

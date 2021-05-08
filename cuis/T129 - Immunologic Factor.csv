@@ -1,0 +1,529 @@
+cui,name
+C0000530,5'-NUCLEOTIDASE
+C0001551,Immunologic Adjuvants
+C0001697,Aeroallergen
+C0001804,Agglutinins
+C0002092,Allergens
+C0002199,Interferon-alpha
+C0002723,Serum amyloid A protein
+C0003241,Antibodies
+C0003242,"Antibodies, Anti-Idiotypic"
+C0003243,"Antibodies, Antinuclear"
+C0003245,"Antibodies, Fungal"
+C0003248,Heterophile Antibodies
+C0003250,Monoclonal Antibodies
+C0003253,"Antibodies, Viral"
+C0003313,Immune complex
+C0003316,Epitopes
+C0003320,Antigens
+C0003323,CD4 Antigens
+C0003334,"Antigens, Ly"
+C0003339,Surface Antigens
+C0003341,"Antigens, Tumor-Associated, Carbohydrate"
+C0003342,"Antigens, Viral"
+C0003343,Viral Tumor Antigens
+C0003372,Antilymphocyte Serum
+C0003435,Antistreptolysin
+C0003436,Antistreptolysin O
+C0003442,"lymphocyte immune globulin, anti-thymocyte globulin"
+C0003445,Antitoxins
+C0003450,Antivenin
+C0004358,Autoantibodies
+C0004886,BCG Vaccine
+C0005457,"Binding Sites, Antibody"
+C0005525,Biological Response Modifiers
+C0005804,Blood Group Antigens
+C0006044,Botulinum Antitoxin
+C0006051,botulinum toxin type B
+C0006560,C-reactive protein
+C0006611,Mucin-1 Antigen
+C0006613,CA-19-9 Antigen
+C0008014,"Chemotactic Factors, Eosinophil"
+C0008359,cholera vaccine
+C0009185,coccidioidin
+C0009498,Complement System Proteins
+C0009499,Complement component C1
+C0009500,Complement C1 Inactivator Proteins
+C0009502,Complement C1q
+C0009504,Complement component C1s
+C0009505,Complement 2
+C0009506,Complement 3
+C0009508,Complement C3 Nephritic Factor
+C0009516,Complement component C4
+C0009519,Complement component C5
+C0009545,Complement Membrane Attack Complex
+C0010404,Cryoglobulins
+C0010594,Cyclosporins
+C0012551,"diphtheria toxoid vaccine, inactivated"
+C0016011,Platelet Glycoprotein GPIIb-IIIa Complex
+C0018449,H-Y Antigen
+C0018909,Hemagglutinin
+C0018911,"Hemagglutinins, Viral"
+C0019161,Hepatitis Antibodies
+C0019167,Hepatitis B e Antigens
+C0019168,Hepatitis B Surface Antigens
+C0019629,Histocompatibility Antigens Class I
+C0019630,Histocompatibility Antigens Class II
+C0019683,HIV Antibodies
+C0019721,HLA Antigens
+C0019728,HLA-A Antigens
+C0019737,HLA-B Antigens
+C0020095,HTLV-I Antibodies
+C0020835,immunoglobulin A
+C0020838,Secretory Immunoglobulin A
+C0020846,Immunoglobulin E
+C0020852,immunoglobulin G
+C0020861,Immunoglobulin M
+C0020960,Immune Sera
+C0021009,Immunoglobulin Fragments
+C0021010,Immunoglobulin Gm Allotypes
+C0021027,Immunoglobulins
+C0021031,Fab Immunoglobulins
+C0021032,Immunoglobulin Fc Fragments
+C0021054,Immunologic Factors
+C0021081,Immunosuppressive Agents
+C0021403,Influenza virus vaccine
+C0021701,Integrins
+C0021740,Recombinant Interferon-gamma
+C0021741,interferon gamma-1b
+C0021742,Interferon Inducers
+C0021745,interferon type II
+C0021747,Interferons
+C0021753,"interleukin-1, beta"
+C0021755,Interleukin-1
+C0021756,Interleukin-2
+C0021759,interleukin-5
+C0021760,interleukin-6
+C0021764,Interleukins
+C0022709,Peptidyl-Dipeptidase A
+C0023767,Lipid A
+C0023979,Long-Acting Thyroid Stimulator
+C0024320,Tumor Necrosis Factor-Beta
+C0024429,Migration Inhibitory Factor
+C0025010,Measles Vaccine
+C0026782,Mumps Vaccine
+C0031237,pertussis vaccine
+C0032066,Plague Vaccine
+C0032172,Platelet Activating Factor
+C0032183,Platelet Factor 4
+C0032191,Platelet Membrane Glycoprotein IIb
+C0032195,Platelet Membrane Glycoproteins
+C0032374,Poliovirus Vaccines
+C0032595,"Polysaccharides, Bacterial"
+C0032936,Precipitins
+C0033452,Properdin
+C0033453,Complement Factor B
+C0034131,purified protein derivative of tuberculin
+C0034496,Rabies Vaccines
+C0034761,Reagins
+C0034790,T-Cell Receptor
+C0034805,Fc Receptor
+C0035403,Rh Factors
+C0035448,Rheumatoid Factor
+C0035795,Rocky mountain spotted fever vaccine
+C0035923,Rubella virus vaccine
+C0038164,Staphylococcal Protein A
+C0038858,"Suppressor Factors, Immunologic"
+C0039615,Tetanus Antitoxin
+C0039620,Tetanus Vaccine
+C0040048,Thromboplastin
+C0040139,Thyroid stimulating immunoglobulins
+C0040555,Toxoids
+C0041350,tuftsin
+C0041368,Tumor Necrosis Factors
+C0042210,Vaccines
+C0042211,"Vaccines, Attenuated"
+C0042723,Viral Hepatitis Vaccines
+C0042742,Viral Vaccines
+C0052100,Streptokinase antibody
+C0053358,beta 2-Glycoprotein I
+C0054504,Calgranulin A
+C0054943,ALANINE AMINOPEPTIDASE
+C0054949,"Antigens, CD27"
+C0054952,CD33 antigen
+C0054953,CD34 Antigens
+C0054954,CD36 Antigens
+C0054961,CD45 Antigens
+C0054964,"Antigens, CD5"
+C0054965,CD57 Antigens
+C0054966,CD59 Antigen
+C0054967,CD6 antigen
+C0054968,CD7 Antigens
+C0055781,Circulating anticoagulants
+C0055966,Clusterin
+C0056097,cold agglutinins
+C0056184,"Receptors, Complement 3d"
+C0056207,COMPLEMENT FACTOR H
+C0057256,Defensins
+C0058773,Diphtheria-Tetanus Vaccine
+C0059406,Eosinophil Major Basic Protein
+C0059586,Escherichia coli Vaccines
+C0061673,varicella zoster virus glycoprotein E
+C0062059,H-Y antibody
+C0062086,Haemophilus influenzae type b polysaccharide vaccine
+C0062524,hepatitis A virus antibodies
+C0062525,hepatitis B immune globulin
+C0062527,hepatitis B surface antigen vaccine
+C0062529,hepatitis B virus X protein
+C0063710,"Receptors, Interleukin-1"
+C0065828,Measles-Mumps-Rubella Vaccine
+C0066510,Antimicrobial Cationic Peptides
+C0069115,"Antigens, Nuclear"
+C0069426,Oligoclonal Bands (protein)
+C0069673,osteoclast activating factor
+C0071216,Urokinase Plasminogen Activator Receptor
+C0073188,Rho(D) immune globulin
+C0074479,CD43 Antigen
+C0075128,SS A antibodies
+C0076930,Transforming Growth Factor beta Receptors
+C0078048,Chickenpox Vaccine
+C0078056,Vascular Cell Adhesion Molecule-1
+C0079189,cytokine
+C0079459,Granulocyte Colony-Stimulating Factor
+C0079460,Granulocyte-Macrophage Colony-Stimulating Factor
+C0079600,Immunodominant Epitopes
+C0079633,interleukin-8
+C0079784,Macrophage Colony-Stimulating Factor
+C0080097,Lymphocyte Homing Receptors
+C0080188,"Antigens, CD15"
+C0081937,Dipeptidyl-Peptidase IV
+C0082920,HLA-G antigen
+C0085240,Lupus Coagulation Inhibitor
+C0085289,Minor Lymphocyte Stimulatory Antigens
+C0085295,interleukin-10
+C0085297,"immunoglobulins, intravenous"
+C0085355,Human Platelet Antigens
+C0085358,CD8 Antigens
+C0085408,ISCOMs
+C0086413,HIV Vaccine
+C0087050,T-Cell Receptors delta-Chain
+C0103647,Antineutrophil Cytoplasmic Antibodies
+C0104230,Arrestin
+C0108768,CD14 Antigen
+C0108779,CD3 Antigens
+C0115305,E-Selectin
+C0122577,"complement factor H, human"
+C0123242,CD23 Antigen
+C0125090,L-Selectin
+C0134835,P-Selectin
+C0138547,prohibit
+C0140116,recoverin protein
+C0162595,Antiphospholipid Antibodies
+C0162596,"Antibodies, Anticardiolipin"
+C0164613,interferon alfacon-1
+C0166049,Hepatitis C Antibodies
+C0167954,I-kappa B Proteins
+C0170300,Hepatitis A Vaccines
+C0174745,Pseudorabies Vaccines
+C0178481,antibody inhibitor
+C0206255,Malaria Vaccines
+C0206491,Bispecific Monoclonal Antibodies
+C0206514,Haemophilus Vaccines
+C0206515,"Vaccines, Conjugate"
+C0210630,filgrastim
+C0214743,Interleukin-13
+C0217525,"LGALS3BP protein, human"
+C0218227,"MPL protein, human"
+C0236524,Measles antibody
+C0236525,Epstein-Barr virus antibody
+C0243040,"Adhesins, Bacterial"
+C0243982,CD44 Antigens
+C0244713,interferon beta-1b
+C0245662,CD95 Antigens
+C0249229,Integrin alpha2
+C0251058,desmoglein 1
+C0254119,interferon beta-1a
+C0257766,"SILV protein, human"
+C0282056,"Antibodies, Anti-DNA"
+C0282554,chemokine
+C0282682,"Antibodies, Blocking"
+C0285488,CD46 Antigen
+C0288672,abciximab
+C0299555,polyvalent melanoma cell vaccine
+C0300423,cadherin 5
+C0301513,human vaccinia immune globulin
+C0301869,Immunostimulating conjugate (antigen)
+C0305060,Tetanus and diphtheria toxoid adsorbed for adult use
+C0305062,"tetanus toxoid vaccine, inactivated"
+C0305065,Polyvalent pneumococcal vaccine
+C0310393,TRIANGLE 1
+C0310756,Parainfluenza 3 vaccine
+C0312558,Fetal antigen
+C0358297,Anthrax Vaccines
+C0358314,Pneumococcal vaccine
+C0360506,intramuscular immunoglobulin
+C0368721,Blood group antigen B
+C0369334,Hepatitis B Virus Surface Antibody
+C0369943,Rickettsia rickettsii antigen
+C0370188,Blood group antibody i
+C0376561,Recombinant Colony-Stimulating Factors
+C0376659,Cancer Vaccines
+C0376900,"Carcinoembryonic Antigen-Related Cell Adhesion Molecule 6, human"
+C0386212,"MCAM protein, human"
+C0393022,rituximab
+C0393081,Vaccinia Prostate Specific Antigen Vaccine
+C0443710,Varicella-zoster virus antibody
+C0443909,Paraneoplastic antibody
+C0443933,Sjogren's syndrome B antibody
+C0443985,Flinders medical centre-7 marker
+C0475462,Haemophilus influenzae type B antigen
+C0475463,"Antibodies, Neutralizing"
+C0487467,Rickettsia rickettsii RNA
+C0491374,"ANTISERA, CONTROL FOR NONTREPONEMAL TESTS"
+C0521390,neuronal
+C0522281,Cryptococcal antigen
+C0524932,gamma-Chemokines
+C0525271,Folate Receptor 2
+C0526873,MECA-79 antigen
+C0528335,TSH receptor antibody
+C0530093,monoclonal antibody M195
+C0535644,Diphtheria-Tetanus-acellular Pertussis Vaccines
+C0538294,"ALCAM protein, human"
+C0593408,Tick-borne encephalitis vaccine
+C0593947,Hepatitis A+B vaccine
+C0596057,airborne allergen
+C0596115,antireceptor antibody
+C0596627,gonorrhea vaccine
+C0597012,Neisseria meningitidis vaccine
+C0597172,paramyxovirus vaccine
+C0597449,Shigella Vaccines
+C0663182,daclizumab
+C0663932,"SLPI protein, human"
+C0666743,infliximab
+C0674607,detox adjuvant
+C0694750,Rubella/Mumps vaccine
+C0700144,Meningococcal vaccine
+C0700271,"M Protein, multiple myeloma"
+C0702053,RhoGAM
+C0717360,Lyme Disease Vaccine
+C0717551,Candida albicans allergenic extract
+C0717716,DTaP-Haemophilus influenzae type b conjugate vaccine
+C0717811,Haemophilus B Conjugate Vaccine
+C0718003,"Poliovirus Vaccine, Inactivated"
+C0733470,human leukocyte interferon
+C0760170,alpha 2-plasmin inhibitor-plasmin complex
+C0768182,iodine-131-tositumomab
+C0768285,"CCL27 protein, human"
+C0770687,Varicella virus live vaccine
+C0770694,trivalent influenza vaccine
+C0770715,tularemia vaccine
+C0790335,Candida albicans skin test antigen
+C0795623,"hepatitis A vaccine, inactivated"
+C0795657,"alpha 1-proteinase inhibitor, human"
+C0796392,bevacizumab
+C0796561,Melanoma vaccine
+C0796687,Lung Tumor Associated Antigen
+C0872996,Q fever vaccine
+C0879266,Autologous Tumor Cell Vaccine
+C0887892,"Vaccines, Subunit"
+C0887893,Parainfluenza Vaccines
+C0903677,"TACSTD1 protein, human"
+C0911154,"NOVA1 protein, human"
+C0915344,serogroup C meningococcal conjugate vaccine
+C0919250,Panorex
+C0935889,gastrin 17 vaccine
+C0949698,Streptogramin B
+C0950624,Leukocyte L1 Antigen Complex
+C0966225,omalizumab
+C0969324,mepolizumab
+C0981864,corn allergenic extract
+C0981883,whole wheat allergenic extract
+C0981916,insect allergenic extract
+C0982234,Recombinant interferon beta-1a
+C0995188,cetuximab
+C1098262,galiximab
+C1122087,adalimumab
+C1122758,apolizumab
+C1135160,monoclonal antibody CAL
+C1145755,CroFab
+C1172734,natalizumab
+C1176244,"DARC protein, human"
+C1259827,monoclonal antibody TriGem
+C1275683,Tear IgE
+C1291910,Human anti-mouse antibody
+C1291922,Human herpesvirus 1 antibody
+C1299874,West Nile Virus Vaccines
+C1302674,Immunoglobulin Subunits
+C1309370,"CADM1 protein, human"
+C1312737,"PROCR protein, human"
+C1313407,"HAVCR1 protein, human"
+C1313726,interleukin-4-Pseudomonas exotoxin
+C1314894,"Col4A3 protein, human"
+C1337299,strawberry allergenic extract
+C1370189,Pneumocystis jiroveci antigen
+C1429503,"HLA-F protein, human"
+C1429582,"CCL4 protein, human"
+C1432728,"CD244 protein, human"
+C1445421,Aspergillus fumigatus allergenic extract
+C1447090,"CCL1 protein, human"
+C1449556,Ebola Vaccines
+C1456820,Tumor Necrosis Factor-alpha
+C1510925,Anti-Dopamine-b-Hydroxylase Monoclonal Antibody-Saporin
+C1511767,Dendritic Cell Vaccine
+C1512511,Human Papilloma Virus Vaccine
+C1513432,Monoclonal Antibody B1
+C1514218,Polyvalent Vaccine
+C1514791,Recombinant Vaccinia-CEA
+C1515333,Tetanus Toxoid Helper Peptide
+C1515858,APC Vaccine
+C1517701,labetuzumab
+C1519676,Tumor Cell Vaccine plus BCG
+C1519904,Vaccinia Vaccine
+C1521896,Monoclonal Antibody B3
+C1521898,"FCGR3A protein, human"
+C1522537,Recombinant Interferon
+C1522557,Recombinant Interleukin-13
+C1522559,Recombinant RANTES
+C1522668,Recombinant Tumor Necrosis Factor Family Protein
+C1522688,Basolateral Sorting Signal
+C1524027,HibTITER
+C1524094,Recombinant Cytokines
+C1527036,Recombinant Chemokine
+C1527131,Recombinant Interleukin-5
+C1527132,Recombinant Interleukin-6
+C1527136,Recombinant Gamma Chemokine
+C1527200,Recombinant Interleukins
+C1527233,Recombinant Immune Globulin
+C1527392,Immunomodulators
+C1527848,"PSMB8 protein, human"
+C1529600,Tysabri
+C1541483,eculizumab
+C1548335,Food Allergy Allergen
+C1548481,"herpes simplex virus, type 2 vaccine"
+C1548484,rheumatic fever vaccine
+C1564374,"Complement C3 Convertase, Alternative Pathway"
+C1564375,"Complement C5 Convertase, Alternative Pathway"
+C1564892,Complement Inactivating Agents
+C1564907,"Receptors, Pattern Recognition"
+C1579314,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed
+C1579319,Pneumococcal conjugate vaccine
+C1609165,tocilizumab
+C1612111,human MUC1 protein
+C1617068,Toxic shock syndrome toxin-1 (TSST-1)
+C1624602,Anti-Antibodies
+C1625151,B7 Antigens
+C1660580,Meningococcal conjugate vaccine
+C1690432,denosumab
+C1706063,Wegener Autoantigen
+C1720918,Herpes Zoster Vaccine
+C1815328,Hypertet
+C1831728,Recombinant Interferon Alfa-1b
+C1955905,CCR Receptors
+C1956062,Histatins
+C1958472,Vx 001
+C2240392,Hepatitis B Vaccines
+C2346821,pidilizumab
+C2346906,Lupus Anticoagulant Antibody
+C2350610,"Antibodies, Immobilized"
+C2350723,etaracizumab
+C2366367,C1 esterase inhibitor (human)
+C2698319,Bacillus Calmette-Guerin Antigen
+C2702333,"immunoglobulin G, human"
+C2702350,tuna allergenic extract
+C2702351,apple allergenic extract
+C2702414,rice allergenic extract
+C2702418,peach allergenic extract
+C2722023,oat allergenic extract
+C2722024,turkey allergenic extract
+C2722031,cherry allergenic extract
+C2722032,chicken allergenic extract
+C2722036,coffee bean allergenic extract
+C2722042,oyster allergenic extract
+C2724202,celery allergenic extract
+C2726186,nutmeg allergenic extract
+C2727860,mackerel allergenic extract
+C2731559,apricot allergenic extract
+C2740597,blackberry allergenic extract
+C2740609,buckwheat allergenic extract
+C2740617,garlic allergenic extract
+C2740621,ginger allergenic extract
+C2741474,swordfish allergenic extract
+C2741534,cultivated mushroom allergenic extract
+C2741542,lemon allergenic extract
+C2742797,vedolizumab
+C2825347,"immunoglobulin A, human"
+C2826077,"factor VII, human"
+C2916903,"Antibodies, Monoclonal, Murine-Derived"
+C2930515,"immunoglobulin A, immunoglobulin G, immunoglobulin M drug combination"
+C2937361,Interferon alpha 2
+C2983727,ensituximab
+C2984509,Diphtheria Toxoid/Tetanus Toxoid Vaccine Adsorbed
+C2985546,"Antibodies, Monoclonal, Humanized"
+C2987424,itolizumab
+C3177463,etrolizumab
+C3179452,ELAV-Like Protein 2
+C3272755,Meningococcal Conjugate Vaccine MCV4
+C3272840,meningococcal polysaccharide vaccine (MPSV4)
+C3273244,Vi Capsular Polysaccharide Typhoid Vaccine
+C3464497,varicella-zoster virus vaccine live (Oka-Merck) strain
+C3486452,Meat Proteins
+C3486454,Shellfish Proteins
+C3486455,Poultry Proteins
+C3486456,Fruit Proteins
+C3486457,Grain Proteins
+C3489397,Immunoglobulin Fv Fragments
+C3526553,"diphtheria, tetanus toxoids and acellular pertussis vaccine"
+C3536964,"rotavirus, live, tetravalent vaccine"
+C3540798,Food allergenic extracts
+C3542957,"Monoclonal antibodies, antineoplastic"
+C3644171,"tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine, adsorbed"
+C3652465,Interferon
+C3653320,Interleukin inhibitors
+C3653328,Haemophilus influenzae B vaccines
+C3710967,"latent Orf73 antigen, human herpesvirus 8"
+C3711858,Anavip
+C3713057,caplacizumab
+C3811629,Anti-Drug Antibody
+C3816183,Neutralizing Anti-Drug Antibody
+C3827808,Topical Sirolimus
+C3828445,PSA Antibody
+C3831741,ACPP Antibody
+C3853632,"Immunoglobulin J Chain, human"
+C3853651,"Vascular Cell Adhesion Molecule-1, human"
+C3885063,idarucizumab
+C3887573,"CD99 protein, human"
+C3887647,"Lymphotoxin-Alpha, human"
+C3887655,Recombinant Platelet Factor 4
+C3887656,"Platelet Factor 4, human"
+C3887672,"CSF1 protein, human"
+C3887822,visilizumab
+C3896610,Serum-derived Bovine Immunoglobulin Protein Isolate
+C3897381,TP53 Antibody
+C4039583,Chimeric antigen receptor
+C4048265,tetanus immune globulin
+C4048285,"C-Reactive Protein, human"
+C4048299,Tissue Factor
+C4049595,HLA Complex
+C4054033,Sevacizumab
+C4054662,Latent Nuclear Antigen Antibody
+C4060044,Humanized Monoclonal Antibody Fragment
+C4082558,"Rho(D) immune globulin, human"
+C4082564,"Integrin Beta-2, human"
+C4083129,ovine digoxin immune fab
+C4086506,IGF2BP3 Autoantibody
+C4086595,Monalizumab
+C4086919,Tumor Antigen-specific Antibody
+C4277647,Hemochromatosis Protein
+C4278463,emicizumab
+C4281719,Protein S100-A8
+C4283921,"Complement C4-A, human"
+C4283922,"Complement C4-B, human"
+C4284647,Poultry preparation
+C4288915,Immunizing Neoantigen Peptide Antibody
+C4291679,Tetanus booster
+C4319841,Cell Adhesion Molecule-1
+C4325109,Ocrevus
+C4329348,Antineoplastic Antibody
+C4331271,Samalizumab
+C4331496,vanucizumab
+C4530100,Shingrix
+C4543341,Major histocompatibility complex Ab
+C4553380,"Beta-2-Glycoprotein 1, human"
+C4684947,CpG Oligodeoxynucleotide TLR9 Agonist DV281
+C4726564,RhoC Peptide Vaccine RV001V
+C4733612,Gentuximab
+C4734224,baloxavir
+C4744993,Anti-PD-L1 Monoclonal Antibody CBT-502
+C4760305,Substance with complement 5 inhibitor mechanism of action (substance)
+C4764036,Anti-EGFR/c-Met Bispecific Antibody EMB-01
+C5197773,Broadly Neutralizing Antibodies

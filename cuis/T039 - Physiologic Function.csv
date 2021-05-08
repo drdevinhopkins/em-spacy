@@ -1,0 +1,199 @@
+cui,name
+C0001117,Acid-Base Equilibrium
+C0005529,"Biological Transport, Active"
+C0005775,Blood Circulation
+C0005848,Blood Viscosity
+C0009348,Collateral Circulation
+C0014272,Energy Metabolism
+C0015413,Eye Movements
+C0015928,Fetal development of the mammalian embryo or fetus
+C0016017,Fibrinolysis
+C0017301,General Adaptation Syndrome
+C0018767,Hearing
+C0020964,Immunity
+C0025320,Menopause
+C0026820,Muscle Contraction
+C0029237,Physiologic Organization
+C0031327,Drug Kinetics
+C0031843,physiological aspects
+C0031845,Physiological Processes
+C0034011,Puberty
+C0035203,Respiration
+C0035245,Respiratory physiology
+C0040480,"Musculoskeletal torsion, function"
+C0042380,Vascular resistance
+C0149784,biological adaptation to stress
+C0152058,Compensation as a General Biological Function
+C0162537,electric impedance
+C0162567,Optokinetic nystagmus
+C0178665,glucose tolerance
+C0206158,Premenopause
+C0220844,growth aspects
+C0221102,Excretory function
+C0231197,Physiologic tolerance
+C0231456,"Abduction, function"
+C0231999,Airflow
+C0232338,Blood flow
+C0232515,Spitting
+C0232851,Flow of urine
+C0232896,Reproductive function
+C0233927,Sucking
+C0234192,Cold Sensation
+C0234451,"Sleep, Slow-Wave"
+C0242414,Physiologic Coordination
+C0242599,Neutrophil Activation
+C0242703,Cardiovascular Deconditioning
+C0242705,Fluid Shifts
+C0242732,Tropism
+C0242734,Phototropism
+C0243056,Plant Physiological Phenomena
+C0243144,Uptake
+C0282498,Heat-Shock Response
+C0301873,Immunologic reaction
+C0301944,Graft acceptance
+C0391850,Physiologic pulse
+C0392197,Physiologic warmth
+C0423553,Light touch
+C0442692,Reproductive process
+C0442694,Straining (finding)
+C0442696,Waking
+C0442700,End-expiration
+C0443158,Brain activity
+C0524828,Cytoprotection
+C0542478,Response to stimulus physiology
+C0678209,Adaptive Immunity
+C0678663,Biological feedback
+C0678745,drug absorption
+C0678861,Arterial blood supply
+C0678862,venous drainage
+C0678896,Endocrine function
+C0700630,Neurophysiology - biologic function
+C0743925,Fetal Growth
+C0870882,metabolic rates
+C0871125,prepulse inhibition activity
+C0871375,skin resistance
+C0993589,Perimenopause
+C1135927,"Immunity, Herd"
+C1148521,Embryonic and Fetal Development
+C1154973,shade avoidance
+C1160592,Cardiac Chronotropy
+C1254042,Anatomical maturation
+C1254359,Physiologic Function
+C1258063,Physiological Effects of Drugs
+C1258192,Total Peripheral Resistance
+C1325861,positive regulation of circadian rhythm
+C1326956,positive regulation of coagulation
+C1326962,ion homeostasis
+C1327405,regulation of vascular permeability
+C1327499,detection of electrical stimulus involved in electroception
+C1327536,detection of electrical stimulus
+C1327537,detection of mechanical stimulus
+C1327613,fear response
+C1327614,Response to pain physiology
+C1328723,Coagulation process
+C1372798,Physiological Effects
+C1378698,Substance distribution
+C1446949,Preimplantation Embryo Development
+C1511613,Cytokine Signaling Process
+C1512206,Gluconeogenesis Induction
+C1512228,Glycogenolysis Induction
+C1512229,Glycogenolysis Inhibition
+C1512280,Growth Factor Inhibition
+C1512675,Immunopotentiation
+C1513161,Metabolic Syndrome Pathway
+C1514154,Platelet Activating Factor Signaling Process
+C1514892,Resistance Process
+C1515420,Thrombolysis Induction
+C1515425,Thromboxane Production
+C1516011,Antiemetic Effect
+C1516019,Negative Regulation of Inflammatory Response Process
+C1516314,Catabolic Process
+C1516925,Epinephrine Secretion Induction
+C1517456,Gastrointestinal Absorption Induction
+C1518287,Neurologic Effect
+C1518291,Neuron Conduction Induction
+C1519260,Serotonin Production
+C1523018,rhythmic process (biological)
+C1533574,physiologic migration
+C1536627,oxygen tension function
+C1621280,detection of renal blood flow
+C1622400,regulation of the force of heart contraction
+C1622940,renin-angiotensin regulation of aldosterone production
+C1657611,response to hydrostatic pressure
+C1704520,Primary Respiratory Mechanism
+C1720766,Prenatal Programming
+C1817545,heat acclimation
+C1818000,positive regulation of tissue kallikrein-kinin cascade
+C1818746,negative regulation of granuloma formation
+C1818747,positive regulation of granuloma formation
+C1947907,biologic consumption
+C2242456,thyroid function
+C2246906,nitric oxide homeostasis
+C2256362,system process
+C2256367,renal system process
+C2256369,heart process
+C2256438,renal system process involved in regulation of systemic arterial blood pressure
+C2256464,regulation of glomerular filtration
+C2256465,pressure natriuresis
+C2262739,cation homeostasis
+C2265813,smooth muscle adaptation
+C2584293,Biting
+C2584297,Sitting Function
+C2584302,Pushing
+C2584306,Squatting
+C2584307,Kneeling function
+C2610986,Renal Reabsorption
+C2610987,renal sodium ion absorption
+C2610988,renal water absorption
+C2612721,cellular response to heat
+C2717994,Bacterial Shedding
+C2735350,Labor and delivery process
+C2825053,Emesis [PE]
+C2917137,Central Nervous System Depression [PE]
+C2917212,Negative Regulation of Coagulation
+C2930406,General Anesthesia [PE]
+C2936252,Plant Immunity
+C2936253,Plant Immune System
+C2936254,Plant Immune Response
+C2945579,"Ventilation, function (observable entity)"
+C2945684,pulmonary effects
+C3155402,carbohydrate storage
+C3157053,renal protein absorption
+C3159006,regulation of urine volume
+C3159008,negative regulation of urine volume
+C3159009,renal sodium excretion
+C3178748,Antipyretic Effect
+C3179159,Sedative Effect
+C3179174,Adrenergic Effect
+C3179228,Neuromuscular Effect
+C3179302,Antioxidant Effect
+C3179403,Antipsychotic Effect
+C3179404,Anti-Anxiety Effect
+C3269157,renal filtration
+C3270621,regulation of detection of glucose
+C3271354,response to isolation stress
+C3537050,Decreased Coagulation Activity [PE]
+C3537065,Vasodilation [PE]
+C3544386,Thermotolerance
+C3546872,positive regulation of relaxation of cardiac muscle
+C3546873,negative regulation of relaxation of cardiac muscle
+C3547634,positive regulation of relaxation of smooth muscle
+C3548545,renal phosphate ion absorption
+C3549174,renal potassium excretion
+C3658217,"Immunity, Heterologous"
+C3714584,"Transformation, function"
+C3824190,positive regulation of opsonization
+C3853758,Metabolic Profile
+C3894547,negative regulation of lactation
+C3894549,positive regulation of lactation
+C3894590,regulation of blood circulation
+C3894596,positive regulation of blood circulation
+C3896151,cellular response to cell wall damage
+C4042931,Chronopharmacokinetics
+C4084942,response to 2-O-acetyl-1-O-hexadecyl-sn-glycero-3-phosphocholine
+C4235412,positive regulation of smooth muscle hypertrophy
+C4235413,negative regulation of smooth muscle hypertrophy
+C4235766,response to tetrachloromethane
+C4235972,response to dextromethorphan
+C4520800,Hydration
+C4690867,pyloric antrum smooth muscle contraction

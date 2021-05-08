@@ -1,0 +1,2337 @@
+cui,name
+C0000723,Abbreviations
+C0001683,Advance Directives
+C0002045,algorithm
+C0002867,Anecdotes
+C0003116,Anonyms and Pseudonyms
+C0004738,Bar Codes
+C0005504,Biography
+C0005600,Birth Certificates
+C0006002,Books
+C0006347,Budgets
+C0007320,Case Reports Publication Type
+C0007835,Certificate of Need
+C0009458,Communications Media
+C0009491,comparative study publication
+C0009627,Computing Methodologies
+C0009797,Consent Forms
+C0011066,Death Certificates
+C0011113,Decision Support Techniques
+C0011114,Decision Theory
+C0011115,Decision Trees
+C0011412,Dental Records
+C0012114,"Dictionaries, Pharmaceutic as Topic"
+C0012157,Diet Records
+C0013109,Drama
+C0013113,Drawings (art)
+C0013960,Emergency Medical Service Communication Systems
+C0014622,Eponyms
+C0015324,Expert Systems
+C0015730,Feasibility Studies
+C0016262,Flowcharts (Computer)
+C0016538,Projections and Predictions
+C0016590,Formularies as Topic
+C0016997,Game Theory
+C0017500,Gestalt Theory
+C0017594,Glasgow coma scale
+C0018017,objective (goal)
+C0018739,Personal Health Records
+C0018761,Health Status Indicators
+C0019972,Hospital Information Systems
+C0020168,Humor
+C0021135,In Vitro [Publication Type]
+C0021504,Injury Severity Score
+C0021681,"Insurance, Dental"
+C0021791,International System of Units
+C0022396,Job Description
+C0022752,Knowledge Bases
+C0023683,Life Tables
+C0023866,Literature
+C0024763,Manuals as Topic
+C0024779,Map
+C0025102,Medical Records
+C0025116,Medication Systems
+C0025663,Methods
+C0026350,Theoretical model
+C0026601,Motion Pictures as Topic
+C0027365,Name
+C0028275,Terminology
+C0029038,Online Systems
+C0030650,Legal patent
+C0031082,Periodicals
+C0032076,Planning Techniques
+C0032217,Pleasure-Pain Principle
+C0032670,Population Forecast
+C0033081,Drug Prescriptions
+C0033348,Programming Languages
+C0033903,Psychological Techniques
+C0034036,Publications
+C0034394,Questionnaires
+C0034526,aspects of radiation effects
+C0034546,Radio communications
+C0034619,radiotherapeutic
+C0034676,Rare Books
+C0034869,Records
+C0034975,Registries
+C0034980,Regression Analysis
+C0036719,Serial Publications
+C0036886,Sex Manuals
+C0038951,Surveys
+C0039154,Systems Theory
+C0039712,Textbooks
+C0039741,Thanatology
+C0040672,Transfer Agreement
+C0040712,Language Translations
+C0040787,Trauma Severity Indices
+C0043010,Waiting Lists (patient)
+C0079004,B-Lymphocyte Subsets
+C0079252,Do-Not-Resuscitate Orders
+C0079265,Editorial Policies
+C0079630,Institutional Policy
+C0080109,Resuscitation Orders
+C0085519,Reminder Systems
+C0085970,Case Histories
+C0085973,Case Study
+C0086104,Decision Aids
+C0086272,Experimental Model
+C0086960,Schedule (document type)
+C0150098,Data Set
+C0150641,Instrumental activities of daily living (assessment scale)
+C0162443,Journal
+C0162791,Guidelines
+C0162793,Practice Guidelines as Topic
+C0178692,human population study
+C0178916,Care plan
+C0184495,Coping Component
+C0184496,Fluid Volume Component
+C0184502,Respiratory Component
+C0184505,Self-Care Component
+C0184507,Sensory Component
+C0184509,Tissue Perfusion Component
+C0206034,"Clinical Trials, Randomized"
+C0220845,guiding characteristics
+C0220880,morbidity aspects
+C0220901,prognostic
+C0220952,DSM-IV
+C0237913,Statistical Test
+C0242356,Databases
+C0242365,Legal Status
+C0242456,Policy
+C0242539,Psychiatric Wills
+C0243028,APACHE II
+C0243030,Acute Physiology and Chronic Health Evaluation
+C0282354,Descriptors
+C0282409,Legal Case
+C0282411,Published Comment
+C0282412,Editorial
+C0282413,Correspondence as Topic
+C0282416,Overall Publication Type
+C0282417,Published Erratum
+C0282419,Technical Report
+C0282420,Journal Article
+C0282423,Guideline [Publication Type]
+C0282426,Published Directory
+C0282439,Multicenter Studies as Topic
+C0282440,Randomized Controlled Trials as Topic
+C0282441,Review Literature
+C0282443,Review [Publication Type]
+C0282446,Historical Article
+C0282451,Clinical Practice Guideline
+C0282458,Meta-Analysis (publications)
+C0282574,Intellectual Property
+C0282654,Clinical Pathways
+C0282655,Critical Pathways
+C0302828,Instruction [Publication Type]
+C0332522,Contract agreement
+C0332710,"Fracture, transverse"
+C0333052,Version
+C0349674,Intellectual scale
+C0376478,Multimedia
+C0376554,Knowledge
+C0376585,Cross-Sectional Anatomy
+C0376649,Addresses (publication format)
+C0376650,Animation
+C0376655,Bookplates
+C0376658,Catalogs
+C0376663,Published Ephemera
+C0376667,Herbals (publications)
+C0376680,Price List
+C0376682,Lecture Note
+C0376683,Lecture
+C0376691,Programs - Publication Format
+C0392366,Tests (qualifier value)
+C0439063,Alphanumeric
+C0439069,Roman numeral II
+C0439070,Roman Numeral III
+C0439079,Positive integer
+C0439095,Greek letter alpha (qualifier value)
+C0439096,Beta greek letter
+C0439097,Delta - greek letter
+C0439098,Greek letter epsilon
+C0439099,Greek letter kappa
+C0439105,Upper case Roman letter B
+C0439106,Upper case Roman letter C
+C0439107,Upper case Roman letter D
+C0439108,Upper case ee
+C0439109,Upper case eff
+C0439110,upper case gee
+C0439111,Upper case Roman letter H
+C0439112,Upper case Roman letter K
+C0439113,Upper case Roman letter M
+C0439117,Upper case Roman letter R
+C0439118,Upper case Roman letter S
+C0439119,Upper case tea
+C0439120,Upper case Roman letter V
+C0439122,Upper case ecks
+C0439127,Lower case Roman letter b
+C0439129,Lower case Roman letter d
+C0439131,Lower case ee
+C0439132,Lower case eff
+C0439134,Lower case Roman letter h
+C0439135,Lower case eye
+C0439142,Lower case are
+C0439143,Lower case tea
+C0439144,Lower case you
+C0439145,Lower case Roman letter v
+C0441750,Hypersensitivity types
+C0441767,Stage level 2
+C0441771,Stage level 3
+C0441772,Stage level 4
+C0441777,Stage level 5
+C0441778,Stage A
+C0441781,Stage B
+C0441785,Stage C
+C0441789,Stage D
+C0441790,Stage D1
+C0441792,Editions
+C0441843,Group I (alphabetic group)
+C0441861,Group 1
+C0441886,Class 2
+C0441887,Class 3
+C0441925,Level I
+C0441926,Level II
+C0441950,Lower case ecks
+C0442015,Digital X-ray
+C0442711,Protocols documentation
+C0442996,Cox microbiology subtype
+C0443276,Pathological staging
+C0444597,Double contrast technique
+C0444748,Enteroinvasive
+C0444974,la serotype
+C0444976,Ib serotype
+C0445150,Serotype O157:H7
+C0445379,Roman Numeral VI
+C0445385,Roman numeral VII
+C0445392,Wild
+C0445573,Orleans
+C0445599,Roman numeral VIII
+C0449309,Laboratory method
+C0449366,Method of removal
+C0449394,Staging system
+C0449475,cell type
+C0449492,Type of food
+C0449493,Type of foreign body
+C0449943,Serotype
+C0449982,Type of restoration
+C0450344,alphanumeric label - 1A
+C0450980,Acute physiology and chronic health evaluation III
+C0450984,Alcohol dependence scale
+C0451005,Assessment of motor and process skills (assessment scale)
+C0451162,FIRST screening test
+C0451297,Michigan alcoholism screening test
+C0451581,Westmead Post-Traumatic Amnesia Scale
+C0456387,Class
+C0457464,types of diseases
+C0457499,Type 5
+C0459471,Interpretation Process
+C0470166,Message
+C0475270,G2 stage (tumor staging)
+C0475271,Tumor grade G3
+C0475455,T - Tumor stage
+C0475483,Behavior Rating Scale
+C0475506,Ravens colored progressive matrices
+C0489452,Body Surface Area Formula
+C0518090,Frequency of Pain Question
+C0518895,Neurocognitive
+C0518896,Nutrition outcomes
+C0525055,Organizational Case Studies
+C0525070,"Decision Support Systems, Clinical"
+C0542560,Academic degree
+C0547053,First grade in elementary school
+C0552315,Amniotic Fluid Index
+C0552371,Citation
+C0552583,PROCEDURE NOTE
+C0559867,Fracture of both columns
+C0580264,H1N1
+C0580265,H2N2
+C0580279,1 serotype
+C0582653,Perceived stress scale
+C0586303,Certificate (record artifact)
+C0589425,Attention process training test
+C0592502,Generic Name
+C0592503,Proprietary Name
+C0596098,animal morbidity
+C0596102,animal population study
+C0596139,automated health care system
+C0596323,chemical standardization
+C0596657,health care model
+C0596785,Interactive multimedia
+C0596849,literature citation
+C0599880,Treatment Plan
+C0600091,Identifier
+C0600281,Nomenclature
+C0600644,Collections (publication)
+C0600647,Essay
+C0600648,Examination Questions
+C0600653,Indexes
+C0600657,Legislation (documents)
+C0600659,Manuscripts
+C0600661,Outlines (document)
+C0600665,Phrases
+C0600673,Statistics (publications)
+C0600677,Union List
+C0600678,Abstract Summary
+C0677510,Roman Numeral IV
+C0677540,PAMS Media
+C0678257,Description
+C0679207,Knowledge acquisition using a method of assessment
+C0679228,Diagnostic Criteria
+C0679508,diagnostic tree
+C0679622,literary novel
+C0679716,prevention strategy
+C0679717,prevention program
+C0679919,health records
+C0680532,Amendment
+C0680536,commercial
+C0681251,Classical Music
+C0681288,Written Language
+C0681290,jargon
+C0681472,policy statement
+C0681482,Financial Statements
+C0681493,Graph - visual representation
+C0681494,Diagram
+C0681836,Validation Study
+C0681841,Explanation
+C0683312,Categories
+C0683326,disease classification
+C0683432,Drug Abuse Inventory
+C0683457,State-trait anger expression inventory
+C0683504,Alcohol Safety Action Program
+C0683613,Social Theory
+C0683876,fact sheet
+C0683877,flyer
+C0683879,panel discussion
+C0683956,Disease Predictive Factor
+C0684224,Report (document)
+C0684240,Charts (publication)
+C0684258,Fourth grade in elementary school
+C0687114,organizational structure
+C0687136,Personal Experience Scales
+C0687678,product label
+C0687696,Second grade in elementary school
+C0687697,Third grade in elementary school
+C0687709,Children of Alcoholics Screening Test
+C0699794,Rank
+C0699833,Psychological Screening Inventory
+C0700217,electronic bulletin board
+C0740885,ALIAS
+C0745732,List
+C0746470,MEDICATION LIST
+C0747307,Patient-Reported
+C0747978,Progress note
+C0805443,Cancer Registry
+C0805701,Code
+C0807321,Pathology report
+C0810533,security systems
+C0814193,clinical institute withdrawal assessment (CIWA) for alcohol
+C0814812,overview
+C0815296,Drinking Problems Index
+C0815317,Alcohol Misuse Prevention Study
+C0815320,Impaired Control Scale
+C0815327,NET questionnaire
+C0851147,Followup Drinker Profile
+C0851173,Addiction Potential Scale
+C0870077,Rule (guideline)
+C0870733,International Classification of Diseases
+C0870951,Neural Network Simulation
+C0871472,t-Test
+C0871893,Script
+C0872179,"Databases, Genetic"
+C0872249,"Databases, Protein"
+C0872304,Voucher
+C0876929,Sentence
+C0876936,Mathematical Model
+C0887929,Unpublished Work
+C0887933,Fictional Works
+C0918012,Index
+C0919279,A Codes
+C0920316,Documentation
+C0925206,Connected_to relation
+C0935630,Published Interview
+C0936005,Published Practice Guidelines
+C0936090,Portraits as Topic
+C0936091,Annual Reports
+C0936233,Controlled Clinical Trial [Publication Type]
+C0947322,Manufacturer Name
+C0947611,Comment
+C0969625,Methodology aspects
+C0993637,Published Database
+C1096774,Letter [Publication Type]
+C1096775,Clinical Trial [Publication Type]
+C1096777,Randomized Controlled Trial (publication)
+C1096779,"Clinical Trial, Phase II"
+C1096782,Twin Studies
+C1115660,Lot Number
+C1135584,Medical Subject Headings
+C1135938,Codes of Ethics
+C1136257,Systematized Nomenclature of Medicine
+C1137105,DSM-V
+C1137110,"International Statistical Classification of Diseases and Related Health Problems, Tenth Revision (ICD-10)"
+C1138431,Current Procedural Terminology
+C1138432,PubMed
+C1140091,AI/RHEUM
+C1140095,Current Procedural Terminology (Version 4)
+C1140097,COSTART
+C1140113,Omaha System
+C1140130,Nursing Interventions Classification
+C1140150,NOC - CodeSystem
+C1171152,Life Cycle Component
+C1179801,Arterial tree
+C1185625,Anatomical compartments
+C1272517,Sudden onset (contextual qualifier) (qualifier value)
+C1277691,Pack years
+C1301142,WHO tumor classification
+C1301584,Last Name
+C1301627,Format
+C1301746,Documents
+C1301826,Street address
+C1301894,Medical record number
+C1317574,Note (document)
+C1321595,Pneumonia severity index
+C1442065,Address
+C1442085,Instructions
+C1443235,First Name
+C1443933,Laboratory biosafety level
+C1449618,Pharmaceutical Care
+C1450294,Nomograms
+C1456649,Children's Page
+C1507394,Clinical trial protocol document
+C1510755,Accession Number (identifier)
+C1511297,Breast Cancer Risk Assessment Tool
+C1511351,Bypass Budget
+C1511481,Consent
+C1511784,Dermatome Map
+C1511875,Diagnostic Accuracy Assessment Criterion
+C1512015,Doctor of Chiropractic
+C1512018,Doctor of Medicine
+C1512020,Doctor of Osteopathic Medicine
+C1512022,Doctor of Philosophy
+C1512027,Doctorate Degree
+C1512348,Health Information National Trends Survey
+C1512892,International Classification of Disease for Oncology
+C1513008,Master of Public Health
+C1514280,Postsurgical Stage II
+C1514281,Postsurgical Stage III
+C1514282,Postsurgical Stage IV
+C1514292,Pre-Clinical Model
+C1514575,Protocol Forms Template
+C1514811,Bibliographic Reference
+C1515258,Telephone Number
+C1516308,Case Report Form
+C1516602,Research or Clinical Assessment Tool
+C1516606,Clinical Data
+C1516636,Clinical Trials Design
+C1516728,National Cancer Institute common terminology criteria for adverse events
+C1517001,Expected
+C1517503,Genetic Programming
+C1518668,Other Resources
+C1518848,Pain Assessment Tool
+C1519193,Scheme
+C1521800,Adverse Drug Experience Report
+C1521826,Protocol Agent
+C1521842,Zip Code
+C1521941,prescription document
+C1522446,Disease Grade 2
+C1522634,Question (inquiry)
+C1522664,filter information process
+C1522729,Library Protocol
+C1524004,Authorization documentation
+C1524067,Rodent Nomenclature Name
+C1524073,"Component, LOINC Axis 1"
+C1527021,Text
+C1546398,Admission Type - Elective
+C1546403,Admission Type - Urgent
+C1546533,Specimen Source Codes - Abscess
+C1546538,Amniotic fluid specimen code
+C1546539,Amputation Specimen Code
+C1546543,Specimen Source Codes -Aspirate
+C1546546,Specimen Source Codes - Autopsy
+C1546549,Specimen Source Codes - Whole body
+C1546551,Specimen Source Codes - Bite
+C1546552,Specimen Source Codes - Whole blood
+C1546553,Specimen Source Codes - Blood arterial
+C1546555,Specimen Source Codes - Cord blood
+C1546556,Specimen Source Codes - Blood venous
+C1546558,Specimen Source Codes - Blister
+C1546560,Specimen Source Codes - Bone
+C1546561,Bowel contents
+C1546562,Basophil Specimen Code
+C1546564,Burn Specimen Source Codes
+C1546566,Specimen Source Codes - Brushing
+C1546569,Specimen Source Codes - Biopsy
+C1546572,Specimen Source Codes - Catheter
+C1546574,Specimen Source Codes - Cardiac muscle
+C1546576,Specimen Source Codes - Conjunctiva
+C1546577,Specimen Source Codes - Cannula
+C1546587,Catheter tip specimen code
+C1546588,Specimen Source Codes - Curettage
+C1546589,Cervical mucus Specimen Code
+C1546592,Cervix Specimen Code
+C1546594,Specimen Source Codes - Cyst
+C1546599,Dialysate - Specimen Source Codes
+C1546601,Specimen Source Codes - Discharge
+C1546602,Specimen Source Codes - Diverticulum
+C1546604,Drain Specimen Code
+C1546608,Specimen Source Codes - Ear
+C1546613,Specimen Source Codes - Effusion
+C1546616,Specimen Source Codes - Electrode
+C1546617,Endocardium Specimen Code
+C1546618,Endometrium Specimen Code
+C1546620,Specimen Source Codes - Eosinophils
+C1546629,Specimen Source Codes - Exudate
+C1546630,Eye Specimen Source Code
+C1546634,Specimen Source Codes - Fibroblasts
+C1546635,Specimen Source Codes - Fistula
+C1546637,Specimen Source Codes - Filter
+C1546638,Fluid Specimen Code
+C1546649,Specimen Source Codes - Genital
+C1546653,Graft - Specimen Source Codes
+C1546654,Specimen Source Codes - Granuloma
+C1546660,Hair Specimen Code
+C1546675,Specimen Source Codes - Implant
+C1546677,Specimen Source Codes - Infiltrate
+C1546678,Insect Specimen Code
+C1546682,Specimen Source Codes - Intrauterine Device
+C1546689,Specimen Source Codes - Lavage
+C1546696,Specimen Source Codes - Contact Lens
+C1546698,Specimen Source Codes - Lesion
+C1546701,line source specimen code
+C1546702,Line arterial - Specimen Source Codes
+C1546705,Specimen Source Codes - Lymphocytes
+C1546706,Specimen Source Codes - Macrophages
+C1546708,Marrow - Specimen Source Codes
+C1546709,Specimen Source Codes - Mass
+C1546711,Specimen Source Codes - Meconium
+C1546712,Specimen Source Codes - Breast milk
+C1546713,Milk Specimen Code
+C1546714,Specimen Source Codes - Mucus
+C1546715,Nail Specimen Code
+C1546717,Specimen Source Codes - Needle
+C1546728,Specimen Source Codes - Pacemaker
+C1546740,Specimen Source Codes - Plasma
+C1546742,Placenta Specimen Code
+C1546747,Specimen Source Codes - Polyps
+C1546756,Specimen Source Codes - Pseudocyst
+C1546758,Pus Specimen Code
+C1546759,Specimen Source Codes - Pustule
+C1546761,Specimen Source Codes - Erythrocytes
+C1546767,Specimen Source Codes - Respiratory
+C1546769,Specimen Source Codes - Saliva
+C1546774,Specimen Source Codes - Serum
+C1546777,Specimen Source Codes - Shunt
+C1546778,Specimen Source Codes - Site
+C1546780,Specimen Source Codes - Skeletal muscle
+C1546781,Skin Specimen Source Code
+C1546789,Specimen Source Codes - Sputum
+C1546803,Specimen Source Codes - Suture
+C1546837,Unknown - Special Program Code
+C1546841,Unknown Publicity Code
+C1546844,Visit Priority Code - Emergency
+C1546845,Visit Priority Code - Urgent
+C1546846,Visit Priority Code - Elective
+C1547037,data type - ratio
+C1547135,Referral category - Ambulatory
+C1547151,Coding system - Medicaid
+C1547152,Medicare Coding system
+C1547157,Medispan GPI - CodeSystem
+C1547174,WHO ATC - CodeSystem
+C1547225,Mild Severity of Illness Code
+C1547226,Moderate - Severity of Illness Code
+C1547227,Severe - Severity of Illness Code
+C1547229,Acute - Triage Code
+C1547230,Triage Code - Urgent
+C1547231,Severe - Triage Code
+C1547236,Gestation Category Code - Full Term
+C1547245,Blood Product Code - Fresh Frozen Plasma
+C1547270,Suicide Attempt Incident Code
+C1547277,Draft
+C1547283,Unknown - Production Class Code
+C1547284,Ambulance Arrival Code
+C1547288,Alcohol - Recreational Drug Use Code
+C1547290,Kava Use Code
+C1547295,Admission Level of Care Code - Acute
+C1547296,Chronic - Admission Level of Care Code
+C1547297,Admission Level of Care Code - Comatose
+C1547298,Admission Level of Care Code - Critical
+C1547299,Admission Level of Care Code - Moribund
+C1547300,Precaution Code - Aggressive
+C1547301,Precaution Code - Confused
+C1547307,Satisfactory - Patient Condition Code
+C1547308,Patient Condition Code - Critical
+C1547310,Patient Condition Code - Poor
+C1547311,Patient Condition Code - Stable
+C1547316,Sensitivity to Causative Agent Code - Contraindication
+C1547317,Sensitivity to Causative Agent Code - Intolerance
+C1547327,Value type - Address
+C1547383,Person Name
+C1547402,Data types - String
+C1547424,Location Service Code - Diagnostic
+C1547426,Location Service Code - Primary Care
+C1547427,Therapeutic - Location Service Code
+C1547503,Ambulatory Payment Classification Code - Dental procedures
+C1547530,TQ conjunction ID - Asynchronous
+C1547582,Extended Priority Codes - Routine
+C1547583,Extended Priority Codes - Stat
+C1547595,Confidentiality Code
+C1547673,Document type
+C1547787,Sequence - ParameterizedDataType
+C1547922,Specimen Source Codes - Sweat
+C1547924,Specimen Source Codes - Tears
+C1547926,Specimen Source Codes - Throat
+C1547928,Tissue Specimen Code
+C1547930,Specimen Source Codes - Tissue lung
+C1547932,Specimen Source Codes - Transudate
+C1547937,Specimen Source Codes - Tube
+C1547940,Specimen Source Codes - Ulcer
+C1547942,Specimen Source Codes - Urine
+C1547951,Urethra specimen code
+C1547957,Specimen Source Codes - Vitreous Fluid
+C1547958,Specimen Source Codes - Vomitus
+C1547959,Wash - Specimen Source Codes
+C1547961,Water - Specimen Source Codes
+C1547962,Specimen Source Codes - Leukocytes
+C1547964,Wick Specimen Code
+C1547965,Specimen Source Codes - Wound
+C1547976,Diagnostic Service Section ID - Blood Gases
+C1547977,Blood Bank Section ID
+C1547978,Chemistry Section ID
+C1547981,Diagnostic Service Section ID - Cardiac Catheterization
+C1547982,Diagnostic Service Section ID - Cardiac Ultrasound
+C1547985,Diagnostic Service Section ID - Hematology
+C1547987,Diagnostic Service Section ID - Immunology
+C1547989,Diagnostic Service Section ID - Nuclear Magnetic Resonance
+C1547993,Diagnostic Service Section ID - Occupational Therapy
+C1547996,Diagnostic Service Section ID - Pulmonary Function
+C1547997,Diagnostic Service Section ID - Pharmacy
+C1547999,Diagnostic Service Section ID - Physical Therapy
+C1548000,Radiology Section ID
+C1548003,Diagnostic Service Section ID - Radiograph
+C1548004,Diagnostic Service Section ID - Surgical Pathology
+C1548005,Diagnostic Service Section ID - Serology
+C1548006,Diagnostic Service Section ID - Toxicology
+C1548007,Diagnostic Service Section ID - Virology
+C1548180,Production Processing ID
+C1548281,Transaction counts and value totals - contract
+C1548341,Visit User Code - Home
+C1548343,Visit User Code - Phone
+C1548344,Visit User Code - Teaching
+C1548374,Document Type - Consultation
+C1548375,Document Type - Diagnostic imaging
+C1548378,Psychiatric consultation
+C1548381,Document Type - Surgical pathology
+C1548394,delete - HL7UpdateMode
+C1548427,Referral type - Laboratory
+C1548443,ADD action code
+C1548444,CORRECT - Problem/goal action code
+C1548447,UNCHANGED * - Problem/goal action code
+C1548449,UPDATE - Problem/goal action code
+C1548524,Uniform Resource Identifier
+C1548567,Update - Action Code
+C1548568,Action Code - No change
+C1548572,Level of care - Location characteristic ID
+C1548578,Location characteristic ID - Smoking
+C1548760,Risk Codes - Aggressive
+C1548762,Risk Codes - Biological
+C1548763,Risk Codes - Corrosive
+C1548765,Risk Codes - Explosive
+C1548769,Poison Risk Codes
+C1548770,Radioactive - Risk Codes
+C1548833,Consent Type - Cataract Surgery
+C1549021,Warning - EquipmentAlertLevel
+C1549081,Termination - Inactive Reason Code
+C1549438,Procedure Practitioner Identifier Code Type - Radiologist
+C1549439,Resident - Procedure Practitioner Identifier Code Type
+C1549593,Confidentiality code - Psychiatric patient
+C1549594,Confidentiality code - Restricted
+C1549760,Alias name - Organizational name type
+C1549773,Update - Segment action code
+C1549782,Relational Operator - Equal
+C1549859,PCL Message Structure
+C1549865,Q15
+C1549876,Message structure -T12
+C1549943,Associate Degree
+C1549944,Associate of Applied Science
+C1549946,Associate of Engineering
+C1549949,Bachelor of Business Administration
+C1549952,Bachelor of Science in Nursing
+C1549956,Bachelor of Theology
+C1549973,Master of Arts
+C1549977,Master of Engineering
+C1549978,Master of Education
+C1550015,aborted - QueryStatusCode
+C1550118,Special Handling Code - Dry
+C1550121,Liquid nitrogen - Special Handling Code
+C1550127,Special Handling Code - Upright
+C1550182,American College of Radiology finding codes
+C1550203,FDA K10
+C1550207,Coding system - Home Health Care
+C1550208,Health Outcomes
+C1550221,International Classification of Sleep Disorders - CodeSystem
+C1550350,Diagnosis Code
+C1550373,Procedure Code
+C1550436,Response Modality - Bolus
+C1550438,Entity Name Use - Legal
+C1550455,event criterion
+C1550472,low confidentiality
+C1550512,Participation Type - origin
+C1550525,has outcome
+C1550526,has goal
+C1550536,has reference values
+C1550549,Act Relationship Checkpoint - through
+C1550579,Entity Handling - frozen
+C1550606,has generalization - RoleClass
+C1550607,has generic
+C1550696,deflate - CompressionAlgorithm
+C1550699,Compress (Compression Algorithm)
+C1550702,vacation home
+C1550710,AddressPartType - country
+C1550722,Entity Name Part Qualifier - birth
+C1551339,Entity Class - imaging modality
+C1551341,Act Class - Section
+C1551342,Document Body
+C1551994,subscriber - self
+C1552093,executing - QueryStatusCode
+C1552562,act - Verification
+C1552565,Oral health service - Clinical Invoice Grouping
+C1552578,Act Class - investigation
+C1552583,Emphasised Font
+C1552590,Big Roman
+C1552595,Style Type - Square
+C1552596,Direct - PostalAddressUse
+C1552597,Postal Address Use - Public
+C1552601,PersonNameUse - assigned
+C1552603,search - EntityNameUse
+C1552651,Type - ParameterizedDataType
+C1552654,Parameterized Data Type - Interval
+C1552658,Historical - ParameterizedDataType
+C1552679,Organization Name
+C1552710,Data Type - Bag
+C1552713,Data Type Interval
+C1552723,Historical - DataType
+C1552740,Entity Determiner - specific
+C1552816,all - LocalMarkupIgnore
+C1552826,Table Cell Vertical Align - middle
+C1552835,Void - TableFrame
+C1552839,Table Rules - groups
+C1552840,row - Table
+C1552850,start - HtmlLinkType
+C1552853,contents - HtmlLinkType
+C1552858,Html Link Type - section
+C1552860,appendix - HTML link
+C1552861,Help document
+C1552867,Set Operator - exclude
+C1552870,Universal - VocabularyDomainQualifier
+C1553384,registration - ActClass
+C1553386,normal Act Status
+C1553387,Hold - dosing instruction fragment
+C1553415,Application Acknowledgement Accept
+C1553416,Application Acknowledgement Error
+C1553418,Accept Acknowledgement Commit Accept
+C1553423,respond to (CommunicationFunctionType)
+C1553443,detected issue - potential for adverse outcome
+C1553511,Verifying specimen
+C1553690,automobile insurance policy
+C1553698,incorrect policy
+C1553699,incorrect billing
+C1553741,AcknowledgementCondition - CodeSystem
+C1553744,ActUncertainty - CodeSystem
+C1553796,AcknowledgementType - CodeSystem
+C1553821,Code System - Ethnicity
+C1553846,ModifyIndicator - CodeSystem
+C1553879,applies to - HL7 Value Set and Coded Concept Property Codes
+C1553880,how applies
+C1553888,request - ActMood
+C1553892,current medication list
+C1553893,medication history
+C1553896,goal list
+C1553897,intolerance list
+C1553898,risk factors - observation list
+C1553903,regulatory requirement
+C1554080,Key - HL7UpdateMode
+C1554086,Stewardship
+C1554093,HL7CommitteeIDInRIM <Patient Administration>
+C1554096,HL7 Committee ID In RIM - Medical records
+C1554098,HL7 Committee ID In RIM - Patient Care
+C1554100,MDF Attribute Type - Code
+C1554103,MDFAttributeType - Fraction
+C1554107,MDF Attribute Type - Name
+C1554108,MDF Attribute Type - Quantity
+C1554111,Text - MDFAttributeType
+C1554112,MDF Attribute Type - Value
+C1554123,Subtype constraint - MdfHmdRowType
+C1554125,Common MET
+C1554132,Mandatory - HL7DefinedRoseProperty
+C1554146,Receiver responsibility
+C1554147,Developing committee
+C1554156,End state
+C1554157,Start state
+C1554159,HL7 Defined Rose Property - Identifier
+C1554161,Processing ID - Training
+C1554180,Query Priority - Deferred
+C1554184,Dual
+C1554215,Act Relationship Type - transformation
+C1554216,appointment request
+C1554992,Basic Audio
+C1555017,URL Scheme - File
+C1555305,identified entity
+C1555325,endogenous content
+C1555475,Unit of Quantity
+C1555558,care of - AddressPartType
+C1555563,street type
+C1555587,Transaction counts and value totals - provider
+C1555588,Transaction counts and value totals - location
+C1555707,extract - ActClassContainer
+C1555712,topic - ActClassContainer
+C1555715,entry - cluster
+C1555716,battery - set of observations
+C1556076,DICOM modality codes
+C1561504,Act Relationship Join - detached
+C1561514,Specimen Source Codes - Mucosa
+C1561528,Acknowledgement Detail Type - Information
+C1561538,Transaction counts and value totals - day
+C1561540,Transaction counts and value totals - week
+C1561542,Transaction counts and value totals - month
+C1561543,Transaction counts and value totals - year
+C1561573,Data Type - Quantity
+C1561574,Amount class - Amount
+C1561577,Reference - MdfHmdMetSourceType
+C1561579,Medical referral type
+C1561605,Quality Control - Blind
+C1561606,Precaution Code - Blind
+C1561611,Admission Level of Care Code - Improved
+C1561959,Admission Type - Labor and Delivery
+C1562009,Has explanation
+C1562064,Is manifestation of (link assertion)
+C1562480,Has reason (link assertion)
+C1563337,ActClass - document
+C1571737,Diagnostic Service Section ID - Laboratory
+C1571886,Entity Name Part Qualifier - professional
+C1571921,Microbiology Diagnostic Service Section ID
+C1576871,URL Scheme - Telephone
+C1578434,Entity Name Part Qualifier - spouse
+C1578436,MDF Attribute Type - Address
+C1578437,Data types - Address
+C1578499,Diagnostic Service Section ID - Radiation Therapy
+C1578706,Specimen Source Codes - tumor
+C1609436,Document completion status - Documented
+C1610167,Obsolete - EditStatus
+C1611825,confirmation - ResponseLevel
+C1619636,required - HL7ConformanceInclusion
+C1619643,Mandatory - HL7ConformanceInclusion
+C1696103,image - dosage form
+C1697779,immediate - ResponseCode
+C1697824,very restricted - ConfidentialityByAccessKind
+C1698057,CDISC SDTM Respiratory Test Name Terminology
+C1698061,official registry
+C1704203,Calibrator - SpecimenRoleType
+C1704254,Medical Image
+C1704324,Scientific Publication
+C1704627,Concomitant Medication Submission Domain
+C1704629,Vital Signs Domain
+C1704643,Drug Accountability Domain
+C1704685,Follow-Up Report
+C1704705,Trial Visits Domain
+C1704706,Medical History Domain
+C1704709,Computer program package
+C1704738,Healthcare Resource Utilization Domain
+C1704756,Trial Inclusion and Exclusion Criteria Submission Domain
+C1704764,Per - dosing instruction fragment
+C1704767,Lower case Roman letter s
+C1704788,Definition
+C1704800,CN Term Type
+C1704922,Image
+C1705102,Volume (publication)
+C1705175,Order (document)
+C1705200,Skin Test Domain
+C1705214,Laboratory Data Domain
+C1705247,Comment Domain
+C1705250,NCI Thesaurus Concept
+C1705272,Organ Measurement Domain
+C1705273,Mathematical Operator
+C1705293,SEG Algorithm
+C1705413,Adverse Event Domain
+C1705425,Pharmaceutical Product Label
+C1705483,Pathname
+C1705495,Family History Domain
+C1705496,FB Term Type
+C1705501,Chemical Formula
+C1705534,Substance Use Domain
+C1705540,Trial Elements Domain
+C1705545,AB Term Type
+C1705555,Disposition Domain
+C1705565,Correction Report
+C1705606,Text Line
+C1705642,SN Term Type
+C1705654,Entry (data)
+C1705681,HD Term Type
+C1705684,Initial Adverse Event and Product Problem Report
+C1705821,Timeline
+C1705823,Object Title
+C1705824,Trial Title
+C1705850,Before - dosing instruction fragment
+C1705919,Term Source
+C1705945,COILS Program
+C1706074,Data Table
+C1706104,Upper case Roman letter I
+C1706124,Terminology Kind
+C1706181,Microbiology Specimen Domain
+C1706244,Summary (document)
+C1706381,Periodic Report
+C1706387,Issue (document)
+C1706472,Discontinue - dosing instruction imperative
+C1706476,AD Term Type
+C1706477,Human Activity Profile Test
+C1706489,Greek letter psi
+C1706495,upper case letter ell
+C1706496,Lower case letter ell
+C1706510,Gene Symbol
+C1706540,To - dosing instruction fragment
+C1706817,Response (statement)
+C1706852,Article
+C1707354,Character Set
+C1707357,Checklist
+C1707450,Common Security Module
+C1707532,Cross-Reference
+C1707898,Electronic Health Record System
+C1708005,FDA National Drug Code
+C1708328,Hashtable
+C1708635,Laboratory Information Management System
+C1708728,Event Log
+C1708731,Login Name
+C1709114,NCI Enterprise Vocabulary Services
+C1709637,Preferred Name
+C1709740,Protein Families Database
+C1710024,Scientific Name
+C1710131,Source Code
+C1710255,Surgical Pathology Report
+C1710474,Trial Indication Type
+C1710611,Value Domain
+C1710681,World Health Organization Drug Dictionary
+C1718072,Model for end-stage liver disease score
+C1719822,Follow - dosing instruction imperative
+C1720296,Xi
+C1720420,Call - dosing instruction fragment
+C1720529,Constant - dosing instruction fragment
+C1720566,Now - dosing instruction fragment
+C1720702,Inhale - dosing instruction imperative
+C1744699,Physical Exam Domain
+C1862209,BLOOD GROUP--OK
+C1879301,Patient Health Questionnaire
+C1879519,ARACNE Algorithm
+C1879923,CDISC SDTM Laboratory Test Terminology by Code
+C1879924,CDISC SDTM Action Taken with Study Treatment Terminology
+C1879931,CDISC SDTM Country Terminology
+C1879934,CDISC SDTM Not Done Terminology
+C1879937,CDISC SDTM Patient Ethnic Group Terminology
+C1879941,CDISC SDTM Route of Administration Terminology
+C1879945,CDISC SDTM Size Terminology
+C1879946,CDISC SDTM Submission Domain Abbreviation Terminology
+C1880027,Chemical Effects in Biological Systems
+C1880120,Colony Management System
+C1880201,Curriculum Vitae
+C1880284,Dental Treatment Plan
+C1880840,Form FDA 1572
+C1881173,Inclusion Exclusion Domain
+C1881303,Kernel
+C1881938,Myriad Model
+C1883546,WHO Central Nervous System Grade I
+C1883547,WHO Central Nervous System Grade II
+C1883548,WHO Central Nervous System Grade III
+C1883549,WHO Central Nervous System Grade IV
+C1883701,LA Grade A
+C1883705,Paty Criterion
+C1947902,Medical Product Labeling
+C1947919,Application (Document)
+C1947938,Law - Document
+C1947943,Supplement (document)
+C1947944,Use - dosing instruction imperative
+C1948033,Proposal (document)
+C1955832,Systematic Review
+C1956025,Interactive Tutorial
+C1956220,Anecdotes as Topic
+C1956232,Databases as Topic
+C1956259,Acronyms
+C1956314,Forms as Topic
+C1956315,Review Literature as Topic
+C1956392,Textbooks as Topic
+C1959598,Abbreviations as Topic
+C1998004,Bath ankylosing spondylitis disease activity index
+C1998145,Alcohol withdrawal scale
+C1999228,Attachments (document)
+C2003941,Alpha
+C2004492,Formularies
+C2243117,Echocardiogram (image)
+C2331245,Has_constitutional_part relation
+C2346468,Image Acquired
+C2346499,Institutional Review Board Approval
+C2346503,"International Classification of Disease, Ninth Revision"
+C2346845,Approval (document)
+C2346952,Bachelor of Education
+C2346953,Bachelor of Engineering
+C2346954,Bachelor of Social Work
+C2347041,Body Surface Area Formula for Dogs
+C2347078,Master of Social Work
+C2347091,MedDRA System Organ Class
+C2347172,Acquired Image
+C2347268,CDISC SDTM Body Position Terminology
+C2347271,CDISC SDTM ECG Test Name Terminology
+C2347272,CDISC SDTM ECG Test Terminology by Code
+C2347273,CDISC SDTM Frequency Terminology
+C2347453,Patient Alert
+C2347647,Post-intervention
+C2347863,Contrast Agent Administered Identifier
+C2347865,Contrast Agent Finished Identifier
+C2347866,Contrast Agent Started Identifier
+C2347934,Regulatory Application
+C2347984,Rural-Urban Continuum Code
+C2348040,DICOM Derivation
+C2348044,Series - set of composite instances
+C2348167,Search Engine
+C2348185,Sequest Scoring Engine
+C2348188,Serial Number
+C2348235,Specification
+C2348291,Digital Object Identifier
+C2348314,Doctor - Title
+C2348316,Doctor of Social Work
+C2348330,Dose Description
+C2348343,Drug Administered Identifier
+C2348344,Drug Finished Identifier
+C2348402,Spontaneous Report
+C2348483,Expedited Report
+C2348563,Study Protocol
+C2348636,TIFF
+C2348648,Tandem Mass Spectrometry Scoring Engine
+C2348705,For Attenuation Correction
+C2349139,Volume Administered
+C2349146,Web Site
+C2349188,Mrs - title
+C2355595,Bishop - Courtesy Title
+C2362313,Credential letter
+C2362543,Electronic Health Records
+C2599718,Clinical trial protocol
+C2608036,CDISC SDTM Race Terminology
+C2697840,Kernel Bandwidth
+C2698172,Application Program Interface
+C2698333,Basic Local Alignment Search Tool
+C2698611,CDISC CDASH Exposure Route of Administration Terminology
+C2698613,CDISC CDASH Total Volume Administration Unit Terminology
+C2698620,CDISC SDTM Anatomical Location Terminology
+C2698623,CDISC SDTM Drug Accountability Test Terminology by Name
+C2698624,CDISC SDTM Evaluator Terminology
+C2698634,CDISC SEND Biospecimens Terminology
+C2698635,CDISC SEND Laboratory Animal Species Terminology
+C2698636,CDISC SEND Laboratory Animal Strain Terminology
+C2698968,Canadian Cardiovascular Society Grading Scale Class II
+C2698970,Canadian Cardiovascular Society Grading Scale Class IV
+C2699160,Center for Epidemiologic Studies Depression Scale
+C2699333,Abnormal Reference Range
+C2699348,Clinical Study Reports and Related Information
+C2699422,Compress Algorithm
+C2699703,Study Reports: Pharmacokinetics
+C2699765,Activities Scale for Kids
+C2699994,Endpoint Reference
+C2700149,Value Above Reference Range
+C2700150,Value Below Reference Range
+C2700205,FDA Approval
+C2706101,Patient Health Questionnaire-2
+C2718025,Stroop Paradigm
+C2718040,Podcasts as Topic
+C2718046,Blog
+C2718056,Growth Charts
+C2718062,Streaming Video
+C2718063,Podcasts
+C2735970,Discharge plan
+C2825188,Premarket Device Application
+C2825189,Premarket Device Notification
+C2825207,Device Parameters
+C2825230,Line Break
+C2825528,CDISC ADaM Parameter Type Terminology
+C2825549,Mental Scale
+C2825743,Third National Health and Nutrition Examination Survey
+C2825781,Email Attachment
+C2825824,State Machine
+C2825826,Technical Guide
+C2825827,Use Case
+C2826234,Clinical Trial Branch
+C2826236,Substance Use Category
+C2826240,Reference Comment
+C2826266,Normal Range Indicator
+C2826272,Standardized Treatment Name
+C2826273,Test Name
+C2826302,Reported Term
+C2826692,Study Site Identifier
+C2826704,Visit Name
+C2826752,Inclusion Exclusion Criterion Test Code
+C2826753,Drug Accountability Assessment Test
+C2826754,Electrocardiogram Test
+C2826755,Inclusion Exclusion Criterion Test
+C2826756,Physical Examination Test
+C2826757,Subject Characteristics Test
+C2826883,Identifying Variable
+C2826912,Laboratory Test Code
+C2826974,Questionnaire Test
+C2826980,Related Domain Abbreviation
+C2826998,Subject Characteristics Test Code
+C2827031,Trial Inclusion Exclusion Criteria Rule
+C2827032,Trial Inclusion Exclusion Criteria Version
+C2827501,Operator (symbol)
+C2827664,Clinical Events Domain
+C2827713,CDISC SDTM Microorganism Terminology
+C2827714,CDISC SDTM Method Terminology
+C2828069,Dietary Supplement Marketing Category
+C2828072,Cosmetic Marketing Category
+C2828387,"Method, LOINC Axis 6"
+C2828392,Standard (document)
+C2919891,Emergency department record
+C2936424,Electronic Supplementary Materials
+C2945654,Regimen - CHV concept
+C2964116,In General How Would You Rate Your Mental Health Including Your Mood And Ability To Think
+C2981607,CDISC SEND Tumor Findings Results Terminology
+C2981739,n-x Nomenclature
+C2982364,Primary Care Evaluation of Mental Disorders Patient Health Questionnaire
+C2982365,Generalized Anxiety Disorder Questionnaire
+C2982886,Newborn Screening Terminology
+C2983265,CDISC SEND Study Design Terminology
+C2983266,CDISC SEND Standardized Disposition Term Terminology
+C2983271,CDISC SEND Microscopic Findings Test Name Terminology
+C2983285,CDISC SEND Severity Terminology
+C2983289,CDISC SEND Tumor Findings Histopathology Result Category Terminology
+C2983297,CDISC SEND Consciousness State Terminology
+C2983698,Galeazzi Test
+C2983699,Risk Factor Assessment
+C2984049,Content with Quality of Life
+C2984050,Emotional Support from Family
+C2984057,Have Nausea
+C2984058,Have Pain
+C2984072,I get support from my friends question
+C2984076,Worry About Dying
+C2984084,French-American-British Classification
+C2984908,Modified Rankin Scale
+C2985508,Dietary Reference Intake
+C2985697,Observational Study Protocol Version
+C2985700,Study Protocol Version
+C2985713,Anatomic Site Code
+C2985732,Cell Type Code
+C2985743,Condition Coding System
+C2985753,Delivery Mechanism Code
+C2985756,Device Malfunction Code
+C2985765,Enhancement Description
+C2985766,Ethnic Group Code
+C2985795,Marital Status Code
+C2985800,Missed Reason
+C2985815,Official Title
+C2985836,Probability Code
+C2985845,Reason Code
+C2985864,Review Board Process Code
+C2985868,Route Of Administration Code
+C2985887,Subgroup Code
+C2985888,Subtype Code
+C2985893,Time Frame Text
+C2985894,Time Perspective Code
+C2985928,Arm Description
+C2986042,Health Care Provider Identifier
+C2986045,Healthcare Facility Identifier
+C2986322,Study Protocol Version Study Schematic
+C2986414,Anecdotal Report
+C2986419,Good Clinical Practice
+C2986430,Interventional Study Protocol Version Intervention Or Procedure
+C2986762,Image Reorientation
+C2986843,Input Function
+C2986890,Behavioral Domain
+C2986899,Cesarean Section and Delivery Litter Results Domain
+C2986900,Macroscopic Findings Domain
+C2986901,Microscopic Findings Domain
+C2986906,Tumor Findings Domain
+C2986908,Trial Stages Domain
+C2986909,Trial Sets Domain
+C2987063,Handling Code
+C2987124,Patient Reported Outcome
+C2987126,Developmental Neuropsychological Assessment
+C2987492,Feel Ill Survey Question
+C2987511,Feel Sad Question
+C3161035,Model
+C3178910,Text Messages
+C3179065,Social Media
+C3179496,Clinical Prediction Rule
+C3242008,diagnostic image note
+C3242009,general note
+C3242010,Immunization note
+C3242011,laboratory note
+C3242012,medication note
+C3242014,benefit policy
+C3242023,social service program
+C3242037,antigen validity
+C3242038,patient adverse event
+C3242050,notice of use
+C3242088,maximum dosage reached
+C3242096,no longer actionable
+C3242217,altered decision
+C3242241,validation review
+C3242262,no match
+C3242287,appliesTo
+C3242335,specialized by domain
+C3242365,Content ID - URLScheme
+C3242376,Academic title
+C3242379,Assumed
+C3242405,Active Ingredient Code
+C3242443,clinical genomics
+C3242447,clinical statement
+C3242450,decision support
+C3242455,HL7PublishingDomain <patient administration>
+C3242456,query infrastructure
+C3242463,health and clinical management
+C3242464,infrastructure management
+C3242468,message control
+C3242469,FDA Master File
+C3242470,HL7PublishingSubSection <query>
+C3242480,Example Realm
+C3242481,Localized Version
+C3242511,Healthcare Service Location
+C3242599,eligibility indicator
+C3242615,denominator exceptions
+C3242617,initial patient population
+C3242873,EntityDeterminerDetermined
+C3243710,ActClassTrendelenburg
+C3243727,address line
+C3243967,HealthcareServiceLocation
+C3244040,ProductCharacterization
+C3244072,internalId
+C3244086,grouper - record organizer
+C3244099,standard of practice policy
+C3244101,position coordinate
+C3244103,ClassifiesClassCode
+C3244119,credit card
+C3244125,lab results
+C3244132,coverage period
+C3244221,Household Interaction
+C3244242,adverse drug reaction access
+C3244243,all access
+C3244246,demographics access
+C3244247,diagnostic imaging access
+C3244265,all categories
+C3244286,Private Communication Address
+C3244291,Immunization Domain
+C3244293,Reasoning - publishing subsection
+C3244294,Scheduling - HL7 Publishing Domain
+C3244303,Pharmacy domain
+C3244304,Public health domain
+C3244306,HL7PublishingSubSection <operations>
+C3244308,Diagnostic Imaging Domain
+C3244309,therapeutic - brand - SubstanceAdminSubstitution
+C3244315,orders - HL7PublishingDomain
+C3244316,medication - HL7 publishing domain
+C3244317,Given name
+C3245457,Military - SubscriberCoveredPartyRoleType
+C3245461,with issues
+C3245481,EntityNameUseR2 <temporary>
+C3245483,Anonymous assigned name
+C3245484,Health Insurance Drug Policy
+C3245487,Name Given at Birth
+C3245488,Acquired Name
+C3245489,Spouse Family Name
+C3245500,PharmaceuticalEntityNamePartQualifiers <scientific name>
+C3245501,required - HL7V3Conformance
+C3245502,required - CodingRationale
+C3245506,Draft animals
+C3245508,negative resolution <retracted>
+C3245509,Contact - HL7 Attribution
+C3245511,Common Specifications in HL7 V3 Publishing
+C3245512,HL7PublishingSubSection <practice>
+C3245514,Care provision - HL7PublishingDomain
+C3245515,Registries domain
+C3258006,Patient Health Questionnaire-4
+C3272293,Transfer Of Images And Data
+C3272335,CDISC SDTM Electrocardiogram Lead Terminology
+C3272372,Character String Data Type
+C3272373,Collection Data Type
+C3272377,Real Data Type
+C3272378,Sequence Data Type
+C3272550,Standard Drug Stability Study
+C3272557,Physical or Textual Reference to Actual Test or Parameter
+C3272558,Chemical or Textual Reference to Actual Test or Parameter
+C3272559,Biological or Textual Reference to Actual Test or Parameter
+C3272563,Commercial Lot
+C3272564,Development Lot
+C3272565,Clinical Lot
+C3273021,CDISC SDTM Medical Evaluator Terminology
+C3273156,Audio Media
+C3273159,Promotional Slide
+C3273162,Reprint Carrier
+C3273171,Reprint
+C3273172,Internet Banner
+C3273178,Leaflet
+C3273186,Consumer Promotional Material
+C3273187,Health Care Professional Promotional Material
+C3273214,Internet Other
+C3273235,Established Drug Name
+C3273236,Safety Issue Dossier
+C3273238,Regulatory Report
+C3274014,Brief Ataxia Rating Scale
+C3274432,Planned Number of Arms
+C3274536,Description of Actual Arm
+C3274659,Model Number
+C3274660,Catalog Number
+C3274920,Have Shortness of Breath question
+C3274924,Have Been Coughing
+C3275277,Card (document)
+C3463807,Video Media
+C3463815,Feel Fatigue
+C3463816,Feel Tense due to Mouth Problems
+C3472496,National Institutes of Health stroke scale
+C3475495,Treatment Rating Overall
+C3481637,Asthma action plan
+C3483272,Feel Treatment was Right
+C3489477,Patient Tracking
+C3496286,Montreal cognitive assessment
+C3536884,Visual Analog Scale
+C3537823,NCI CTEP SDC Gastroesophageal Cancer Sub-Category Terminology
+C3538736,NCI CTEP SDC Miscellaneous Neoplasm Category Terminology
+C3538737,NCI CTEP SDC Miscellaneous Neoplasm Sub-Category Terminology
+C3538899,NCI CTEP SDC Vulvar Cancer Sub-Category Terminology
+C3538926,Endocrine System Findings Domain
+C3538935,Procedure Domain
+C3538976,Have you felt weak (question)
+C3538985,CDISC SDTM Social Risk Factor Terminology
+C3539018,NCI CTEP SDC Melanoma Sub-Category Terminology
+C3539027,Breast Size Difference Since Cancer Treatment question
+C3539028,Difficulty Urinating question
+C3539029,Feel Tired question
+C3539061,Device Properties Domain
+C3539064,NCI CTEP SDC Cervical Cancer Sub-Category Terminology
+C3539103,CDISC SDTM Thrombolysis in Myocardial Infarction Flow Responses Terminology
+C3539107,Definition (core metadata concept)
+C3539559,NCI CTEP SDC Chronic Myeloproliferative Disease Sub-Category Terminology
+C3539595,Clinical Opiate Withdrawal Scale Questionnaire
+C3539615,NCI CTEP SDC Gestational Trophoblastic Disease Sub-Category Terminology
+C3539617,Digestive System Findings Domain
+C3539655,CDISC Findings Class
+C3539657,Hospital Anxiety and Depression Scale Questionnaire
+C3539713,NCI CTEP SDC Nasopharyngeal Cancer Sub-Category Terminology
+C3539720,NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology
+C3539779,CDISC SDTM Procedure Terminology
+C3539808,CDISC SDTM Risk Assessment Terminology
+C3539921,CDISC SDTM Mechanical Circulatory Support Placement Timing Terminology
+C3539923,CDISC ADAS-Cog - Orientation Summary Score
+C3540473,Abnormal Involuntary Movement Scale Questionnaire
+C3540495,Body Image Scale
+C3540591,Nervous System Findings Domain
+C3540605,CDISC Relationship Class
+C3540608,NCI CTEP SDC Renal Cell Carcinoma Sub-Category Terminology
+C3540616,NCI CTEP SDC Retinoblastoma Sub-Category Terminology
+C3540630,NCI CTEP SDC Small Cell Lung Cancer Sub-Category Terminology
+C3540680,NCI CTEP SDC Mastocytosis Sub-Category Terminology
+C3540682,Losing Weight (question)
+C3540771,String (foundation metadata concept)
+C3540841,NCI CTEP SDC Choroid Plexus Tumors Sub-Category Terminology
+C3541240,Device Events Domain
+C3541258,Hamilton Anxiety Rating Scale Questionnaire
+C3541264,NCI CTEP SDC Prostate Cancer Sub-Category Terminology
+C3541276,Epworth Sleepiness Scale Questionnaire
+C3541281,NCI CTEP SDC Hodgkin Lymphoma Sub-Category Terminology
+C3541345,Barnes Akathisia Rating Scale Questionnaire
+C3541370,NCI CTEP SDC Acute Myeloid Leukemia Sub-Category Terminology
+C3541382,Text (foundation metadata concept)
+C3541881,Device Identifiers Domain
+C3541899,NCI CTEP SDC Osteosarcoma Sub-Category Terminology
+C3542016,Concept model range (foundation metadata concept)
+C3542401,NCI CTEP SDC Acute Lymphoblastic Leukemia Sub-Category Terminology
+C3542412,NCI CTEP SDC Colorectal Cancer Sub-Category Terminology
+C3542413,CDISC ADAS-Cog - Comprehension
+C3542417,CDISC SDTM Disease Outcome Terminology
+C3542450,CDISC SDTM Drug Resistance Status Terminology
+C3542947,Integer (foundation metadata concept)
+C3542948,Limited component (foundation metadata concept)
+C3543419,Voluntary Report
+C3543841,Query (foundation metadata concept)
+C3639156,CDISC Questionnaire KPS Scale Test Name Terminology
+C3639157,CDISC Questionnaire KPS Scale Test Code Terminology
+C3639164,CDISC ADAS-Cog - Word Recall Average Score
+C3639169,CDISC ADAS-Cog - Word Recall: Word 2
+C3639170,CDISC ADAS-Cog - Word Recall: Word 3
+C3639171,CDISC ADAS-Cog - Word Recall: Word 4
+C3639196,CDISC ADAS-Cog - Commands Summary Score
+C3639202,CDISC ADAS-Cog - Delayed Word Recall Summary Score
+C3639218,CDISC ADAS-Cog - Attempt to Draw
+C3639262,CDISC ADAS-Cog - Word Difficulty in Spontaneous Speech
+C3639268,CDISC ADAS-Cog - Executive Function Maze Summary Score
+C3639301,BPI - Throbbing
+C3639303,BPI - Stabbing
+C3639400,KPS Scale - Karnofsky Performance Status
+C3639564,MNSI - Left Ankle Reflexes
+C3639576,NPI - His/Her House Is Not His/Her Home
+C3639591,NPI - Uncooperative
+C3639708,Clinical Global Impression Original Version Questionnaire
+C3639713,Karnofsky Performance Status Scale Questionnaire
+C3639935,C-SSRS Baseline - Suicidal Behavior
+C3640256,CDISC SDTM New York Heart Association Class Responses Terminology
+C3640260,CDISC SDTM Coronary Artery Disease Symptoms Terminology
+C3640263,CDISC SDTM Coronary Artery Disease Risk Terminology
+C3640268,CDISC SDTM Cardiac Procedure Indication Terminology
+C3640269,CDISC SDTM Lesion Complexity Terminology
+C3640272,CDISC SDTM Acute Coronary Syndrome Presentation Category Terminology
+C3640451,BARS - Objective
+C3640464,COWS - Pupil Size
+C3640467,COWS - GI Upset
+C3640468,COWS - Tremor
+C3640469,COWS - Yawning
+C3640480,HAMA - Fears
+C3640482,HAMA - Intellectual
+C3640486,HAMA - Cardiovascular Symptoms
+C3640487,HAMA - Respiratory Symptoms
+C3640488,HAMA - Gastrointestinal Symptoms
+C3641047,NCI CTEP SDC Neuroendocrine Cancer Sub-Category Terminology
+C3641050,NCI CTEP SDC Liver and Hepatobiliary Cancer Sub-Category Terminology
+C3641098,Related Record
+C3641219,Fit of Bra Difference Since Breast Cancer Treatment
+C3641220,Fit of Clothing Difference Since Breast Cancer Treatment
+C3641233,CDISC Special Purpose Class
+C3641234,CDISC Trial Design Class
+C3641283,CDISC Questionnaire HADS Test Name Terminology
+C3641284,CDISC Questionnaire HADS Test Code Terminology
+C3641295,CDISC Questionnaire PHQ-9 Test Name Terminology
+C3641307,ESS Questionnaire Question
+C3641330,Generalized Anxiety Disorder Scale
+C3641604,C-SSRS Since Last Visit - Suicidal Behavior
+C3641610,Neither Agree or Disagree
+C3641753,Lacks Appetite
+C3641755,Have Constipation
+C3641756,Have Diarrhea
+C3641757,Feel Tense
+C3641758,Feel Worry
+C3641760,Feel Irritable
+C3641767,Have Hot Flushes
+C3641770,Have Night Sweats
+C3641771,Have Abdominal Discomfort
+C3641774,Have Heartburn
+C3641830,Overall Quality of Life
+C3641836,Average Severity of Pain
+C3641841,Constant Concern
+C3641842,No Concerns
+C3641881,Have Control of Bowels
+C3641891,Have Itch
+C3641894,Have Chills
+C3641895,Have Dry Mouth
+C3641940,PR Questionnaire Question
+C3641956,DAD - Decide to Dress Himself/Herself
+C3641959,DAD - Dress Himself/Herself Completely
+C3641960,DAD - Undress Himself/Herself Completely
+C3642030,C-SSRS Baseline/Screening Version Phase 1 Study - Suicidal Behavior
+C3658215,Pragmatic Clinical Trials as Topic
+C3658277,Material Safety Data Sheets
+C3658310,Mobile Applications
+C3658316,Observational Studies as Topic
+C3668990,Anaphylaxis action plan
+C3714751,Disease Steps Questionnaire
+C3714755,Pharmacogenomics Trial Characteristics Domain
+C3714902,Multinational Association of Supportive Care in Cancer Antiemesis Tool
+C3714936,Non-Compliant ADaM Datasets Domain
+C3812214,"Feeling Nervous, Anxious or on Edge"
+C3813622,Overall Well Being
+C3814804,Gaining Weight question
+C3814874,Loss of Appetite question
+C3815109,Fetal Measurements Domain
+C3815569,Have Increased Appetite question
+C3824793,Cross-sectional imaging
+C3826873,CDISC SEND Domain Abbreviation Terminology
+C3826878,CDISC SDTM Respiratory Test Code Terminology
+C3826979,Model for End-Stage Liver Disease
+C3827008,Functional Assessment of Multiple Sclerosis Questionnaire
+C3827228,No Pain or Discomfort
+C3827302,Able to Concentrate Question
+C3827352,Has Peripheral Vascular Disease
+C3827376,BDI - Functional Impairment
+C3827378,Axis and Voltage ECG Assessment
+C3827501,Watching TV
+C3827528,Waiver
+C3827766,Trouble Relaxing (question)
+C3827981,Someone You Can Count On to Listen to You When You Need to Talk
+C3828013,Sitting and Reading
+C3828016,Sinus Node Rhythm and Arrhythmia ECG Assessment
+C3828231,Satisfaction with Medication
+C3828873,Myasthenia Classification System
+C3828944,MRS - Modified Rankin Scale Score
+C3829084,MHIS-NACC - Focal Neurological Symptoms
+C3829391,KFSS - Sensory Functions
+C3829611,How Much Nausea During This Period
+C3829745,Have You Felt Calm and Peaceful
+C3829762,Have Trouble Buttoning Buttons
+C3829778,Have Pain in Fingertips
+C3829794,Have Hiccups
+C3829795,Have Heaviness
+C3829800,Have Firmness or Tightness
+C3829806,Have Chronic Infection
+C3829810,Have Blurry Eyesight
+C3829813,Have Autoimmune or Inflammatory Condition
+C3829826,Has Hemiplegia
+C3829831,Has Chronic Liver Disease
+C3829901,Hands Are Swollen
+C3829986,Get Headaches question
+C3829994,Generally Satisfied or Pleased
+C3830059,GAD-7 - Total Score
+C3830162,Feel Drowsy
+C3830254,FAMS - Bothered by Muscle Spasms
+C3830445,Distress over Other Problem
+C3830491,Difficulty Speaking at its Worst
+C3830995,Count Backwards from 20 to 1
+C3831039,Completely Unable
+C3831115,Child-Pugh Class C
+C3831116,Child-Pugh Class B
+C3831117,Child-Pugh Class A
+C3831454,Atrioventricular Conduction ECG Assessment
+C3831551,American Urological Association Symptom Score
+C3831755,Able to Remember
+C3840302,Stillbirth Indicator
+C3842632,Use a Computer
+C3842653,Walk Fast or Briskly for Exercise
+C3849997,Datasets as Topic
+C3853789,Sequence - TransmissionRelationshipTypeCode
+C3853865,Withdrawn - HL7ApprovalStatus
+C3854012,coverage - HL7PublishingDomain
+C3854049,emergency medical services - HL7PublishingDomain
+C3858502,trust policy
+C3858507,record recorded as historical
+C3858508,all demographic information sensitivity
+C3858525,clinical recommendation statement
+C3858527,improvement notation
+C3858528,items counted
+C3858531,rate aggregation
+C3858534,measure type
+C3858535,supplemental data elements
+C3858541,denominator exclusions
+C3858544,numerator exclusions
+C3858551,trust agreement
+C3858576,deidentify
+C3858623,trust framework observation
+C3858628,emergency treatment override
+C3858632,purpose of use
+C3858665,starts near start
+C3858747,efficiency measure type
+C3858757,highly reliable
+C3858759,uncertain reliability
+C3858762,integrity status
+C3858781,security integrity
+C3858827,last dispense
+C3858828,no dispense
+C3858829,all orders
+C3858837,local location identifier
+C3864289,Emergency severity index
+C3869813,Flowsheet
+C3875442,"Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly score"
+C3887950,Associated Persons Domain
+C3889164,Ultrasound Study File
+C3889277,Statistical Analysis Plan
+C3889293,West Haven Hepatic Encephalopathy Grade 4
+C3889389,Clinical Trial Management Communication Documentation
+C3889390,Institutional Review Board - Independent Ethics Committee Communication Material
+C3889391,Clinical Trial Site Management Communication Material
+C3889392,Investigational Product and Clinical Trial Supplies Communication Record
+C3889412,Clinical Trial Protocol Deviation Document
+C3889614,Healthcare Encounters Domain
+C3889639,Clinical Trial Interfacility Standardization Method Document
+C3889645,Clinical Trial Final Report
+C3889651,Trial Disease Assessments Domain
+C3889677,Laboratory Certification Document
+C3889678,Institutional Review Board Independent Ethics Committee Subject Information Document
+C3889831,eTMF Content Model Code
+C3889961,Clinical Trial Protocol Amendment Summary
+C3889977,Evidence of Contractor Compliance Document
+C3889978,Content Model Content Type
+C3889988,Have Gained Weight
+C3889995,CDISC SDTM West Haven Hepatic Encephalopathy Grade Terminology
+C3890035,Clinical Trial Investigator Brochure
+C3890166,Magnetic Resonance Imaging Study File
+C3890394,Children's Memory Scale
+C3890404,Clinical Trial Subject Information Form
+C3890406,Safety Filenote
+C3890565,Vendor Role and Responsibility Document
+C3890579,Functional Tests Domain
+C3890581,Final Analysis Dataset
+C3890715,Clinical Trial Insurance Documentation
+C3890726,Unselected Clinical Trial Site Document
+C3890734,Microscopic Findings Test
+C3890736,Body Weight Test
+C3890741,Food and Water Consumption Test
+C3890888,Subject Evaluability Criteria and Classification Document
+C3890892,Safety Meeting Material
+C3890903,Death Diagnosis Assessment Test
+C3890923,Nuclear Medicine Study File
+C3891067,Laboratory Sample Manual
+C3891158,Record Mood
+C3891294,Safety Reporting Documentation
+C3891300,Vendor Information Documentation
+C3891450,Radiography Study File
+C3891717,Laboratory Test Name
+C3896592,CDISC SDTM Pharmacogenomics Findings Test Name Terminology
+C3896641,Ocular Surface Disease Index
+C3896992,Have Painful Joints
+C3897020,Database Specification
+C3897057,Data Entry Guideline
+C3897167,Wishes About Care if Dying
+C3897193,Very Helpful
+C3897203,Vendor Documentation
+C3897334,Trial Master File Plan
+C3897345,Transmissible Spongiform Encephalopathy Statement
+C3897373,Take as Much Care
+C3897431,Subject Unblinding Event Record
+C3897445,Subject Pool Identifier
+C3897483,SPL Combination Product Type Terminology
+C3897499,Statistical Analysis Documentation
+C3897501,Standardized Name of Procedure
+C3897549,Specimen Label
+C3897628,Severity of Symptom Score 3
+C3897629,Severity of Symptom Score 2
+C3897630,Severity of Symptom Score 1
+C3897633,Severity of Symptom Likert Scale
+C3897634,Severity Criteria
+C3897635,Severely Anxious or Depressed
+C3897660,Safety and Clinical Database Reconciliation Document
+C3897778,Randomization Plan
+C3897813,Advance Directive - Proxy
+C3897860,Primary Goal to Extend Life
+C3897861,Primary Goal to Cure the Cancer
+C3897869,Pre-Clinical Trial Site Evaluation Report
+C3897971,Pediatric Rheumatology Terminology
+C3897973,Pediatric Endocrinology Terminology
+C3898435,Medical Imaging and Imaging Technique Documentation
+C3898602,Likelihood of Cancer Cure
+C3898651,Joint Vendor Quality Assurance Plan
+C3898657,Joint Task Force Type 2 Myocardial Infarction
+C3898688,Investigational Product Certificate of Destruction
+C3898690,Investigational Product Accountability Record
+C3898731,Interim Statistical Report
+C3898732,Interim Analysis Program
+C3898734,Interim Analysis Dataset
+C3898737,Interactive Response Technology User Notification
+C3898786,Immunogenicity Specimen Assessments Test
+C3898915,Have Vaginal Itching or Irritation
+C3898917,Have Vaginal Discharge
+C3898918,Have Vaginal Bleeding or Spotting
+C3898939,Have Problem with Job or Education Because of Disease or Treatment
+C3898947,Have No Saliva
+C3898949,Have Mood Swings
+C3898953,Have Lost Hair
+C3898969,Have Been Vomiting
+C3899029,Get Feelings of Panic
+C3899115,Final Analysis Program
+C3899149,Feel Listless
+C3899162,Faces Delayed
+C3899190,Extent of Sexual Activity
+C3899440,Database Validation Plan
+C3899446,Data Validation Test Document
+C3899449,Data Management Plan
+C3899454,Data Clarification Form
+C3899458,DRS - Motor Response
+C3899530,Clinical Trials Operational Procedure Manual
+C3899532,Clinical Trial Team Training Material
+C3899533,Clinical Trial Team Member Curriculum Vitae
+C3899542,Clinical Trial Stakeholder Communication Plan
+C3899551,Clinical Trial Site Feasibility Document
+C3899554,Clinical Trial Safety Management Plan
+C3899557,Clinical Trial Recruitment Plan
+C3899558,Clinical Trial Publication Policy
+C3899559,Clinical Trial Protocol Synopsis
+C3899564,Clinical Trial Notification to Investigators of Safety Information Document
+C3899570,Clinical Trial Monitoring Visit Log
+C3899571,Clinical Trial Monitoring Plan
+C3899572,Clinical Trial Member Detail Documentation
+C3899573,Clinical Trial Medical Monitoring Plan
+C3899575,Clinical Trial Management Plan
+C3899580,Clinical Trial Investigator Site Documentation
+C3899592,Clinical Trial Dose Escalation Document
+C3899594,Clinical Trial Core Documentation
+C3899617,Clinical Classification
+C3899630,Chosen Course of Treatment
+C3899939,Biological Sample Storage Condition Log
+C3899953,Beck Lethality Scale
+C3900011,Associated Persons Identifier
+C3900080,Afraid to Have Sex
+C3900134,Ability to Talk about Disease with Partner or Person Closest to You
+C4019020,Films as Topic
+C4021064,Clinical modifier
+C4040298,Follicular Lymphoma International Prognostic Index
+C4042904,Deprescriptions
+C4042920,Clinical Studies as Topic
+C4042926,Graphic Novel
+C4049268,CHA2DS2-VASc score
+C4049602,Hyperactivity Scale (BASC-2)
+C4049613,Myositis Damage Index
+C4049628,Adult Hope Scale
+C4049634,Withdrawal Scale (BASC-2)
+C4049639,Dyspnea Severity Washing Dishes
+C4049640,Picture Naming Subtest (WPPSI-IV)
+C4049641,Borg Scale Rating of Perceived Exertion Score 6
+C4049644,Depression Scale (BASC-2)
+C4049707,Motor Skills (ABAS-II)
+C4049713,Borg Category-Ratio 10 Perceived Exertion Score 10
+C4049715,PedsQL-4 Scale Score
+C4049823,Borg Scale Rating of Perceived Exertion Score 17
+C4049824,Feel Anxious
+C4049916,Physical Function Subordinate Domain
+C4049917,Intelligence Scale
+C4049939,FDA Establishment Activity Terminology
+C4049972,Sensation Seeking Scale (BASC-2)
+C4049976,PedsQL-4 Social Functioning Scale
+C4049996,Interpersonal Relations Scale (BASC-2)
+C4049998,Clavien-Dindo Grade I
+C4049999,Clavien-Dindo Grade II
+C4050000,Clavien-Dindo Grade III
+C4050001,Clavien-Dindo Grade IV
+C4050002,Clavien-Dindo Grade V
+C4050003,Arm or Leg Response Group 1
+C4050008,Neither Satisfied nor Dissatisfied
+C4050126,Ability to Write question
+C4050130,Cognitive Function Subordinate Domain
+C4050136,Dyspnea Severity Preparing Meals
+C4050139,Ability to Drive
+C4050148,CDISC SDTM Immunogenicity Specimen Assessments Test Name Terminology
+C4050149,Ability to Kneel question
+C4050152,Borg Category-Ratio 10 Perceived Exertion Score 0
+C4050153,No Extremity Pain
+C4050155,No Support Needed
+C4050173,Extremity Pain question
+C4050206,Self-Report of Personality
+C4050216,Behavior Rating Inventory of Executive Function
+C4050221,Leadership Scale (BASC-2)
+C4050224,Ability to Sit question
+C4050243,Fatigue Subordinate Domain
+C4050251,Limited Lifting Ability
+C4050258,CDISC SEND Chronicity Terminology
+C4050303,Rating of Perceived Exertion
+C4050310,Coding Subtest (WISC-V)
+C4050311,Coding Subtest (WAIS-IV)
+C4050347,Social Stress Scale (BASC-2)
+C4050363,Comprehensive Score for Financial Toxicity
+C4050369,Physician Global Assessment of Disease Activity
+C4050402,Aggression Scale (BASC-2)
+C4050403,Ability to Sleep After Treatment question
+C4050468,Ability to Shower
+C4050473,Washing Dishes
+C4050514,Exacerbations of Chronic Pulmonary Disease Tool Patient-Reported Outcome Questionnaire
+C4050548,Activities of Daily Living Scale (BASC-2)
+C4050581,Enthusiastic Acceptance of Extremity
+C4050582,Dyspnea Severity Sweeping or Mopping
+C4050583,Sweeping or Mopping
+C4050601,Alcohol Abuse Scale (BASC-2)
+C4050613,Anxiety Scale (BASC-2)
+C4050619,Flexibility Index
+C4053513,Quantitative Muscle Testing
+C4053531,Child Health Questionnaire
+C4053542,CDISC Clinical Classification APACHE II Test Name Terminology
+C4053543,CDISC Clinical Classification APACHE II Test Code Terminology
+C4053757,Emergent Metacognition Index
+C4053772,Ability to Put on Shoes
+C4053842,Worries Overwhelm Me
+C4053922,Trouble Focusing
+C4053940,"The Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity Index Clinical Classification"
+C4054007,Some Extremity Functional Restrictions
+C4054030,Shift Scale
+C4054035,Sense of Inadequacy Scale
+C4054038,Self-Direction Skills
+C4054110,Reduced Acceptance of Extremity
+C4054115,Recreational Extremity Functional Restrictions
+C4054116,Recovered Ability to do Daily Activities as Expected
+C4054119,Rating Myself
+C4054160,Practical Domain
+C4054211,PedsQL-4 Total Scale Score
+C4054214,PedsQL-4 Physical Functioning Scale
+C4054221,Pediatric Nephrology Terminology
+C4054229,Patient Assessment of Overall Well-Being
+C4054249,Parent Assessment of Overall Well-Being
+C4054350,No Lifting Ability
+C4054351,No Independent Walking Ability
+C4054353,No Extremity Functional Restrictions
+C4054419,National Comprehensive Cancer Network-Functional Assessment of Cancer Therapy Prostate Symptom Index
+C4054457,Motivation Visual Analogue Scale
+C4054480,Modest Extremity Pain
+C4054712,Initiate Scale
+C4054715,Inhibit Scale
+C4054767,Hours Worked
+C4054849,Have Hip Pain
+C4054853,Have Double Vision
+C4054854,Have Difficulty Speaking
+C4054878,Had Setbacks in Condition
+C4054984,Feel Fearful
+C4055027,FDA Quality Metrics Terminology
+C4055035,Extremity Pain Between Modest and Moderate
+C4055040,Extremity Functional Restrictions Total Disability
+C4055041,Extremity Functional Restrictions Partial Disability
+C4055096,EXACT - Have Chest Discomfort
+C4055123,Distressed by Awakening in the Early Morning
+C4055133,Digit Span Subtest (WAIS-IV)
+C4055154,Designs II Subtest (WMS-IV)
+C4055155,Designs I Subtest (WMS-IV)
+C4055229,Clavien-Dindo Grade IIIb
+C4055355,Borg Scale Rating of Perceived Exertion Score 7
+C4055358,Borg Scale Rating of Perceived Exertion Score 16
+C4055359,Borg Scale Rating of Perceived Exertion Score 15
+C4055400,BODE Index - Body-mass Index
+C4055429,Atypicality Scale
+C4055432,Attention Problems Scale
+C4055439,As Expected
+C4055524,Ability to Walk Up Stairs -- question
+C4055526,Ability to Walk Outdoors
+C4055530,Ability to Stand Upright
+C4055542,Ability to Participate in Sexual Activities
+C4055604,APACHE II - Total APACHE II Score
+C4055611,"APACHE II - Oxygenation, PaO2"
+C4055615,APACHE II - Heart Rate
+C4055617,APACHE II - Arterial pH
+C4055619,APACHE II - 15 Minus Glasgow Coma Score
+C4055644,online written
+C4055646,Unexpected
+C4082202,Sleep Quality Question
+C4082637,TAPS Tool - Interviewer Version
+C4082763,Feel Bloated Question
+C4083014,retest
+C4083201,Patient Health Questionnaire - 9 Item
+C4083257,Pattern of Bowel Movements Question
+C4084720,How Big a Problem is Bloody Stools
+C4084721,Appearance Distress Question
+C4084722,How Often Constipation
+C4084723,How Much Distress Constipation
+C4084725,Usual Severity Cough
+C4084726,How Much Distress Cough
+C4084727,Cough Frequency
+C4084742,Bothered by Night Sweats
+C4084762,Usual Severity Shortness of Breath
+C4084763,How Often Shortness of Breath
+C4084764,How Much Distress Shortness of Breath
+C4084766,How Much Distress Vomiting
+C4084767,Bothered by Vomiting
+C4084773,Bothered by Weight Gain
+C4084774,Have Weight Loss
+C4084775,Usual Severity Weight Loss
+C4084776,How Often Weight Loss
+C4084779,Usual Severity Sweats
+C4084781,Usual Severity Worry
+C4084784,How Much Distress Diarrhea
+C4084785,How Often Difficulty Concentrating
+C4084786,How Much Distress Difficulty Swallowing
+C4084787,Have Difficulty Swallowing
+C4084788,Have Dizziness
+C4084789,How Often Feeling Drowsy
+C4084790,How Much Distress Feeling Irritable
+C4084792,Usual Severity Hair Loss
+C4084793,Have Hair Loss
+C4084796,How Often Nausea
+C4084802,Usual Severity Diarrhea
+C4084853,How True Feel Alert Right Now
+C4084858,Breathing Distress Question
+C4084891,How True Feel Guilty Right Now
+C4084893,How Often Hair Loss
+C4084894,How Much Distress Hair Loss
+C4084897,Sleep Disturbance Subordinate Domain
+C4084898,How True Feel Sluggish Right Now
+C4084900,How Often Worry
+C4084902,Got Worse
+C4084907,Usual Severity Feeling of Drowsiness
+C4084908,Have Sweats
+C4084910,How Much Distress Dry Mouth
+C4084912,Importance Rating Score 0
+C4084916,Decisional Conflict Scale
+C4084921,Usual Severity Itching
+C4084927,Bothered by Difficulty Concentrating
+C4084928,Bothered by Joint Pains
+C4084930,Have Noticed New Changes in Skin
+C4085204,How Much Distress Sweats
+C4085210,Usual Severity Pain
+C4085211,Pain Distress Question
+C4085217,How Much Distress Changes in Skin
+C4085218,How Much Distress Feeling Drowsy
+C4085219,How Much Distress Itching
+C4085222,How Much Distress Nausea
+C4085224,How Often Difficulty Swallowing
+C4085231,Usual Severity Difficulty Swallowing
+C4085233,Usual Severity Feeling of Bloatedness
+C4085236,Cinical Trial Roles and Responsibilities Matrix
+C4085317,How Often Diarrhea
+C4085318,Have Difficulty Concentrating
+C4085319,Usual Severity Difficulty Concentrating
+C4085326,How True Feel Exhausted Right Now
+C4085327,Bothered by Hot Flashes
+C4085547,How Often Dizzy
+C4085548,Usual Severity Dizziness
+C4085551,Usual Severity Dry Mouth
+C4085552,How Often Dry Mouth
+C4085555,Extreme Response
+C4085556,Extremely Agree
+C4085569,CDISC SDTM Treatment Setting Terminology
+C4085635,Appetite Quality Question
+C4085640,How Often Itching
+C4085641,Level of Joint Pain
+C4085642,Level of Joint Stiffness
+C4085649,Respiratory System Findings Test
+C4085852,How Often Changes in Skin
+C4085853,Usual Severity Changes in Skin
+C4085864,How True Feel Forgetful Right Now
+C4085865,Bothered by Forgetfulness Question
+C4085922,ASSIGN Cardiovascular Disease 10-Year Risk Score Clinical Classification
+C4086202,Clinical Trial Team Training Document
+C4086305,Feel Overwhelmed by Condition
+C4086309,Felt Lonely
+C4086400,Have Normal Bowel Pattern
+C4086413,Have Very Intense Pain
+C4086450,"How Big a Problem is Abdominal, Pelvic, or Rectal Pain"
+C4086451,How Big a Problem is Bleeding with Urination
+C4086456,How Big a Problem is Pain or Burning on Urination
+C4086459,How Big a Problem is Watery Bowel Movements
+C4086462,How Big a Problem is Your Change in Body Weight
+C4086469,How Much Distress Other Symptom 1
+C4086481,How Often had Breast Tenderness
+C4086488,How True Feel Bushed Right Now
+C4086490,How True Feel Deceived Right Now
+C4086497,How True Feel Vigorous Right Now
+C4086498,How True Feel Weary Right Now
+C4086622,No Change in Body Weight
+C4086634,Not at All Disrupted
+C4086704,PANSS - Poor Impulse Control
+C4086721,Pain Interference Subordinate Domain
+C4086761,Quantitation Range
+C4086762,Quite a Bit Disrupted
+C4086845,Seldom Cough
+C4086925,Use Any Other Drug
+C4086927,Use Cocaine or Methamphetamine
+C4086931,Use of Stimulant Medication Not as Prescribed or Without a Prescription
+C4086990,Absolutely Sure
+C4087021,How True Feel Effacious Right Now
+C4087068,Bothered by Pain with Intercourse
+C4273906,Centor criteria
+C4277536,Standardized Nursing Terminology
+C4281677,Application Context
+C4282183,[AA000] INTRODUCTION
+C4282210,Feel Restless Question
+C4282220,Discharge instructions
+C4283325,GAIA Level 1a Fetal Growth Restriction
+C4283791,Symptoms Interfered with Mood
+C4283795,Symptoms Interfered with Walking
+C4283820,Simpson Grade 3
+C4283917,Writing Ability
+C4284139,Reading Ability question
+C4284141,Risk Evaluation and Mitigation Strategies Requirement
+C4284232,Medications
+C4284280,Modifiers
+C4284282,COPD Assessment Test Questionnaire
+C4284291,Simpson Grade 1
+C4284297,Simpson Grade 4
+C4284299,Simpson Grade 5
+C4287599,CDISC SDTM Collected Race Terminology
+C4287604,CDISC SDTM Observational Study Time Perspective Terminology
+C4287605,CDISC SDTM Observational Study Model Terminology
+C4287609,CDISC SDTM Mode of Disease Transmission Terminology
+C4287612,CDISC SDTM Collected Ethnicity Terminology
+C4287613,CDISC SDTM Disease Presentation Type Terminology
+C4287615,CDISC SDTM Culture Medium Type Terminology
+C4287617,Size and Attenuation CT Criteria
+C4287870,EPIC-26 - Bloody Stools
+C4287898,Bicycling 1 Mile
+C4287911,Qualitative Food Consumption
+C4287975,Washing or Drying Dishes
+C4288042,Vacuuming Carpets
+C4288053,Usual Walking Pace Outdoors
+C4288121,Time Spent Sitting at Home
+C4288124,Time Spent Lap Swimming
+C4288127,Time Spent Bicycling
+C4288158,Swimming 25 Yards
+C4288160,Sweeping
+C4288197,Social Dancing
+C4288207,Smoked Cigarettes During the Course of Treatment
+C4288328,Quality of Life Linear Analogue Scale
+C4288349,PubMed Identifier for Citation Used in Study
+C4288408,Perform Chores
+C4288562,Observational Study Population Description
+C4288820,Level of Sexual Arousal During Sexual Activity or Intercourse
+C4288954,House Painting
+C4288985,Have Indigestion
+C4288991,Have Difficulty Hearing
+C4289030,Global Rating
+C4289114,GAIA Level 3 Non-reassuring Fetal Status
+C4289130,GAIA Level 3 Ectopic Pregnancy
+C4289141,GAIA Level 2a Fetal Growth Restriction
+C4289147,GAIA Level 2 Vasa Previa
+C4289150,GAIA Level 2 Preeclampsia
+C4289153,GAIA Level 2 Placental Abruption
+C4289154,GAIA Level 2 Placenta Previa
+C4289155,GAIA Level 2 Non-reassuring Fetal Status
+C4289166,GAIA Level 2 Maternal Death
+C4289172,GAIA Level 2 Gestational Hypertension
+C4289175,GAIA Level 2 Ectopic Pregnancy
+C4289185,GAIA Level 1b Fetal Growth Restriction
+C4289187,GAIA Level 1 Vasa Previa
+C4289188,GAIA Level 1 Uterine Rupture
+C4289191,GAIA Level 1 Preeclampsia
+C4289195,GAIA Level 1 Placental Abruption
+C4289196,GAIA Level 1 Placenta Previa
+C4289197,GAIA Level 1 Non-reassuring Fetal Status
+C4289208,GAIA Level 1 Maternal Death
+C4289214,GAIA Level 1 Intra-abdominal Pregnancy
+C4289215,GAIA Level 1 Gestational Hypertension
+C4289216,GAIA Level 1 Gestational Diabetes Mellitus
+C4289219,GAIA Level 1 Ectopic Pregnancy
+C4289278,Feel Worn Out or Sluggish
+C4289285,Feel Low in Energy
+C4289848,Cancer Rehabilitation Evaluation System for Research
+C4289923,Bicycling 2 Miles
+C4291661,Opportunity Scoring
+C4291662,Linear Scoring
+C4302285,BBPS - Boston bowel preparation scale
+C4316796,Universal HL7CMETAttribution
+C4317132,Template (foundation metadata concept)
+C4318461,Combat Exposure Scale Questionnaire
+C4318484,Have a Skin Rash
+C4318613,Have Skin Tightness
+C4318652,Dressing Ability
+C4318653,Feeding Ability Question
+C4318763,Grooming Ability
+C4318935,Mobility Ability
+C4319190,Toilet Use - Question
+C4319192,Transfer Ability
+C4319531,Bladder Continence Question
+C4319780,BSA Involvement Score 1
+C4319781,GvHD Lung Symptom Score 1
+C4319782,GvHD Final Skin Score 1
+C4319783,GvHD Final Lung Score 1
+C4319846,Grouped (foundation metadata concept)
+C4321241,Usually Need Help from Another Person for Walking
+C4321242,Hard to Walk More Than One Block
+C4321248,Premorbid Adjustment Scale
+C4321356,Quite a Bit of Strain
+C4321357,Quite Able
+C4321377,Relational and Item-Specific Encoding Task
+C4321383,Protocol Amendment
+C4321395,Dependent for Toilet Use
+C4321404,Usually Need Help from Another Person for Hygiene
+C4321443,Hard to Bathe or Shower
+C4321483,Hard to Run
+C4321491,Moderately Able
+C4321503,Feel Angry Question
+C4321508,Distress Score Visual Analogue Scale
+C4321511,Bathing Ability
+C4325144,Bowel Continence question
+C4329242,Ability to Open Car Door
+C4329247,Ability to Use Stairs
+C4329479,Bothered by Nervousness
+C4329480,Bothered by Shivering
+C4329490,Bowel Function Diary for Assessing Opioid-Induced Constipation
+C4329602,CES Questionnaire Question
+C4329803,Extent of Agreement or Disagreement on Career Decisions
+C4329804,Extent of Agreement or Disagreement on Conventionality
+C4329805,Extent of Agreement or Disagreement on Demonstrations of Affection
+C4329807,Extent of Agreement or Disagreement on Sex Relations
+C4330037,General Fatigue Dimension
+C4330058,GvHD Final Skin Score
+C4330092,HAMD 24 - Psychomotor Agitation
+C4330093,HAMD 24 - Psychomotor Retardation
+C4330096,HAMD 24 - Suicidal Thoughts
+C4330183,Had Sinus Drainage Surgery
+C4330191,Hard to Pay Attention in Class
+C4330195,Hard to Think Quickly
+C4330200,Have Difficulty Opening Eyes on Waking
+C4330201,Have Eye Pain in Wind
+C4330202,Have Flatulence or Gas
+C4330209,Have Muscle Cramps or Pain
+C4330216,Have Shiny Skin Scar
+C4330421,IDS-C - Psychomotor Agitation
+C4330479,Immunotherapy Response Assessment in Neuro-Oncology Criteria
+C4330491,Instrumental Activities Domain
+C4330907,Overall Energy Level
+C4330941,Past Seven Days Any Bed Sores
+C4331034,Protocol Identifier
+C4331263,Rotterdam Symptom Checklist
+C4331413,Time of Bowel Movement
+C4331868,Use Artificial Tears
+C4331914,Extent of Agreement or Disagreement on Making Major Decisions
+C4489124,Nottingham Grade 1
+C4489125,Nottingham Grade 2
+C4505195,Non-Inferiority Trials as Topic
+C4505218,Preliminary Data
+C4505300,Semantic Web
+C4518073,Query string
+C4520708,Generalizes
+C4521131,Medication administration
+C4521689,Inhale (administration method)
+C4521936,Inject (administration method)
+C4522251,Experimentally Determined Chemical Structure
+C4522304,G-8 Screening Tool
+C4524991,Company Standard
+C4525472,Needle Sticks Cause Pain
+C4525904,Urinary Frequency and Urgency
+C4526163,LEC-5 Standard Version - Life-threatening Illness: Witnessed
+C4526166,LEC-5 Standard Version - Life-threatening Illness: Not Sure
+C4526223,PODCI Pediatric Parent-Reported Version - Button Buttons
+C4526315,PODCI Adolescent Parent-Reported Version - Button Buttons
+C4526407,PODCI Adolescent Self-Reported Version - Button Buttons
+C4526606,Were Itchy
+C4526616,How Itchy
+C4526619,How Much Pain Felt
+C4526738,Extent Have Pain in Jaw
+C4526751,Extent Have Hoarse Voice
+C4526766,Have Used Pain-killers
+C4526768,Have Used Feeding Tube
+C4526774,Feel Sensation of Foreign Body in Pharynx
+C4526776,Neck Pain Scale
+C4527394,Comfortable with Who I Am
+C4527532,"Cordonnier Grade 1 Fungal Complication, Superficial Candida Infection"
+C4527538,"Cordonnier Grade 1 Viral Complication, Mucous Herpes Simplex Virus Infection"
+C4527539,"Cordonnier Grade 2 Viral Complication, Varicella Zoster Virus Infection"
+C4527540,"Cordonnier Grade 3 Viral Complication, Severe Varicella Zoster Virus Infection"
+C4527542,"Cordonnier Grade 1 Viral Complication, Asymptomatic Cytomegalovirus Infection"
+C4527543,"Cordonnier Grade 2 Viral Complication, Symptomatic Cytomegalovirus Infection"
+C4527544,"Cordonnier Grade 3 Viral Complication, Cytomegalovirus Pneumonia or Gut Disease"
+C4527546,"Cordonnier Grade 3 Parasitic Complication, Pneumocystis jiroveci Pneumonia"
+C4527589,HAS-BLED - Bleeding
+C4551665,"Catalogs, Drug as Topic"
+C4551762,Intravenous pyelogram (image)
+C4552648,Related Subjects Dataset
+C4552789,Clinical Trial Objective
+C4552890,Baseline Nausea and Vomiting Scale
+C4553016,Clinical Study Anchor
+C4553046,Associated Persons Exposure Domain
+C4553055,Medical Clearance
+C4553151,Patient Reported Outcome Stem
+C4553152,Tiredness Visual Analogue Scale
+C4553228,Lugano Lymphoma Response Classification Progressive Disease by CT
+C4553229,Lugano Lymphoma Response Classification Progressive Disease by PET
+C4553269,Data Item Query
+C4553328,Clinical Outcome Assessment
+C4553332,Drowsiness Visual Analogue Scale
+C4553381,Anxiety Visual Analogue Scale
+C4553488,Associated Persons Subject Status Domain
+C4553545,Enneking Metastasis M1
+C4553644,How Often Felt Attractive
+C4553760,Study Variable
+C4553855,Well Being Visual Analogue Scale
+C4554035,Inventory of Callous-Unemotional Traits
+C4554108,Patient-Reported Survey Instrument
+C4554126,Intergroup Rhabdomyosarcoma Group I
+C4554132,Feel Pain
+C4554154,Completely - dosing instruction fragment
+C4554227,Repeatedly - dosing instruction fragment
+C4554251,Clinical Item
+C4554320,How Often Experienced Abdominal Bloating
+C4554321,How Often Experienced Abdominal Discomfort
+C4682822,International Society of Pediatric Oncology Staging System
+C4682860,irRECIST Non-Evaluable
+C4683247,How Often Experienced Tenderness in Your Breast Area
+C4683291,Breast Cancer Surgeon was Reassuring
+C4683342,Disease-specific Graded Prognostic Assessment
+C4683345,Mandard Grading System
+C4683898,Drowsiness Score 1
+C4683899,Drowsiness Score 2
+C4683950,Well-Being Score 1
+C4683951,Well-Being Score 2
+C4684560,Admission Criteria
+C4684564,Analysis Variable
+C4684566,Applet
+C4684588,Clean Database
+C4684589,Clean File
+C4684597,Clinical Outcomes Assessment Context of Use
+C4684601,Clinical Trial Data
+C4684639,Demographic Data
+C4684653,Electronic Personal Health Record
+C4684654,Electronic Record
+C4684656,Electronic Source Data
+C4684658,Electronic Source Record
+C4684665,FDA Action Letter
+C4684679,Global Assessment Variable
+C4684684,Hypothesis To Test
+C4684692,Interim Analysis Schedule
+C4684729,Patient-reported Outcome Item
+C4684732,Permanent Data
+C4684749,Qualitative Variable
+C4684750,Quantitative Variable
+C4684760,Response Option
+C4684764,SAFE-Biopharma Standard
+C4684765,Safety and Tolerability
+C4684782,Stopping Rules
+C4687456,Child-Pugh Class C10
+C4687457,Child-Pugh Class C11
+C4687766,Related Records Dataset
+C4687822,Respiratory Test Results Supplemental Qualifiers Dataset
+C4687846,Urinary System Findings Supplemental Qualifiers Dataset
+C4688303,Vascular Thrombosis Response
+C4688315,Symptom Checklist 90
+C4688324,Intergroup Rhabdomyosarcoma Group II
+C4688327,Intergroup Rhabdomyosarcoma Group III
+C4688328,Intergroup Rhabdomyosarcoma Group IIIa
+C4688329,Intergroup Rhabdomyosarcoma Group IIIb
+C4688330,Intergroup Rhabdomyosarcoma Group IV
+C4688477,Data Message
+C4688478,Decision Rule
+C4704698,Preprints as Topic
+C4704707,Gray Literature
+C4704708,Preprint
+C4704712,GRADE Approach
+C4704779,Big Data
+C4704815,Systematic Reviews as Topic
+C4704895,Framingham Heart Study
+C4720839,Richmond agitation-sedation scale
+C4721917,Play a Musical Instrument
+C4722069,Pain or Discomfort (question)
+C4722184,Did you read
+C4722187,Did you jog or run
+C4722218,International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Criteria - Intermediate-Risk Group
+C4722228,Ability to Walk
+C4722250,Prescribing Domain
+C4722256,Condition Domain
+C4722309,Paper Form
+C4722467,Death Domain
+C4722487,Viral Resistance Domain
+C4722637,Subject's Feelings
+C4722660,Emotion Regulation Index
+C4723610,EDQM-HC Administration Method Terminology
+C4723611,International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Criteria - Favorable-Risk Group
+C4723635,EDQM-HC Closure Terminology
+C4723636,EDQM-HC Combined Pack Terminology
+C4723637,EDQM-HC Combined Term Terminology
+C4723750,International Metastatic Renal Cell Carcinoma Database Consortium (IMDC) Criteria - Poor-Risk Group
+C4723817,Do You Dance
+C4723819,Provider Domain
+C4723949,Smartphone Application
+C4724102,EDQM-HC Container Terminology
+C4724191,Standard for the Exchange of Nonclinical Data
+C4724237,EDQM-HC Administration Device Terminology
+C4724383,Components of Primary Care Instrument
+C4724437,SURE Test
+C4724439,EDQM-HC State of Matter Terminology
+C4724448,Extent Breast Cancer Treatment Disrupted Recreational Activities
+C4724548,Control Preference Scale
+C4724557,How Much Bothered by Arm Weakness in Affected Arm
+C4724718,BRIEF Health Literacy Screening Tool
+C4724892,How Difficult to Wash Back with Affected Arm
+C4724901,How Much Bothered by Arm Heaviness in Affected Arm
+C4724906,How Much Bothered by Tenderness in Affected Breast or Chest Area
+C4725050,Patient Satisfaction with Cancer Care Questionnaire
+C4725604,Overall Comorbidity Score
+C4725622,EDQM-HC Release Characteristics Terminology
+C4726062,Paced Tapping Test Functional Test
+C4726088,ERT - Anger Responded as Anger
+C4726106,ERT - Fear Responded as Fear
+C4727085,Morisky Medication Adherence Scale
+C4727156,Brief Resilience Scale
+C4727158,Oral Health and Dental History Questions
+C4727268,Preparation for Decision Making Scale
+C4727293,5-Point Confidence Scale
+C4727519,Solve Problems with Health Care or Health Care System
+C4727524,Stay Active and Productive
+C4743557,Primary Outcome Variable
+C4743558,Secondary Outcome Variable
+C4743604,No Higher Limit
+C4743629,Centers for Medicare and Medicaid Services System for Diagnosis-Related Groups
+C4743633,Order to Dispense
+C4743634,Order to Administer
+C4743679,BrainCheck Cognitive Assessment
+C4743691,SAE Battery
+C4743693,Study Contact Information
+C4743970,CARTOX Grade 1
+C4744110,UHDRS 1999 Version - Dress Himself/Herself Without Help
+C4744111,UHDRS 1999 Version - Bathe Himself/Herself Without Help
+C4744403,Kegel Nation App
+C4744412,International Metastatic Renal Cell Carcinoma Database Consortium Criteria
+C4744595,Pain and Discomfort
+C4744719,CARTOX Grade 0
+C4744979,COVI - Somatic Symptoms of Anxiety
+C4745114,Follow-Up Information
+C4745154,Exercise Log
+C4745201,Ride a Bicycle or Stationary Bike
+C4745204,Do Stretching or Flexibility Exercises
+C4745206,Do Aerobics or Aerobic Dancing
+C4745208,Do Light Strength Training
+C4745210,"Play Basketball, Soccer, or Racquetball"
+C4745296,CARTOX 10 Point Neurological Assessment
+C4745306,No Lower Limit
+C4749369,Standardized Assessment of Concussion
+C4750530,Medical certificate
+C4761314,Epidermal cGVHD Score 2
+C4761385,Worry Subscale
+C4761489,Epidermal cGVHD Score 0
+C4761598,Draft Study Report
+C4761677,Interim Study Report
+C4763103,Measurement Improvement Notation
+C4763136,HIPAA Consent
+C4763153,use information
+C4763161,collect information
+C4763600,What is the Hormonal Contraceptive Use Status
+C4763613,Self-Reported and Medical Record
+C4763685,Survivorship Care Plan
+C4763809,GDC Therapeutic Agent Terminology
+C4763815,CDISC Questionnaire PHQ-2 Test Code Terminology
+C4764060,CDISC SDTM QRS Method Terminology
+C4764131,Verbal Rating Scale 5-Point
+C4764160,Chemical Challenge Agent Name
+C4764323,CONNECT Video Doctor
+C5197689,Sino-Nasal Outcome Test
+C5197817,"Randomized Controlled Trial, Veterinary"
+C5197824,Augmented Reality
+C5197876,Environmental Indicators
+C5197921,Clinical Decision Rules
+C5200940,Was there a History of Radiation Exposure
+C5202619,GDC Adverse Event Terminology
+C5202629,Chemotherapy Response Score
+C5202688,Is there a Cancer History
+C5202775,Montreal Cognitive Assessment Naming Test
+C5202805,GDC Instrument Model Terminology
+C5202850,GDC Treatment Outcome Terminology
+C5202868,Haemophilia Activities List
+C5202881,Non-host Organism Identifiers Domain
+C5202882,Montreal Cognitive Assessment Orientation Test
+C5202901,GDC Enneking MSTS Stage Terminology
+C5202910,GDC Type Terminology
+C5202927,Phonological Awareness Test
+C5202930,GDC Perineural Invasion Present Terminology
+C5202960,GDC Vital Status Terminology
+C5203027,GDC Alcohol Intensity Terminology
+C5203037,Caregiver Oncology Needs Evaluation Tool
+C5203038,GDC Laterality Terminology
+C5203052,Gender Identity Measure
+C5203053,GDC Gene Symbol Terminology
+C5203061,ISUP Grade Pattern 5
+C5203113,GDC Sample Type Terminology
+C5203129,Montreal Cognitive Assessment Abstraction Test
+C5203135,No Risk Factors (question)
+C5203153,GDC Antigen Terminology
+C5203316,Notification
+C5203978,What is the Definitive Therapy Method
+C5204146,GDC Comorbidity Terminology
+C5204318,Intraoperative Blood Product Administration
+C5204342,Clinical History
+C5204352,Prognostic Features Used for Tumor Prognosis
+C5204481,Infrequency Scale
+C5204541,Was the Individual Exposed to Second-Hand Smoke
+C5204590,Was Immunohistochemical Testing Performed
+C5204727,Home Atmosphere is Calm
+C5204742,Threatened or Harassed
+C5204755,BASC-3 Consistency Index
+C5204795,Have Stabbing Pain in Your Arm
+C5204813,Have Decrease in Sexual Activity
+C5205506,Is Paraneoplastic Syndrome Present
+C5205680,Pharmacotherapy Regimens
+C5205739,Population Rationale
+C5205740,Justification of Special Population
+C5205979,Alert Verbal Painful Unresponsive Scale Clinical Classification
+C5206117,SILAC Quantification
+C5206119,Selected Reaction Monitoring Quantification
+C5206680,Was RT-PCR Performed
+C5206762,Montreal Cognitive Assessment Attention - Digits Test
+C5206763,Montreal Cognitive Assessment Attention - Letters Test
+C5206862,Immune Effector Encephalopathy - ICE Assessment
+C5209294,Clinical relevance

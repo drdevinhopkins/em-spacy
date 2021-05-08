@@ -1,0 +1,989 @@
+cui,name
+C0000769,teratologic
+C0001565,Sublingual Route of Drug Administration
+C0001688,aspects of adverse effects
+C0005572,bioformation
+C0005654,Bite Force
+C0007807,In Cerebrospinal Fluid
+C0008903,Taxonomic
+C0011155,Deficiency
+C0013153,Drug Administration Routes
+C0013217,pharmacotherapeutic
+C0013557,Economic
+C0013675,"Effect Modifier, Epidemiologic"
+C0014275,Energy-Generating Resources
+C0014445,enzymology
+C0014501,Epidemiologic Factors
+C0014508,epidemiologic
+C0015127,Etiology aspects
+C0016203,Flattened
+C0017399,genetic aspects
+C0019665,Historical aspects qualifier
+C0021487,Intra-Arterial Injections
+C0021494,Intravenous Injections
+C0021498,"Injections, Spinal"
+C0025520,metabolic aspects
+C0025664,Methods aspects
+C0025953,Microbiological
+C0031328,Pharmacokinetic aspects
+C0031847,physiopathological
+C0032344,Poisoning aspects
+C0034378,quality control
+C0034571,roentgenographic
+C0034992,Rehabilitation aspects
+C0035868,Rotation
+C0036525,Metastatic to
+C0038137,standards characteristics
+C0038895,Surgical aspects
+C0039593,Testing
+C0039798,therapeutic aspects
+C0040652,Transdermal Route of Drug Administration
+C0040733,transplantation aspects
+C0040756,Transportation
+C0042037,In Urine
+C0042153,utilization qualifier
+C0042382,Vascularization
+C0079107,chemical aspects
+C0080026,Planets
+C0080167,Solar System
+C0150112,psychological masking
+C0175630,Circulating
+C0175674,Manual
+C0175676,ultrasonography aspects
+C0184581,Disimpaction - action
+C0196999,Retrobulbar injection of therapeutic agent
+C0199960,Transfusion - action
+C0205173,Duplicate
+C0205196,Communicating
+C0205227,Endogenous
+C0205228,Exogenous
+C0205239,Dissecting
+C0205245,Functional
+C0205263,Induce (action)
+C0205269,Unresponsive to Treatment
+C0205270,Irreducible
+C0205278,Postural
+C0205279,Contaminated
+C0205296,Natural
+C0205298,Non-communicating
+C0205300,Non-functional
+C0205303,Non-invasive
+C0205319,Manifest
+C0205321,Penetration
+C0205329,Progressive
+C0205339,Reinfection
+C0205340,Repaired
+C0205341,Repeat
+C0205342,Responsive
+C0205343,Reversible
+C0205359,Spontaneous
+C0205362,Strangulated
+C0205367,Suppressive
+C0205368,Sutured
+C0205373,Systemic
+C0205405,Bullous
+C0205409,Isolated
+C0205415,Balanced - adjective
+C0205430,Mixed (qualifier value)
+C0205431,Formed
+C0205462,Histologic
+C0205463,Physiological
+C0205464,pharmacological
+C0205466,virologic
+C0205469,Pathological aspects
+C0205470,immunologic
+C0205472,Toxicologic
+C0205473,Serologic
+C0205474,Biochemical
+C0205476,Medical
+C0205481,Ophthalmologic
+C0205483,Radiologic
+C0205484,Obstetrical
+C0205485,Physical
+C0205486,Psychologic
+C0205487,Psychiatric
+C0205488,Hematologic
+C0205491,Otologic
+C0205518,Transrectal approach
+C0205528,Intra-articular route
+C0205535,Inhalation Route of Drug Administration
+C0205543,Referring
+C0205554,Automated (qualifier value)
+C0205681,Active Site
+C0220812,Cost aspects
+C0220814,Cultural aspects
+C0220823,epidemic aspects
+C0220829,fetal development aspects
+C0220856,incidence of cases
+C0220888,increasing incidence
+C0220909,Aspects of disease screening
+C0220912,Aspects of signs
+C0220920,surveillance aspects
+C0220921,survival aspects
+C0220922,systematic
+C0220934,Ultrasonic
+C0221099,Impaired
+C0227334,appendiceal
+C0229601,Hematopoietic
+C0231174,Failure (biologic function)
+C0231175,Failed
+C0231179,Insufficiency
+C0231185,Inefficient
+C0231186,compensatory
+C0231200,intolerant
+C0231203,predisposed
+C0231204,Susceptible
+C0231220,Symptomatic
+C0231242,Complicated
+C0231435,Mobile
+C0231448,Extension
+C0231457,Adduction
+C0231459,Internal rotation
+C0231462,External rotation
+C0231923,Ventilated
+C0232387,keratinized
+C0232401,desquamated
+C0232901,Migratory (qualifier value)
+C0232902,migrated
+C0234226,Painless
+C0234227,Indolent
+C0234531,convulsive
+C0234621,Visual
+C0241886,Extraocular
+C0241888,Familial
+C0242485,Measurement
+C0243067,defects aspect
+C0243070,Aspects of congenital malformations
+C0243107,development aspects
+C0243127,Biochemical turnover
+C0243132,occurrence characteristics
+C0243140,Histopathological aspects
+C0243145,pharmacodynamic aspects
+C0300926,mobilization
+C0302350,Therapeutic
+C0302891,Native (qualifier value)
+C0311400,Metabolic
+C0311402,catabolic
+C0311404,Oxidative
+C0311417,Osmotic
+C0311436,transudative
+C0311438,Exudative
+C0314603,Genetic
+C0332120,Evidence of (contextual qualifier)
+C0332153,Requested by patient
+C0332158,Contact with
+C0332196,Exclude
+C0332197,Absent
+C0332206,Blocking
+C0332212,Chronic active
+C0332220,Cross-linking
+C0332234,Leaking
+C0332240,Unknown (origin) (qualifier value)
+C0332246,Sliding
+C0332253,Evolving
+C0332255,Fragment of (qualifier value)
+C0332256,Containing (qualifier)
+C0332257,Including (qualifier)
+C0332260,Compressing (action)
+C0332266,Illicit
+C0332270,Alternating
+C0332273,Through
+C0332286,Into
+C0332287,In addition to
+C0332289,Transmitted by
+C0332291,Independent of
+C0332294,Resulting in
+C0332296,Free of (attribute)
+C0332299,Suggestive of
+C0332301,Radiating to
+C0332303,Relieved by
+C0332305,With staging
+C0332324,Sensitive
+C0332325,Resistant (qualifier value)
+C0332452,defective
+C0332453,Disruption
+C0332459,Compressed structure
+C0332466,Fused structure
+C0332476,erythematous
+C0332513,Shrinkage
+C0332562,space-occupying lesion
+C0332564,Papular
+C0332580,Cyanotic
+C0332620,Redistribution
+C0332621,Aggregation
+C0332663,Traumatic
+C0332664,injured
+C0332849,Divide
+C0333046,Lateral displacement
+C0333051,shift displacement
+C0333067,deformed
+C0333117,Retention of content
+C0333118,Retained
+C0333120,inspissated
+C0333125,Impacted
+C0333177,Kinked
+C0333214,thromboembolic
+C0333284,petechial
+C0333289,purpuric
+C0333312,Sequestered
+C0333348,Inflammatory
+C0333369,Pustular
+C0333482,atherosclerotic
+C0333534,septic
+C0333541,infarcted
+C0333562,Deposition
+C0333668,Depletion
+C0333930,eosinophilic
+C0333959,Hypertrophic
+C0334104,Verrucous
+C0334135,Sclerotic (qualifier value)
+C0334154,adherent
+C0334213,regenerated
+C0348011,Surgical transfer - action
+C0348026,Diagnostic
+C0391871,Released (action)
+C0392747,Changing
+C0392748,Collapsed
+C0392760,Affecting
+C0439660,Hereditary
+C0439664,Necrotizing
+C0439674,Intrinsic origin
+C0439801,Limited (extensiveness)
+C0439825,Auditory
+C0439836,Conversions
+C0439841,Ambulatory - qualifier value
+C0439843,Diversion action
+C0439848,Indwelling (qualifier value)
+C0441472,Clinical action
+C0441478,Surgical advancement - action
+C0441597,Occlusion - action
+C0441601,Padding (activity)
+C0441602,Peeling - action
+C0441712,Mechanism (attribute)
+C0442805,Increase
+C0442808,Increasing
+C0442828,Electrical (qualifier value)
+C0443144,At rest (qualifier value)
+C0443157,Bony
+C0443177,Classical (qualifier value)
+C0443183,Closed loop
+C0443221,Forced
+C0443254,Mechanical Methods
+C0443258,Microvascular
+C0443286,Reaction
+C0443288,Restricted
+C0443290,Reversal
+C0443294,Ruptured behavior
+C0443301,Sequestration
+C0443318,Sustained
+C0443324,Traditional origin
+C0444507,Incidental
+C0445098,Non-pulsatile
+C0445106,Not performed
+C0445111,No reinforcement
+C0445202,Prophylactic behavior
+C0449258,Progression
+C0449295,Limitation
+C0449418,Source of radiation (attribute)
+C0449446,Surgical approach
+C0449851,Techniques
+C0449913,System
+C0450015,Method of wound closure
+C0450425,Torsional
+C0456081,Adjustment Action
+C0457083,Usage
+C0457454,Discontinuation (procedure)
+C0458006,Psychogenic
+C0458082,Drug-induced
+C0460137,Depression motion
+C0470187,Availability of
+C0475224,Ischemic
+C0475264,localization
+C0489879,rate control
+C0497254,Musculoskeletal
+C0521015,mycobacterial
+C0521018,Meningococcal
+C0521019,pseudomonal
+C0521023,treponemal
+C0521026,Viral
+C0521033,Fungal
+C0521066,parasitic
+C0521097,Cleared by
+C0521102,Interferes with
+C0521110,Accelerated
+C0521118,Non-infected
+C0521123,Reactivated
+C0521127,Occupational
+C0521128,Non-occupational
+C0521129,Accidental
+C0521130,Non-accidental
+C0521134,External route
+C0521339,Articular
+C0521346,respiratory
+C0521378,Biliary
+C0521425,Endocrine
+C0521438,Retrobulbar Route of Drug Administration
+C0521457,Fetal
+C0522014,erect
+C0522497,Transmural
+C0525052,Health Care Market
+C0542298,Psychosocial
+C0542341,Function (attribute)
+C0543483,pathogenic aspects
+C0543484,catabolic aspects
+C0544461,inactivation
+C0549185,Hypermobility
+C0549186,Obstructed
+C0559956,Replacement
+C0577306,Compressible
+C0579004,Introduction - action
+C0587267,Closed
+C0592511,Epidural Route of Drug Administration
+C0595451,Intrapleural Route of Drug Administration
+C0595613,Intraosseous Route of Drug Administration
+C0595620,Intratendinous Route of Drug Administration
+C0595695,Periarticular Route of Administration
+C0595816,Paravertebral route
+C0595824,Intravenous peripheral route
+C0595826,Retrobulbar route
+C0595834,Periosteal Route of Administration
+C0595836,Intrathoracic Route of Drug Administration
+C0595846,Intravenous central route
+C0595947,Extrinsic origin
+C0597362,receptor sensitivity
+C0599513,eccrine
+C0599668,cholinergic
+C0599756,adrenergic
+C0599851,Nervous - anatomy qualifier
+C0600077,Diabetic monitoring - injection sites
+C0677542,Frozen behavior
+C0677597,Musculoskeletal rotation
+C0677897,Intrathecal Route of Drug Administration
+C0678227,Causing
+C0678828,"Injection, intracerebral"
+C0679823,Participation
+C0680251,Exclusion Criteria
+C0680846,Funding Agency
+C0680847,funding recipient
+C0681018,elastic (economic descriptor)
+C0681019,inelastic
+C0683172,route of exposure
+C0683368,Symptoms aspect
+C0683579,scenario
+C0686904,Patient need for (contextual qualifier)
+C0686907,Consequence of
+C0687118,Detached
+C0687704,Motions
+C0694637,Nasogastric Route of Drug Administration
+C0694643,transdermal
+C0699032,Hierarchy
+C0699752,Review of
+C0699952,Fused
+C0700106,Transplanted
+C0700114,Coordinated
+C0700135,distorted
+C0700140,engorged
+C0700624,Allergic
+C0702114,indurated
+C0728826,Genetic Inheritance
+C0728831,Social
+C0728866,Drug effect
+C0728887,Preserving
+C0729333,Dynamic
+C0745777,Lost
+C0749770,unreliable
+C0750138,vascular access
+C0815279,Neuroprotective Effect
+C0868928,Case (situation)
+C0870325,Computer Application
+C0870432,Display - arrangement
+C0871133,Priming
+C0871157,Prompting
+C0871194,Public Transportation
+C0871510,Test Taking Skills
+C0872192,immunogenic
+C0884358,Performed
+C0935622,Reposition-joint movement
+C1138603,Provider
+C1171258,Complication Aspects
+C1253942,Opposition joint movement
+C1260953,Suppressed
+C1262865,Natures
+C1264642,Susceptibility (property) (qualifier value)
+C1269909,Moved from
+C1272688,status - In progress
+C1274040,Result
+C1275506,Imaging modality
+C1280477,Progress
+C1283071,Release - action (qualifier value)
+C1283932,Unintentional
+C1285529,Purpose
+C1285542,Has focus
+C1285543,Procedure site
+C1285553,Interprets
+C1291081,Metabolic Pathway
+C1292721,Has property
+C1292724,Procedural approach
+C1292732,Investigates
+C1292733,Preventing (action)
+C1292734,Treatment intent
+C1298996,Gingival route
+C1299003,Ocular (qualifier)
+C1299987,Replaced by
+C1299988,Moved to
+C1300196,Organized
+C1301676,Relieving
+C1301732,Planned
+C1301820,Obtain
+C1301827,In transit
+C1301860,Legal
+C1305399,Screening - procedure intent
+C1306345,Pressure - action
+C1306462,Light color
+C1306866,Strangulation
+C1313915,Redundancy
+C1314677,Maintaining (action)
+C1314792,Etiology
+C1314939,Involvement with
+C1319196,Intravenous Push
+C1321758,Alpha subunit - qualifier value
+C1441672,Observed
+C1442160,Cutoff
+C1442162,GIVEN
+C1442792,State
+C1444005,Human to human transmission
+C1457869,Defect
+C1510439,bacteria aspects
+C1510541,Evidence-Based Practice
+C1510670,Feeds
+C1510802,Adherence (attribute)
+C1511117,Bimanual
+C1511253,Boost
+C1511636,cytotoxic
+C1512498,Hormone Responsive
+C1512806,Intake
+C1512911,Intraabdominal Route of Drug Administration
+C1512917,Intracartilaginous Route of Drug Administration
+C1512918,Intracaudal Route of Administration
+C1512936,Intraductal Route of Drug Administration
+C1512952,Intrahepatic Route of Drug Administration
+C1512957,Intramedullary Route of Drug Administration
+C1513040,Measurable
+C1513371,Mode
+C1513492,motor movement
+C1514244,Positive Reinforcer
+C1514253,Postal
+C1514485,Proliferation
+C1514829,Regulatory Pathway
+C1514873,Requirement
+C1514984,Stratification Factors
+C1515008,Subarachnoid Route of Drug Administration
+C1515023,Submitted
+C1515025,Submucosal Route of Drug Administration
+C1515102,Swish and Spit Route of Administration
+C1515103,Swish and Swallow Route of Administration
+C1515877,activate biological process
+C1516050,Assignment - action
+C1516446,Chemical Agents
+C1516691,Cognitive
+C1516698,Collection (action)
+C1516853,Endogenous Factors
+C1516907,Epidemiological Factors
+C1517059,Extraluminal Route of Drug Administration
+C1517565,Intratumoral Route of Drug Administration
+C1517566,Intratympanic Route of Drug Administration
+C1517571,Cerebral Intraventricular Route of Drug Administration
+C1517572,Intravitreal Route of Drug Administration
+C1518388,Non-Surgical
+C1518422,Negation
+C1518532,Occlusive dressing technique
+C1518601,Options
+C1518896,Parenteral Route of Drug Administration
+C1519231,Self-Administered
+C1519246,Send (transmission)
+C1519249,Sequence
+C1519279,Sexual transmission
+C1519397,Societal Factors
+C1519504,Stage Grouping
+C1519957,Vasomotor
+C1519959,Vasovagal
+C1521733,Pathologic
+C1521736,Parkinson's Disease Pathway
+C1521761,Factor
+C1521801,Having administered
+C1521803,Unknown Route of Drug Administration
+C1521840,Target
+C1521919,Irrigation-Route of Drug Administration
+C1521952,Intracavitary Route of Drug Administration
+C1522019,Nasal Route of Drug Administration
+C1522138,shared attribute
+C1522168,Topical Route of Drug Administration
+C1522187,Dental Route of Drug Administration
+C1522188,Buccal Route of Drug Administration
+C1522191,Auricular Route of Drug Administration
+C1522192,Soft Tissue Route of Drug Administration
+C1522195,Drug Administration via Jejunostomy
+C1522196,Enteral Route of Drug Administration
+C1522201,Extracorporeal Circulation Route of Drug Administration
+C1522203,Interstitial Route of Drug Administration
+C1522204,Intraarticular Route of Drug Administration
+C1522207,Intracardiac Route of Drug Administration
+C1522211,Intracerebral Route of Drug Administration
+C1522213,Intracranial Route of Drug Administration
+C1522215,Intragastric Route of Drug Administration
+C1522217,Intraluminal Route of Drug Administration
+C1522223,Intraocular Route of Drug Administration
+C1522224,Intrapulmonary Route of Drug Administration
+C1522227,Intraspinal Route of Drug Administration
+C1522228,Intrauterine Route of Drug Administration
+C1522229,Intravenous Bolus
+C1522230,Ophthalmic Route of Drug Administration
+C1522232,Transplacental Route of Drug Administration
+C1522233,Transtracheal Route of Drug Administration
+C1522242,Grouping
+C1522243,Percutaneous Route of Drug Administration
+C1522326,Treating
+C1522409,Oropharyngeal Route of Drug Administration
+C1522438,Subcutaneous Route of Drug Administration
+C1522447,Cutaneous Route of Drug Administration
+C1522475,Intradermal Route of Drug Administration
+C1522483,Conjunctival Route of Drug Administration
+C1522484,metastatic qualifier
+C1522492,Formation
+C1522518,Intraurethral Route of Drug Administration
+C1522538,Leading
+C1522570,Vaginal Route of Drug Administration
+C1522583,Intraperitoneal Route of Drug Administration
+C1522602,Indicator
+C1522613,Ureteral Route of Drug Administration
+C1522646,Filed
+C1522653,Endotracheal Route of Drug Administration
+C1522661,Endosinusial Route of Drug Administration
+C1522673,Adjuvant
+C1522701,Complicating
+C1522722,Circadian Rhythm Pathway 2
+C1522726,Intravenous Route of Drug Administration
+C1523986,Infiltration Route of Drug Administration
+C1524024,analysis aspect
+C1524042,Endocervical Route of Drug Administration
+C1524059,mechanism of action qualifier
+C1524060,psychology qualifier
+C1524062,Additional
+C1524063,Use of
+C1524084,Designated
+C1524112,Drug Administration via Hemodialysis
+C1527148,Development
+C1527178,Basis - conceptual entity
+C1527180,Dominant
+C1527240,Derivative
+C1527415,Oral Route of Drug administration
+C1527425,Rectal Route of Drug Administration
+C1534709,Splitting
+C1546857,required - ParticipationSignature
+C1547175,Sequencing - Ascending
+C1547177,Sequencing - Descending
+C1547585,Administration Method
+C1547706,Building process
+C1548384,dictated - ParticipationMode
+C1548399,purged
+C1548941,Participation Mode - verbal
+C1549512,diet - supply
+C1549524,Route of Administration - Mucous Membrane
+C1549529,Route of Administration - Wound
+C1549534,Chew (administration method)
+C1549535,Dissolve - RouteOfAdministration
+C1549537,Administration Method - Infiltrate
+C1549538,Irrigate (Administration Method)
+C1549539,Administration Method - Insert
+C1549541,nebulized Administration Method
+C1549543,Administration Method - Pain
+C1549544,Soak Administration
+C1549545,Wash - Administration Method
+C1550480,performer - participation type
+C1550487,information recipient
+C1550490,custodian
+C1550501,Subject -direct target
+C1550502,beneficiary
+C1550509,Participation Type - device
+C1550548,entry - ActRelationshipCheckpoint
+C1550550,Act Relationship Checkpoint - exit
+C1550553,inclusive try once
+C1550555,kill - ActRelationshipJoin
+C1550599,maintained entity
+C1551356,receiver - ParticipationType
+C1551364,agent - RoleClass
+C1551390,In Process
+C1552023,emergency contact
+C1552584,Left-sided rule
+C1552585,Right-sided rule
+C1552599,Role Link Type - related
+C1552820,center - Table Cell Horizontal Alignment
+C1552822,Table Cell Horizontal Align - left
+C1552823,Table Cell Horizontal Align - right
+C1553196,Critical refrigerated temperature - EntityHandling
+C1553210,"Douche, vaginal"
+C1553214,Gargle Route of Administration
+C1553225,"Infusion, intravenous catheter"
+C1553232,"Inhalation, nasal cannula"
+C1553233,"Inhalation, nebulization"
+C1553235,"Inhalation, nebulization, oral"
+C1553241,Ventimask Inhalation Route of Drug Administration
+C1553422,receiver - CommunicationFunctionType
+C1553512,Operator Proficiency specimen
+C1553513,Filler Proficiency Specimen
+C1553521,physical presence
+C1553531,Non-Prescription Interaction Alert
+C1553537,Age Alert
+C1553907,Observation Method - algorithm
+C1554204,Role Class - access
+C1554856,"Injection, for cholangiography"
+C1554860,"Injection, insulin pump"
+C1554863,"Injection, intracardiac"
+C1554875,"Injections, Intraocular"
+C1554876,"Injection, intraosseous"
+C1554877,"Injection, intrapleural"
+C1554882,"Injection, intravenous, bolus"
+C1554888,Intravitreal Injections
+C1554889,"Injection, paranasal sinuses"
+C1554894,"Injection, subconjunctival (route of administration)"
+C1554918,"Instillation, orogastric tube"
+C1554931,"Irrigation, urinary bladder, continuous"
+C1554935,"Rinse, oral"
+C1554936,Shampoo Route of Administration
+C1554963,ResponseLevel - modification
+C1555029,reverses
+C1555276,High Dose Alert
+C1555277,Low Dose Alert
+C1555338,stated with uncertainty
+C1555351,"Injection, intra-abdominal"
+C1555354,"Injection, intracavitary"
+C1555360,"Injection, intraluminal"
+C1555363,"Injection, intrapericardial"
+C1555366,"Injection, intratendinous"
+C1555368,"Injection, intrathoracic"
+C1555378,"Injection, submucosal Route Of Administration"
+C1555577,arrival - ActRelationshipType
+C1556144,Subconjunctival Route of Drug Administration
+C1556154,Intramuscular Route of Drug Administration
+C1561451,Intraarterial Route of Drug Administration
+C1561495,Role Class - specimen
+C1561552,Act Priority - elective
+C1561554,Act Relationship Checkpoint - beginning
+C1561567,detail - Response Level
+C1561604,Supply (process)
+C1561976,Caudal route
+C1562344,Fecal-oral transmission
+C1562481,Nosocomial transmission
+C1562482,Food-borne transmission
+C1562835,Airborne transmission
+C1576874,written - ParticipationMode
+C1608199,Act Reason - Error
+C1609629,Replicate Specimen
+C1610166,wait
+C1611646,Abort - Remote control command
+C1621368,Intravenous Drip Route of Administration
+C1621583,Administer - dosing instruction imperative
+C1629050,Animal to animal transmission
+C1632850,apply - action
+C1636665,Blood borne transmission
+C1636785,Environmental exposure transmission
+C1637296,Water-borne transmission
+C1640372,Laryngeal Route of Drug Administration
+C1691010,Referral placed
+C1696091,Flush - RouteOfAdministration
+C1696141,Diffusion - RouteOfAdministration
+C1697785,deferred - ResponseMode
+C1698488,Queue
+C1698986,Storage
+C1698996,Douche Route of Administration
+C1699290,Swish
+C1699702,per definition
+C1700189,Tracheostomy Route of Drug Administration
+C1701810,Rinse Dosage Form
+C1704255,Spotting
+C1704338,diagnosis aspect
+C1704379,Treatment Step
+C1704675,Interaction
+C1704686,Initiation
+C1704711,Distribution
+C1704768,Body cavity route
+C1705172,Insert - dosing instruction imperative
+C1705537,Suspension (action)
+C1705685,Initial Usage
+C1705822,Transfer Technique
+C1705914,Repeat Object
+C1706059,Finish - dosing instruction imperative
+C1706486,Swallow - dosing instruction imperative
+C1706533,Or - dosing instruction fragment
+C1707489,Connectivity
+C1707726,Device Usage
+C1708067,Flag
+C1708234,Genomic Molecule Entity
+C1708373,Hit - database search return
+C1708527,Intent For Diagnosis (use of drug)
+C1708528,Intent For Prophylaxis
+C1708699,Limitation of Use
+C1708971,Medical Product Intent of Use
+C1708977,Melanoma Biomarker
+C1709750,Protocol Violation
+C1709937,Device Reuse
+C1711357,Administration via Implantation
+C1711411,Verification
+C1719958,Push - dosing instruction imperative
+C1720086,Add - dosing instruction fragment
+C1720119,Dilute - dosing instruction imperative
+C1720154,Inject - dosing instruction imperative
+C1720298,Instill - dosing instruction imperative
+C1720398,At - dosing instruction fragment
+C1720573,Sniff
+C1827465,Infusion route
+C1828121,Injection Route of Drug Administration
+C1879355,Apply (instruction)
+C1879489,Measures (attribute)
+C1879714,Antisense Orientation
+C1880269,biologic degeneration
+C1880389,Domain (area of knowledge)
+C1881239,Intracameral Route of Administration
+C1881378,Limitation of Use Based on Duration of Use
+C1881439,Logical Operator
+C1882071,Network
+C1882285,Paravertebral Route of Administration
+C1883001,Sense Orientation
+C1883002,Sequence Chromatogram
+C1883381,Transurethral Route of Drug Administration
+C1883709,Damage
+C1883710,Clamping Activity
+C1883712,Add - instruction imperative
+C1883719,Insert (object)
+C1947917,Occluded
+C1947967,Call (Instruction)
+C1947971,Give - dosing instruction imperative
+C1947976,Correction (change)
+C1948027,Couple (action)
+C1948037,Dilute (action)
+C1962987,Ascend (action)
+C1963686,Conditional (Substitution Condition)
+C1965697,Decompression - action (qualifier value)
+C1998793,Purifying
+C1999232,Attending (action)
+C1999244,Cover - action
+C2003903,Profiling (action)
+C2347069,Marketed under New Animal Drug Application
+C2347179,Active Study
+C2347710,Protocol Deferred
+C2347797,Clinical Study Status
+C2348480,ex vivo
+C2348557,Study Completed
+C2348570,Study Terminated
+C2348571,Study Withdrawn
+C2348609,Supplement
+C2349200,Pool (action)
+C2349984,Inversion
+C2584295,Touching
+C2587213,Control function
+C2607943,findings aspects
+C2697811,Investigative Subject
+C2698018,Marketed under Investigational New Drug
+C2699635,Dietary Route of Administration
+C2699638,Statistical Imputation
+C2700391,Procedure (set of actions)
+C2709258,Genitourinary Route of Drug Administration
+C2826696,Concomitant Medication Use Indication
+C2826902,Laboratory Test Method
+C2827657,Data Conversion
+C2827718,In Vitro Route of Administration
+C2827726,Intensive Phase
+C2827727,Immersion Route of Exposure
+C2919056,Huntington's Disease Pathway
+C2945687,Differentiation
+C2959572,Intrahepatic route
+C2959898,Intraesophageal Route of Drug Administration
+C2960476,Intravascular Route of Drug Administration
+C2960678,Periodontal Route of Administration
+C2960748,Intrameningeal route
+C2960799,Intrapericardial Route of Drug Administration
+C2979938,nebulized - CHV concept
+C2981164,Steroid Hormone Biosynthesis Pathway
+C2981608,CDISC SEND Body System Terminology
+C2981730,Financial Account
+C2984149,Multi-Drug Resistance Factor Pathway
+C2984247,Renin-Angiotensin Pathway
+C2984259,Pancreatic Cancer Pathway
+C2984276,Vibrio cholerae Infection Pathway
+C2984279,Cardiac Muscle Contraction Pathway
+C2984282,Dilated Cardiomyopathy Pathway
+C2984283,Mismatch Repair Pathway
+C2984285,Endocytosis Pathway
+C2984286,Pathogenic Escherichia coli Infection Pathway
+C2984289,Melanoma Pathway
+C2984293,Graft-Versus-Host Disease Pathway
+C2984303,Progesterone-Mediated Oocyte Maturation Pathway
+C2984310,Primary Immunodeficiency Pathway
+C2984319,Autoimmune Thyroid Disease Pathway
+C2984320,Complement and Coagulation Cascade
+C2984321,RNA Degradation Pathway
+C2984332,Epithelial Cell Signaling Pathway in Helicobacter pylori Infection
+C2984333,Endometrial Cancer Pathway
+C2984334,Type I Diabetes Mellitus Pathway
+C2984569,Bacterial Invasion of Epithelial Cell Pathway
+C2984572,Malaria Pathway
+C2984573,Entamoeba histolytica Infection Pathway
+C2984576,Gastric Acid Secretion Pathway
+C2984629,Actual Device Evaluated Evaluation Method
+C2985573,Registration Center Service
+C2985690,Document Version Workflow Status
+C2986481,Metabolic Type
+C2986768,Injected Dose
+C2986829,Tracer Clearance
+C2987668,Neutralization
+C3164742,Respiratory tract route
+C3178736,Primary Energy Resources
+C3242157,act request
+C3242283,entity administration
+C3242339,operate
+C3242340,abort - DataOperation
+C3242342,resume - DataOperation
+C3242389,Airborne exposure
+C3242390,foodborne
+C3242391,waterborne
+C3242713,program eligible
+C3243365,ParticipationExposureparticipation
+C3244100,position accuracy
+C3244281,vote withdrawn
+C3244290,Observations domain
+C3244292,Laboratory domain
+C3244297,locked
+C3244298,Modify status - jump
+C3244305,ActInformationPrivacyReason <operations>
+C3244310,dependent
+C3244314,operate <remove>
+C3244319,Update - DataOperation
+C3244320,Create data operation
+C3245463,Sniffing
+C3245498,operate <execute>
+C3272289,Manufacturer Recall
+C3274523,CDISC SDTM Laterality Terminology
+C3484370,Programs
+C3496294,Cutting - functional concept
+C3640155,Actively Marketed
+C3640786,Private Funding
+C3640787,Military Funding
+C3641097,Planned Treatment Regimen
+C3665546,Alert
+C3669041,Spread by direct extension
+C3669222,Utility (animal life circumstance)
+C3714515,Infectious Disease Pathway
+C3714606,Neural
+C3816728,Dose Escalation
+C3828564,Physical Exam Method
+C3853530,Data operation - complete
+C3853838,activate - Data Operation
+C3853841,hold - Data Operation
+C3858557,geriatric alert
+C3858654,remittance advice
+C3858758,reliable
+C3888141,Radiosensitivity Index
+C3889426,Content Type Requirement
+C3897349,Traditional Use
+C3897659,Salaried Annual Employment
+C3897700,Resolved License
+C3898701,Intraparenchymal Route of Administration
+C4048239,Histology aspects
+C4048755,Apply
+C4055392,BROCA Gene Signature
+C4075148,Extracorporeal route
+C4084850,Adjuvant Therapy Clinical Trial Setting
+C4255083,diagnostic imaging aspects
+C4281575,"Injection, intramedullary"
+C4281789,"Injection, intraarticular route"
+C4281791,Insufflation route
+C4281794,Perfusion route
+C4281815,Resistance
+C4281991,Follow
+C4283840,Glycan Profile
+C4284036,Exam
+C4284875,Occurrence Indicator
+C4287658,Interferon-Related DNA Damage Resistance Gene Signature
+C4291649,validator
+C4291658,consenter
+C4291659,classifier
+C4319647,Inhaler (unit of presentation)
+C4319718,Reported
+C4319951,Repair
+C4321547,Check
+C4330494,Intracanalicular Route of Administration
+C4331038,Pulsed-Wave Doppler Ultrasound Mode
+C4331039,Pulsed-Wave Tissue Doppler Ultrasound Mode
+C4331421,Total Phosphotyrosine
+C4331448,Ultrasound Mode
+C4331911,M-Mode Ultrasound Mode
+C4509936,Refuted
+C4520547,Implemented
+C4520791,Material Identification
+C4521054,Process (qualifier value)
+C4521287,Stability Determination
+C4521676,Apply (administration method)
+C4521681,Administer (administration method)
+C4521682,Instill (administration method)
+C4521686,Swallow (administration method)
+C4521688,Dissolve (transformation)
+C4521696,Source (property) (qualifier value)
+C4521772,Spray (administration method)
+C4522288,Analytical Procedure Precision
+C4522318,Analytical Procedure Accuracy
+C4522325,Device Not Returned
+C4524504,Encase
+C4525098,Analytical Procedure Robustness
+C4528489,Device Not Manufactured by Reporting Manufacturer
+C4528490,Device Discarded
+C4528497,Cause Not Established
+C4528498,Cause Traced to Component Failure
+C4528540,Known Interferent
+C4528667,Analytical Procedure Quantitation Limit
+C4528733,Shielding Problem
+C4545472,Disperse
+C4551524,Autoimmune
+C4551657,Compression - action
+C4551669,Migration
+C4551823,instruments
+C4551881,Mechanism of Action
+C4553529,Concordance
+C4553531,Control of Electronic Records
+C4553585,Clinical Equipoise
+C4553766,System Migration
+C4553825,Electronic System Deployment
+C4553942,Mix (transformation)
+C4684445,Delineate
+C4684552,Intrasurgical Site Route of Administration
+C4684591,Clinical Clarification
+C4684616,Data Acquisition
+C4684617,Data Capture
+C4684618,Data Clarification
+C4684634,Data Validation
+C4684636,Database Lock
+C4687739,Hypothesis Generation
+C4688345,Nullizygosity
+C4688479,Edit Check
+C4704731,Internet Access
+C4707055,Infuse
+C4721826,Implantation - action
+C4721847,Sucking Method of Administration
+C4723631,Dialysis Method of Administration
+C4723632,Dipping Route of Administration
+C4723780,Prolonged Release Mechanism of Action
+C4723815,Delayed Release Mechanism of Action
+C4723827,Injection Method of Administration
+C4723828,Instillation Method of Administration
+C4724147,Insertion Method of Administration
+C4724214,Dispersion Activity
+C4724239,Smoking Method of Administration
+C4724243,Conventional Release Mechanism of Action
+C4724248,Inhalation Method of Administration
+C4724249,Modified-release Mechanism of Action
+C4724250,Out of Pocket Payment
+C4725328,In Drinking Water Use Route of Administration
+C4725339,Intestinal route
+C4725394,Nebulizer Route of Administration
+C4743570,Unable to Classify
+C4759732,chemical synthesis aspects
+C5206818,Lottery

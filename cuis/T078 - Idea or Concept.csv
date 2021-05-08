@@ -1,0 +1,596 @@
+cui,name
+C0004951,Beliefs
+C0005346,Bias (Epidemiology)
+C0008069,Child Custody
+C0009669,confidentiality
+C0010453,Anthropological Culture
+C0012653,Disease Reservoirs
+C0013850,Electronic
+C0015000,Ethics
+C0016118,Financial Support
+C0016121,"Financing, Organized"
+C0017274,Gene Pool
+C0018684,Health
+C0018741,Health Resources
+C0019844,Holistic Health
+C0020786,Id Personality Component
+C0021399,Influentials
+C0021672,Insurance
+C0022422,Judaism
+C0023963,Logic
+C0025119,Medicine in the Arts
+C0025120,Medicine in Literature
+C0026528,Moral Obligations
+C0026531,Morality
+C0026532,Morals
+C0028794,Occultism
+C0030706,Patient Rights
+C0031207,Personal Space
+C0031230,Persuasive Communication
+C0031536,"Philosophy, Medical"
+C0031812,Physical Fitness
+C0032041,Placebo Effect
+C0032381,Political Systems
+C0034119,Punishment
+C0034380,Quality of life
+C0034866,Recommendation
+C0035045,Religious Beliefs
+C0035201,Resources
+C0035617,Right to Die
+C0035618,Right to Treatment
+C0035647,Risk
+C0036588,Self
+C0036612,Semantics
+C0037403,Social Conditions
+C0037414,Social Environment
+C0037433,Social Responsibility
+C0037439,Social Values
+C0037967,Spiritualism
+C0038659,therapeutic suggestion
+C0040722,disease transmission qualifier
+C0041933,Urban Health
+C0043236,World Health
+C0043418,Yoga (philosophy)
+C0078889,Accountability
+C0079152,Conflict of Interest
+C0079921,"Safety, Occupational"
+C0085862,Independence
+C0085978,Causations
+C0086266,Ethical Theory
+C0162365,"Ethics, Clinical"
+C0178514,biomedical resource
+C0178566,concept
+C0178826,reinforcer
+C0205759,Wedge Argument
+C0237104,spirituality
+C0237750,Social Norms
+C0242487,Living Arrangements
+C0242568,Biases
+C0242652,Medical Futility
+C0242806,Sick Days
+C0242860,Arab World
+C0242861,Roman World
+C0243156,psychosocial aspects
+C0243161,criteria
+C0243163,supply aspects
+C0332290,Consistent with
+C0349590,Nature
+C0376327,International Aspects
+C0376548,Empiricism
+C0376555,Humoralism
+C0376556,Western World
+C0376558,Life
+C0392360,Indication of (contextual qualifier)
+C0441833,Groups
+C0449234,Concept Attribute
+C0449255,Context
+C0449450,Presentation
+C0520511,Distributing
+C0521120,obsolete
+C0524656,Retrospective Moral Judgment
+C0525053,Health Care Sector
+C0549178,Continuous
+C0558295,preference
+C0597530,Stressor
+C0600215,Principle-Based Ethics
+C0600634,Parental Consent
+C0679138,Expectations
+C0679209,prerequisite
+C0679210,Literal
+C0679217,Active State
+C0680731,Clinical Trial Type
+C0681094,employment/unemployment
+C0681191,faith
+C0681205,Sacrifice
+C0681842,Prediction
+C0683650,Warfare
+C0695347,Modality
+C0699784,Economic demand
+C0740326,convalescent
+C0747003,operative risk
+C0748223,QUIT
+C0749385,threat
+C0750489,apparent
+C0750490,Associate - relationship
+C0750491,Suspected qualifier
+C0750492,Probably
+C0750502,Significant
+C0750508,persistently
+C0750509,acuity
+C0750523,FORMER
+C0750540,Nonspecific
+C0750563,omit
+C0750573,emergent
+C0750591,consider
+C0805874,derivation calculation
+C0807726,refill
+C0808080,STRENGTH (attribute)
+C0814487,Therapeutic Alliance
+C0814670,vice
+C0870078,Sampling
+C0870441,Dominance
+C0870703,inflection
+C0870705,control act - information
+C0871010,Opinions
+C0871222,reality
+C0871911,cultural factors
+C0871935,Theory
+C0876919,Meaning
+C0935573,Theory of Mind
+C0949294,Natural Law
+C0949313,Genetic Determinism
+C0949874,Complicity
+C0950145,Genetic Privacy
+C1136088,Community Consent
+C1136186,Future Generations
+C1272753,Institution (social concept)
+C1511084,Belief System
+C1511487,Constitutional
+C1511726,Data
+C1511983,Disease Marker
+C1512043,Dose-Limiting
+C1512426,Heterogenous
+C1512571,Hypothesis
+C1512888,International
+C1515568,de novo
+C1515926,Alteration
+C1516322,Ceiling Effect
+C1516695,Collected
+C1516834,Employment Opportunities
+C1518602,or - article
+C1524075,chain of objects
+C1533716,Information
+C1546397,Admission Type - Accident
+C1546402,Admission Type - Routine
+C1546424,Transaction Type - Adjustment
+C1546425,Credit - Transaction Type
+C1546435,Encounter Referral Source - emergency room
+C1546456,What subject filter - Demographics
+C1546459,What subject filter - Goals
+C1546466,Problems - What subject filter
+C1546471,What subject filter - Result
+C1546481,What subject filter - Status
+C1546495,Relationship - Child
+C1546502,Relationship - Friend
+C1546505,Relationship - Guardian
+C1546508,Relationship - Mother
+C1546512,Relationship - Parent
+C1546516,Patient_s Relationship to Insured - Spouse
+C1546807,Default - Relational conjunction
+C1546847,Entity Name Part Type - family
+C1546849,Living Arrangement - Relative
+C1546854,Arranged (transportation)
+C1546937,Event Qualification - Dependency
+C1546938,Event Qualification - Interaction
+C1546940,Event Qualification - Misuse
+C1546941,Event Qualification - Overdose
+C1546949,Event Consequence - Death
+C1546953,Life threatening - Event Consequence
+C1546960,Patient Outcome - Worsening
+C1546966,Primary Observer's Qualification - Pharmacist
+C1546968,No Application Type
+C1547004,Indirect exposure mechanism - Breast milk
+C1547007,Blood product - Indirect exposure mechanism
+C1547100,Control - Relationship modifier
+C1547131,Privacy Level - Private room
+C1547136,Level of Care - Critical care
+C1547137,Level of Care - Routine
+C1547138,Level of Care - Surgery
+C1547179,Continuation style code - Fragmentation
+C1547184,Medical school type
+C1547186,Written - Consent Mode
+C1547187,Speak - language ability
+C1547188,Language Ability - Sign
+C1547192,Organization unit type - Hospital
+C1547335,Data types- Composite
+C1547348,Data types - Delta
+C1547350,Data types - Date
+C1547353,Encapsulated data - Data types
+C1547369,Data types - Money
+C1547403,Data types - Time
+C1547420,Certificate Status - Inactive
+C1547431,Primary Care Provider - Provider role
+C1547537,Organization Unit Type - Department
+C1547539,Subdivision - organization unit type
+C1547541,Organization Unit Type - Division
+C1547542,Allergy - Charge Type Reason
+C1547543,Charge Type Reason - Intolerance
+C1547544,Charge Type Reason - Treatment Failure
+C1547566,Paper Authorization
+C1547567,Authorization Mode - Phone
+C1547570,Authorization Mode - Voice
+C1547630,living dependency
+C1547647,Patient Outcome
+C1547702,Point of care
+C1547755,HL7 Version 2.5 - Application
+C1548151,Species - Nature of Abnormal Testing
+C1548152,Nature of Abnormal Testing - Strain
+C1548167,Query Priority - Immediate
+C1548173,Type of Agreement - Standard
+C1548219,Bed Status - Closed
+C1548221,Bed Status - Isolated
+C1548223,Occupied
+C1548282,Credit - Charge type
+C1548283,Department - Charge type
+C1548287,Charge type - Research
+C1548312,Value type - Money
+C1548318,Value type - Time
+C1548328,Lines Quantity Limit Request
+C1548330,Quantity limited request - Records
+C1548358,Specialty Type - Observation
+C1548385,Act Relationship Type - documents
+C1548386,Document Completion - incomplete
+C1548387,Document Completion - in progress
+C1548390,Confidentiality - restricted
+C1548395,Act Status - obsolete
+C1548426,Referral type - Home Care
+C1548429,radiology referral type
+C1548435,Referral status - Accepted
+C1548438,Referral category - Inpatient
+C1548439,Referral category - Outpatient
+C1548538,Job Status - Permanent
+C1548539,Job Status - Temporary
+C1548559,Dispense Method - Traditional
+C1548561,Completion Status for valid values - Complete
+C1548597,Marketing basis - Transitional
+C1548599,Facility type - Manufacturer
+C1548600,user - Facility type
+C1548601,Accept - Source type
+C1548602,Initiate (source type)
+C1548666,Patient_s Relationship to Insured - Parent
+C1548799,Specimen Child Role - Component
+C1548940,Participation Mode - telephone
+C1548958,Sequential - Sequence/Results Flag
+C1548965,Service Request Relationship - Compound
+C1548968,Service Request Relationship - Simultaneous
+C1548969,Service Request Relationship - Tapering
+C1548980,Blood Product Processing Requirements - Irradiated
+C1549003,Transfused
+C1549031,Absolute Change
+C1549078,Institution Relationship Type - Volunteer
+C1549085,Signatory_s Relationship to Subject - Parent
+C1549404,Patient Class - Inpatient
+C1549475,Room type - Intensive care unit
+C1549476,Room type - Private room
+C1549478,Amount type - Differential
+C1549479,limited by - ActRelationshipType
+C1549480,Amount type - Rate
+C1549485,Ancillary
+C1549488,Amount type - Percentage
+C1549493,Always (AcknowledgementCondition)
+C1549513,Diet Code Specification Type - Preference
+C1549514,Supplement - Diet Code Specification Type
+C1549547,Additive - RX Component Type
+C1549548,Base - RX Component Type
+C1549570,Coordination of Benefits - Coordination
+C1549571,Religious Affiliation - Independent
+C1549615,Department - No suggested values defined
+C1549632,Address type - Home
+C1549636,Address type - Office
+C1549637,Address type - Permanent
+C1549781,Contains - RelationalOperator
+C1550003,Clearing
+C1550012,Local Remote Control State - Local
+C1550016,Remote control command - Clear
+C1550024,Lock - Remote control command
+C1550025,Load - Remote control command
+C1550026,Remote control command - pause
+C1550028,Resume - Remote control command
+C1550029,Setup - Remote control command
+C1550032,Unload
+C1550112,Special Handling Code - Body temperature
+C1550157,Processing type - Evaluation
+C1550452,definition - ActMoodCompletionTrack
+C1550453,Act Mood - intent
+C1550456,option - ActMoodPredicate
+C1550458,Observation Interpretation - Abnormal
+C1550463,Observation Interpretation - worse
+C1550464,resistant - Observation Interpretation Susceptibility
+C1550466,very susceptible
+C1550469,normal Confidentiality
+C1550481,escort - ParticipationType
+C1550513,via
+C1550515,Target Awareness - uninformed
+C1550516,Target Awareness - partial
+C1550521,has trigger
+C1550539,replaces - ActRelationshipType
+C1550547,has generalization - ActRelationshipType
+C1550558,exclusive or
+C1550577,Entity Handling - Body Temperature
+C1550584,no shock
+C1550586,do not shake - EntityHandling
+C1550590,Poison Risk
+C1550592,Entity Risk - explosive
+C1550593,injury hazard - EntityRisk
+C1550605,Role Class - content
+C1550608,Instance
+C1550715,direction - AddressPartType
+C1550718,Entity Name Part Type - given
+C1550721,suffix
+C1551023,Language Ability Proficiency - Good
+C1551337,diagnostic image
+C1551362,coverage - financial contract
+C1551367,Policy Holder
+C1551373,has previous instance
+C1551375,refers to - ActRelationshipType
+C1551392,Left Equipment
+C1551399,Escape Risk - EntityRisk
+C1552007,control act - action
+C1552009,observation - clinical trial
+C1552021,exposed entity
+C1552027,personal relationship
+C1552088,Staff Family Member
+C1552552,items located
+C1552560,is backup for
+C1552614,ActRelationshipSubset - minimum
+C1552617,Act Class - review
+C1552618,Act Mood - permission
+C1552620,No substitution - Subsitution Condition
+C1552652,Parameterized Data Type - Set
+C1552685,Data Type - ANY - Set
+C1552738,described
+C1552746,EquipmentAlertLevel - Critical
+C1552824,baseline - TableCellVerticalAlign
+C1552829,Table Frame - below
+C1552830,Table Frame - border
+C1552848,alternate - HtmlLinkType
+C1552851,next - HtmlLinkType
+C1552854,Html Link Type - index
+C1552857,chapter
+C1552863,Abstract idea
+C1552866,include - SetOperator
+C1552869,Coded No Extensions
+C1553195,Critical Ambient temperature - EntityHandling
+C1553200,Metal Free
+C1553390,Act Status - new
+C1553394,Requires gurney
+C1553396,replaces - RoleLinkType
+C1553397,Request - ActReason
+C1553402,normal Role Status
+C1553404,terminated - RoleStatus
+C1553447,Act Class - accommodation
+C1553522,remote presence
+C1553875,Concept Status - Active
+C1553904,continuing therapy
+C1554077,Excluded - Conformance Inclusion
+C1554078,Replace - HL7UpdateMode
+C1554079,ignored
+C1554097,HL7 Committee ID In RIM - Scheduling
+C1554104,MDF Attribute Type - Identifier
+C1554105,MDF Attribute Type - Indicator
+C1554106,MDF AttributeType - Number
+C1554110,General Timing
+C1554117,Subtype constraint - MdfRmimRowType
+C1554167,Message accepted
+C1554188,act - observation
+C1554189,public health case
+C1554192,ActClass - consent
+C1554195,working list
+C1554205,assigned entity
+C1554206,dedicated service delivery location
+C1554210,Act Relationship Type - occurrence
+C1554211,succeeds
+C1554217,Act Relationship Type - schedules
+C1554961,exception - ResponseLevel
+C1555026,In an outside meeting
+C1555028,covered by
+C1555306,proposal - intent
+C1555307,promise
+C1555308,accession - ActClass
+C1555314,stored entity
+C1555322,discharger
+C1555328,ASAP - priority
+C1555334,as needed - ActPriority
+C1555443,intersect
+C1555444,convex hull
+C1555447,Medical Necessity
+C1555535,Confirm first
+C1555567,delivery mode
+C1555578,departure - ActRelationshipType
+C1555580,masked - No information
+C1555582,Initial (abbreviation)
+C1555583,Transfer - product ownership
+C1555708,electronic health record - ActClassContainer
+C1555710,Act Class - Attestable unit
+C1555721,Substitution - ActClass
+C1556116,completed - ActStatus
+C1556117,completed - ManagedParticipationStatus
+C1561507,EditStatus - Active
+C1561527,Error severity - Information
+C1561533,Money or percentage indicator - Percentage
+C1561539,Precision - day
+C1561541,Precision - month
+C1561544,Precision - year
+C1561576,Alert level - Serious
+C1561594,Specimen Reject Reason - Clotting
+C1561958,Message Waiting Priority - High
+C1562189,Is etiology for
+C1563343,Living Arrangement - Family
+C1563351,Diagnosis Type - Working
+C1571704,Act Mood - Goal
+C1571873,Allergy Clinical Status - Suspect
+C1576870,MDFAttributeType - Phone
+C1576872,Consent Mode - Telephone
+C1578435,Relationship - Spouse
+C1578481,Mail Claim Party - Patient
+C1578483,Report source - Patient
+C1578484,Relationship modifier - Patient
+C1578603,Warning - AcknowledgementDetailType
+C1578605,Warning - Error severity
+C1608263,Edit Status - Inactive
+C1608264,Immunization Registry Status - Inactive
+C1608386,Coordination of Benefits - Independent
+C1609990,dictated - DocumentCompletion
+C1610174,Jurisdictional Breadth - Country
+C1610541,Language Proficiency - Good
+C1610594,Document Confidentiality Status - Restricted
+C1691786,Pending - Allergy Clinical Status
+C1692758,termination - ActReason
+C1699518,Unrecognized attentionline
+C1704279,Electroencephalogram Domain
+C1704446,name title
+C1704625,Exposure Domain
+C1704631,Expiration
+C1704636,Pointer
+C1704677,Subject Visits Domain
+C1704791,Demographics Domain
+C1704814,Item Collection
+C1705099,Vector (data type)
+C1705313,Term (lexical)
+C1705415,Communication Contact
+C1705423,isa Relationship
+C1705535,suggestion
+C1705542,Template
+C1705630,Concept Relationship
+C1705917,heirarchal root
+C1706132,Column (arrangement)
+C1706203,Subject - topic
+C1706279,Object Relationship
+C1706443,NCI Thesaurus Qualifier
+C1706465,Subject Characteristics Domain
+C1706602,Intent For Mitigation
+C1706613,Not Stated
+C1707478,Conclusion
+C1708563,Invalid Data
+C1708595,Junior
+C1709302,Obsolete Concept
+C1709634,Precursor
+C1710187,Statement
+C1710230,Submitter
+C1710575,Unresolved Issue
+C1710677,Withdrawal by Subject
+C1711422,Surveillance Bias
+C1883204,Domain (trial submission dataset)
+C1947946,Aim (idea)
+C1955955,Minority Health
+C2347664,Preferred Term
+C2347852,Concomitant Agent
+C2348542,Streak
+C2349109,Variance Reason
+C2349974,Contamination
+C2349993,Blackout - suspension of service
+C2350585,Afghan Campaign 2001-
+C2350593,Surge Capacity
+C2362589,Complication (attribute)
+C2697794,Geographic Intersection
+C2698872,Predictor
+C2699007,Rationale
+C2699424,Concern
+C2699427,Conjunction
+C2713355,Science in the Arts
+C2713500,Specialism
+C2825412,Paired Data
+C2826286,Dose Adjustment Reason
+C2826296,End Rule
+C2827421,Construct
+C2828008,Burden
+C2828024,Default
+C2828132,Left Bundle Branch Block Artifact
+C2911684,Expression - value symbols
+C2981426,Clinical Events Assessment Reason Not Done
+C2981436,Clinical Events Pre-specified
+C2981481,Medical History Pre-specified
+C2981587,Substance Usage Pre-specified
+C2981603,Clinical Events Reported Term
+C2985113,Concentrated Disadvantage
+C2985797,Message Title
+C2985842,Purpose Statement
+C2985866,Revision Reason
+C2986674,Thank You
+C2986891,Body Weight Domain
+C2986893,Death Diagnosis Domain
+C2986895,Fertility Domain
+C2986896,Food and Water Consumption Domain
+C3146298,Indication
+C3154893,Possess
+C3179154,Best Practices
+C3242102,length is too short
+C3242151,illegal
+C3242203,incomplete data
+C3242229,ineffective
+C3242248,office use
+C3242250,program use
+C3242270,compliance concern
+C3242309,symptomatic relief
+C3242311,has baseline
+C3242560,private residence
+C3242649,legal expense
+C3243309,ParticipationParticipation
+C3243683,ActClassOutbreak
+C3244047,Realm
+C3244127,information collection
+C3244299,ActClass - transfer
+C3244300,Operational Compliance
+C3244318,Reference - HL7UpdateMode
+C3245443,Specializes (HL7V3.0 concept)
+C3245468,Individual - insurance coverage level
+C3245478,ActInformationPrivacyReason <service>
+C3245504,inferred - context conduction style
+C3266812,Methodology
+C3494228,Healthcare Financing
+C3540846,Treatment Failure Reason
+C3541338,Urinary System Findings Domain
+C3640001,Entity Statement
+C3658218,Nocebo Effect
+C3828841,Needed Help
+C3850138,Sociological Factors
+C3853663,Fulfills- ActRelationshipType
+C3853790,What subject filter - Financial
+C3853990,aggregated - SecurityObservationValue
+C3854010,completed - RoleLinkStatus
+C3854321,Expression (foundation metadata concept)
+C3858553,trust certificate
+C3858554,trust framework
+C3858580,privacy mark
+C3858590,no collection
+C3858593,no integration
+C3858640,error in order
+C3858643,patient request query
+C3858677,"Human Cells, Tissues, and Cellular and Tissue-Based Products Recovery"
+C3858689,has qualifier
+C3858740,Synergy - resistant
+C3875134,Specified by
+C3875135,Observes
+C3875140,Process output
+C3875152,Characterizes
+C3875154,Relative to
+C3875155,Inheres in
+C3887373,Invalid name
+C3887511,Evidence
+C4045979,Operation Iraqi Freedom
+C4273461,Inherent location
+C4277552,Moral Status
+C4288875,Invalid Reason
+C4291646,no consent
+C4291674,grantor choice
+C4316939,Trial Indication
+C4319827,Thought
+C4505266,One Health
+C4527299,Patient Decision
+C4684590,Clinical Benefit
+C4704689,Syndemic
+C4704831,Prior Authorization
+C4760622,Military Health
+C4761797,Controlled mark
+C5197739,Universal Design
+C5200924,Failure

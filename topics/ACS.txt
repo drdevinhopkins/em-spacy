@@ -1,0 +1,1427 @@
+Rapid Access
+Approach to the Critical Patient
+Activate the cardiac catheterization lab and/or call Interventional Cardiology for immediate reperfusion therapy, if available.
+If the anticipated time from the first medical contact (ie, prehospital) to percutaneous coronary intervention (PCI) is >90-120 min, give thrombolytics for ST-segment elevation myocardial infarction (STEMI) if there is no contraindication.
+If the anticipated time from ED arrival to PCI is >90 min, give thrombolytics for STEMI if there is no contraindication.
+See: Treatment Section for dosing and Contraindications to Thrombolysis
+Administer non-enteric-coated chewable aspirin (162-325 mg orally [PO]).
+Administer anticoagulant:.
+Unfractionated heparin: 5,000 units (≥50 kg), 4500 units (45-50 kg), 4,000 units (40-45 kg)
+Consider a P2Y12 inhibitor:
+Clopidogrel 600 mg or ticagrelor 180 mg PO or cangrelor IV at the discretion of the interventional cardiologist or hospital protocol.
+Consider IV nitroglycerin, as indicated.
+Consider beta blockade:
+For patients with anterior STEMI who present within 6 hours and will go for primary PCI (not thrombolytic therapy) and no contraindications
+Consider metoprolol (5mg IV q 2 min x 3 as tolerated) or esmolol (250-500 µg/kg IV push over 1 min, followed by a maintenance infusion of 50 µg/kg/min, rapidly titratable with short half life that can be stopped quickly for clinical decompensation)
+Contraindications: systolic blood pressure (SBP) <120, heart rate >100 (strong sign of decreased stroke volume and impending cardiogenic shock), PR interval >240 ms, second- or third-degree atrioventricular (AV) block, or impending shock
+Key Concepts
+The spectrum of acute coronary syndrome (ACS) currently includes unstable angina, non-ST elevation myocardial infarction (NSTEMI), STEMI, and in the most severe presentation, sudden cardiac death.
+This ACS algorithm represents guideline-recommended management strategies combined with expert opinion.
+“Time is muscle”: This common saying underscores the maximum benefit of early intervention in cases of acute coronary occlusion, with the benefit diminishing rapidly with the passage of time (on the order of hours).
+PITFALLS
+The ECG is the most important initial test in the work-up of ACS, with the goal of identifying patients who would benefit from immediate reperfusion.The ECG should ideally be recorded within 10 min of arrival to the ED when ACS is a consideration.
+PEARLS
+A prehospital 12-lead ECG should be reviewed and documented in every patient with symptoms compatible with ACS.
+All systems should have prehospital cardiac catheterization lab activation to facilitate optimal door-to-balloon times.
+PITFALLS
+In patients with ongoing symptoms that are highly suspicious of ACS but have a non-diagnostic initial ECG, either repeat ECGs should be obtained every 15-30 min for the first hour at minimum, or continuous 12-lead ST segment monitoring should be implemented.
+The ECG undergoes a predictable pattern of changes during occlusion and reperfusion, making this method both a better identifier of successful reperfusion and a better predictor of viable myocardium than the time since the onset of symptoms.
+Current practice and guidelines for ACS follow the STEMI vs. NSTEMI paradigm (2000-present). However, this community of medical experts is in the process of advocating for a paradigm change. In general, this chapter presents the current paradigm and guidelines first in each section, with author opinions that differ from this established paradigm denoted at the end of each section for clear delineation.
+The current formal “STEMI ECG criteria” include a new ST elevation measured at the J-point relative to the PQ junction, in two contiguous leads with the following cutoffs:
+V2-V3: ≥2 mm in men ≥40 y old; ≥2.5 mm in men <40 y old, or ≥1.5 mm in women regardless of age.
+Other leads: ≥1 mm.
+Troponin is an important part of the work-up in patients with ACS. However, the decision to perform immediate reperfusion should only involve troponin when ECG is not diagnostic and the symptoms persist.
+Troponin elevation must be interpreted in the context of clinical presentation. Among ED patients with at least one elevated troponin level, up to 85% are found in conditions other than type 1 myocardial infarction (MI) (including type 2 MI, non-MI acute myocardial injury, and chronic myocardial injury).
+PITFALLS
+The current United States guidelines recommend emergency reperfusion therapy for STEMI, as well as for NSTEMI with electrical or hemodynamic instability, with acutely worsening heart failure, or with ongoing ischemia despite maximum medical management (aspirin, anticoagulants/antithrombotics, and antiplatelet agent).
+STEMI:
+Immediate PCI is recommended if ischemic symptoms <12 h after onset, or 12-24 h if there is “ongoing ischemia.”
+STEMI at a PCI facility:
+STEMI diagnosis-to-balloon time should not exceed 60 min.
+STEMI at a non-PCI facility:
+STEMI diagnosis-to-balloon time (at another facility) should not exceed 90 min.
+The first medical contact-to-balloon time in transfer patients should not exceed 90-120 min.
+If the total time from the first medical contact to PCI is estimated to exceed 90-120 min, fibrinolytics are recommended for symptom duration <12 h or 12-24 h if “a large area of the myocardium is at risk or hemodynamic instability is present.”
+Half-dose thrombolytics (followed by immediate transfer for PCI) have been described successfully and without an increase in major bleeding; however, this protocol was not subjected to a randomized trial.
+After thrombolytics, the patient should be transferred immediately to a PCI facility, if available and feasible.
+The traditional “STEMI ECG criteria” are neither sensitive nor specific for the outcome that they are intended to identify (acute coronary occlusion, or Occlusion MI).
+PITFALLS
+25% of NSTEMI patients have fully occluded culprit lesions (occlusion MI, and NSTEMI patients with occlusion have double the short- and long-term mortality.
+The Occlusion MI Manifesto
+ACS medical therapy guidelines include aspirin, an anticoagulant (eg, unfractionated heparin), and a P2Y12 inhibitor (usually clopidogrel or ticagrelor) as per Cardiology discretion or institutional protocol, as well as other treatments such as nitroglycerin.
+Diagnosis
+Textbook presentation: Aged or elderly patient with acute-onset chest discomfort radiating to the left arm, shoulder, or jaw, with diaphoresis, nausea/vomiting, and shortness of breath, often in the context of exertion or stress.
+ACS is notorious for atypical presentations, especially among key populations such as women, diabetics, the elderly, and non-white populations.
+PITFALLS
+No single risk factor, symptom, sign, or physical exam feature in isolation has a high sensitivity or specificity for the diagnosis of ACS.
+Concerning features and findings with significant positive likelihood ratios for the diagnosis of ACS include:
+Prior known coronary artery disease (CAD) (2.0)
+A change in the pattern of symptoms over the previous 24 h (2.0)
+Pain similar to prior ischemia (2.2)
+Pain radiating to both arms (2.6)
+History of peripheral arterial disease (PAD) (2.7)
+Abnormal previous recent stress test (3.1)
+High risk overall of clinical gestalt (4.0)
+High-risk HEART score 7-10 (13.0)
+Unstable angina:
+Defined as ACS that does not have 1) at least one troponin greater than the 99th percentile and 2) an increase and/or decrease in troponin (defined for each assay).
+Is characterized clinically by angina that is new in onset, occurs at rest, occurs with minimal exertion, or is otherwise worsening from a previously stable pattern.
+Acute myocardial infarction (AMI) is defined by international consensus in the Fourth Universal Definition of Myocardial Infarction and requires both:
+The detection of an increase and/or decrease of cardiac troponin values with at least 1 value greater than the 99th percentile upper reference limit.
+Clinical evidence of acute myocardial ischemia.
+Treatment
+Emergency Reperfusion (PCI, Thrombolytics)
+Call Interventional Cardiology for emergency reperfusion therapy recommended by American College of Cardiology/American Heart Association guidelines for:
+STEMI:
+Immediate PCI recommended for ischemic symptoms <12 h after onset, or 12-24 h if there is “ongoing ischemia” (12-48 h according to European Society of Cardiology guidelines).
+PERSPECTIVES
+We recommend that transient STEMI (STEMI in which all ST elevation and symptoms have resolved) be treated with emergency PCI but not with thrombolytics. If PCI is not available, treatment should be with antiplatelet and antithrombotic agents, and immediate transfer to a PCI-capable institution should be secured if possible.
+NSTEMI with electrical/hemodynamic instability (acute pulmonary edema, shock, recurrent/refractory ventricular dysrhythmias, etc.).
+NSTEMI with refractory ischemia (symptoms of angina or ECG findings of ischemia) despite maximum medical management.
+Ongoing ischemic chest pain or equivalent anginal symptoms
+Refractory ischemic ECG findings
+“STEMI equivalents” (currently only one per American College of Cardiology/American Heart Association: Left Bundle Branch Block + original Sgarbossa criteria).
+Also consider emergency PCI for NSTEMI with ECG features of occlusion MI:
+See Miranda et al. for the most thorough and up-to-date work on the ECG in ACS in the ED.※
+List of STEMI(-) occlusion MI patterns
+Thrombolytics for STEMI
+Recommended if:
+It will be >90-120 min total time from the first medical contact to PCI, or >90 min from STEMI diagnosis to PCI, and
+Symptoms <12 h, or between 12-24 h if “a large area of the myocardium is at risk or hemodynamic instability is present”, or ECG shows high “acuteness” (large upright T waves, persistent R waves, persistent ST elevation).
+Absolute contraindications to thrombolytics
+Tenecteplase (TNK-tPA):
+Reconstitute a 50-mg vial in 10 mL sterile water (5 mg/mL)
+Single weight-based bolus, IV push over 5 sec
+<60 kg: 30 mg
+60-69 kg: 35 mg
+70-79 kg: 40 mg
+80-89 kg: 45 mg
+>90 kg: 50 mg
+Alteplase (tPA):
+90-min weight-based infusion
+>67 kg: Infuse 15 mg IV over 1-2 min; then, 50 mg over 30 min; then, 35 mg over the next 60 min (ie, 100 mg over 1.5 h)
+≤67 kg: Infuse 15 mg IV over 1-2 min; then, 0.75 mg/kg (max 50 mg) over 30 min; then, 0.5 mg/kg (max 35 mg) over 60 min
+Post-thrombolytic care:
+Transfer to a PCI-capable facility should be carried out after the administration of thrombolytics.
+Immediate PCI is indicated if there is no ECG evidence of reperfusion after thrombolytics (“rescue PCI”).
+ECG evidence of reperfusion is at least a 70% reduction in ST segments.
+After thrombolytics, at the receiving institution:
+Routine immediate angiography +/- PCI in high-risk patients
+Extensive ST elevation, new left bundle branch block, previous MI, Killip class ≥2, left ventricular ejection fraction <35%
+Routine angiography +/- PCI for all others within 24 h
+Medical Therapy for ACS
+PITFALLS
+“Maximum medical management” of ACS = aspirin + anticoagulant + P2Y12 inhibitor (as per Cardiology discretion/institutional protocol) + IV nitroglycerine as tolerated +/- adjuncts such as glycoprotein IIb-IIIa inhibitors, as indicated.
+Ischemia refractory to maximum medical management requires emergency angiography as per American College of Cardiology/American Heart Association guidelines.
+PERSPECTIVES
+Other than aspirin and nitroglycerin, all additional medical therapy is best chosen prospectively in accordance with the interdisciplinary institutional protocol.
+Antiplatelet:
+Aspirin: 162-325 mg PO (non-enteric-coated, chewable)
+P2Y12 inhibitor:
+Typically not given “upstream” (in the ED) unless by an interventionalist or as per the interdisciplinary protocol
+STEMI with primary PCI: Clopidogrel 600 mg or ticagrelor 180 mg PO
+STEMI with thrombolytics: Clopidogrel 300 mg PO
+Glycoprotein IIb-IIIa inhibitor:
+In general, only given at the discretion of interventionalist, rarely “upstream” (in the ED).
+Possible in patients who are at a high risk of coronary artery bypass graft (CABG) and cannot get P2Y12 inhibitor.
+Anticoagulant:
+STEMI or other critically ill ACS patient with primary PCI:
+Unfractionated heparin: 60-70 units/kg (max 4,000-5,000 units) IV push loading dose, then 12-15 units/kg/h (max 1,000 units/h) infusion
+Other agents (enoxaparin, bivalirudin) substituted as per Cardiology:
+Enoxaparin: 0.5 mg/kg IV
+Bivalirudin: 0.75 mg/kg IV bolus, followed by an IV infusion of 1.75 mg/kg/h for as long as 4 h post-procedure
+STEMI with thrombolytics:
+Enoxaparin is superior, but other agents (ie, unfractionated heparin) are acceptable as per Cardiology/protocol:
+Enoxaparin:
+<75 y old: 30 mg IV bolus, then by 1 mg/kg subcutaneous (SC) (max 100 mg for the first dose) in 15 min
+≥75 y old: No bolus, 0.75 mg/kg SC (max 75 mg for the first dose)
+For creatinine clearance <30, give 1 mg/kg q24h (not 12 h)
+Continue throughout hospitalization
+Unstable angina/NSTEMI, not going immediately to the catheterization lab
+Enoxaparin is superior, but other agents (unfractionated heparin, bivalirudin, fondaparinux) are acceptable as per Cardiology/protocol.
+Other adjuncts
+Oxygen:
+Supplemental oxygen should be administered if the patient is hypoxemic or showing signs of respiratory distress or hypoxemia.
+PITFALLS
+Giving routine oxygen to non-hypoxemic patients has no benefit, and some studies have actually shown harm, including a larger infarct size and other secondary outcomes such as recurrent infarction and dysrhythmias with hyperoxia.
+Metoprolol:
+Consider for hypertension exacerbating supply/demand mismatch.
+Avoid in tachycardia (a sign of poor stroke volume) or poor left ventricular (LV) function on bedside echo.
+Metoprolol 50 mg PO, then 5 mg IV q5min ×3.
+Improved survival in anterior STEMI with SBP >120 and in the absence of tachycardia or AV block.
+Nitroglycerin:
+Consider for pulmonary edema, hypertension, or refractory chest pain.
+Administer as IV or sublingual, not transdermal.
+PITFALLS
+Do not give nitroglycerin to patients receiving alteplase (nitroglycerin increases the metabolism of alteplase and decreases the levels of alteplase and thus its efficacy).
+Opioid analgesics
+Inconclusive data exist regarding whether opioids may be harmful in ACS.
+We believe that the harm is likely due to the masking of ongoing ischemic symptoms without addressing the underlying ischemic pathology. This may lead to fewer serial ECGs and less frequent clinical reassessment, possibly leading to delays to definitive management.
+See the Deep Dive regarding the literature in the opioids section.
+PERSPECTIVES
+Our opinion is that opioids should be reserved for patients who are committed to immediate reperfusion therapy, to reduce ischemic pain during the time between the decision to perform definitive reperfusion and actual reperfusion.
+Disposition
+Patients judged to benefit from immediate reperfusion should be taken promptly to the cardiac catheterization lab for angiography and subsequently admitted.
+All other patients with ACS should be admitted to Cardiology with the timing and benefit of angiography vs. non-invasive therapy to be determined by the Cardiology team.
+The approach to low-risk patients without confirmed ACS and with undifferentiated chest pain is described in a separate chapter (See Chapter: Low Risk Chest Pain and Accelerated Diagnostic Protocols). In general, patients with symptoms that are compatible with ACS who have been judged by clinical Gestalt and/or risk stratification tools to be at an extremely low risk of ACS or other adverse events (<1%-2%) may be discharged with close outpatient follow-up in accordance with current American College of Emergency Physicians Clinical Policy.
+Charting Pearls
+PEARLS
+The timing of symptoms, treatments, ECG findings, and catheterization lab activation/consultation are critical elements of documentation in this time-sensitive condition.
+Describe whether ECG findings are new or old as compared with a baseline ECG, if available, or new/progressive based on serial repeat ECGs.
+Ensure all relevant ECGs are incorporated into the medical records.
+The documentation for patients who are not immediately sent to the catheterization lab should reflect the presence or absence of ongoing ischemia despite medical therapy (which would require emergency reperfusion).
+Deep Dive
+Preface
+As of 2019, we, the clinicians authoring this reference text, believe that the management of acute coronary syndromes is at a crossroads. The current practice and guidelines for ACS follows the STEMI vs. NSTEMI paradigm. However, it is our perspective that this paradigm is suboptimal and should be updated to improve outcomes by identification of acute coronary occlusion (for which STEMI is a poor surrogate).
+
+Accordingly, we have the difficult task of presenting a fair and succinct overview of the management of ACS in such a way that the reader can emerge with the necessary skills to operate within the current standard of care while simultaneously understanding that there is room for improvement from that standard. For learners, this requires careful understanding regarding which elements below are supported by the current paradigm and guidelines and which are our opinions based on the newly suggested paradigm that we present, regardless of how well these perspectives may be supported by evidence and experience.
+
+In general, in this reference text, we first present the current paradigm and guidelines in each section, followed by any of our opinions that differ significantly from the current paradigm. This format should allow the reader to clearly delineate between the current standard of care and the future that we hope to bring to patients, in part, with the help of reaching out to the medical community through this work.
+
+Background
+Overview
+ACS refers to a spectrum of coronary diseases involving atherosclerotic plaque rupture and platelet-rich thrombus formation, causing stenosis or occlusion of the coronary artery with acutely diminished blood flow and resulting in hypoperfusion and ischemia, with or without infarction of the myocardium.
+Myocardial infarct size ranges widely depending on the myocardial territory at risk, collateral circulation, degree of coronary obstruction, showering of downstream platelet-fibrin aggregates into smaller vessels, and myocardial oxygen demand (which is dependent on the heart rate and wall stress).
+The symptoms of ACS range from asymptomatic to sudden death.
+PITFALLS
+ACS is the acute manifestation of CAD and ischemic heart disease, which is the leading cause of death in the United States and a significant fraction of the developed world, accounting for ⅓ of all deaths in individuals >35 y old.※
+Chest pain, shortness of breath, and other symptoms compatible with potential ACS comprise an enormous amount of ED visits.
+Missed ACS remains one of the most common and costly etiologies of ED litigation.※
+Mechanisms of Plaque Rupture and ACS
+Coronary plaque ranges from a hard calcified plaque to a plaque with a soft inner core.※
+The most vulnerable plaques have a soft lipid-rich acellular core with a thin fibrous cap.※
+The largest component of a given plaque is extraluminal and not seen on standard angiography, which is only a “lumenogram,” whereas some plaques are entirely extraluminal.
+Extraluminal plaques may be seen on computed tomography (CT) coronary angiography, intravascular ultrasound, or autopsy.※
+Plaque rupture leads to exposure of the subendothelium, which leads to platelet activation and thrombus formation.
+PITFALLS
+A lesion with severe (>50%) stenosis is more likely to rupture than a lesion with moderate stenosis, but the majority of plaque rupture ACS events that are seen clinically occur in lesions with <50% stenosis (moderate) due to the very high prevalence of moderate lesions as compared with severe lesions in the overall population.
+Culprits often lie proximal to the site of maximum stenosis.
+Endogenous tissue plasminogen activator and other processes may spontaneously lyse a thrombus.
+ACS is therefore a very dynamic process, with the thrombus alternating between propagation and lysis, resulting in dynamic ECG findings of occlusion and reperfusion.
+Often an “autolysis” or “spontaneous reperfusion” occurs, and the angiogram may be non-diagnostic in such cases.
+In one large study in STEMI patients, 15% had no culprit lesion on angiography, and 24% of these (3.6% of total) were thought to be STEMI without a culprit.※
+Intravascular ultrasound may find a ruptured plaque that is not seen on angiogram.
+Clinical Spectrum and Definitions of ACS
+The spectrum of ACS currently includes unstable angina, NSTEMI, STEMI, and in the most severe presentation, sudden cardiac death.
+Acute myocardial infarction (AMI)
+AMI is defined by international consensus in the Fourth Universal Definition of MI※ as requiring both of the following elements:
+Detection of a rise and/or fall in cardiac troponin values, with at least 1 value greater than the 99th percentile upper reference limit.
+Rise and/or fall is not clearly defined.
+A rise and/or fall of 20%-30% is often used, but:
+The time between measurements is not standardized.
+Absolute numbers are generally more accurate.※
+Each assay and time period has its own appropriate absolute change, as determined in numerous observational studies.※
+Clinical evidence of acute myocardial ischemia, including at least one of the following:
+Symptoms of myocardial ischemia
+New ischemic ECG changes
+Development of pathological Q waves
+Imaging evidence of new loss of viable myocardium or new regional wall motion abnormality in a pattern consistent with an ischemic etiology
+Identification of a coronary thrombus by angiography or autopsy (not for type 2 or 3 MI)
+The Fourth Universal Definition of MI classifies AMI into 5 subtypes based on the mechanism and clinical circumstances, with only types 1-3 being relevant to emergency medicine practice. The classification is given as:
+Type 1: AMI caused by atherothrombotic CAD and usually precipitated by atherosclerotic plaque disruption (rupture or erosion).
+Type 2: AMI (but not ACS) caused by ischemic myocardial injury in the context of a mismatch between the oxygen supply and demand without acute atherothrombotic plaque disruption.
+Type 3: Patients who suffer cardiac death, with symptoms suggestive of myocardial ischemia accompanied by presumed new ischemic ECG changes or ventricular fibrillation, and who die before blood samples for biomarkers can be obtained or before increases in cardiac biomarkers can be identified, or in whom MI is detected by autopsy exam.
+Type 4: AMI within 48 h and related to coronary intervention, including complications such as coronary dissection, downstream embolization, side branch occlusion, etc., (types 4a), in-stent/scaffold thrombosis (type 4b), and restenosis associated with PCI (type 4c).
+Type 5: AMI within 48 h and related to coronary artery bypass graft surgery
+STEMI vs. NSTEMI
+According to the current paradigm, all patients with AMI are classified by the presence or absence of “STEMI criteria” on ECG, resulting in the categories known as STEMI and NSTEMI.
+PITFALLS
+The definition of STEMI criteria varies according to different documents and guidelines, although almost all versions currently agree with the Fourth Universal Definition regarding the following criteria for the diagnosis of anterior, lateral, and/or inferior STEMI on the standard 12-lead ECG:※
+“New ST elevation at the J-point in 2 contiguous leads with the cut-off point:
+≥1 mm in all leads other than leads V2-V3, where the following cut-off points apply:
+≥2 mm in men ≥40 y old
+≥2.5 mm in men <40 y old
+≥1.5 mm in women regardless of age.”
+While there is agreement that the J-point should be the site of measurement of the ST segment, there has been debate regarding the appropriate definition of the baseline against which the J-point is measured. In fact, as of 2018, the Fourth Universal Definition has specified the first-ever baseline for all STEMI guidelines:
+“In patients with a stable baseline, the TP segment (isoelectric interval) is a more accurate method to assess the magnitude of ST-segment shift, and in distinguishing pericarditis from acute myocardial ischemia. Tachycardia and baseline shift are common in the acute setting and can make this determination difficult. Therefore, QRS onset is recommended as the reference point for J-point determination.”※
+The criteria specify that ST elevation is measured at the J-point, relative to the QRS onset (or “PQ junction”), which was the method used by Macfarlane to create the guidelines.※
+The criteria were developed by Macfarlane et al.※ according to the Common Standards for Quantitative Electrocardiography and the Recommendations for the Standardization and Interpretation of the Electrocardiogram although they are not specified in the Fourth Universal Definition of MI.※
+STEMI equivalents
+This term generally refers to a patient with suspected ACS who has ECG findings that do not meet STEMI criteria but are prospectively believed to confer benefit from emergency reperfusion similar to a true positive STEMI.
+At present, the American College of Cardiology/American Heart Association technically only recognizes one situation as a “STEMI equivalent”: Positive original Sgarbossa criteria in the setting of left bundle branch block.
+PERSPECTIVES
+However, a wide variety of beliefs exist among different providers, specialties, and guidelines regarding other conditions that constitute a STEMI equivalent (eg, posterior STEMI, hyperacute T waves, de Winter’s T waves, modified Sgarbossa criteria, ST elevation in aVR associated with widespread ST depression, etc.).
+Unstable angina
+Unstable angina is a notoriously confusing and shifting concept but is currently diagnosed “when there are new or worsening symptoms of ischemia (or a changing symptom pattern) with or without ischemic ECG changes...but with normal biomarkers.”※
+More broadly, unstable angina is defined as ACS that does not have at least one troponin above the 99th percentile.
+Unstable angina is characterized as angina that is any of the following: New in onset, occurs at rest, occurs with minimal exertion, or is otherwise worsening from a previously stable pattern.
+Like MI, unstable angina does not necessarily manifest as any ECG abnormalities.
+Unstable angina is frequently referred to as crescendo angina or preinfarction angina, differentiating its acuity from stable angina and highlighting its short-term risk of AMI in the classic, severe cases.
+To date, changes in high sensitivity troponin below the 99% reference value have not been established as a factor for ruling in or out unstable angina.
+Patients with chronic myocardial injury (chronically elevated troponins largely due to renal failure and heart failure) are the only unstable angina patients who may have elevated troponins, although in these cases, the troponin elevation is not acute (flat with serial measurement) and is not a result of ACS.※
+Occlusion MI vs. Non-occlusion MI
+Occlusion MI is a type 1 ACS resulting in total occlusion or near-occlusion of the infarct-related epicardial vessel, with insufficient collateral circulation, such that full-thickness infarction will occur unless flow is restored immediately.
+Non-occlusion MI is any MI (of any classification, types 1-5) that does not satisfy the description of occlusion MI above.
+See Algorithm and Algorithm for the differences in the categorization of ACS between the STEMI/NSTEMI and occlusion/non-occlusion MI paradigms.
+Epidemiology of ACS
+In the discussion of AMI presented here, any reference to AMI is specifically to type I AMI (due to ACS), unless otherwise specified.
+On initial ECG, STEMI criteria are 6.4% sensitive for any AMI, 35% sensitive for retrospectively adjudicated STEMI, and 21% sensitive for occlusion MI.
+On serial ECGs, STEMI criteria are 9.4%, 51%, and 30% sensitive, respectively.
+Blinded cardiologist visual ECG interpretation is 17%, 82%, and 30% sensitive, respectively.
+Earlier data that were methodologically inferior showed that approximately 28%-30% of all AMI cases manifest as STEMI criteria on ECG, while the remainder are NSTEMI by definition.※
+Essentially, all true positive STEMI cases have near or total occlusion with insufficient collateral circulation (occlusion MI) vs. at least 25%-30% of NSTEMI cases.※
+Assuming that 30% of all AMI is STEMI(+) occlusion MI, then approximately 18% of AMI is STEMI(-) occlusion MI, while the remaining 52% is STEMI(-) non-occlusion MI.
+Thus, slightly less than ½ of all AMI cases are caused by occlusion MI.
+PITFALLS
+MIs of both type 1 and 2 may present with or without STEMI criteria depending on the degree and extent of ischemia, although fewer than 5% of type 2 MI cases exhibit ischemic ST elevation.※
+Mortality of ACS
+The mortality rates of unstable angina, NSTEMI, and STEMI depend heavily on:
+The year in which the event values were measured (decreasing mortality rates have been recorded in all categories over the past 20 years).※
+Whether the events were observed in randomized controlled clinical trials vs. observational studies (patients who are well enough to enroll in randomized controlled trials typically have significantly lower mortality).※
+Whether the NSTEMI groups include type 2 NSTEMIs (in which there is no ACS, and mortality is dependent on the underlying cause and medical or surgical illness).
+With that significant qualification, we believe that the data presented by Rogers et al.※ using the National Registry of Myocardial Infarction provide a reasonably robust estimate of general mortality:
+The in-hospital mortality for cases of STEMI and NSTEMI were reported as 8.0% and 5.2%, respectively.
+Other studies have reported in-hospital or 30-day mortality rates in the STEMI group of 9%-12%, whereas some randomized controlled trials enrolling less sick STEMI patients show in-hospital mortality rates as low as 5.8%.※
+A large and robust STEMI treatment program reported 6.3% 30-day and 10.3% 1-year mortality rates for STEMI patients.※
+The reported mortality of NSTEMI varies widely between studies, with values as great as 45% at 3.2 years, likely because 33% of NSTEMIs in these studies were classified as type 2 MI, which includes a heterogeneous mixture of patients with serious non-cardiac illness.※
+For example: An elderly patient with recurrent stroke, peripheral vascular disease, multivessel CABG, and end-stage heart failure who has an NSTEMI due to type 2 MI in the setting of any reason for hospitalization will obviously have higher mortality than the 45-year-old previously healthy patient suffering from non-occlusive type 1 MI, regardless of ECG findings or the extent of the ACS.
+Thus, the mortality rates of “NSTEMI” in the literature may be significantly more dependent on the patient’s baseline health rather than their ACS and its underlying cause.
+Sandoval et al. provide a rare glimpse of the difference in mortality between type 1 and type 2 NSTEMI, with 180-day mortality rates of 8% and 13%, respectively, vs. 11% for those with elevated troponins who did not meet clinical criteria for AMI (acute myocardial injury not due to MI).※
+The mortality of NSTEMI is greater than that of STEMI at 1 year.※
+Some authors prefer to reserve the term “NSTEMI” for type 1 MI only. For instance, MI caused by demand ischemia would not be referred to as “NSTEMI” but rather “type 2 MI,” since NSTEMI implies type 1 ACS.※
+The short-term mortality rates of unstable angina are less well studied, although small available studies report 1%-3% in-hospital mortality.※
+The mortality of NSTEMIs with vs. without occlusion MI:
+NSTEMIs with acute coronary occlusion [STEMI(-) occlusion MI] have roughly double the short- and long-term mortality of NSTEMIs without acute coronary occlusion [STEMI(-) non-occlusion MI], despite the fact that individuals with STEMI(-) occlusion MI are younger and have fewer comorbidities than those with STEMI(-) non-occlusion MI.※
+Coronary Anatomy and Correlation to Electro- and Echocardiography
+Understanding the anatomy that underlies ACS helps the provider to identify and confirm ACS with the help of the electro- and echocardiography.
+The ECG location of infarction correlates with myocardial territory, which correlates slightly more loosely with coronary anatomy (since there is significant patient-to-patient variation in coronary artery anatomy).
+In general, the two main arteries from the aorta are the right coronary artery and the left main coronary artery.
+The right coronary artery typically supplies the right ventricle, inferior wall of the LV, the AV and sinoatrial nodes, and may also supply some or most of the posterior, and even lateral walls of the LV.
+Important branches of the right coronary artery include the right ventricular marginal branch, which supplies the right ventricle, and the posterior descending artery, which supplies the posterolateral branches in the 85% of the population who have a “right-dominant system.”
+The left main coronary artery typically divides into the left anterior descending artery and left circumflex artery.
+However, the ramus intermedius is a common variant artery between (“intermediate” to) the left anterior descending artery and left circumflex artery that occurs when the left main coronary artery trifurcates (left anterior descending artery, left circumflex artery, and ramus intermedius) rather than bifurcates (left anterior descending artery, left circumflex artery).
+Often, when there is a ramus intermedius, the first diagonal is small or less significant, and the ramus intermedius takes its place.
+The major branches off the left anterior descending artery are called diagonals (eg, D1, D2, etc.), while those off the left circumflex artery are called obtuse marginals (eg, OM1, OM2, etc.).
+The anterior aspect of the septum is supplied via the septal “perforators,” and the anterior wall is generally supplied by the left anterior descending artery, diagonals, and obtuse marginals, while the lateral and high lateral walls may be supplied by any combination of the diagonals, obtuse marginals, and the left circumflex artery.
+The apex of the heart is generally supplied by the left anterior descending artery, and the left anterior descending artery may extend even further in the case of a “type 3” “wraparound left anterior descending artery,” which describes the left anterior descending artery wrapping around the apex and supplying the apex and inferior wall.
+In those with left-dominant circulation, the left circumflex artery supplies the posterior descending artery and thus the inferior wall.
+Regardless of dominance, the posterior wall may be supplied by almost any combination of right coronary artery and left circumflex artery via posterolateral branches off the right coronary artery or off the left circumflex artery and its obtuse marginals, and even via diagonals.
+It should be noted that many purists object to the term “posterior” as a location due mostly to articles by Bayes de Luna that correlate tall right precordial T waves with a lateral location. These articles do not indicate that electrocardiographic posterior STEMI should be abandoned.※
+Finally, it is important to reiterate that the right coronary artery typically supplies the nodes (AV and sinoatrial nodes), while the left anterior descending artery supplies the bundle branches (right and left bundle branches, including the anterior and posterior fascicles).
+On standard 12-lead ECG, the approximate correlations between the leads and the main walls of the myocardium are:
+Anterior (V2-V4)
+Lateral and “high” lateral (V5-V6, I, and aVL)
+Inferior (II, III, aVF)
+ECG lead positioning
+Extra posterior leads V7-V9 overlie the posterior wall, while the extra right-sided leads V3R-V6R overlie the right ventricle.
+Diagnostic Considerations
+Clinical Presentation of ACS
+PITFALLS
+33% of both STEMI and NSTEMI, and as many as 75% of patients >75 years old, present without any chest pain whatsoever, and >40% of women with AMI have no chest pain.※
+The prototypical clinical presentation of ACS includes chest pain or discomfort, although there is a significant range of anginal equivalent or associated symptoms including shortness of breath, epigastric or abdominal pain, back pain, shoulder or arm pain, nausea, diaphoresis, lightheadedness, fatigue, syncope, weakness, lethargy, etc.
+The associated pain or discomfort may radiate to the arms, back, abdomen, neck, or jaw.
+Atypical presentations are common among women, diabetics, and the elderly.
+The spectrum of severity ranges from silent MI, which is recognized only later, to vague complaints in a well-appearing patient, to those with electrical or hemodynamic instability or frank cardiac arrest.※
+The risk factors for CAD are commonly elicited during evaluation for possible ACS, including a prior history of CAD, diabetes, tobacco use, cerebrovascular disease, peripheral vascular disease, obesity, hypertension, hyperlipidemia, a family history of CAD before 55 y old, human immunodeficiency virus/acquired immunodeficiency syndrome, and autoimmune disorders.
+PITFALLS
+Unfortunately, multiple systematic reviews have confirmed the poor accuracy of any single risk factor, symptom, or sign for the diagnosis of ACS.※
+The most useful risk factors with positive likelihood ratios (LR+) in the acute setting are:
+PAD (LR+ 2.7)
+Abnormal previous stress test (LR+ 3.1)
+Established history of CAD (LR+ 2.0)
+Although there is significant variability among authors, the most useful symptoms in the acute setting include:※
+Pain radiating to bilateral arms (LR+ 2.6)
+Pain similar to prior ischemia (LR+ 2.2)
+A change in the pattern of chest pain over the most recent 24 h (LR+ 2.0)
+All of the following patient descriptions of chest discomfort are associated with the same incidence of AMI: Burning, pressure squeezing, indigestion, crushing, tightness, numbness, and nondescript chest discomfort.※
+Only “stabbing” is associated with a lower probability.※
+Conversely, helpful historical features that decrease the likelihood of ACS are pain that is:
+Fully reproducible by palpation (LR+ 0.28)※
+Fully pleuritic or fully positional※
+The response to nitroglycerin (both improvement and lack of improvement) was unhelpful with likelihood ratios approaching 1.0.※
+Physician Gestalt (blinded to everything except the initial history and physical) showed the following categories and likelihood ratios for the likelihood of ACS:※
+“Definite” (4.0)
+“Probable” (1.8)
+“Could be” (0.66)
+“Probably not” (0.20)
+“Definitely not” (0.36)
+The HEART score (which does not utilize advanced ECG interpretation) was quite useful for the diagnosis of ACS, with likelihood ratios of 13 for the high-risk (7-10 points) and 0.20 for the low-risk (0-3 points) categories.
+Vital signs are generally not helpful in the diagnosis of ACS, with the exception of tachycardia.
+In sinus rhythm with a normal ejection fraction and without significant pain and/or anxiety on clinical exam, there is no pathophysiologic reason to expect tachycardia.
+While Fanaroff did not find any use to the presence or absence of tachycardia for the diagnosis of ACS,※ Lee et al. found an negative likelihood ratio of 0.43 for a heart rate >99 bpm for the diagnosis of type 1 MI among chest pain patients who had an ejection fraction >50% on ultrasound, and even better performance among patients with a heart rate >120 bpm.※ Patients with ACS and poor LV function may indeed have tachycardia.
+PITFALLS
+Summary of the features that increase the probability of ACS:
+Radiation to the shoulder, jaw, or arms (bilateral > right >> left)
+Exertional chest pain
+Diaphoresis
+Vomiting
+Same as the symptoms of proven cardiac ischemia
+Substernal or left-sided, poorly localized discomfort
+Not reproduced by palpation, position/movement, or deep breath
+Risk factors
+Older age
+Summary of the features that decrease the probability of ACS:
+Right-side-only discomfort
+Discomfort primarily in the mid to lower abdomen
+Pain is localized to a fingertip area
+Symptoms that last for only sec
+Although the patient reports a discomfort, it improves with exertion (“it goes away when I play basketball”)
+Chest wall palpation precisely reproduces the discomfort on multiple exams
+Pain is completely pleuritic
+Pain is initiated only by changes in position or by movement
+Constant pain lasting many hours but without ECG or troponin changes
+Stabbing pain, like a knife
+Fewer risk factors
+Younger age
+Clear non-ischemic etiology: eg, chest wall trauma
+Pitfalls
+PITFALLS
+Nitroglycerin cannot be used as a diagnostic test for ruling in or out ACS.※
+Antacids cannot be used as a diagnostic test for ruling in or out ACS. Antacids may be associated with pain relief in as many as 25% of AMI cases.
+A normal ECG does not rule out ACS.
+Be wary of diagnosing chest pain as having a gastrointestinal (GI) etiology. Cardiac ischemia can produce symptoms that mimic GI pathology, and vice versa.
+Electrocardiography in ACS
+ECG is the most useful, most rapidly available, and most important initial test in the work-up of potential ACS.
+In this setting, the chief role of ECG is to identify patients with acute coronary occlusion who would benefit from immediate reperfusion, since this is a time-sensitive decision that carries the greatest mortality benefit of all interventions in ACS (other than, perhaps, the administration of aspirin).
+After this initial consideration, ECG is also used to help diagnose non-occlusion ACS, to help differentiate ACS from other pathologies, and to aid risk stratification for future ACS events in patients who do not currently have evidence of active ACS.
+Descriptions of STEMI vs. NSTEMI:
+The current guideline-endorsed approach to the ECG identification of occlusion MI is the STEMI criteria above.
+As explained above, the STEMI criteria are insufficiently sensitive and specific for occlusion MI.
+Furthermore, there is poor inter-observer (and even intra-observer) agreement regarding the methods of measurement and the actual measurements of the ST segment itself, even when using the same standard.※
+Under the current paradigm, McCabe’s survey demonstrated sensitivity and specificity of 70% and 79%, respectively, in a group of attending physicians whose specialty and level of experience varied slightly.※
+The inter-rater reliability (Kappa) was only 0.33.
+Among interventionalists reading ECGs and deciding which patient should be sent to the catheter lab, Tran showed similar poor results:※
+Sensitivity (53%-83%, mean 71%)
+Specificity (32%-66%, mean 63%)
+Consistency (among all of the interventionists, the number of cases recommended for immediate PCI ranged from 32%-86%)
+Advanced ECG Interpretation:
+Expert ECG interpretation for the identification of occlusion MI is a complex and important skill that is beyond the scope of this article and has been well-reviewed in a recent publication by Miranda.※
+The progression of ECG findings in occlusion MI, and in reperfusion, is critical to the appropriate management of ACS.
+Progression of a STEMI on ECG
+The earlier in the occlusion MI progression sequence that the diagnosis is made, the greater the benefit of reperfusion.
+The earliest ECG sign of occlusion is QT lengthening, followed by increased area under the T wave (hyperacute T wave), which signals a viable but ischemic myocardium.※
+Then, as the ischemia progresses, the ST segment begins to elevate.
+As the amount of viable myocardium diminishes with infarction (irreversible cell death or myocardial stunning), the ST segment begins to fall.
+As the myocardium irreversibly infarcts, Q waves form.
+The absence of an action potential in the myocardium underlying the lead is overwhelmed by the action potential of the opposite wall, which has a vector away from the lead, and therefore its deflection is negative (a Q wave).
+Q waves may also form in salvageable myocardium.
+This is especially true in anterior MI, where Q waves may form early and are reversible with early reperfusion.※
+The prototypical evolution is from hyperacute T wave to ST elevation to T wave inversion to Q wave, and depends on the myocardium at risk, the location of the myocardium relative to the leads, the collateral circulation, the completeness and timing of reperfusion, and the presence of no-reflow (when downstream perfusion is still blocked at the level of the microvasculature despite successful intervention on the epicardial vessel during PCI).
+Truly ischemic ECG findings should evolve over time.
+ECG findings that do not evolve were likely not due to ischemia.
+If myocardial ischemia was present, but the ECG did not evolve, then the ischemia was silent on the initial ECG.
+ECG pseudoinfarction patterns may be proven non-ischemic by the absence of evolution.
+In actual clinical practice, the occluded artery may undergo reperfusion and reocclusion at any point in the occlusion or reperfusion sequence below.
+Thus, the skilled electrocardiographer can infer from an ECG when the infarct-related artery is reperfusing or re-occluding in real time, with greater accuracy than observing the patient’s symptoms, which do not always correlate with ECG findings of transmural ischemia, even the obvious findings.※
+Example Clinical Case
+ECG series mid left anterior descending artery occlusion
+Stenting of mid left anterior descending artery occlusion
+A male in his early 40s with known CAD (but no prior PCI or CABG) presented with episodic chest and lower abdominal pain, complaining of an episode of pain that resolved immediately before emergency medical services arrived. In the ED, he was asymptomatic at the time of ECG 1, which does not show signs of ischemia.
+The patient remained pain-free in the ED. Initial troponin was undetectable. Given his known CAD, he was admitted for further high-risk ACS evaluation. That evening at 10:30 pm, the chest pain returned. ECG 2 was recorded at that time, showing new development of hyperacute T waves in leads V2-V4, as well as I and aVL, with reciprocal depression in the inferior leads, and all without meeting STEMI criteria. These ECG findings were not recognized at that time.
+Troponin from 10:30 pm returned undetectable. At 11:00 pm, the pain was still present, so another ECG (ECG 3) was recorded. This ECG shows the further development of diagnostic hyperacute T waves in the same leads, still without meeting STEMI criteria, and these findings were not recognized at that time. The patient was given IV morphine.
+At 4:20 am, ECG 4 was recorded, which shows interval development of clear ST elevation meeting STEMI criteria, which finally triggered activation of the cath lab.
+He was found to have a 100% (TIMI 0) occlusion of the proximal left anterior descending artery which was stented with excellent angiographic result.
+Later that morning after the intervention, ECG 5 was recorded which shows resolution of most of the ST elevation, but with new Q waves in leads I and aVL suggesting full thickness infarction or at least stunning. The leads with prior ST elevation now have the beginnings of terminal T wave inversion, signifying the reperfusion of some viable tissue.
+On repeat ECG 1 month later (ECG 6), we see the expected findings of a large, completed anterior infarct (Q waves or minimal R waves, persistent terminal or full T wave inversion). Assuming the same lead placement, it appears that the R waves in leads I and aVL have recovered somewhat.
+Radiographic Evaluation
+Chest radiograph
+A chest X-ray (CXR) is commonly ordered in all patients with potential ACS symptoms, typically with the intent of ruling out other conditions or diagnosing concomitant conditions.
+There are no particular findings of ACS on the CXR; however, ACS resulting in cardiogenic shock may generate pulmonary edema and/or pleural effusions.
+The CXR may reveal other conditions such as pneumothorax, congestive heart failure (CHF), pneumonia, etc.
+Echocardiography
+The role of echocardiography in the setting of ACS includes the detection of wall motion abnormalities and the differentiation of ACS from other diagnoses and/or late ACS complications, such as papillary muscle rupture, free wall rupture with tamponade, etc.
+Papillary muscle rupture:
+Sudden cardiogenic shock
+Parasternal short axis: https://vimeo.com/91829227
+Parasternal long axis: https://vimeo.com/92378561
+Myocardial rupture:
+Case 1: Left bundle branch block with acute STEMI due to a ruptured obtuse marginal, diagnosed by bedside ultrasound.
+Video: https://player.vimeo.com/video/21538611
+Case 2: Emergency physicians must make the tough decisions.
+https://vimeo.com/124102998
+Wall motion abnormalities may be correlated anatomically with non-diagnostic findings on ECG, thereby increasing the certainty of focal transmural ischemia.
+Some institutions use an “intermediate” ACS activation protocol in which an emergency bubble contrast-enhanced formal echocardiogram is used to aid the decision whether to proceed immediately to the catheter lab based on the presence or absence of a wall motion abnormality.
+While the presence of a wall motion abnormality may help to increase the suspicion of ACS, its absence should not necessarily be reassuring unless the echocardiogram is truly of perfect quality, performed with contrast, and read by a skilled echocardiographer.
+If such a high-quality echocardiogram shows no wall motion abnormality, it is highly unlikely that an epicardial coronary artery is occluded, unless there is good collateral circulation to that area of the myocardium.
+It is also important to remember that the wall motion abnormality may be transiently present, corresponding with the dynamic nature of coronary occlusion and reperfusion. After reperfusion, the wall motion abnormality may remain for hours to days to weeks (myocardial stunning), or it may resolve rapidly if the ischemia intensity and duration are minimal.
+Laboratory Evaluation
+Cardiac troponin is the primary biomarker ordered in suspected ACS and is used to define MI.
+There are very few indications for myocardial-bound serum creatine kinase (CK-MB), which has fallen out of favor due to the superiority of troponin. However, CK-MB can be used to assess for re-infarction within the first few days of initial infarction when the troponin is still elevated.
+Troponin is generally measured immediately on arrival and at serial intervals (eg, every 3 h) thereafter to evaluate for its rise and/or fall.
+There are many different troponin assays in use; therefore, the clinician must understand several key concepts of troponin assays:
+Troponin T vs. troponin I.
+Level of detection is the lowest value that can be consistently detected by the assay.
+99th percentile reference means that 99% of “normals” (variously defined, but generally very healthy individuals) have levels equal to or below this value.
+Coefficient of variation describes the precision with which the assay measures the same sample on two separate occasions and should typically <10%, or possibly <20%, at the 99th percentile reference level.
+“High-sensitivity” troponins are defined by the fact that >50% of normals (the population that is less than the 99th percentile reference range) have a measurable level with a good coefficient of variation.
+Troponin is a very sensitive marker of myocardial injury and is elevated in many disease states in addition to ACS.
+As many as 85% of positive troponins are not due to ACS.
+Among 1,640 ED patients who had troponins and ECG obtained, 30% had at least one elevated troponin (>99% reference range), 4.7% had type 1 MI, 8.5% had type 2 MI, and 17% had elevated troponin without meeting the definition of MI.※
+PITFALLS
+Elevated troponin of any etiology, regardless of the presence of ACS, is associated with higher mortality than in its absence.
+For more information on cardiac troponins, including their use in ruling out MI, See Chapter: Low risk chest pain and accelerated diagnostic protocols.
+Risk Stratification Scores in ACS
+TIMI (thrombolysis in myocardial infarction) score
+The TIMI score is a 0-7 point scale designed to calculate the risk of composite outcome (death, MI, or recurrent ischemia requiring urgent revascularization) at 14 d in confirmed ACS patients.
+Derivation and internal validation:※ The derivation was performed using a database of 7,081 unstable angina/NSTEMI patients from the TIMI 11B and ESSENCE trials.
+All patients had at least one of the following: Known CAD, ischemic ECG, and/or positive troponin.
+Excluded patients received a catheterization within 24 h.
+External validations:
+See: Scirica et al., Pollack et al., and Chase et al.※
+Limitations:
+Does not consider the amount of troponin elevation, vital signs, shock, prior cardiomyopathy, ejection fraction, or any other ECG findings other than “ST changes” ≥0.5 mm.
+TIMI calculator for NSTEMI
+TIMI calculator for STEMI
+GRACE (Global registry of acute coronary events) score
+This is a continuous-scale score from 0-300 designed to predict in-hospital to 6-mo mortality in the setting of confirmed ACS.
+The GRACE score was initially derived and validated from 17,000 patients in 94 hospitals.※
+Inclusion. Signs or symptoms of acute cardiac ischemia and one of the following:
+ECG findings consistent with ACS
+Cardiac biomarker serial increases consistent with ACS
+Documented CAD
+Derivation: Fox et al.※
+Validation: Elbarouni et al.※
+Multiple studies have confirmed that immediate/urgent PCI is superior to delayed PCI for unstable angina/NSTEMI if the patient has a GRACE score ≥140 (which correlates with an in-hospital risk >3%).
+Mehta et al.:※
+NSTEMI patients without refractory ischemia were randomized to “early” (median 14 h) vs. “delayed” (median 50 h) catheter.
+Significant reduction in the primary outcome (composite of death, MI, or stroke) was found in the group with GRACE scores >140 (13.9% vs. 21.0%, P = .006, number needed to treat = 14).
+Kofoed et al.:※
+Among patients with a GRACE risk score >140 (approximately 50% of the cohort), a very early invasive treatment strategy (median 4.7 h) improved the primary outcome (combination of all-cause death, non-fatal recurrent MI, hospital admission for refractory myocardial ischemia or heart failure) as compared with the standard invasive treatment (median 62 h), with a hazard ratio of 0.81; 95% confidence interval of 0.67-1.01; and a P value for interaction of .023 (raw numbers are not available in the manuscript).
+GRACE score calculator
+GRACE score interpretation tables
+Clinical Assessment of the Timing of MI
+Symptom-based timing assessment
+The underlying assumption behind all of the timing recommendations above is that the time since the onset of symptoms is the best way to judge whether there is infarcted (irreversible) vs. ischemic (salvageable) myocardium.
+The problems with patient-reported time since onset:
+Acute coronary occlusion is a dynamic process, often involving periods of reperfusion and reocclusion.
+This approach does not take into account the roles of collateral circulation and ischemic preconditioning.
+As a result, patients may describe 24 h of pain, but upon further questioning, it is revealed that the pain has come off and on, with symptoms recurring and persisting only a few hours prior to presentation.
+Conversely, a myocardium that is fully salvageable may be reported as having constant pain for days.
+This is analogous to current endovascular stroke treatments, in which the timing window is overruled by imaging evidence of salvageable brain tissue with a small core infarct.
+ECG-based timing assessment
+High acuity on ECG is a significantly better indicator of a salvageable myocardium than the pain duration.
+ECG indicators of acuity in general include:
+The absence of Q waves
+High ST segments
+Large/hyperacute T waves
+The absence of T-wave inversion
+Anderson-Wilkins acuity score
+High acuity according to the Anderson-Wilkins acuity score is demonstrated by tall T waves, whereas lower acuity is indicated by Q waves or T-wave inversion.※
+This score correlates with salvageable myocardium better than the duration of symptoms based on ECG criteria and myocardial perfusion imaging.※
+Hyperacute/tall T waves
+“Tall” T waves are an independent marker of benefit from thrombolytics, such that STEMI patients who received thrombolytics with tall T waves had a lower 30-d mortality than patients who did not (5.2% vs. 8.6%, P = .001), and were less likely to develop heart failure (15% vs. 24%, P < .001) and cardiogenic shock (6.1% vs. 8.6%, P = .023).※
+The mortality after thrombolytics in patients with positive T waves is the same for those who have >2 vs. <2 h of symptoms.※
+These data, combined with common sense and the ECG progression of occlusion MI (above), leads to the logical conclusion that the benefit would be even greater in the presence of hyperacute T waves before the stage of ST segment elevation, when the ratio of salvageable to infarcted myocardium is maximum, although this has never been studied.
+Unfortunately, hyperacute T waves have never been formally defined.
+Q-waves
+Although Q waves may be indicative of lower acuity, it is important to note that QR waves are present in 50% of anterior MI within the first hour of symptom onset, representing ischemia of the conduction system rather than completed infarction.※
+Patients with pathologic Q waves already present within the first hour have a larger final infarct size but benefit equally from thrombolytic therapy.
+Armstrong et al.※ more recently showed that Q waves on the “baseline” ECG (first ECG recorded during the event) were an independent marker of a worse outcome, and “after multivariable adjustment, baseline Q-wave but not time from symptom onset was significantly associated with a 78% relative increase in the hazard of 90-d mortality and a 90% relative increase in the hazard of death, shock, and CHF.”
+Therefore, QR waves alone should never be used as a reason to withhold immediate reperfusion therapy.
+Despite our knowledge of the ECG characteristics of acuity, no randomized thrombolytic trials have been carried out based on these characteristics.
+ECG evidence of reperfusion
+After reperfusion therapy, ECG is also the most accurate test to determine whether the downstream myocardium has reperfused spontaneously or as a result of therapies.
+As expected based on baseline knowledge of the ECG progression of occlusion MI (diagram above), the ECG findings of reperfusion include:
+The resolution of hyperacute T waves and ST segment elevation.
+The progression of terminal, then full, T-wave inversion over the course of hours to days.
+The current American College of Cardiology/American Heart Association guidelines suggest using improvement in chest pain, the resolution of ST segment elevation (>70%), and the presence of reperfusion arrhythmias (accelerated idioventricular rhythm), although the guidelines admit that these indicators are imprecise.
+The resolution of chest pain is an unreliable indicator of reperfusion and re-occlusion.
+Timing of Reperfusion in Symptomatic ACS Patients
+Like the indication for immediate reperfusion, the timing of reperfusion therapy has also been incompletely studied but, overall, can be summarized by the classic saying “time is muscle.”
+Boersma et al.※ provide the most complete meta-analysis examining the efficacy of The Benefit of Thrombolytics Over Time Since the Onset of Symptoms since the onset of pain.
+The benefit of thrombolytics is proven to extend out to at least 12 h from the onset of symptoms and is uncertain from 12-24 h, which explains the current American College of Cardiology (ACC)/American Heart Association (AHA) recommendations that thrombolytics should be used if the time delay to catheterization is >90-120 min from the time of the first medical contact to balloon time, or >90 min door-to-balloon time (class 1A, up to 12 h; class IIC, from 12-24 h with “ongoing ischemia” and “a large area of the myocardium at risk or hemodynamic instability”).
+The benefits of PCI are clearly more favorable, leading the ACC/AHA to extend the recommendation for primary PCI out to 12-24 h (48 h for European Society of Cardiology) if any evidence of ongoing ischemia is present, and “irrespective of time delay from MI onset” if there is cardiogenic shock or acute severe HF.
+The Benefit of Thrombolytics Over Time Since the Onset of Symptoms
+Rathore:※
+43,801 patients with STEMI undergoing primary PCI.
+Results:
+Median door-to-balloon time of 83 min, with an overall in-hospital mortality rate of 4.6%.
+Multivariate logistic regression showed that longer door-to-balloon times were associated with a higher adjusted in-mortality risk (P < .001):
+30 min = 3.0%
+60 min = 3.5%
+90 min = 4.3%
+120 min = 5.6%
+150 min = 7.0%
+180 min = 8.4%
+PITFALLS
+Conclusion: The door-to-balloon time should be as short as possible, with benefits accruing even at times <60-90 min.
+Systems approaches to reducing the door-to-balloon time
+Bradley et al.※ studied 365 PCI centers, comparing their door-to-balloon times and surveying 28 specific strategies.
+Six strategies were significantly associated with faster door-to-balloon times (the mean reduction is in parentheses):
+Emergency physician catheter lab activation (in contrast to cardiology) (8.2 min)
+Single call to the central operator for activation (13.8 min)
+Emergency physician catheter lab activation while the patient is en route to the hospital (ie, prehospital activation) (15.4 min)
+Policy expecting catheter lab staff to arrive in the catheter lab within 20 min after being paged (19.3 min)
+Policy mandating that an interventionist always be on site (14.6 min)
+“Real-time data feedback” for ED and Cardiology staff (8.6 min)
+Based on the above data and the recommendations of the authors of this reference, we advise that each of the elements below be explored via local capabilities to reduce door-to-balloon time:
+Prehospital triage system
+Prehospital activation, achieved by either:
+The transmission of ECG for review by the ED/Cardiology
+Paramedic catheter lab activation
+Plan for back-up thrombolytics
+Prehospital transport to a PCI-capable hospital
+Emergency physician activation of the catheter lab (if not carried out prehospital)
+Quality assurance real-time data feedback, hospital-based Continuous Quality Improvement
+A single call to the central operator and time-based expectation of staff arrival
+Timing of Reperfusion in Asymptomatic ACS Patients
+Resolved symptoms with persistent ECG findings
+Occasionally, patients may present with persistent ST elevation (or other ischemic findings) but resolved chest pain.
+This is surprisingly common, and several studies of continuous 12-lead ECG monitoring in the setting of admitted unstable angina report high rates (15%) of silent transient myocardial ischemia (ST elevation). These findings were strong, independent predictors of MI or death during hospitalization.※
+After a careful interrogation ensuring that the patient is truly symptom-free and has not received any pain-reducing non-ACS therapy (opioids) that may be obscuring the identification of ongoing ischemia without actually addressing the underlying ACS, the provider is left with the question of whether to treat the patient immediately, as if symptoms were persistent.
+One would reason that ECG evidence of ongoing ischemia means that the suspected occlusion is still causing ongoing infarction, and therefore, there should still be benefit to emergency therapy.
+Schömig et al:※
+The authors randomized 347 patients, with at least one 20-min episode of chest pain 12-48 h before presentation with no persistent symptoms but unequivocal ST elevation on the ECG, to either receive an immediate angiogram with PCI or a later invasive evaluation only if they developed recurrent angina or other worsening features.
+Most importantly, the study design highlights the fact that persistent symptoms would have clearly indicated immediate PCI.
+The patients who received immediate PCI had a significantly smaller median LV infarct size (8% vs. 13%, P = .001) as measured by a single-photon emission CT, as well as a non-significant but underpowered decrease in the composite of death, recurrent MI, or stroke at 30 d (4.4% vs. 6.6%, P = .37).
+There is no other available evidence in patients whose symptoms have resolved but whose unequivocal ECG findings persist.
+PERSPECTIVES
+Thus, the available evidence supports the common sense theory that even asymptomatic patients with persistent ECG evidence of full-thickness infarction (occlusion MI) should receive an immediate angiogram and PCI.
+Resolved symptoms and resolved ECG findings (“transient STEMI”)
+The decision is more difficult in patients whose symptoms and ECG findings have both resolved completely.
+On one hand, this type of patient is clearly demonstrating an unstable thrombus that has the potential to re-occlude at any moment (and which may be silent when it does) and lead to disastrous consequences that may deteriorate before the patient can be rushed to the catheterization lab.※
+On the other hand, it could be argued that the patient will most likely be safe if receiving aggressive ACS medical therapy and extremely close continuous 12-lead monitoring or at least serial ECGs being read by an expert in the signs of re-occlusion, and that very few patients will deteriorate between immediate recognition and timely PCI, such that the burden of activating the catheter lab overnight may be somehow commensurate with the risk of patient harm.
+Lemkes et al:※
+The authors randomized 142 patients with transient STEMI (whose symptoms and ST elevation had resolved) to an emergency vs. next-day angiogram and PCI, with all patients receiving aspirin, a P2Y12 inhibitor, and an anticoagulant.
+While the infarct size based on magnetic resonance imaging (MRI) was the same in both groups, “4 patients (5.6%) in the delayed invasive strategy required urgent intervention due to signs and symptoms of reinfarction while awaiting angiography.”
+Each patient who suffers re-occlusion while awaiting delayed catheterization, runs the risk of lack of identification of re-occlusion, worsened MI due to the added ischemic time as a result of the delay, and a small but real risk of true deterioration and death between the identification of re-occlusion and PCI.
+Ownbey※
+These authors compared the emergency angiography results of 18 prehospital patients with transient STEMI to 75 patients with sustained STEMI.
+Significant lesions (≥50%) were found in 94% and 97% of patients (P = .6), and subtotal or total lesions (≥95%) were found in 63% and 85% (P = .1), respectively.
+Thus, even those with the full resolution of symptoms and ST elevation had 63% incidence of total/subtotal occlusion.
+No other clinical outcomes were reported.
+Meisel※
+The authors studied 1,244 consecutive STEMI patients and found 63 (5%) with transient STEMI.
+These patients were treated aggressively with IV nitroglycerin, aspirin, clopidogrel, and heparin.
+In comparison with sustained STEMI, transient STEMI was associated with less myocardial damage, less extensive CAD, higher TIMI flow grade, and better cardiac function.
+Blondheim※
+The study compared transient STEMI to sustained STEMI and found that transient STEMI was correlated with lower mortality, lower myocardial damage by troponin, and better cardiac function.
+These results are not surprising, since reperfusion by any means (including spontaneous reperfusion) leads to a better prognosis. However, the results of this study do not answer the question of whether the majority of unaffected patients outweighs the rare disastrous outcome that will inevitably occur if all transient STEMIs are treated in a delayed fashion.
+Author recommendations:
+PERSPECTIVES
+In our clinical experience and interpretation of the literature, patients with transient ST elevation should be sent to the catheterization lab immediately, just as if they had not experienced a resolution of ST elevation.
+If, for some reason, the angiogram is delayed, such patients should receive the maximum medical therapy in an ICU setting with continuous 12-lead ST segment monitoring under the close attention of a practitioner with advanced ECG interpretation training.
+The same reasoning applies to patients with unequivocal ECG evidence of reperfusion from occlusion MI (Wellens syndrome, eg, the reperfusion of anterior occlusion MI without a recorded ECG during occlusion).
+Both groups of patients are at very high risk of re-occlusion, and re-occlusion may be clinically silent or too late to prevent myocardial loss or death.
+Example clinical case: A 51-year-old male with no chest pain but acute left hand numbness while playing cards with friends. The catheter lab was activated based on the prehospital ECG [STEMI(+) occlusion MI], then deactivated based on the ECG at ED arrival showing relative reperfusion [STEMI(-) occlusion MI], then reactivated again based on the repeat ECG 15 min later [STEMI(+) occlusion MI]. The patient expired on arrival to the catheter lab before intervention. There was a 15-min delay by deactivation due to transient/reperfusing STEMI(+) occlusion MI.
+
+Therapeutic Considerations
+General Treatment
+Goal: To achieve and maintain rapid reperfusion and to stabilize the ruptured atherosclerotic plaque/thrombus, thereby restoring blood flow to the myocardium and limiting the infarct size and complications.
+Universal initial actions
+Establish IV access, perform a 12-lead ECG, and initiate cardiac monitoring.
+Oxygen
+Supplemental oxygen should be administered if the patient is hypoxemic (oxygen saturation <90%) or showing signs of respiratory distress or hypoxemia.※
+PITFALLS
+Giving routine oxygen to non-hypoxemic patients has been shown to have no benefit, and some studies have even shown harm, including a larger infarct size and other secondary outcomes such as recurrent infarction and dysrhythmias.※
+Aspirin
+A non-enteric-coated PO loading dose (162-325 mg) should be given to all ACS patients without contraindication.※
+The benefit of aspirin vs. placebo in the setting of suspected STEMI has been quantitated in the ISIS-2 trial, in which aspirin conferred a number needed to treat of 42 for mortality.※
+Nitroglycerin
+Sublingual nitroglycerin (0.4 mg q5min, up to 3 doses as the blood pressure allows), followed by a nitroglycerin drip starting at 10-50 µg/min for active chest pain, followed by a nitroglycerin drip for ongoing symptoms (class I, level B), but is contraindicated in patients with hypotension, suspected inferior and/or right ventricular MI, or recent phosphodiesterase inhibitor use (within 24-48 h).※
+Indicated for ACS with ongoing chest pain, hypertension, or concomitant heart failure with pulmonary edema.※
+There is no evidence base for nitroglycerin in STEMI in the reperfusion era, with the exception of modest benefits in the reperfusion era trials ISIS-4 and GISSI-3.※
+Other recommendations are extrapolated from older, pre-reperfusion era studies using IV or long-acting nitrates for 24-48 h in the setting of AMI, in the absence of PCI and angiography, with varying co-administered antithrombotic therapies, which showed modest symptom and mortality benefits in the nitroglycerin groups.※
+PITFALLS
+IV nitroglycerin may decrease the plasma concentration and thrombolytic effect of alteplase, thus IV nitroglycerine should not be administered with alteplase.※
+Opioid analgesics
+Although opioid analgesics have potential mechanisms by which they may improve the supply/demand mismatch (decreased sympathetic output due to pain relief, causing decreased myocardial demand, etc.), they primarily reduce pain without addressing the underlying coronary thrombus.
+Opioids in the setting of unrecognized occlusion MI may mask the symptoms of ongoing ischemia, resulting in false reassurance of the provider and reduced likelihood of serial ECGs, troponins, and re-evaluation.
+Guideline recommendations for opioids in ACS:
+The 2013 STEMI guidelines recommend opioid analgesics such as morphine or fentanyl in patients with STEMI.※
+The 2014 NSTEMI guidelines state that “IV morphine sulfate may be reasonable for continued ischemic chest pain despite maximally tolerated anti-ischemic medications” (class IIb, level of evidence B).※ Of course, the same guidelines recommend immediate catheterization for such patients.
+Primary evidence of opioids in ACS:
+To date, no high-quality evidence has confirmed or denied the possible harm of opioids in ACS. However, several retrospective analyses have shown an association between opioids and increased mortality.
+Meine et al.※ examined the massive CRUSADE registry of high-risk unstable angina/NSTEMI patients (requiring ischemic ST depression, positive biomarkers, or transient ST elevation) and found that morphine was associated with increased overall mortality (odds ratio = 1.48 [1.33-1.64]) after propensity score matching, among all examined subgroups.
+Conversely, Puymirat et al.※ examined a registry of STEMI patients and found no difference in in-hospital mortality, possibly supporting our suggestion that no harm is done in occlusion MI patients who are already receiving immediate reperfusion treatment.
+Other arguments against the use of opioids in ACS feature pharmacodynamic data showing that opioids delay the GI uptake and anti-platelet effect of ticagrelor. However, these results have never been demonstrated to translate to patient-centered outcomes.※
+Author recommendations:
+PERSPECTIVES
+Thus, the authors of this reference text believe that opioid medications should be administered with severe caution in the setting of possible or confirmed ACS unless the decision to proceed to immediate reperfusion therapy has already been made, lest these medications obscure the interpretation of ongoing ischemia despite maximum medical management that mandates emergency reperfusion.
+That is, the use of opioid analgesics implies commitment to full, immediate treatment including a prompt angiogram, since opioids obscure the determination of ongoing pain (requiring immediate angiography).
+If the decision to proceed with immediate reperfusion therapy has already been made, then opioids may be administered to alleviate symptoms during the time between evaluation and definitive reperfusion.
+Serial ECGs
+PITFALLS
+Serial ECGs can be useful in any situation involving possible ACS, since dynamic changes affect treatment decisions. This method can be performed every few minutes in a critical patient or up to every few hours in an asymptomatic patient, with immediate repeats performed anytime the clinical status changes.※
+Other treatments are based on the patient’s history, physical exam, and ECG classification based on our current guidelines.
+Guideline-recommended ACS Treatment Algorithm (Current STEMI vs. NSTEMI Era)
+ACS algorithm presented by the authors that combines guideline-approved practice from:
+American College of Cardiology/American Heart Association STEMI※ and NSTEMI※ guidelines
+American College of Emergency Physicians (ACEP) NSTE-ACS Clinical Policy※
+ACEP STEMI Clinical Policy※
+European Society of Cardiology (ESC) guidelines for STEMI※
+ESC guidelines for NSTEMI※
+STEMI guidelines
+If the STEMI criteria are met, immediate PCI is recommended if available for patients with ischemic symptoms for <12 h in duration (class I, level A) and those with ongoing ischemia at 12-24 h after the onset of symptoms (class IIa, level B).
+European Society of Cardiology recommends PCI up to 48 h.※
+If there is a delay >90-120 min from the time of the first medical contact to primary PCI, or >90 min from door to PCI, fibrinolytics are recommended in patients with symptoms for <12 h in duration (class I, level A) or ongoing ischemia between 12-24 h from onset with a large area of the myocardium at risk or hemodynamic instability (class IIa, level C).
+Furthermore, the guidelines also suggest that thrombolytics are “not harmful” and, therefore, may be beneficial for patients in whom “true posterior (inferobasal) MI is suspected or when associated with ST elevation in lead aVR,” although no specific ECG criteria are given for these conditions.
+In both cases, patients with STEMI presenting to a non-PCI-capable hospital should be transferred to a PCI-capable hospital as soon as possible.
+Adjunctive medications are to be given as soon as possible in the case of PCI or fibrinolytics including loading doses of aspirin (162-325 mg non-enteric-coated chewable aspirin), a P2Y12 inhibitor (usually clopidogrel 600 mg or ticagrelor 180 mg PO), and an anticoagulant (unfractionated heparin most commonly, 70-100 U/kg with a max loading dose of 4,000 U IV push).
+NSTEMI/Unstable angina guidelines
+Emergency reperfusion: If the STEMI criteria are not met, the current guidelines still recommend emergent reperfusion in several situations.
+Left bundle branch block:
+PITFALLS
+The American College of Cardiology (ACC)/American Heart Association (AHA) STEMI guidelines recommend that left bundle branch block (regardless of chronicity) with positive original Sgarbossa criteria be considered a “STEMI equivalent,” requiring emergency reperfusion.※
+Ischemia with instability or ischemia refractory to medical therapy:
+PITFALLS
+The ACC/AHA NSTEMI guidelines recommend immediate PCI for NSTEMI patients with active ACS and hemodynamic or electrical instability, as well as those with “refractory angina” (angina that is refractory to maximum medical management including aspirin, a P2Y12 inhibitor, and anticoagulation).
+Medical management: NSTEMI or unstable angina patients who have active, ongoing ACS at the time of evaluation (any evidence of ischemia including clinical angina, ECG evidence of ischemia, etc.) but do not immediately meet any criteria for emergent catheterization should immediately be started on “maximum medical management,” including aspirin, a P2Y12 inhibitor, and anticoagulation (unfractionated heparin or low-molecular weight heparin) as per American College of Cardioloy/American Heart Association guidelines.
+However, the American College of Emergency Physicians NSTE-ACS Clinical Policy gives a level-C recommendation that “P2Y12 inhibitors and glycoprotein IIb/IIIa inhibitors may be given in the ED or delayed until cardiac catheterization.”※
+After the rapid administration of maximum medical management, the patient is re-evaluated to determine whether the angina/ischemia is refractory, in which case the patient would qualify for emergency catheterization (but not fibrinolytics).
+Thrombolytics are indicated in a limited group of NSTEMI patients:※
+The 2013 guidelines imply that if there is widespread ST depression with ST elevation in aVR (which is due to subendocardial ischemia), the depression is refractory to medical management, and mechanical reperfusion (PCI) is unavailable, then thrombolytics are acceptable in spite of the decades-old prohibition against thrombolytics for ischemic ST depression.
+PERSPECTIVES
+The authors of this reference text agree with this perspective, as indicated in the studies from which the prohibition originated:※
+Patients who have as little as 1 mm ST depression
+Patients who have ST depression in only 1 lead
+Small numbers of patients
+Mostly patients with >6 h of symptoms
+If angina or other signs of ischemia have completely resolved, the patient may be risk-stratified and dispositioned as usual.
+Patients who require treatment for active ischemia in the ED are usually not suitable for immediate provocative testing or coronary CT angiogram in the ED, regardless of their risk scores when asymptomatic, and should be admitted to Cardiology.
+Patients without STEMI who present with prior symptoms suggestive of ACS but no active symptoms or signs of ischemia during evaluation should be given aspirin, placed on a cardiac monitor, serial ECGs ordered, and risk-stratified as per current practice.
+Most patients with non-occlusion MI will undergo angiography +/- PCI during their hospital stay. Those with contraindications, who are at very low risk, have no recurrent ischemia, and have negative risk stratification testing (eg, stress test) may be treated non-invasively (medically) by the cardiologist or hospitalist, depending on the institution’s protocols.
+Thrombolytic Therapy for Acute MI
+All thrombolytic therapies for ACS should be decided in a protocolized, multi-disciplinary fashion. The following is meant to aid such protocol developments.
+
+Background
+Mechanism: Fibrinolytic (also known as thrombolytic) agents are thought to enzymatically lyse the fibrin-rich thrombus formed at the time of plaque rupture in ACS, ideally resulting in improved clinical outcomes via reperfusion of the affected artery and downstream ischemic myocardium.※
+Fibrinolytic Therapy Trialists’ meta-analysis:
+The mortality benefit of thrombolytics in suspected AMI was unequivocally proven by multiple randomized controlled trials during the “reperfusion era” of the 1980s-1990s, culminating in the Fibrinolytic Therapy Trialists’ landmark meta-analysis of 58,600 patients in 9 randomized controlled trials of fibrinolytics vs. placebo in the setting of suspected acute MI.※
+Heterogeneity among the 9 studies:
+There was significant clinical heterogeneity among the 9 randomized controlled trials, including different thrombolytic agents, trial designs, co-administered medications, time windows for enrollment, and ECG criteria.
+ECG criteria:
+No ECG criteria were required for enrollment in ASSET, EMERAS, LATE, ISIS-2, or ISIS-3.
+The remaining four trials required some sort of ST segment deviation for enrollment, although all four of these had differing criteria with regard to the presence or absence of ST depression, degree of ST elevation, method of measurement, and the number of leads required.
+Despite clinical heterogeneity, almost all 9 studies found a mortality benefit to thrombolytics.
+Results:
+Entire cohort (before any subgroup analysis):
+30-d mortality: 11.5% vs. 9.6% for the placebo vs. thrombolytic groups, with an absolute mortality benefit of 1.9% (number needed to treat [NNT] = 56 for mortality).
+This benefit existed despite a clear mortality harm (number needed to harm [NNH] = 200) for the thrombolytic group in the first 24 h after randomization
+Subgroup analysis: ST depression vs. elevation vs. normal:
+Differing definitions and cut-offs between studies.
+Those with “ST elevation” were found to have an even greater mortality benefit (NNT = 42) than the baseline population.
+Those with “ST depression” and “normal” ECGs both experienced a non-significant mortality harm (NNH = 42 and NNH = 143, respectively).
+ST depression was not scrutinized and was likely a heterogeneous mix of non-ischemic ST depression (eg, left ventricular hypertrophy) and ischemic ST depression.
+Limitations:
+No further ECG changes were studied, and none of these studies involved cardiac catheterization. Thus, we do not know the proportion of patients in each group who actually had acute coronary occlusion, nor the proportion of false positives (those who ultimately had no MI at all). These studies and their meta-analysis prove conclusively that ST elevation (although without a consensus definition) is the best way to determine which patients benefit from thrombolytics, assuming both of the following:
+Cardiac catheterization is not available (therefore, the practitioner is unable to definitively determine which patients have the disease before applying treatment).
+The practitioner is unable to predict the benefit of thrombolytics (therefore, the presence of an occlusive thrombus amenable to thrombolysis) more accurately than the subgroup analysis in the Fibrinolytic Therapy Trialists’ meta-analysis (“normal,” “ST depression,” or “ST elevation”).
+After the Fibrinolytic Therapy Trialists’ meta-analysis, no further randomized controlled literature exists examining thrombolytics vs. placebo (nor PCI vs. placebo).
+This meta-analysis and its surrounding literature lead to the transition from the Q wave vs. non-Q wave MI to the STEMI vs. NSTEMI paradigm, which officially began in 2000.※
+PITFALLS
+No randomized controlled trial has ever attempted to examine subgroups of the “normal” or “ST depression” populations to see which of these patients benefit from emergency reperfusion, despite the fact that many other ECG findings correlate with acute coronary occlusion and 25%-30% of NSTEMI is found to have acute coronary occlusion upon delayed catheterization.
+Thus, the quantitated efficacy of thrombolytics for occlusion MI, except for the subgroup of STEMI(+) occlusion MI, is not known, and likely never will be.
+See Chart for the mortality benefits/harms of thrombolytics in the FTT meta-analysis and comparison with the occlusion/non-occlusion MI paradigm.
+Thrombolytics dosing
+Tenecteplase (TNK-tPA):
+Reconstitute a 50-mg vial in 10 mL sterile water (5 mg/mL)
+Single weight-based bolus, IV push over 5 sec
+<60 kg: 30 mg
+60-69 kg: 35 mg
+70-79 kg: 40 mg
+80-89 kg: 45 mg
+>90 kg: 50 mg
+Alteplase (tPA):
+90-min weight-based infusion
+>67 kg: Infuse 15 mg IV over 1-2 min; then, 50 mg over 30 min; then, 35 mg over the next 60 min (ie, 100 mg over 1.5 h)
+≤67 kg: Infuse 15 mg IV over 1-2 min; then, 0.75 mg/kg (max 50 mg) over 30 min; then, 0.5 mg/kg (max 35 mg) over 60 min
+Streptokinase:
+This drug is no longer marketed in the United States but is available in other countries.
+Streptokinase is highly antigenic and is absolutely contraindicated within 6 months of previous exposure due to the potential for a serious allergic reaction.
+1.5 million units IV given over 60 min
+Thrombolytics vs. PCI
+During the 1990s, multiple randomized controlled trials examined the difference between thrombolytics and primary angioplasty (PCI) in patients with STEMI (definition varied, almost always different from current-day criteria).
+Almost all studies found short- and long-term benefits to PCI over thrombolytics, including:
+Better angiographic outcomes and decreased rates of mortality※
+Decreased recurrent MI※
+Decreased intracranial bleeding※
+Shortened hospital length-of-stay※
+Decreased rates of reintervention and readmission※
+A review of 23 randomized trials demonstrated a significant reduction in death, MI, and stroke (8% vs. 14%, P < .001) in patients treated with primary PCI as compared with fibrinolytic therapy.※
+Even in patients who require transfer, PCI is better than thrombolytics.
+Dalby et al.※ published a meta-analysis of trials in STEMI patients whose transfer time would be <3 h, which compared patients transferred for primary PCI with those treated with immediate fibrinolysis at the non-PCI hospital.
+The authors demonstrated a similarly impressive reduction in death, MI, and stroke (7.8% vs. 13.5%, P < .001).※
+The particular techniques involved in PCI and the various stents available are beyond the scope of this chapter but have also improved significantly over the past 25 years, as have all of the adjunct antiplatelet and antithrombotic therapies.
+Combination Reperfusion Strategies (Thrombolytics + PCI)
+Facilitated PCI (Primary PCI facilitated with thrombolytics at PCI center) for STEMI
+According to a quantitative review of 17 heterogeneous trials, 9 with glycoprotein IIb/IIIa receptor inhibitor pretreatment alone and 8 that used thrombolytics either alone or with a glycoprotein IIb/IIIa receptor inhibitor, there is no proven beneficial role of upstream pretreatment with thrombolytics, and they may even be harmful.※
+Facilitated PCI with fibrinolytic therapy had significantly higher rates of mortality, non-fatal reinfarction, urgent target-vessel revascularization, total and hemorrhagic stroke, and major bleeding as compared with primary PCI. There were no differences in efficacy or safety when facilitated PCI with (an upstream) glycoprotein IIb/IIIa receptor inhibitor was compared with primary PCI.
+ASSENT-4 PCI (ASSENT and investigators, Assessment of the Safety and Efficacy of a New Treatment Strategy with Percutaneous Coronary Intervention):※
+STEMI with anticipated delay to PCI of at least 1 h; median delay was 104 min.
+½ dose reteplase + abciximab followed by PCI vs. abciximab alone followed by PCI vs. placebo + PCI, +/- glycoprotein IIb/IIIa receptor inhibitor at the time of procedure.
+All patients received aspirin and unfractionated heparin.
+The treatment groups could not use glycoprotein IIb/IIIa receptor inhibitors.
+The reteplase group with increased hospital death (6% vs. 3%):
+Poor results were blamed on: 1) No heparin infusion after the bolus in the reteplase group; 2) no upfront loading of clopidogrel; and 3) no glycoprotein IIb/IIIa receptor inhibitor.
+FINESSE:※
+Pretreatment with reteplase + abciximab, then PCI vs. pretreatment with abciximab vs. abciximab at the time of PCI.
+All patients received aspirin and low-dose unfractionated heparin or low-dose enoxaparin.
+No P2Y12 inhibitor.
+No difference in outcomes.
+Again, as in ASSENT-4 PCI, there was likely insufficient anticoagulation and no P2Y12 inhibition.
+It is known that patients who do not have reperfusion after thrombolytics require “rescue PCI” (see below). The above trials (ASSENT-4 PCI and FINESSE) may seem to imply that no patient should receive thrombolytics when a plan for transfer and subsequent PCI also exists, but this is not the appropriate conclusion. In both trials, the inadequate adjunct therapy probably resulted in poor results in the thrombolytic group. In addition, the longer the delay to PCI, the more important thrombolytics can be.
+Below, the authors of this reference text present data that thrombolytics are indeed indicated if any significant delay to PCI is anticipated.
+Rescue PCI (after failure of thrombolytics) for STEMI
+Class I and IIa recommendations are given in the 2007 American College of Cardiology/American Heart Association guidelines.※
+Gershlik et al.※ studied 427 patients with STEMI in whom reperfusion failed to occur (<50% ST segment resolution) within 90 min after thrombolytics.
+Randomized to:
+Repeated thrombolysis (142 patients)
+Conservative treatment (141 patients)
+Rescue PCI (144 patients)
+Event-free for rescue PCI was 84.6% vs. 70.1% for conservative therapy and vs. 68.7% for repeated thrombolysis (overall P = .004).
+PITFALLS
+Rescue PCI is indicated in patients who receive thrombolytics but do not have reperfusion based on the ECG criteria of ST resolution.
+Other studies support this conclusion.※
+Wijeysundera et al.※ performed a meta-analysis of randomized trials of repeat fibrinolysis vs. angioplasty for failed thrombolysis. Accordingly, rescue PCI resulted in better outcomes; repeat thrombolysis did not.
+Transfer for PCI-only vs. thrombolytics prior to transfer for STEMI
+If the delay from the time of the first medical contact to PCI will be >90-120 min (which it commonly is):
+Thrombolytics first, and transfer all patients.
+On arrival to the PCI facility, high-risk patients or those without ECG evidence of reperfusion should undergo immediate PCI.
+If the delay is <90-120 min, then transfer for PCI without thrombolytics.
+Facilitated PCI (thrombolytics) with full adjunctive antithrombotic therapy & P2Y12 inhibition when the patient cannot obtain PCI within 1 h for STEMI
+STREAM study.※ Patients presenting to a non-PCI hospital were all transferred.
+Randomized to:
+1) Tenecteplase before transfer.
+Standard-dose bolus tenecteplase (½ dose in patients ≥75 y old) with clopidogrel 300 mg and enoxaparin (30 mg IV + 1 mg/kg SC) before transport to a PCI-capable hospital.
+2) No tenecteplase before transfer.
+PCI-only group:
+Patients in the PCI-only group were treated very fast, with a duration of 100 min from symptom onset to sheath insertion.※
+Thrombolytic before PCI group:
+Emergency coronary angiography was performed if fibrinolysis failed (this was measured based on the resolution of pain and ST segment elevation on the ECG).
+Thus, this case is analogous to a planned rescue PCI (see Rescue PCI below).
+Otherwise, angiography was performed 6-24 h after randomization.
+The primary endpoint was a composite of death, shock, CHF, or reinfarction up to 30 d.
+Results:
+36% of lytic patients required urgent PCI. The mean time from randomization to angiography in these patients was 2.2 h, vs. 17 h for the other 64%.
+The primary endpoint occurred in 116 of 939 patients (12.4%) in the fibrinolysis group with rescue and in 135 of 943 patients (14.3%) in the primary PCI group (P = .21).
+Intracranial hemorrhage was 1.0% for tenecteplase vs. 0.2%.
+PITFALLS
+Conclusion: Transfer for PCI without thrombolytics is best if PCI at the receiving facility can be performed <90-120 min from the time of the first medical contact, or <90 min from the time of STEMI diagnosis in the first ED.
+Thrombolytics prior to transfer to a PCI capable facility, then rescue PCI if no reperfusion for STEMI
+The TRANSFER AMI study.※
+High-risk STEMI: blood pressure <100, heart rate >100, Killip class II and III, ST depression of at least 2 mm in precordial leads, ST elevation in right precordial leads (right ventricular MI).
+All patients received tenecteplase.
+80%-90% received clopidogrel 300 mg (75 mg in patients >75 y old).
+Enoxaparin (not for patients >75 y old) or unfractionated heparin (50-50). The doses were not specified (presumably standard doses).
+Patients randomized to:
+1) Standard Rx:
+Transfer only if there is persistent ST elevation (<50% ST resolution).
+No transfer if there is reperfusion (ST resolution).
+2) Transfer with immediate PCI regardless of reperfusion.
+Results: The intervention group had PCI for a median of 2.8 h after randomization.
+30-d severe adverse outcomes were 17.2% vs. 11.0% (number needed to treat = 16).
+PITFALLS
+Conclusion: All high-risk STEMI cases should be immediately transferred after thrombolytics.
+Thrombolytics prior to transfer to a PCI-capable facility, then routine PCI regardless of reperfusion for STEMI
+CARESS-in-AMI:※
+Patients: High-risk STEMI, had at least one high-risk feature treated initially at a non-PCI hospital
+Extensive ST elevation, new left bundle branch block, previous MI, Killip class ≥2, left ventricular ejection fraction <35%
+½ dose reteplase, abciximab, heparin, aspirin, only 1/6 received upstream clopidogrel, but this is probably not significant, since the patients did receive dual antiplatelet therapy using abciximab
+Randomized to:
+Immediate transfer for PCI
+Standard therapy: Transfer for rescue PCI only if needed
+PCI in 85.6% of the immediate group; rescue PCI in 30.3% of the standard group
+The median time from thrombolytics to transfer was 110 min in the immediate group vs. 180 min in the rescue group
+Composite of all-cause mortality, reinfarction, and refractory myocardial ischemia within 30 d (4.4% vs. 10.7%, P = .004) in the immediate PCI group vs. standard care/rescue PCI group (number needed to treat = 17)
+No significant differences in major bleeding at 30 d (3.4% vs. 2.3%, P = .47) or stroke (0.7% vs. 1.3%, P = .50)
+Meta-analysis including both high-risk and non-high-risk patients:
+Concluded that all patients should be transferred for early routine PCI after thrombolytics.※
+Early was defined as <24 h. However, the figure below from an editorial representing the 7 trials in the meta-analysis shows that the time to PCI was usually very short.※
+Conclusions:
+PITFALLS
+All high-risk patients who receive thrombolytics prior to transfer should have immediate angiography +/- PCI at the receiving facility regardless of reperfusion status (in other words, not only the patients who need rescue PCI).
+Among the non-high-risk patients who do not require rescue PCI, also consider immediate angio +/- PCI after a delay of 2-3 h.※
+Half-dose thrombolytics prior to transfer to a PCI-capable facility for STEMI
+Half-dose thrombolytics prior to transfer appears to be an attractive option, without an increase in major bleeding.※
+This study was not a randomized trial.
+The institution was a STEMI receiving center, with some referral hospitals >60 miles away.
+The study group was compared with STEMI patients presenting directly to the receiving hospital.
+All patients received aspirin, clopidogrel, and unfractionated heparin.
+Those presenting to hospitals ≥60 miles away also received ½-dose fibrinolytic with transfer for immediate PCI.
+A total of 2,634 consecutive STEMI patients from all sources.
+660 transferred from remote hospitals utilizing ½-dose tenecteplase
+600 patients presented directly to the PCI center
+The door-to-balloon time for direct vs. transfer (mean +/- confidence interval): 62 (44-83) vs. 122 (100-147)
+No significant differences in 30-d mortality (5.5% vs. 5.6%; P = .94), stroke (1.1% vs. 1.3%; P = .66), major bleeding (1.5 vs. 1.8%; P = .65), or re-infarction/ischaemia (1.2% vs. 2.5%; P = .088) in patients receiving tenecteplase vs. those presenting directly to the PCI center, despite a significantly longer door-to-balloon time.
+Summary: Combination reperfusion strategies (thrombolytics + PCI)
+Firstly, it is important to realize that only a small percentage of STEMI patients who do not receive thrombolytics are actually transferred for PCI in a timely fashion, and thus thrombolytics prior to transfer should be strongly considered.
+When the drive time is >30 min, only 42% of patients achieve a first door-to-balloon time <90-120 min. The recommended time for the first medical contact-to-balloon time is <90-120 min.※
+Thus, according to the American College of Cardiology/American Heart Association, immediate transfer after thrombolytics is recommended:
+For all failed reperfusions (for rescue PCI), ST resolution <70%
+For all high-risk patients
+For all other patients, it is reasonable to transfer:
+For these patients, PCI should be delayed for 2-3 h after thrombolytics.※
+Finally, ½-dose thrombolytics prior to transfer appears to be an attractive option, without an increase in major bleeding.※
+Antiplatelet Therapy for ACS
+All antiplatelet therapies for ACS should be decided in a protocolized, multi-disciplinary fashion. The following is meant to aid those protocol developments. Antiplatelet therapy beyond aspirin is incredibly complex and controversial, and the authors believe that an acceptable understanding for general emergency medicine providers would be to administer aspirin to all ACS patients without contraindication, as well as an additional antiplatelet medication at the discretion of the interventionalist and/or institutional protocol. For those who want a deep dive on dual antiplatelet therapy for the purpose of making protocols, see the expandable sections below.
+
+Aspirin
+An aspirin (162-325 mg non-enteric-coated) loading dose should be given to all ACS patients (and all potential ACS patients) without contraindication.※
+Do not give baby aspirin, enteric-coated, or >325 mg.
+STEMI:
+The benefit of aspirin vs. placebo in the setting of suspected STEMI has been quantitated in ISIS2, in which aspirin displayed a number needed to treat of 42 for mortality.※
+NSTEMI:
+There is no difference between high-dose (eg, 325 mg qD) and low-dose (eg, 100 mg qD) aspirin.※
+There is no clear aspirin vs. placebo literature for the NSTEMI group alone.
+Unstable angina:
+It remains unclear whether these patients would have been classified as NSTEMI or even STEMI today.
+Death/MI: 10.1% vs. 5.0%, number needed to treat = 20.※
+Dual antiplatelet therapy
+There are two classes of dual antiplatelet therapy:
+P2Y12 inhibitors (the most important):
+This inhibitor blocks adenosine diphosphate (ADP) production in platelets, one of the principal platelet activators.
+Clopidogrel, prasugrel, ticagrelor, cangrelor.
+Glycoprotein IIb-IIIa inhibitors:
+This inhibitor blocks the final common pathway in platelet aggregation, the glycoprotein IIb-IIIa receptor, to which fibrin links, allowing cross-linkage with other platelets.
+Tirofiban, eptifibatide, and abciximab.
+All have bleeding risks.
+Dual antiplatelet therapy in ACS is incredibly complicated.
+First, everyone with ACS should receive aspirin, as above, unless allergic.
+All randomized trials administer aspirin to all patients.
+“Dual antiplatelet therapy” generally refers to aspirin plus a P2Y12 inhibitor, but could also refer to aspirin + a glycoprotein IIb-IIIa inhibitor, if no P2Y12 inhibitor is given.
+In some cases, all 3 (aspirin, P2Y12, and glycoprotein IIb-IIIa inhibitor) are administered.
+There are 6 general classifications of patients. Within any one of these 6 classifications, the data are confusing. These classifications include:
+STEMI (including occlusion MI) requiring immediate primary PCI
+STEMI treated with thrombolytics
+STEMI with thrombolytics followed by PCI, after transfer to a PCI facility
+NSTEMI with emergency (primary) PCI
+Occlusion MI or non-occlusion MI
+NSTEMI (occlusion or non-occlusion MI) with delayed PCI
+Within 24 h
+>24 h
+NSTEMI (oclusion or non-occlusion MI) with medical therapy only
+Many factors complicate the decision for each classification:
+The different classifications of patients, as outlined above
+P2Y12, or glycoprotein IIb-IIIa, or both
+4 different P2Y12 inhibitors, 3 different glycoprotein IIb-IIIa inhibitors
+Studied with various permutations of the 4 different anticoagulants
+“Upstream” (pretreatment) in the ED or ambulance vs. only giving at the time of PCI
+The many permutations of various syndromes, differences in the timing of intervention, various P2Y12 inhibitors, glycoprotein IIb-IIIa inhibitors, anticoagulants, and upstream vs. downstream administration makes conclusions very difficult to develop. Hence, every institution has its own protocol
+In general, among patients undergoing angiography/PCI, the efficacy of antiplatelet therapy is more dependent on achieving adequate platelet inhibition by the time of intervention than on the diagnostic category.
+PITFALLS
+It is essential to achieve maximum platelet inhibition at the time of PCI, since this is a highly thrombogenic procedure.
+Therefore, the rapid onset of platelet inhibition with a P2Y12 inhibitor is especially important for immediate PCI.
+Higher doses act more rapidly than lower dose; this is especially useful for clopidogrel: 600 mg achieves earlier platelet inhibition than 300 mg.
+Higher doses also have more bleeding risk.
+Ticagrelor is predictable and rapidly acting, especially if chewed.
+Prasugrel achieves complete platelet inhibition sooner than clopidogrel.
+However, upstream administration was associated with worse bleeding and equal ischemic outcomes in a randomized trial.※
+Cangrelor is IV and has immediate onset, but can only be given at the time of PCI by the interventionist.
+IV glycrotein IIb-IIIa inhibitors result in rapid platelet inhibition.
+“Upstream” (pretreatment, in the ED or prehospital) administration of P2Y12 inhibitors and of glycoprotein IIb-IIIa inhibitors.※
+Should dual antiplatelet therapy be given in the ambulance or ED prior to the angiogram? Or should the practitioner wait until the angiogram “defines” the coronary anatomy and the choice of therapy (PCI, CABG, or neither)?
+American College of Emergency Physicicans clinical guideline: “P2Y12 inhibitors and glycoprotein IIb/IIIa inhibitors may be given in the ED or delayed until cardiac catheterization” (Level C recommendation).※
+Only prasugrel (NSTEMI with PCI only) and ticagrelor (STEMI with PCI only) have been studied in dedicated trials comparing pretreatment vs. no pretreatment.
+For patients who are sent immediately for an angiogram (eg, STEMI/occlusion MI):
+ATLANTIC trial: Ticagrelor
+Prehospital (31 min earlier than the controls) treatment resulted in 5% more patients (47.5% vs. 42.5%) with ST resolution after PCI (P = .05), a secondary outcome. The outcomes of this trial were considered negative.※
+For patients undergoing delayed angiogram/PCI (eg, for NSTEMI):
+For NSTEMI with PCI, P2Y12 inhibitors are typically not given “upstream” (in ED) unless by interventionalist or per interdisciplinary protocol.
+ACCOAST trial: Prasugrel
+30 mg upstream followed by 30 mg at angiography as compared with 60 mg at angiography, had more bleeding with the same ischemic outcomes.※
+The median was 19 h from symptom onset to angiography.
+Unstudied problem: Patients who must wait over the weekend, up to 72 h, for an angiogram. Does upstream dual antiplatelet therapy, along with anticoagulants, decrease preprocedure re-infarction?
+Concurrent anticoagulant administration:
+Studies differ in the anticoagulant used with the glycoprotein IIb-IIIa inhibitor or P2Y12 inhibitor.
+Enoxaparin exhibits antiplatelet activity, since it inhibits the production of activated factor X (Xa), which means reduced thrombin production, and thrombin is a platelet activator.
+Bivalirudin is not often used with a glycoprotein IIb-IIIa inhibitor but is always used with a P2Y12 inhibitor.
+Unfractionated heparin has been used with every combination of antiplatelet therapy.
+Individual P2Y12 inhibitors
+The most important dual antiplatelet therapy medications. These inhibitors must be given ASAP to achieve onset by the time of PCI (PCI results in heightened platelet reactivity).
+Clopidogrel
+Thienopyridine, a prodrug, requires conversion to its active metabolite form and, therefore, has unpredictable effects.
+The onset of a 300 mg load is too slow.
+A 600 mg load works significantly faster.
+STEMI with PCI:
+Double dose: 600 mg on day 1, 150 mg on days 2-7, and 75 mg qD thereafter.※
+PCI-CLARITY at a 300 mg load.※
+Decreased death/MI/stroke from 12.5% to 7.0%, number needed to treat (NNT) = 23
+HORIZONS-AMI:※
+600 mg vs. 300 mg non-randomized
+4.9% vs. 8.2% (death, re-MI, stent thrombosis), NNT = 30
+600 mg preferred (2009 STEMI update).※
+Randomized:※
+600 mg was found to be better than 300 mg
+As measured by the infarct size, peak biomarkers, TIMI flow <3, left ventricular ejection fraction, and 30 d major adverse cardiovascular event
+STEMI with thrombolytics:
+COMMIT:※
+45,800 with STEMI, 75 mg loading dose qD
+Death/re-MI/stroke decreased from 10.1% to 9.2%, number needed to treat (NNT) = 11
+CLARITY TIMI-28 at a 300 mg loading dose.※
+Death/re-MI decreased from 21.7% to 15.0%, NNT = 16
+Unstable angina/NSTEMI with PCI:
+Double dose: 600 mg on day 1, 150 mg on days 2-7, and 75 mg qD thereafter※
+PCI-CURE:※
+300 mg load, then 75 mg qD
+30-d death/MI/revasc.: 6.4% vs. 4.5%, number needed to treat = 48.
+Started 6 d before the procedure (which is a long wait for patients with unstable angina/NSTEMI)
+If the dose is 300 mg, it should be given significantly in advance of the procedure.
+Clopidogrel 300 mg vs. placebo given at different times before the procedure.
+CREDO: 300 mg administered >6 h before elective PCI, as compared with 0-6 h, reduced the composite of death, MI, or urgent target vessel revascularization by 38.6% without a significant difference in bleeding. Clopidogrel was superior only if given at least 15-24 h before the procedure.※
+48 h death/MI: 6.4% if given <15 h; 2.5% if given >15 h before the procedure.※
+600 mg vs. 300 mg, randomized (12% vs. 5% favorable outcomes).※
+600 mg vs. 300 mg, given 4-8 h before the procedure, results in significantly fewer adverse outcomes (12% vs. 4%).※
+Only give before PCI with institutional approval due to CABG bleeding risk. CABG is required in up to 16% of NSTEMI cases.※
+However, good evidence of safety and efficacy has been documented even in the CABG group:
+ACUITY (non-randomized).※
+Editorial※
+1,539 of 13,800 had CABG, with a 5-d washout before CABG
+A longer length of stay by 3 d was recorded
+30-d death/MI/revasc.: 17.3% vs. 12.7%, favoring clopidogrel pretreatment
+No CABG bleeding difference
+Unstable angina/NSTEMI without PCI (medical therapy only):
+ACS: CURE trial
+300 mg, then 75 mg. 9.3% vs. 11.4% (death, MI, stroke), number needed to treat = 48, across all TIMI scores.※
+Prasugrel
+Thienopyridine, a prodrug that requires conversion to its active metabolite form, has a faster onset
+Requires less transformation by cytochrome P450 (CYP) enzymes in the liver, is less subject to genetic polymorphisms, and is more likely to result in platelet inhibition
+Only studied in patients with a plan for PCI (only give after angiography, not upstream, not in the ED)
+Lower death/MI/non-fatal stroke rates (12.1% vs. 9.9%) reported than with clopidogrel (TRITON-TIMI-38).※
+Both STEMI and NSTEMI
+Increased major bleeding recorded (2.4% vs. 1.8%)
+Not studied against the accepted higher dose (600 mg) of clopidogrel, but only against 300 mg
+Additional contraindications make prasugrel more complicated than other options: Eg, history of transient ischemic attack (TIA) or stroke, >75 y old (give 5 mg/d).※
+For low body weight (<60 kg), give 5 mg/d※
+STEMI with thrombolytics:
+Should not be given.
+For both STEMI with PCI and unstable angina/NSTEMI with PCI (TRITON-TIMI 38):※
+Prasugrel 60 mg load, then 10 mg/d, vs. clopidogrel 300 mg load, 75 mg/d (TRITON-TIMI 38 2007).※
+60 mg load, then 10 mg/d
+Better against ischemia than 300 mg clopidogrel
+Lower death/MI/non-fatal stroke rates (12.1% vs. 9.9%)
+Higher major bleeding rates (2.4% vs. 1.8%)
+Not tested against clopidogrel 600 mg
+STEMI with PCI:※
+As above
+Give 60 mg at the time of PCI
+Unstable angina/NSTEMI with PCI
+As above
+Give 60 mg at the time of PCI
+Do not give upstream
+ACCOAST trial
+Prasugrel 30 mg given upstream followed by 30 mg at angiography, as compared with 60 mg given at angiography, had more bleeding with the same ischemic outcomes.※
+The median time from symptom onset to angiography was 19 h
+Prasugrel in unstable angina/NSTEMI without PCI: Do not use prasugrel (not studied in this group).
+ISAR-REACT 5
+Large randomized trial comparing prasugrel with ticagrelor in both STEMI and NSTEMI.
+Patients taking prasugrel demonstrated decreased rates of in-stent thrombosis 30 d after STEMI.
+When compared to ticagrelor, patients given prasugrel after angiography had significantly better 1 yr ischemic outcomes, with no excess bleeding risk.
+The emergency physician must inquire about a history of cerebrovascular accident or TIA as prasugrel is contraindicated in these patients due to higher risk of bleeding (Class III, Level B)
+Switching between ticagrelor and prasugrel should be avoided, as ticagrelor blocks prasugrel binding to platelets
+Ticagrelor
+Does not require metabolic activation, unlike clopidogrel (and to a lesser extent, prasugrel); thus, has a faster onset.
+Not a thienopyridine.
+Reversible inhibition (unlike clopidogrel) enhances the rate of the offset of action but is also more risky in non-compliant patients.
+PLATO (both STEMI and NSTEMI, both with PCI):※
+Ticagrelor 180 mg load, then 90 mg BID vs. clopidogrel 300 mg or 600 mg (physician choice)
+Decreased primary composite outcome (9.8% vs. 11.7%)
+1.4% decreased all-cause mortality (4.5% vs. 5.9%)
+STEMI (or occlusion MI) or unstable NSTEMI undergoing primary emergency PCI:
+The best choice for STEMI. Give upstream, 180 mg※
+STEMI with thrombolytics:
+Do not give
+NSTEMI (non-occlusion MI) sent for PCI within 24 h:
+While outcomes may be better, ticagrelor should not be given upstream in this situation unless by institutional protocol, as CABG patients cannot be operated on for 3 days.
+NSTEMI with very delayed PCI (>24 h):
+This is a poorly studied problem.
+Many centers do not perform PCI over the weekend.
+These centers may also use unfractionated heparin, not low-molecular-weight heparin (no enoxaparin or fondaparinux).
+Patients may wait with inadequate platelet inhibition for up to 72 h (although such waits are associated with worse outcomes, especially with a GRACE score >140).※
+The recent VERDICT randomized patients to early (<24 h, mean of 4.6 h) vs. delayed (48-72 h, mean of 60 h) angiography +/- PCI.※
+All patients received optimal dual antiplatelet therapy ticagrelor 180 mg or clopidogrel 600 mg.
+All patients received optimal antithrombotic therapy with fondaparinux, and bolus heparin at the time of PCI.
+Even with optimal dual antiplatelet therapy and antithrombotic therapies, patients at a high risk (GRACE scores >140) trended to do better with early PCI.
+Thus, for patients waiting >24 h for PCI, the authors of this review recommend optimal early dual antiplatelet therapy and enoxaparin or fondaparinux at the time of diagnosis. Do not wait for PCI.
+Unstable angina/NSTEMI without PCI:
+Good choice
+Must use low-dose aspirin (75 mg)※
+PCI vs. without PCI (medical or invasive):
+Better than clopidogrel※
+Cangrelor
+IV, very fast onset, given at the time of angiogram before PCI.
+Approximately ½ of patients still have high platelet reactivity at 2 h for prasugrel 60 mg and ticagrelor 180 mg.※
+Renal patients are not likely to benefit.※
+If a patient is already on one P2Y12 (eg, clopidogrel) and has new ACS, then:
+Administer a different P2Y12 (eg, ticagrelor).
+Relative contraindications to P2Y12 inhibitors
+Increased risk of bleeding
+History of hemorrhagic stroke
+Anemia
+Thrombocytopenia
+Active bleeding
+Summary recommendations: P2Y12 receptor inhibitors
+STEMI with thrombolytics:
+Clopidogrel at 300 mg is the only P2Y12 receptor inhibitor that has been proven safe and effective.※
+75 mg in patients >75 y old, 600 mg has not been studied (not proven safe).
+STEMI with PCI (or any ACS going immediately to the catheter lab):
+Upstream (in the ED or prehospital) administration is recommended by guidelines.
+Upstream is possibly better than at the time of PCI, but this fact is not unequivocally proven.※
+Ticagrelor: 180 mg, then 90 BID is recommended by guidelines.※
+Chew: Faster onset.※
+Ticagrelor has better ischemic outcomes than clopidogrel (PLATO trial) and a faster onset.※
+Slightly more bleeding occurs with ticagrelor.
+However, the bleeding study was only compared with 300 mg clopidogrel.
+300 mg is known to be inferior to 600 mg.
+It remains possible that clopidogrel 600 mg equals ticagrelor 180 mg, but the guidelines support ticagrelor.
+Ticagrelor is safer if the patient ultimately needs CABG (shorter-acting).
+Prasugrel and cangrelor are good alternatives, but are not given upstream in the ED, only by the angiographer after the patient’s anatomy has been defined.
+Clopidogrel 600 mg is acceptable.※
+Clopidogrel: A double dose is better
+600 mg on day 1, 150 mg on days 2-7, and 75 mg qD thereafter※
+In STEMI, the bleeding risk if CABG becomes necessary is countered by the need to immediately open the culprit vessel with PCI.
+PCI always requires dual antiplatelet therapy.
+CABG is significantly less common in STEMI than NSTEMI.
+STEMI:
+ATLANTIC: <2%※
+NSTEMI:
+>10% with CABG※
+16% in the CURE trial※
+UA/NSTEMI with PCI:
+Must be given but is probably not best to give upstream.
+American College of Emergency Physicians Clinical Policy equivocal※
+May be best to define the patient’s anatomy first
+Be certain that the patient does not require CABG.
+Then, give prior to PCI.
+Give upstream, or not, only in accordance with the institutional protocol.
+Ticagrelor: 180 mg, then 90 mg BID
+Chew: Faster onset
+In particular, beware of the upstream administration of any P2Y12 inhibitor when there is widespread ST depression, with ST elevation in aVR of ≥1 mm.
+46% of these patients needed CABG.※
+However, there is good evidence for its safety and efficacy even in the CABG group if there is a washout period before CABG.
+ACUITY (non-randomized):※
+Editorial※
+1,539 of 13,800 had CABG, 5-d washout before CABG.
+Patients had a longer length of stay by 3 d.
+30-d death/MI/revasc.: 17.3% vs. 12.7%.
+A non-significant CABG bleed difference was recorded.
+Prasugrel: Proven not to be better when given upstream (ischemic outcomes are no different than when given at the time of angiography, but more bleeding does occur).※
+ACCOAST trial
+Prasugrel:
+30 mg upstream followed by 30 mg at angiography, as compared with 60 mg at angiography, had more bleeding with the same ischemic outcomes.※
+A median of 19 h from symptom onset to angiography was recorded.
+Clopidogrel:
+Double dose: 600 mg on day 1, 150 mg on days 2-7, and 75 mg qD thereafter.※
+Unstable angina/NSTEMI without PCI (medical therapy):
+Use depends on the cost and patient response to clopidogrel.
+Clopidogrel 600 mg, then 75 mg qD.
+Prasugrel is equal to clopidogrel.※
+Ticagrelor was shown to be better than clopidogrel (early and sustained outcomes), at 180 mg, then 90 mg BID.
+Chew: Faster onset※
+NSTEMI (non-occlusion MI) going for PCI within 24 h:
+According to the institutional protocols only
+Probably withhold, since the CABG risk is high
+If given early, outcomes may be better
+However, CABG patients cannot undergo surgery for 3 d.
+NSTEMI with very delayed PCI (>24 h):
+This is a poorly studied problem.
+Many centers do not perform PCI over the weekend.
+These centers may also use unfractionated heparin, rather than low-molecular-weight heparin (no enoxaparin or fondaparinux).
+Unfractionated heparin with aspirin may not provide enough antiplatelet and antithrombotic activity.
+Patients may wait with inadequate platelet inhibition for up to 72 h (although such waits are associated with worse outcomes, especially with a GRACE score >140).※
+Aspirin + heparin benefit over aspirin alone did not reach statistical significance in a meta-analysis.※
+Glycoprotein IIb-IIIa inhibitors
+Glycoprotein IIb-IIIa inhibitors are powerful antiplatelet agents.
+Glycoprotein IIb-IIIa inhibitors should not be used in patients with a high bleeding risk.
+The use of glycoprotein IIb-IIIa inhibitors in the ED may depend on hospital protocol, but they are usually not administered in the ED (no “pretreatment,” not “upstream”).
+Abciximab
+Eptifibatide
+Tirofiban
+Before the era of P2Y12 inhibitors, glycoprotein IIb-IIIa inhibitors routinely decreased ischemic outcomes in randomized trials, but after the advent of routine 600 mg clopidogrel, and other P2Y12 inhibitors, many negative trials appeared, especially in biomarker-negative patients.※
+Glycoprotein IIb-IIIa inhibitors in STEMI with PCI:
+Not recommended.
+The benefit was established before the use of P2Y12 inhibitors, but not after.※
+“Overall, there is no evidence to recommend the routine use of GP IIb/IIIa inhibitors for primary PCI.”※
+In short, glycoprotein IIb-IIIa inhibitors for STEMI should ideally be reserved for use by the interventionist during PCI, and this is usually for “bail-out” when other therapies are failing.
+Early (ED, “upstream”) administration of GP IIb-IIIa inhibitors in STEMI:
+Without P2Y12 inhibitors, upstream pretreatment with abciximab was shown to be beneficial at one point.
+A meta-analysis of randomized trials reported significant reduction in mortality (primary endpoint) (20% vs. 24.6%), better preprocedural TIMI 3 flow (21.6% vs. 10.1%), improved post-procedural TIMI 3 flow (90% vs. 84.8%), improved myocardial perfusion as evaluated by post-procedural myocardial blush grade 3 (52.0% vs. 43.2%), improved ST-segment resolution (58.4% vs. 43.5%), and decreased distal embolization (10.1% vs. 16.2%).
+No difference in major bleeding (3.3% vs. 2.3%) was observed.※
+Administration occurred a mean of 80 min earlier in the upstream group.
+If the time to angiography is significantly faster, the advantage may be significantly less.
+However, none of the studies used P2Y12 inhibitors.
+“Facilitated” PCI: PCI with the upstream use of glycoprotein IIb-IIIa inhibitors, thrombolytics, or both.
+According to a quantitative review of 17 heterogeneous trials, 9 of which used glycoprotein IIb-IIIa inhibitors alone (others used thrombolytics +/- glycoprotein IIb-IIIa inhibitors), there is no proven beneficial role of upstream pretreatment with glycoprotein IIb-IIIa inhibitors (or with thrombolytics).※
+Facilitated PCI with fibrinolytic therapy had significantly higher rates of mortality, non-fatal re-infarction, urgent target-vessel revascularization, total and hemorrhagic stroke, and major bleeding as compared with primary PCI. No differences in efficacy or safety were observed when facilitated PCI with (an upstream) GP IIb/IIIa inhibitor was compared with primary PCI.
+ASSENT-4 PCI (ASSENT, and investigators, Assessment of the Safety and Efficacy of a New Treatment Strategy with Percutaneous Coronary Intervention):※
+STEMI with an anticipated delay to PCI of at least 1 h
+½-dose reteplase + abciximab followed by PCI vs.
+Abciximab alone followed by PCI vs.
+Placebo + PCI, +/- glycoprotein IIb-IIIa inhibitor at the time of the procedure.
+The reteplase group was observed to have an increased hospital death rate (6% vs. 3%)
+This poor result was blamed on the lack of a heparin infusion after the bolus in the reteplase group, no upfront loading of clopidogrel, and no glycoprotein IIb-IIIa inhibitor administration.
+FINESSE:※
+Pretreatment with reteplase + abciximab, then PCI vs.
+Pretreatment with abciximab vs.
+Abciximab at the time of PCI.
+All patients received aspirin and low-dose unfractionated heparin or low-dose enoxaparin.
+There was no mention of the use of a P2Y12 inhibitor (not given).
+No difference in outcomes was observed.
+Glycoprotein IIb-IIIa inhibitors at the time of angiography (not “upstream”):
+With the P2Y12 inhibitor ticlopidine:
+Montalescot,※ in the ADMIRAL study, found that abciximab at the time of angiography in patients given the P2Y12 inhibitor ticlopidine decreased the incidence of death or re-infarction from 19.0% to 12.9%, number needed to treat = 17. This treatment was not given upstream. The authors concluded that, in stenting for STEMI, abciximab is better than placebo, even when the patient is given a P2Y12 inhibitor.
+It is unclear whether this advantage would remain with the administration of more effective P2Y12 inhibitors.
+Glycoprotein IIb-IIIa inhibitors in STEMI with thrombolytics:
+Not recommended.
+The ASSENT-3 study reported that tenecteplase + enoxaparin was equivalent to ½-dose tenecteplase + abciximab + unfractionated heparin, both regimens were better than tenecteplase + full-dose unfractionated heparin, and tenecteplase + enoxaparin is the easiest combination.※
+The GUSTO-V study reported that reteplase vs. ½-dose reteplase and abciximab led to no difference in the 1-y mortality.※
+A double dose of eptifibatide plus ½-dose tenecteplase improved angiographic flow but was associated with increased bleeding.
+Unstable angina/NSTEMI with PCI:
+“It is reasonable to give glycoprotein IIb-IIIa inhibitors at the time of PCI.”※
+The benefit of abciximab was shown if given at the time of PCI, even in patients who were given a full dose of clopidogrel (600 mg).※
+Upstream (pretreatment) with glycoprotein IIb-IIIa inhibitors:
+Only give glycoprotein IIb-IIIa inhibitors upstream if approved by an interventionist.
+Interventionist approval may happen when a P2Y12 inhibitor cannot be given for some reason (eg, high CABG risk, as in diffuse ST depression with ST elevation in aVR).※
+Important study. Giugliano et al:※
+All patients received clopidogrel and an anticoagulant (unfractionated heparin or enoxaparin).
+Treatment was randomized to upstream eptifibatide vs. eptifibatide only at the time of PCI.
+Outcome: Death/MI/revasc.: 9.3% in upstream, 10.0% in control.
+However, with P = .21, there was an almost significantly better result for each of these groups, independently:
+NSTEMI (“positive” troponin, not just unstable angina)
+Time to randomization <4 h
+Unfractionated heparin (not enoxaparin)
+This study was considered negative.
+The authors of this reference text interpret these results as follows:
+If the patient 1) has a positive troponin; 2) is being treated rapidly; and 3) is not being treated with enoxaparin,
+Then eptifibatide is probably beneficial.
+Unstable angina/NSTEMI without PCI:
+Not indicated.
+Abciximab has been proven ineffective.※
+Anticoagulant Therapy for ACS
+All anticoagulant therapies in ACS should be decided in a protocolized, multi-disciplinary fashion. The following is meant to aid the development of those protocols.
+
+Background
+Angiography and PCI must always be in the setting of anticoagulation to avoid immediate procedural thrombosis.
+This is taken as common knowledge among a wide variety of intravascular procedures and is supported by small, old studies:
+Improvements were observed in angiographic success, with a decreased immediate post-procedural thrombotic vessel occlusion.※
+The benefit of anticoagulation in patients undergoing immediate or urgent PCI is assured based on the procedural benefit alone, regardless of any other possible benefits listed below.
+The original evidence for anticoagulation vs. placebo in ACS without invasive therapy includes:
+All evidence from the 1980s-1990s, without invasive therapy and before dual antiplatelet therapy.
+The meta-analysis by Oler et al.:※
+Six trials met the inclusion criteria, with 1,353 “unstable angina” patients (which includes many likely NSTEMI or even STEMI cases as classified today).
+Aspirin + heparin vs. aspirin + placebo/control
+The duration of the therapy ranged between trials, from 2-7 d
+Results: The incidence of composite results (MI or death):
+During heparin treatment (between 2-7 d): “strong trend” 10.4% (control) vs. 7.9% (heparin), relative risk 0.67 (0.44-1.02), number needed to treat = 40, but not statistically significant
+At 2-12 wk after treatment: No statistical difference, relative risk 0.82 (0.56 - 1.20)
+PERSPECTIVES
+Authors’ conclusion: “Since the anticoagulant effects of heparin are brief, any benefit of therapy is unlikely to last beyond the duration of treatment. Consistent with this theory, we found no reduction in the risk of MI or death between 2 and 12 weeks following randomization in patients with unstable angina who received heparin and aspirin as compared with those who received aspirin alone. This result underscores that heparin is a short-acting, temporizing therapy, and not an intervention that alters underlying atherosclerotic disease.”
+The benefit of anticoagulation from these original studies is controversial, since many authors point out rebound infarction rates after heparin discontinuation, such that the long-term rates of MI were not different between groups.
+PERSPECTIVES
+The conclusion of the authors of this reference text is in favor of giving anticoagulation treatment to all patients with confirmed, active ACS without contraindications. This conclusion was developed based on the following considerations:
+Patient benefit in the setting of PCI is unquestioned, and the clinician cannot always know which NSTE-ACS patients will or will not receive PCI in the ED.
+Heparin as a bridge to definitive therapy in the invasive care era has never been studied. Even so, heparin administration seems to be supported indirectly by the transient protection from MI granted by anticoagulation as a bridge to PCI for patients with unstable plaques, which is the entire basis of the pathophysiology of ACS.
+The authors of this reference agree with the interpretation of the European guidelines: “Recurrence of events after interruption of unfractionated heparin explains why this benefit is not maintained over time, unless the patient is revascularized before the interruption of unfractionated heparin.”
+Recommendations of the current guidelines
+STEMI with PCI:
+Administer unfractionated heparin (I,C) or bivalirudin (I,B) bolus prior to PCI.
+European Society of Cardiology lists unfractionated heparin as class I and enoxaparin as class IIa.
+Enoxaparin 0.5 mg/kg was shown to yield slightly better outcomes than unfractionated heparin and is listed as an option by the ESC.※
+The American College of Cardiology/American Heart Association Guidelines mention enoxaparin as an alternative but give no formal recommendation level. These guidelines also reference a randomized controlled trial showing favorable outcomes of enoxaparin vs. unfractionated heparin.※
+Avoid fondaparinux due to the increased incidence of PCI catheter thrombosis.※
+Fondaparinux may be used if a standard bolus of unfractionated heparin is given at the time of PCI.
+STEMI with thrombolytics:
+Unfractionated heparin (I,C), enoxaparin (I,A), fondaparinux (I,B).
+Exception: Streptokinase (which is not fibrin-specific like the others) does not require simultaneous anticoagulation therapy.
+NSTEMI/unstable angina:
+Administer enoxaparin (I,A), unfractionated heparin, bivalirudin, or fondaparinux (I,B) until PCI is performed, then as above for anticoagulation therapy with PCI.
+Practical considerations
+Do not mix unfractionated heparin and enoxaparin, due to the increased bleeding risk.※
+If the interventionist only uses unfractionated heparin in the catheter lab, then the patient should receive unfractionated heparin in the ED unless there is a definitive reason for non-invasive management.
+The heparin anticoagulation level is monitored in the catheter lab using the activated clotting time.
+STEMI with PCI:
+Unfractionated heparin: 5,000 units (for patients ≥50 kg), 4,500 units (45-50 kg), 4,000 units (40-45 kg) IV bolus. Alternatively, some authors use 60 units/kg (max 4,000-5,000 units) IV bolus.
+Bivalirudin: 0.75 mg/kg IV bolus.
+Low-molecular weight heparin (enoxaparin, etc.) is not indicated.
+Synthetic anti-Xa (fondaparinux) is not indicated.
+STEMI with thrombolytics (without PCI):
+Enoxaparin is the optimal choice:※
+If <75 y old: 30 mg IV bolus, followed in 15 min by 1 mg/kg (max 100 mg for the first dose)
+If ≥75 y old: No bolus, 0.75 mg/kg SC (max 75 mg for the first dose)
+Unfractionated heparin: 5,000 units (≥50 kg), 4,500 units (45-50 kg), 4,000 units (40-45 kg) IV bolus. Alternatively, some authors use 60 units/kg (max 4,000-5,000 units) IV bolus.
+Fondaparinux: Initial dose 2.5 mg IV, contraindicated if creatinine clearance <30 mL/min.
+Only give if the thrombolytic drug is streptokinase.※
+Unstable angina and NSTEMI with PCI:
+Enoxaparin is superior to unfractionated heparin, with more predictable anticoagulation and less bleeding.※
+Preferred by European Society of Cardiology.※
+The American College of Cardiology/American Heart Association give both enoxaparin and unfractionated heparin a class-I recommendation, but only enoxaparin has an appropriate level of evidence supporting its use.※
+This approach requires no lab monitoring, although anti-Xa levels may be monitored.
+Nevertheless, many interventionists prefer unfractionated heparin, because:
+They are accustomed to unfractionated heparin and to using the activated clotting time to monitor anticoagulation.
+Unfractionated heparin is more easily reversible with protamine.
+Many authors who promote unfractionated heparin invoke the SYNERGY trial, which randomized patients with non-ST-elevation-ACS to enoxaparin vs. unfractionated heparin.※
+All patients received aspirin and a glycoprotein IIa/IIIb inhibitor.
+62% in both groups received clopidogrel.
+Death or MI 14.0% (enox) vs. 14.5% (unfractionated heparin); no significant difference.
+However, the trial was fatally flawed:
+⅓ of patients in each group had been initiated on the other anticoagulant prior to randomization (“crossovers”).
+If there was no pre-randomization therapy, or if the pre- and post- therapies were the same, then:
+13.3% for enox and 15.9% for unfractionated heparin.
+The crossover patients had a significantly higher bleeding rate.
+Enoxaparin dosing:※
+If <75 y old: 30 mg IV bolus, followed in 15 min by 1 mg/kg (max 100 mg for the first dose)
+If ≥75 y old: No bolus, 0.75 mg/kg SC (max 75 mg for the first dose)
+For creatinine clearance 15-29 mL/min, 1 mg/kg qD, and monitor anti-Xa activity※
+For creatinine clearance <15 mL/min, not recommended
+If >8 h has elapsed since the last dose, give 0.3 mg/kg IV prior to PCI
+Crossing over to another anticoagulant is strongly discouraged
+Give for the duration of hospitalization
+Unfractionated heparin dosing:
+Initial loading dose of 60 units/kg (max 4,000 units)
+Initial infusion of 12 units/kg/h (max 1,000 units/h)
+Adjusted to therapeutic activated partial thromboplastin time range
+In the catheter lab, adjusted to the activated clotting time
+Fondaparinux: The best safety and efficacy profile if a bolus of unfractionated heparin is given at the time of angiography:
+2.5 mg SC qD
+Continue throughout hospitalization
+Contraindicated if creatinine clearance <30 mL/min
+Associated with catheter thrombosis at the time of PCI:
+OASIS-5 randomized patients to enoxaparin vs. fondaparinux:※
+Enox had 0.3% catheter thrombosis; fondaparinux had 0.9%.
+These values are significantly higher than historical controls with heparin or enoxaparin.
+These data serve as strong evidence in support of the need for antithrombotic therapy during PCI.
+However, this treatment is very safe and effective if a standard bolus dose (85 U/kg) of unfractionated heparin is given at the time of PCI.※
+0.1% incidence of catheter thrombosis
+In patients receiving a glycoprotein IIa/IIIb inhibitor, the unfractionated heparin dose should be 50 units/kg.
+European Society of Cardiology guidelines: “Overall, fondaparinux is considered the parenteral anticoagulant with the most favourable efficacy–safety profile and is recommended regardless of the management strategy, unless the patient is scheduled for immediate coronary angiography.”※
+Unstable angina/NSTEMI with medical therapy only (non-invasive):
+Enoxaparin and fondaparinux are superior to unfractionated heparin.
+Fondaparinux is the best.
+Some authors advocate for dosing with anticoagulants that incorporate the ideal body weight (IBW) vs. total body weight (TBW):
+Heparin:
+Loading dose = IBW + 0.4 (TBW-IBW), 60 units/kg
+Maintenance infusion = IBW + 0.4 (TBW-IBW), 12 units/kg/h
+A comparison between anticoagulant regimens can be complex, is likely not relevant to the ED, and is best made in institution-specific agreements with interventionists.
+Routine Medical Treatment of ACS
+Beta adrenergic blockers
+Consider giving beta blockers acutely in the ED for ACS with ongoing ischemia and significant hypertension believed to be contributing to supply/demand mismatch, in the absence of contraindications.
+The current American College of Cardiology/American Heart Association guidelines:
+STEMI: Class IIa, level of evidence B recommendation for immediate beta blockade, stating “it is reasonable to administer IV beta blockers at the time of presentation to patients with STEMI and no contraindications to their use who are hypertensive or have ongoing ischemia.”
+NSTEMI: (Oral) beta blockers recommended for all ACS within the first 24 h without contraindications, but there is no strong evidence or recommendation that beta blockers should be started in the ED.
+PITFALLS
+Beta blockers are contraindicated in patients with signs of CHF (Killip class III or IV), low cardiac output (SBP <120, sinus rhythm heart rate <60 or >110 bpm), a high risk of cardiogenic shock, elderly (>70 y old), heart block, or any signs of acute sinoatrial or atrioventricular node dysfunction (most commonly seen in right coronary artery occlusions).
+PERSPECTIVES
+Consider one of the following two practices regarding early beta blockade (in the ED) for patients with STEMI (therefore, also relevant to occlusion MI):
+Interpretation 1: “The COMMIT trial was so large that it overrules benefit signals from other trials, and although the mortality was not different between groups, cardiogenic shock is harder to treat than dysrhythmias, therefore no beta blockers until further evidence.”
+Interpretation 2: “The cardiogenic shock seen in the COMMIT trial was overwhelmingly seen in the high-risk groups (heart rate >110, SBP <120, >70 y old), which are excluded in the other trials showing benefit. The literature taken together shows benefit for beta blockers if you exclude those at risk of cardiogenic shock.”
+Underlying evidence:
+COMMIT trial:※
+45,852 STEMI patients randomized to immediate placebo vs. metoprolol (15 mg IV metoprolol (5 mg q5min ×3 doses) followed by 50 mg PO then 200 mg sustained-release starting on d-20).
+The patients receiving primary PCI were excluded.
+The other exclusion criteria included SBP <100, heart rate <50, and cardiogenic shock.
+The patient group was characterized by fairly late presentation ACS (the mean time from symptom onset to thrombolysis was 10.3 h).
+The mortality at 4 wk was not different between the groups (7.7% vs. 7.8%, P = .69).
+The metoprolol group had a lower incidence of recurrent infarction (2.0% vs. 2.5%, P = .001) and ventricular fibrillation (2.5% vs. 3.0%, P = .001) after day 1 and a higher incidence of cardiogenic shock within the first 24 h (5.0% vs. 3.9%, P < .001), especially in the high-risk groups (>70 y old, SBP <120, heart rate>110, Killip class III).
+Early metoprolol in STEMI patients undergoing PCI by Ibanez et al.:※
+270 anterior STEMI patients with Killip class II or less undergoing PCI with an anticipated symptom onset-to-reperfusion time of 6 h, randomized to immediate metoprolol (3× 5 mg doses 2 min apart) vs. control (no placebo), with all patients in both arms being started on oral metoprolol 12-24 h after infarction.
+Exclusions: SBP <120, PR interval >240 ms, second- or third-degree AV block, heart rate <60, or active beta blocker treatment.
+Primary outcome: The mean (SD) infarct size by MRI was smaller after early IV metoprolol as compared with the control (25.615.3 vs. 32.022.2 g; adjusted difference -6.52; 95% confidence interval -11.39 to -1.78, P = .012).
+Malignant ventricular dysrhythmias occurred in 5/140 given metoprolol and 10/130 given placebo (P = not significant).
+The composite of death, ventricular arrhythmia, cardiogenic shock, AV block, and re-infarction at 24 h in the metoprolol and control groups was 7.1% vs. 12.3% (P = .21).
+The long-term, 2-y outcome presented in Pizarro et al.※ based on the primary composite outcome of death, heart failure admission, reinfarction, and malignant arrhythmias in the metoprolol and control groups was 10.8% vs. 18.3% (P = .065).
+Roolvink et al. 2016:
+Randomized 683 STEMI patients to metoprolol (2× 5 mg IV bolus) or placebo before primary PCI.
+Primary outcome (only assessed in 55% of all patients): Infarct size by MRI did not differ between the metoprolol and placebo groups, 15.3%, 11.0% vs. 14.9%, 11.5% (P = .616).
+The incidence of malignant arrhythmias in the metoprolol vs. placebo groups was 3.6% vs. 6.9% (P = .050).
+Agent and dosing options:
+Metoprolol: 5 mg IV push over 1-2 min, q5 min ×3
+Esmolol: 250-500 µg/kg IV push over 1 min, followed by a maintenance infusion of 50 µg/kg/min
+Authors‘ recommendations:
+PERSPECTIVES
+If there are no contraindications (no heart failure, SBP at least 120, no tachycardia, no AV block), metoprolol 5 mg IV ×3, with oral metoprolol given later if tolerated, seems to convey benefit prior to PCI in anterior MI.
+Anterior MI patients treated with PCI (not fibrinolytics) without contraindications to beta blockers, who are anticipated to undergo PCI within 6 h of symptom onset and who have an SBP >120, appear to benefit from 3 × 5 mg doses of IV metoprolol given prior to PCI. All patients without contraindications benefit from oral metoprolol after PCI.
+Calcium channel blockers
+PITFALLS
+Calcium channel blockers given with the intent of decreasing myocardial oxygen demand have very little role in the ED treatment of ACS in normal sinus rhythm, and are only mentioned in the guidelines in specific downstream scenarios as a substitute for beta blockers that have proven ineffective or are contraindicated, or in the chronic management of coronary artery spasm.※
+Held et al.※ performed a systematic review including 19,000 ACS patients in 28 trials, showing no effect on the risk of death or initial/recurrent infarction when given routinely for AMI or unstable angina.
+Calcium channel blockers may reasonably used to lower heart rate, and thus myocardial oxygen demand, in patients who are experiencing rapid ventricular response to atrial fibrillation/flutter or supraventricular tachycardia in the setting of ACS.
+Calcium channel blockers are relatively contraindicated in patients with reduced systolic LV function for fear of acutely worsened cardiac output and hypotension.
+Example clinical case: A middle-aged male presenting with intermittent chest pain and shortness of breath over the past 2-3 d. The initial ECG shows clear inferoposterior injury current [STEMI(+)], with regular narrow tachycardia consistent with supraventricular tachycardia or atrial flutter. Diltiazem 15 mg IV push was administered with rapid conversion to sinus rhythm and improvement in clinical symptoms. Immediate post-conversion ECG shows reduction in ST segment elevation and the beginnings of reperfusion. Immediate angiography revealed a diffuse three-vessel disease with >90% lesions in both the right coronary artery and left circumflex artery, but the angiographers were unable to tell whether the lesions were acute culprits or chronic lesions. Regardless, the dysrhythmia had to be terminated immediately to reduce significant supply/demand mismatch due to the rapid ventricular response.
+
+ECG series inferior STEMI before and after cardioversion for Afib
+
+Angiotensin-converting enzyme inhibitors
+The early initiation of angiotensin-converting enzyme (ACE) inhibitors has been shown to reduce short- and long-term mortality in patients with AMI, with benefit demonstrated as early as 24 h after admission.※
+However, ACE inhibitors should be used with caution within the first 24 h, since they may result in hypotension and/or renal dysfunction.※
+Thus, it is not necessary to start ACE inhibitors in the ED, but ACE inhibitors are an important adjunct to ACS therapy.
+HMG-coenzyme A reductase inhibitors (statins)
+In addition to the long-term preventive mechanisms of statins for ACS, there are potential benefits in the acute setting of ACS attributed to the so-called “pleiotropic” effects of statins, including the inhibition of inflammatory and coagulation cascades and thrombus formation.※
+Both the 2013 STEMI and 2014 NSTEMI guidelines recommend the initiation (or continuation) of statin therapy but do not specify whether these therapies should begin in the ED or further downstream.
+Although there is currently a lack of ED-specific data regarding “upstream” (ED) initiation of statin therapy, various benefits can be inferred from related PCI trials and systematic reviews. For example, Benjo, Patti et al, Navarese, and Harari each performed meta-analyses showing reduced rates of periprocedural MI and other short-term clinical outcomes for ACS patients who received statins prior to PCI.※
+SECURE-PCI trial:※
+Design: Multicenter, double-blind, placebo-controlled, randomized controlled trial at 53 sites in Brazil
+Population: Any ACS patient (with or without ST elevation) judged to require coronary angiography for ACS evaluation.
+Intervention: Randomized to 2 doses of 80 mg atorvastatin or matching placebo before and 24 h after planned PCI. All patients received 40 mg atorvastatin for 30 d starting 24 h after the second dose of study medication.
+Primary outcome: major adverse cardiovascular event (MACE) = all-cause mortality, MI, stroke, unplanned coronary revascularization at 30 d.
+Results:
+4,191 patients, mean age 62 y old, 26% women.
+At 30 d, no significant difference was observed in MACE (6.2% atorvastatin group, 7.1% placebo group).
+Subgroup analysis: Two subgroups with benefit.
+STEMI: 4.1% absolute decrease in MACE at 30 d, number needed to treat (NNT) = 25.
+PCI: 2.2% absolute decrease in MACE at 30 d, NNT = 46.
+In the absence of further data, we suggest that it is reasonable to give the first dose of statin ASAP in any patient with ongoing ACS with either:
+Atorvastatin: 80 mg
+Rosuvastatin: 40 mg
+Special Circumstances
+ACS in Cardiac Arrest
+Attempt defibrillation for ventricular fibrillation (VF)/ventricular tachycardia (VT) and initiate high-quality cardiopulmonary resuscitation.
+Consider transvenous pacemaker placement for significant bradycardia contributing to cardiogenic shock refractory to standard advanced cardiac life support (ACLS) and transcutaneous pacing when there will be a significant delay to the catheter lab.
+VF/VT refractory to multiple defibrillations and standard ACLS:
+Ensure optimal pad placement.
+Consider dual sequential defibrillation, although there is concern for potential concealed damage to the defibrillator, which is not well understood at this time.
+Consider esmolol:
+Driver el al. retrospectively studied 25 patients in refractory VF/VT.※
+6 patients received esmolol, while the other 19 did not.
+The esmolol group had higher rates of return of spontaneous circulation (67% vs. 32%) and survival with good neurologic outcomes (50% vs. 11%).
+Consider veno-arterial extracorporeal membrane oxygenation (ECMO) followed by emergency PCI in patients deemed salvageable with a good baseline quality of life.
+See Chapter: Cardiac Arrest for further information relevant to general cardiac arrest management.
+Which Cardiac Arrest Patients with Return of Spontaneous Circulation Require the Catheterization Lab?
+All patients with STEMI on ECG require the catheterization lab.
+Should patients with initial shockable rhythm who do not have diagnostic ST elevation be sent to the catheterization lab?
+This is controversial.
+Non-randomized trials suggest benefit.
+No randomized trial has shown benefit.※
+This trial had a very small proportion of patients with occlusion MI.
+This may be due to avoidance of the enrollment of patients with high suspicion of occlusion MI, in spite of the enrollment criteria.
+However, 32% of such patients have a culprit lesion that requires intervention.※
+PERSPECTIVES
+Further data are needed, but if occlusion MI is suspected, even in the absence of STEMI, the authors of this review text recommend catheterization lab activation.
+ACS with Cardiogenic Shock
+The differential of cardiogenic shock in the setting of ACS is based on pump failure (LV and/or right ventricle), and mechanical complications (papillary rupture, free wall rupture, etc.). See the Complications section.
+As many as 10%-13% of STEMI cases are complicated by cardiogenic shock.※
+The classic mortality rates in cardiogenic shock are reported to be up to ~80%; however, more recent registries report average mortality rates:※
+In hospital: 30%-45%
+1 y: 40%-55%
+ACS with resulting cardiogenic shock is an indication for emergency PCI, regardless of ECG findings or the time since the onset of symptoms.
+The current guidelines give a class I, level B recommendation for emergency PCI of STEMI in cardiogenic shock, regardless of the time since onset.
+The current guidelines recommend (I,B) fibrinolytics for STEMI patients with cardiogenic shock who are unsuitable candidates for either PCI or CABG.
+Many authors report that fibrinolysis is not effective in ACS with circulatory shock (since the thrombus is less exposed to the fibrinolytic agent). However, a review of the available literature seems to contradict this belief:
+Fibrinolytic Therapy Trialists’ meta-analysis:※
+Very few of the included studies recorded actual “cardiogenic shock”, but almost all recorded hypotension (SBP <100) and tachycardia (heart rate >100).
+GISSI-1 (one of the few that recorded Killip class on arrival):
+Among those in Killip class 3 heart failure (but not cardiogenic shock), a 6% absolute mortality reduction was recorded, with almost identical relative risk reductions in patients designated as Killip class 1 and 2 (RR = 0.77) as expected, but this difference was not statistically significant due to being underpowered (total N with Killip class 3 = 437, vs. a necessary calculated sample size of ~2,000).
+Among the 280 patients with Killip class 4, there was no difference in mortality (70% in both groups).
+Other trials in Fibrinolytic Therapy Trialists’ did not report the Killip class but did report hypotension and tachycardia:
+The 35-d mortality was significantly reduced in hypotensive (SBP <100) patients (6.2% absolute mortality difference, 28.9% vs. 35.1%, number needed to treat [NNT] = 16) as compared with normotensive (SBP = 100-149) patients (1.9% absolute mortality difference, 9.6% vs. 11.5%, NNT = 53), ΔNNT = 37 for hypotension.
+The 35-d mortality was also reduced in tachycardic (heart rate >100) patients (3.3% absolute mortality difference, 17.4% vs. 20.7%, NNT = 30) and showed a consistent pattern of more benefit as the heart rate increases (<80 bpm, NNT = 79; 80-99 bpm, NNT = 48; 100+ bpm, NNT = 30).
+For context with regard to how impressive these benefits are for hypotension and tachycardia, the mortality benefit of using ST elevation vs. no ST elevation in these studies (absolute mortality benefit 2.4%, 10.4% vs. 12.%, NNT = 42) was actually less than using either hypotension or tachycardia instead of ST elevation.
+Fibrinolytic Therapy Trialists’ conclusion: “Overall, therefore, the large trials indicate that fibrinolytic therapy is especially effective among high-risk patients presenting with hypotension and/or tachycardia, many of whom would have been in heart failure or cardiogenic shock. Hypotension, heart failure, or even, perhaps, shock should not, therefore, be contraindications to fibrinolytic therapy or, indeed, other reperfusion strategies.”
+PERSPECTIVES
+Therefore, we highly recommend thrombolytics in hypotensive and/or tachycardic STEMI patients who cannot receive timely PCI.
+Emergency PCI is superior to thrombolytics in STEMI with cardiogenic shock, and emergency PCI is superior to “medical stabilization” with delayed PCI in this group.
+The SHOCK (Should We Emergently Revascularize Occluded Coronaries for Cardiogenic Shock) trial:※
+The mortality rates at 6 and 12 mo were significantly reduced in patients with emergency angiography vs. those with delayed angiography (53.3% vs. 66.4%, absolute mortality difference 13.1%, number needed to treat = 8), despite the fact that nearly ⅔ of the delayed group received fibrinolytics.
+The benefit in this group was apparent up to 54 h after the onset of MI and 18 h after the onset of cardiogenic shock.
+Multiple non-randomized registry studies have shown that emergency PCI is associated with benefit in cardiogenic shock, even in the high-risk elderly population who was offered PCI.※
+Adjunct therapies to emergency reperfusion in ACS with cardiogenic shock:
+Optimize the preload with fluids/blood as necessary based on hematocrit and fluid tolerance.
+Consider intubation, mechanical ventilation, and paralysis to reduce the demand for cardiac output during the delay to definitive management.
+Vasopressors in cardiogenic shock:
+Norepinephrine is first-line, then consider adding dobutamine for persistent low cardiac output after norepinephrine.※
+Rui et al.※ conducted a meta-analysis of norepinephrine vs. dopamine.
+9 studies were incorporated with 510 patients randomized to norepinephrine vs. dopamine.
+The 28-d mortality was lower in the norepinephrine group (30%) vs. the dopamine group (50%), relative risk 1.611 (95% confidence interval 1.219-2.129); P  <  .001.
+A lower incidence of dysrhythmic events was recorded in the norepinephrine group (8%) vs. the dopamine group (28%) relative risk 3.426 (95% confidence interval 2.120-5.510); P  <  .001.
+Correct and prevent dysrhythmias (VT and VF).
+Replenish magnesium >2.0 mEq/L and potassium to 4.0-4.5 mEq/L
+See Chapter: Tachydysrhythmias
+PITFALLS
+Consider veno-arterial ECMO to restore perfusion and prevent cardiac arrest while arranging for emergency PCI if the patient is worsening despite the above therapies.
+When to Transport ACS to a PCI-capable Facility
+STEMI:
+If the delay to PCI (door to balloon time minus door to needle time) is <60 min, then transfer immediately for primary PCI; if not, give thrombolytics and transfer.※
+However, the time since the onset of symptoms and ECG evidence of ischemic time should also be considered.
+Favorability of Lytics vs. PCI for STEMI Based on Transport Situation
+All patients who receive thrombolytics should be transferred immediately to a PCI-capable facility.
+Confirmed ACS patients with refractory angina or persistent hemodynamic/electrical instability warrant immediate catheterization according to current guidelines and should be transferred promptly as STEMI would be, except that lytics are not indicated in NSTEMI.
+Confirmed ACS patients without emergency PCI indications (without ongoing ischemia) should be risk-stratified to determine whether invasive vs. medical treatment will be pursued, and whether further diagnostic/provocative imaging is necessary before transfer according to institutional protocol.

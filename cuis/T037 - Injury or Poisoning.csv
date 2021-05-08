@@ -1,0 +1,666 @@
+cui,name
+C0000921,Accidental Falls
+C0000925,Incised wound
+C0000932,Traffic accidents
+C0002694,"Amputation, Traumatic"
+C0003044,Animal bite
+C0003794,Arm Injuries
+C0004052,Respiratory Aspiration of Gastric Contents
+C0004063,Assault
+C0004161,Athletic Injuries
+C0004601,Back Injuries
+C0004760,Dysbarism
+C0005604,Birth Injuries
+C0005658,bite injury
+C0005659,Bites and Stings
+C0005660,Human Bite
+C0005700,Blast Injuries
+C0006057,Botulism
+C0006107,Brain Concussion
+C0006434,Burn injury
+C0006435,Chemical Burns
+C0006436,"Burns, Electric"
+C0007020,Carbon Monoxide Poisoning
+C0007851,Cervical laceration
+C0008775,Ciguatera Poisoning
+C0009044,Closed fracture of carpal bone
+C0009353,Colles' Fracture
+C0009938,Contusions
+C0010032,Corneal Abrasions
+C0010957,Tissue damage
+C0012691,Dislocations
+C0013142,Drowning
+C0013221,Drug toxicity
+C0013781,Shock from electric current
+C0014412,Environmental Exposure
+C0014557,"Epilepsy, Post-Traumatic"
+C0014714,Ergotism
+C0015256,Excoriation
+C0015333,Exposure to radiation
+C0015401,Eye foreign bodies
+C0015408,Eye Injuries
+C0015409,"Eye Injuries, Penetrating"
+C0015459,Facial Injuries
+C0015802,Femoral Fractures
+C0015806,Femoral Neck Fractures
+C0016124,Finger Injuries
+C0016196,Flail Chest
+C0016479,Food Poisoning
+C0016542,Foreign Bodies
+C0016644,Fracture of carpal bone
+C0016655,"Fractures, Multiple"
+C0016658,Fracture
+C0016659,"Fractures, Closed"
+C0016662,"Fractures, Open"
+C0016664,Stress Fractures
+C0016736,Frostbite
+C0017107,Gas Poisoning
+C0018571,Hand Injuries
+C0018674,Craniocerebral Trauma
+C0018805,Heart Injuries
+C0018839,Heat Exhaustion
+C0018843,Heat Stroke
+C0018845,Heat Collapse
+C0019193,"Hepatitis, Toxic"
+C0019285,"Hernia, Diaphragmatic, Traumatic"
+C0019554,Hip Dislocation
+C0019557,Hip Fractures
+C0020162,Humeral Fractures
+C0020941,Immersion Foot
+C0022744,Knee Injuries
+C0023176,Lead Poisoning
+C0023220,Leg Injuries
+C0023309,Lens dislocation
+C0023702,Lightning Injuries
+C0024692,Mandibular Fractures
+C0024953,Maxillary Fractures
+C0024961,Maxillofacial Injuries
+C0026508,Monteggia's Fracture
+C0026509,Closed Monteggia's fracture
+C0026771,Multiple Trauma
+C0026865,Mushroom Poisoning
+C0027516,Near Drowning
+C0027531,Neck Injuries
+C0027535,Neck sprain
+C0028798,Occupational Exposure
+C0029184,Orbital Fractures
+C0029944,Drug Overdose
+C0031058,Perilunate dislocation
+C0032087,Plant Poisoning
+C0032343,Poisoning
+C0033054,Prenatal Exposure Delayed Effects
+C0033119,Puncture wound
+C0034055,Pulmonary barotrauma
+C0034530,Radiation injury
+C0034561,Radiation-Induced Dermatitis
+C0034628,Radius Fractures
+C0035126,Reperfusion Injury
+C0035361,Retropneumoperitoneum
+C0035522,Rib Fractures
+C0035955,Traumatic Rupture
+C0036601,Self Mutilation
+C0037005,Shoulder Dislocation
+C0037006,Shoulder Fractures
+C0037304,Skull Fractures
+C0037367,Smoke Inhalation Injury
+C0037379,Snake Bites
+C0037578,Soft Tissue Injuries
+C0037929,Spinal Cord Injuries
+C0037937,Spinal Injuries
+C0038000,Splenic Rupture
+C0038045,Sprain
+C0038048,Sprains and Strains
+C0038340,Sting Injury
+C0038561,Submersion
+C0038663,Suicide attempt
+C0038814,Sunburn
+C0038819,Sunstroke
+C0039504,Tendon Injuries
+C0039980,Thoracic Injuries
+C0040185,Tibial Fractures
+C0040441,Tooth Fractures
+C0040443,Tooth Avulsion
+C0040533,Toxic effect of venom
+C0040799,Traumatic subcutaneous emphysema
+C0040831,Trench Foot
+C0041601,Ulna Fractures
+C0043145,Whiplash Injuries
+C0043242,Superficial abrasion
+C0043246,Laceration
+C0043250,Injury wounds
+C0043251,Wounds and Injuries
+C0043252,Gunshot wound
+C0043253,Nonpenetrating Wounds
+C0043254,"Wounds, Penetrating"
+C0043255,"Wounds, Stab"
+C0043264,Wrist Injuries
+C0043540,Fracture of zygoma
+C0079626,Insect Sting
+C0080179,Spinal Fractures
+C0080194,Muscle strain
+C0085094,Closed head injuries
+C0085178,Needlestick Injuries
+C0085592,Heat Cramps
+C0086468,Prenatal Injuries
+C0149531,Fracture of pelvis
+C0149532,Foreign body in esophagus
+C0149674,Injury of elbow
+C0149697,Foot Injuries
+C0149699,Fracture of fibula
+C0149776,Shoulder Injuries
+C0149804,Foreign body in vagina
+C0149844,Brain Contusion
+C0149860,Fracture of coccyx
+C0149944,Fracture of orbital floor
+C0149977,Subluxation of radial head
+C0149992,Injury of trachea
+C0151736,Accidental Injuries
+C0151821,ACCIDENTAL OVERDOSE
+C0151937,Rupture of tendon
+C0152086,Traumatic arthropathy
+C0156215,Perforation of gallbladder
+C0158100,Recurrent joint dislocation
+C0159324,"Fracture of mandible, closed"
+C0159658,Fracture of clavicle
+C0159667,Fracture of scapula
+C0159765,"Open fracture of carpal bone, unspecified"
+C0159776,Closed fracture of metacarpal bone
+C0159783,Open fracture of metacarpal bone
+C0159849,Fracture of patella
+C0159877,Ankle Fracture
+C0159914,Temporomandibular joint dislocation
+C0159970,Knee Dislocation
+C0160087,Ankle Sprains
+C0160345,Injury of gastrointestinal tract
+C0160390,Injury of liver
+C0160392,Injury of liver without open wound into abdominal cavity
+C0160399,Injury of liver with open wound into abdominal cavity
+C0160405,Injury of spleen
+C0160420,Injury of kidney
+C0160422,Closed injury of kidney
+C0160448,Injury of retroperitoneum without open wound into abdominal cavity
+C0160474,Open wound of eyeball
+C0160680,Carotid Artery Injuries
+C0160705,Injury to Inferior Vena Cava
+C0160745,Injury of axillary artery
+C0160761,Injury of popliteal artery
+C0161007,Foreign body in auditory canal
+C0161026,Foreign body in penis
+C0161398,Optic Nerve Injuries
+C0161406,Trigeminal Nerve Injuries
+C0161407,Abducens Nerve Injury
+C0161408,Facial Nerve Injuries
+C0161457,Injury of median nerve
+C0161458,Injury of ulnar nerve
+C0161467,Injury of sciatic nerve
+C0161479,Nerve injury
+C0161558,Poisoning by barbiturate
+C0161745,Sinus barotrauma
+C0162286,Burn of esophagus
+C0162385,Intertrochanteric Fractures
+C0162437,Blow-Out Fractures
+C0178316,Fracture of upper limb
+C0178324,Vascular System Injuries
+C0178362,Legal intervention
+C0178671,Head and neck injury
+C0178850,spinal disk injury
+C0206504,Tympanic Membrane Perforation
+C0231275,Cold exposure
+C0235032,Neurotoxicity Syndromes
+C0235378,Hepatotoxicity
+C0238007,arsenic poisoning chronic
+C0238088,Rupture of diaphragm
+C0238156,"Hematoma, Subdural, Intracranial"
+C0238218,Tear of meniscus of knee
+C0238327,Oxygen toxicity
+C0238417,Scorpion sting
+C0238436,Fracture of sternum
+C0238493,Injury of ureter
+C0240412,Muscle hematoma
+C0240713,Laceration of perineum
+C0241407,Tick bite (disorder)
+C0241955,Jellyfish sting
+C0242154,Poisoning by vitamin D
+C0242188,Spider Bites
+C0242488,Acute Lung Injury
+C0242891,Tooth Injuries
+C0243033,Maternal Exposure
+C0243034,Paternal Exposure
+C0259756,Jarisch Herxheimer reaction
+C0259797,Dog Bite
+C0262386,Avulsed wound
+C0262414,Fracture of cervical spine
+C0262489,Fracture of tibial plateau
+C0262544,Fracture of lumbar spine
+C0262560,muscle contusion
+C0262593,Peripheral Nerve Injuries
+C0263264,Contact dermatitis due to acid
+C0263332,Urticaria due to heat
+C0263905,Subluxation of atlantoaxial joint
+C0267096,Esophageal injury
+C0269855,Hematoma of cord
+C0270374,Hypnotic intoxication
+C0270611,Brain Injuries
+C0271175,Cataract associated with radiation
+C0272423,Injury of ear
+C0272427,Injury of nose
+C0272430,Injury of abdominal wall
+C0272448,Injury of musculoskeletal system
+C0272450,Fracture of frontal bone
+C0272460,Fracture of frontal sinus
+C0272567,Fracture of multiple ribs
+C0272576,Closed fracture of pelvis
+C0272577,Open fracture of pelvis
+C0272654,Fracture of scaphoid bone of wrist
+C0272656,Fracture of triquetral bone of wrist
+C0272677,Fracture of metacarpal bone
+C0272694,Fracture of phalanx of hand
+C0272730,Open fracture of femur
+C0272753,Fracture of shaft of femur
+C0272774,Fracture of foot
+C0273058,Traumatic intracranial hemorrhage
+C0273112,Myocardial Contusions
+C0273115,Lung Injury
+C0273163,Injury of pancreas
+C0273482,Compression injury of nerve
+C0273483,Cranial Nerve Injuries
+C0273486,Vagus Nerve Injuries
+C0273993,Burn of breast
+C0274258,Foreign body in rectum
+C0274265,Air embolism as early complication of trauma (disorder)
+C0274281,Injury due to exposure to external cause
+C0274285,"Hypothermia, Accidental"
+C0274548,Poisoning by oral sulfonylurea derivative
+C0274869,Toxic effect of heavy metal
+C0274912,Poisoning syndrome in animal
+C0275142,Fugu poisoning
+C0275144,Paralytic Shellfish Poisoning
+C0275147,Neurotoxic Shellfish Poisoning
+C0275148,Poisoning of animal by plant
+C0275156,Aconitum species poisoning
+C0277619,Traumatic asphyxiation
+C0277631,Death by strangulation
+C0277644,Death by electrocution
+C0280952,Extravasation of drug
+C0281342,Bone Marrow Ablation
+C0281865,Hip Injuries
+C0281873,Hyperextension injury
+C0281926,Fracture of calcaneus
+C0281957,Radiation-Induced Cerebritis
+C0281980,Injury of integument
+C0282014,Fracture of trapezium of wrist
+C0282015,Traumatic pneumothorax
+C0282350,Sexual abuse
+C0282507,Heat Stress Disorders
+C0311375,Arsenic Poisoning
+C0332667,Traction injury
+C0332673,Minor injury
+C0332679,Crushing injury
+C0332685,Thermal injury
+C0332686,First degree burn injury
+C0332687,Second degree burn injury
+C0332691,Scalding injury
+C0332694,Acid chemical burn
+C0332705,Ulceration of skin due to therapeutic ionizing radiation
+C0332711,"Fracture, oblique"
+C0332712,"Fracture, spiral"
+C0332715,Intra-Articular Fractures
+C0332716,"Fracture, incomplete"
+C0332758,Avulsion fracture
+C0332761,Fracture Dislocation
+C0332767,"Dislocation, complete"
+C0332768,Joint Subluxations
+C0332769,Closed dislocation
+C0332792,"Dislocation, multiple"
+C0332798,Open wound
+C0332803,Surgical wound
+C0332804,Superficial wound
+C0332805,Deep wound injury
+C0332816,burrow wound
+C0332837,Traumatic implants
+C0337196,Collision
+C0337205,Sporting accident
+C0337246,Contact with machinery
+C0339052,Rupture of globe
+C0339174,Injury of conjunctiva
+C0339198,Perforating scleral wound
+C0339289,Injury of cornea
+C0339293,Corneal Perforation
+C0339335,Traumatic hyphema
+C0339848,Fractured nasal bones
+C0339881,Injury of larynx
+C0340006,Traumatic hemothorax
+C0340257,Ventilator-associated lung injury
+C0340652,Arterial Injury
+C0340663,Arterial laceration
+C0340770,Venous Injury
+C0341270,Chemical colitis
+C0341505,Chemical peritonitis
+C0344186,Frost nip
+C0347535,Intracranial injury
+C0347601,Injury of orbit
+C0347602,Injury of retina
+C0347625,Contusion of lung
+C0347632,Contusion of liver
+C0347633,Laceration of liver
+C0347653,Injury of testis
+C0347656,Injury of penis
+C0347738,Anterior dislocation of shoulder joint
+C0347739,Posterior dislocation of shoulder joint
+C0347766,"Skull Fracture, Depressed"
+C0347795,Reversed Colles' fracture
+C0347796,Open Smith's fracture
+C0347804,Fracture of acetabulum
+C0347813,Fracture of talus
+C0353744,Poisoning by iron
+C0375739,Accident caused by hurricane
+C0392620,Alcohol poisoning
+C0392621,Methyl alcohol poisoning
+C0392622,Toxic effect of carbon tetrachloride
+C0393872,Neurapraxia
+C0403677,Injury of bladder
+C0403701,Injury of urethra
+C0405244,Laceration of vagina
+C0409412,Recurrent dislocation of the patellofemoral joint
+C0409497,Joint injury
+C0410256,muscle injury
+C0410330,Hill-Sachs Lesion
+C0413019,Arsine poisoning
+C0413093,Poisoning due to rattlesnake venom
+C0413120,Bee sting
+C0413252,Hypothermia due to exposure
+C0413258,Barotrauma of descent
+C0413280,Aural barotrauma of ascent
+C0413296,Postimmersion-submersion syndrome
+C0413399,Blow -accident
+C0417614,Accident caused by earthquake
+C0417713,Cat bite
+C0418391,Assault by stabbing
+C0432666,Injury of cervical spine
+C0432667,Injury of thoracic spine
+C0432668,Injury of lumbar spine
+C0432787,Pattern bruising
+C0433122,Degloving Injuries
+C0433445,Third degree burn injury
+C0433637,Traumatic amputation of fingertip
+C0433856,"Brain Injuries, Diffuse"
+C0433896,Contusion of cervical cord
+C0434010,Injury of bronchus
+C0434014,Injury of diaphragm
+C0434028,Injury of gallbladder
+C0434034,Injury of bile duct
+C0434159,Rupture of corpus cavernosum of penis
+C0434579,Closed traumatic dislocation of glenohumeral joint
+C0434609,Dislocation of radial head
+C0434744,Subluxation of shoulder joint
+C0434785,Subluxation of hip joint
+C0435001,Ligament injury
+C0435577,Fracture of radial head
+C0435630,Fracture of distal end of radius and ulna
+C0435632,Fracture of hand
+C0435750,Closed fracture of rib
+C0435751,Open fracture of rib
+C0435895,Pilon fracture
+C0435907,Trimalleolar Fractures
+C0435908,Bimalleolar Fractures
+C0435943,Metatarsal bone fracture
+C0439059,Supraspinatus tear
+C0441713,Chemical injury
+C0441718,Direct trauma
+C0449499,Type of injury
+C0455954,Doughnut burn
+C0455956,Cigarette burn
+C0456824,Acute drug intoxication
+C0457212,Arborescent patterning of skin
+C0473977,Local anesthetic agent poisoning
+C0474975,Subungual hematoma
+C0475013,Duodenal hematoma
+C0475072,Traumatic cerebral hemorrhage
+C0475073,"Subarachnoid Hemorrhage, Traumatic"
+C0476159,Fracture of bone involving growth plate
+C0476161,Salter-Harris type I
+C0476162,Salter-Harris type II
+C0476163,Salter-Harris type III
+C0476164,Salter-Harris type IV
+C0476165,Salter-Harris type V
+C0476171,Comminuted Fracture type
+C0480203,Self inflicted injury
+C0497561,urologic injuries
+C0518443,skin abrasion
+C0520799,Acute Radiation Syndrome
+C0520804,Intentional drug overdose
+C0521168,Occupational Injuries
+C0521711,Corneal laceration
+C0521825,Amnesic Shellfish Poisoning
+C0522560,Needle track
+C0524598,"Fractures, Occult"
+C0542351,Battery (assault)
+C0544691,Hanging
+C0549356,inflicted injury
+C0554775,Toxic effect of plant
+C0554780,House fire
+C0555305,"Head Injury, Minor"
+C0555307,Injury of large intestine
+C0555308,Internal pelvic injury
+C0559395,Luxatio Erecta
+C0559411,Bennett's fracture
+C0559422,Fracture of pisiform bone of wrist
+C0559424,Fracture of trapezoidal bone of wrist
+C0559425,Fracture of hamate bone of wrist
+C0559427,Posterior Malleolus Fractures
+C0559515,Descent barotrauma of sinuses
+C0559875,Stable fracture
+C0560570,Cardiovascular injury
+C0560621,Gum injury
+C0560636,Pelvic injury
+C0560637,Genital injury
+C0560650,Posterior cord syndrome
+C0560651,Central Cord Syndrome
+C0561241,Laceration of lip
+C0561546,Bite wound
+C0561804,Traumatic amputation of penis
+C0561852,Bone injury
+C0565866,Maternal injury
+C0565944,Burn of skin of body region
+C0572322,Laxative overdose
+C0572812,Citalopram overdose
+C0572916,Barbiturate overdose
+C0573209,Overdose of beta-adrenergic blocking drug
+C0573713,Insulin overdose
+C0573718,Sulfonylurea overdose
+C0579142,Overdose of opiate
+C0585058,Undisplaced fracture
+C0585059,Fracture with displacement
+C0595916,Toxic nephropathy
+C0596838,limb fracture
+C0597457,skeletal injury
+C0597503,spinal shock
+C0600106,Elbow fracture
+C0600688,Toxic effect
+C0677050,Manganese Poisoning
+C0677519,Injury caused by vibration
+C0679360,Foodborne Disease
+C0681629,"Accidents, Chemical"
+C0686721,Shaken baby syndrome
+C0699828,Serotonin Syndrome
+C0700359,Organophosphate poisoning
+C0701802,Bicycle accident
+C0701836,Thermal burn
+C0740366,fractured vertebra (compression)
+C0740445,Chemical Burn of Eye
+C0740686,TRAUMA/INJURY PROBLEM
+C0740937,alveolar fracture
+C0742361,chest wound
+C0743668,Limb Injury
+C0743751,facial fractures
+C0745051,humerus fracture distal
+C0745334,Inhalation injury
+C0745404,iron overdose
+C0746471,medication overdose
+C0746730,myocardial injury
+C0748233,radius fracture distal
+C0748830,"Skull Fracture, Basilar"
+C0749492,Open fracture of tibia
+C0749596,toxic ingestion
+C0750971,Cerebral Contusion
+C0751503,"Skull Fracture, Non-Depressed"
+C0751504,Linear Skull Fracture
+C0751619,"Head Injury, Blunt"
+C0751792,"Trauma, Nervous System"
+C0751795,"Head Injuries, Penetrating"
+C0751799,"Brain Hemorrhage, Traumatic"
+C0751813,"Brain Injury, Chronic"
+C0751814,Cerebrovascular Trauma
+C0751859,"Lead Poisoning, Nervous System"
+C0752219,Diffuse Axonal Injury
+C0840655,Fracture of distal phalanx of equine limb
+C0847630,puncture of skin
+C0848377,trauma to the abdomen
+C0848378,pelvic trauma
+C0850773,Tendon tears
+C0851122,Rotator Cuff Injuries
+C0852694,Cartilage injury
+C0852878,Non-accidental injury
+C0854388,Caustic Injury
+C0854391,Aortic Injury
+C0854404,iatrogenic injury
+C0854570,Pocket Erosion
+C0854571,Reocclusion
+C0854572,Sinus Perforation
+C0854679,Needlestick Puncture
+C0857457,digoxin effect
+C0857807,Accidental ingestion
+C0857808,In Utero Drug Exposure
+C0859872,Corrosive Injury
+C0869330,Struck by lightning
+C0876926,Traumatic Brain Injury
+C0876994,Cardiotoxicity
+C0877377,Skin tear
+C0878589,acute spinal cord injury
+C0879537,Irreversible Toxicity
+C0920045,Thrombus in Catheter
+C0948276,shunt malfunction
+C1096106,Wound Complication
+C1096117,Off-Label Treatment
+C1096630,malleolar fracture
+C1112427,Bursa Injury
+C1135812,Patellar Dislocation
+C1146542,Torus fracture
+C1261223,Traumatic hemopericardium
+C1264238,Injury of central nervous system
+C1265651,Microfractures
+C1265658,Anterior dislocation
+C1265659,Posterior dislocation
+C1265688,Simple laceration
+C1268945,ACE inhibitor-aggravated angioedema
+C1274548,Hymenoptera sting
+C1282311,Moderate head injury
+C1299982,Facial laceration
+C1301685,Dental trauma
+C1302752,Abrasion
+C1302810,Mechanical irritation
+C1305215,Fracture of forearm
+C1306570,Cold Injury
+C1313880,Microtrauma
+C1318512,Injury of esophagus without open wound into thoracic cavity
+C1321307,Traumatic mydriasis
+C1368081,Physical trauma
+C1384489,Scratch marks
+C1456496,Traumatic AND/OR non-traumatic brain injury
+C1456529,Facial Injuries and Disorders
+C1456530,Craniofacial Injuries
+C1456556,Heat Illness
+C1456701,Shoulder Injuries and Disorders
+C1456854,Hand Injuries and Disorders
+C1456870,Neck Injuries and Disorders
+C1504340,Dural tear
+C1504534,Radiation burn
+C1535897,Hair Tourniquet
+C1542178,Fracture of lower leg
+C1556061,Electrical Injuries
+C1558210,Intraoperative Injury
+C1611188,Salter-Harris Fractures
+C1621955,Physical abuse
+C1696469,Medial Tibial Stress Syndrome
+C1698097,Intraoperative Digestive System Injury
+C1698099,Intraoperative Splenic Injury
+C1699210,Intraoperative Neurological Injury
+C1699740,Intraoperative Ocular Injury
+C1699742,Intraoperative Cardiac Injury
+C1710055,Serious Injury
+C1710632,Vessel perforation
+C1866687,Corner fracture of metaphysis
+C1868711,Mechanical Ventilation Complication
+C1960100,Shellfish Poisoning
+C1963951,Acute overdose
+C1997626,Neurovascular injury
+C2077104,Injury due to terrorism
+C2077203,Recurrent Laryngeal Nerve Injuries
+C2226910,Injury of anus
+C2347482,Perinatal Brain Injury
+C2348347,Drug/Toxin-Induced Aplastic Anemia
+C2350350,Ventilator-Induced Lung Injury
+C2362502,Safety Issues
+C2609162,Periprosthetic Fractures
+C2609414,Acute kidney injury
+C2700000,Physical Entrapment
+C2712693,Acute radiation exposure
+C2717979,Tooth Wear
+C2717988,Diarrhetic Shellfish Poisoning
+C2720437,Dislocation of elbow joint
+C2826584,Dusky Mucosa
+C2862185,Toddler's Fracture
+C2919103,Homicide (injury)
+C2936209,Conducted Energy Weapon Injuries
+C2937319,Internal injury
+C2945681,ischemic brain injury
+C2963159,Chemical Emergencies
+C3179088,Lingual Nerve Injuries
+C3179093,Laryngeal Nerve Injuries
+C3203359,Rupture
+C3263722,Traumatic AND/OR non-traumatic injury
+C3263723,Traumatic injury
+C3272308,Injury of cardiac valve
+C3274504,Injury of phrenic nerve
+C3508472,Mild Traumatic Brain Injury
+C3544179,Accidental Drug Ingestion
+C3639957,Intentional Trauma
+C3640074,Spinal Injury Related to Birth
+C3661498,Syndesmotic Injuries
+C3662209,Sprain of ankle grade II
+C3662210,Sprain of ankle grade III
+C3662211,Sprain of ankle grade I
+C3665493,Snake bite (morphologic abnormality)
+C3669285,Fracture of calcaneus of equine limb
+C3697114,Shear injury
+C3697279,Transchondral fracture
+C3697432,Bowing fracture
+C3697471,Hyperflexion injury
+C3697690,Flap Tears
+C3714513,Connective and Soft Tissue Injury
+C3714660,Trauma
+C3873637,Simple fracture of bone
+C3896997,Marrow Toxic Injury
+C3897952,Perforating Open Globe Injury
+C3897968,Penetrating Open Globe Injury
+C3898098,Open Globe Injury
+C3899529,Closed injury of eyeball
+C4021619,Ulnar radial head dislocation
+C4039322,Blast injury to eye region
+C4040051,Periprosthetic fracture of hip
+C4277654,"Microtrauma, Physical"
+C4277746,Tibial Meniscus Injuries
+C4280022,Blunt Cardiac Injury
+C4325467,Maxillofacial trauma
+C4520766,Bite of mosquito
+C4544037,Exertional heat stroke
+C4552279,Tissue injury
+C5190679,Incapacitated sexual assault
+C5201165,Injury caused by exposure to ionizing radiation (disorder)
+C5205871,Gastrointestinal Radiation Injury
+C5205872,Lung Radiation Injury
+C5205873,Cutaneous Radiation Injury
+C5205874,Renal Radiation Injury
+C5205875,Cardiovascular Radiation Injury
+C5205876,Central Nervous System Radiation Injury
+C5205877,Liver Radiation Injury

@@ -1,0 +1,91 @@
+cui,name
+C0003261,Antibody Formation
+C0007992,Pharmacological Phenomena
+C0013203,Drug resistance
+C0019868,Homeostasis
+C0031802,"Physical Conditioning, Animal"
+C0036536,Process of secretion
+C0042765,Virulence
+C0042767,Virus Activation
+C0085224,Virus Integration
+C0220781,Anabolism
+C0232478,Ingestion
+C0234130,Motor function
+C0242735,Germination
+C0282588,"Drug Resistance, Neoplasm"
+C0282688,"Evolution, Molecular"
+C0392673,Adaptation
+C0460152,Regurgitation - mechanism
+C0520989,Viral resistance
+C0596518,environmental radiation
+C0596824,latent virus infection process
+C0596834,light adverse effect
+C0597203,pesticide resistance
+C0597342,radiation hazard
+C0678790,dose-response relationship
+C0684253,Physiological reperfusion
+C0812399,Creatinine clearance
+C0851347,Pharmacodynamics
+C1154577,response to external stimulus
+C1155290,response to symbiotic bacterium
+C1160636,respiratory gaseous exchange in organisms
+C1160638,Viral life cycle
+C1258064,Therapeutic Uses
+C1325859,regulation of circadian rhythm
+C1326875,freezing tolerance
+C1327622,Regulation of biological process
+C1327632,regulation of viral process
+C1522975,flower formation
+C1523252,sequestering of metal ion
+C1523349,embryonic placenta development
+C1524109,biologic segmentation
+C1537068,Virus Internalization
+C1656970,entry into host
+C1659461,endoplasmic reticulum localization
+C1660836,multi-organism process
+C1710276,Systemic Reaction
+C1720850,Fetal Programming
+C1744691,establishment and maintenance of localization
+C1817760,regulation of tissue kallikrein-kinin cascade
+C1817882,Granuloma formation
+C1817884,immune complex clearance
+C1817894,leukocyte mediated immunity
+C1817981,regulation of plasma kallikrein-kinin cascade
+C1818745,regulation of granuloma formation
+C1818823,regulation of T cell mediated immunity
+C1820201,tissue remodeling
+C2610402,regulation of ovulation
+C2752987,regulation of response to cytokine stimulus
+C2753690,atrial ventricular junction remodeling
+C2754914,organic substance metabolic process
+C2936286,Biological Oxygen Demand
+C3156794,regulation of fertilization
+C3157484,regulation of defecation
+C3158920,nitric oxide storage
+C3178953,Carnivory
+C3537152,biological signaling
+C3547680,negative regulation of response to reactive oxygen species
+C3547710,negative regulation of response to salt stress
+C3658311,Plant Dormancy
+C3714634,Biological Processes
+C3811681,Callus formation
+C3821726,regulation of viral release from host cell
+C3821727,negative regulation of viral release from host cell
+C3821729,positive regulation of viral release from host cell
+C3821794,ketone body metabolic process
+C3821903,regulation of delayed rectifier potassium channel activity
+C3821906,positive regulation of delayed rectifier potassium channel activity
+C3824189,regulation of opsonization
+C3853734,viral process
+C3894443,reactive oxygen species biosynthetic process
+C3895190,regulation of cardiac conduction
+C3895193,positive regulation of cardiac conduction
+C3895980,regulation of locomotor rhythm
+C4042783,Pharmacological and Toxicological Phenomena
+C4042799,Toxicological Phenomena
+C4054898,Germ Cell Depletion
+C4084934,age-related resistance
+C4690863,negative regulation of gastric emptying
+C4690864,positive regulation of gastric emptying
+C5205068,Virus Reactivation
+C5205069,Adenovirus Reactivation

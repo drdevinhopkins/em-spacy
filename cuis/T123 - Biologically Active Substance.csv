@@ -1,0 +1,898 @@
+cui,name
+C0000392,beta-alanine
+C0000702,"DNA, A-Form"
+C0001041,acetylcholine
+C0001239,Actin-Binding Protein
+C0001271,Actins
+C0001347,Acute-Phase Proteins
+C0001369,Acyl Carrier Protein
+C0001413,Adenine Nucleotides
+C0001443,adenosine
+C0001455,cyclic AMP
+C0001459,Adenosine Diphosphate
+C0001461,Adenosine Diphosphate Ribose
+C0001465,adenosine monophosphate
+C0001468,Adenosine Phosphosulfate
+C0001480,adenosine triphosphate
+C0001898,alanine
+C0001924,Albumins
+C0002191,alpha 1-antitrypsin
+C0002210,alpha-Fetoproteins
+C0002358,Alu Elements
+C0002520,Amino Acids
+C0002531,Amino Sugars
+C0002563,aminolevulinic acid
+C0002667,Amphetamines
+C0002976,Angiogenesis Factor
+C0003006,Angiotensin I
+C0003009,angiotensin II
+C0003012,Angiotensin III
+C0003017,Angiotensinogen
+C0003018,Angiotensins
+C0003134,Anserine
+C0003136,Ant Venoms
+C0003410,Antiplasmin
+C0003440,Antithrombins
+C0003591,Apolipoproteins
+C0003765,arginine
+C0003899,Arthropod Venoms
+C0004015,aspartic acid
+C0004266,"Attachment Sites, Microbiological"
+C0004434,Avidin
+C0004630,Bacterial Toxins
+C0004891,"Fusion Proteins, bcr-abl"
+C0004920,Bee Venoms
+C0004954,belladonna alkaloids
+C0005151,beta 2-Transferrin
+C0005210,beta-Endorphin
+C0005391,Bile Acids and Salts
+C0005402,Bile Pigments
+C0005404,bile salts
+C0005437,Bilirubin
+C0005496,Biogenic Amines
+C0005497,Biogenic Monoamines
+C0005498,Biogenic Polyamines
+C0005515,Biological Factors
+C0005554,Biopolymers
+C0005789,Blood Coagulation Factor
+C0006558,C-Peptide
+C0006631,Cadherins
+C0006675,calcium
+C0006685,Calcium Channel
+C0006772,Calmodulin
+C0007012,carbon dioxide
+C0007061,Carboxyhemoglobin
+C0007062,Carboxyhemoglobin A
+C0007063,Carboxyhemoglobin C
+C0007269,Carotene
+C0007292,Carrier Proteins
+C0007412,Catecholamines
+C0007578,Cell Adhesion Molecules
+C0007810,Cerebrospinal Fluid Proteins
+C0007831,Ceroid
+C0008013,Chemotactic Factors
+C0008141,Chitin
+C0008368,Cholestanols
+C0008377,cholesterol
+C0008387,Cholesterol Esters
+C0008731,Chylomicrons
+C0008776,Ciguatoxins
+C0008861,Citrinin
+C0009148,cobalt
+C0009223,Cnidarian Venoms
+C0009226,coenzyme A
+C0009235,Coenzymes
+C0009297,colicin
+C0009331,Collagen Type II
+C0009332,Collagen Type III
+C0009333,Collagen Type IV
+C0009335,Collagen Type V
+C0009338,Collagen Type VIII
+C0009339,Collagen Type X
+C0009392,Colony-Stimulating Factors
+C0009629,Conalbumin
+C0009968,copper
+C0010286,creatine
+C0010294,creatinine
+C0010369,Crotalid Venoms
+C0010422,Crystallins
+C0010654,cysteine
+C0010682,cystine
+C0010815,Cytokinins
+C0010852,Cytoskeletal Proteins
+C0010868,Cytotoxin
+C0011145,deferoxamine
+C0011479,deoxycholic acid
+C0011602,Dermatan Sulfate
+C0011889,Diacetyl
+C0012550,Diphtheria Toxin
+C0012854,DNA
+C0012925,"DNA, Circular"
+C0012933,"DNA, Ribosomal"
+C0013030,dopamine
+C0013757,Elapid Venoms
+C0013982,Emodin
+C0014242,Endorphins
+C0014290,"Enhancer Elements, Genetic"
+C0014436,Enzyme Precursors
+C0014642,epsilon-Globins
+C0015435,F Factor
+C0015440,Factor VIII vWF
+C0015491,factor IX
+C0015498,Factor V
+C0015501,Factor Va
+C0015502,factor VII
+C0015506,factor VIII
+C0015514,Factor VIIIa
+C0015522,Factor XI
+C0015525,Factor XII
+C0015533,Factor XIIIa
+C0015540,flavin-adenine dinucleotide
+C0015689,omega-3 fatty acids
+C0015879,Ferritin
+C0015936,Fetal Hemoglobin
+C0015950,Fetal Proteins
+C0015982,Fibrin
+C0016006,fibrinogen
+C0016013,"Fibrinogens, Abnormal"
+C0016026,Fibroblast Growth Factor
+C0016042,Fibroins
+C0016055,Fibronectins
+C0016194,Flagellin
+C0016330,fluorine
+C0016693,Free Radicals
+C0016895,Ganglioside GM1
+C0016904,gamma-aminobutyric acid
+C0016945,galactose
+C0017135,gastric mucins
+C0017278,"Gene Products, env"
+C0017281,"Gene Products, pol"
+C0017649,Globulins
+C0017714,Gluconates
+C0017725,glucose
+C0017742,Glucose Transporter
+C0017797,glutamine
+C0017817,glutathione
+C0017911,glycogen
+C0017968,Glycoproteins
+C0017973,Glycosaminoglycans
+C0018284,Growth Factor
+C0018595,Haptoglobins
+C0018850,Heat shock proteins
+C0018966,Heme
+C0018988,hemin
+C0019016,Hemoglobin A
+C0019019,Hemoglobin A2
+C0019043,Sickle Hemoglobin
+C0019046,Hemoglobin
+C0019047,Abnormal Hemoglobins
+C0019113,Hemosiderin
+C0019134,heparin
+C0019536,High-Molecular-Weight Kininogen protein
+C0019588,histamine
+C0019602,histidine
+C0019796,HMGB1 Protein
+C0019800,HMGB2 Protein
+C0020196,hyaluronic acid
+C0020299,Hydrophid Venoms
+C0020332,Hydroxybutyrates
+C0020684,Hypoxanthine
+C0021531,Cyclic IMP
+C0021533,Inosine Monophosphate
+C0021540,Inosine Triphosphate
+C0021666,insulin-like growth factor 2
+C0021918,intrinsic factor
+C0021968,iodine
+C0022009,Ion Channel
+C0022192,isoleucine
+C0022474,Kallidin
+C0022631,Ketone Bodies
+C0022713,Kininogens
+C0022714,Kinins
+C0022896,Lac Repressors
+C0022942,lactoferrin
+C0022949,lactose
+C0022950,Lactose Factors
+C0022984,Laminin
+C0023401,leucine
+C0023542,Leukotriene C4
+C0023545,Leukotrienes
+C0023546,Leukotriene B4
+C0023570,levodopa
+C0023705,Lignin
+C0023749,linoleic acid
+C0023820,Lipoproteins
+C0023821,High Density Lipoproteins
+C0023823,Low-Density Lipoproteins
+C0023831,lipotropic agents
+C0023902,Liver Glycogen
+C0023922,"Kininogen, Low-Molecular-Weight protein"
+C0024467,magnesium
+C0024643,malondialdehyde
+C0024706,manganese
+C0025196,Melanins
+C0025248,Membrane Glycoproteins
+C0025252,Membrane Proteins
+C0025544,Metalloproteins
+C0025545,Metallothionein
+C0025562,Metanephrine
+C0025635,Methemoglobin
+C0025646,methionine
+C0025852,Metmyoglobin
+C0026045,Microtubule-Associated Proteins
+C0026402,molybdenum
+C0026682,mucins
+C0026832,Muscle Proteins
+C0027015,Myeloma Proteins
+C0027047,Myocardial Depressant Factor
+C0027078,Myoglobin
+C0027138,myristic acid
+C0027270,nicotinamide adenine dinucleotide (NAD)
+C0027303,NADP
+C0027481,Atrial Natriuretic Factor
+C0027754,Nerve Growth Factors
+C0027893,neuropeptide Y
+C0027895,Neuropeptides
+C0027908,Neurotransmitters
+C0028013,nickel
+C0028158,nitrogen
+C0028215,nitrous oxide
+C0028385,Normetanephrine
+C0028606,Nucleic Acids
+C0028832,Octopus Venoms
+C0029008,Oncogene Protein p210(bcr-abl)
+C0029071,"Operator Regions, Genetic"
+C0029419,Osteocalcin
+C0029446,Osteonectin
+C0030054,oxygen
+C0030069,Oxyhemoglobin
+C0030128,P-Cadherin
+C0030190,Plasminogen Activator Inhibitor 1
+C0030191,Plasminogen Activator Inhibitor 2
+C0030913,Pepsinogens
+C0031453,phenylalanine
+C0031516,Pheromone
+C0031618,phosphatidylethanolamines
+C0031621,phosphatidylinositols
+C0031642,Phosphoenolpyruvate
+C0031866,phytosterols
+C0032048,Placental Extracts
+C0032081,Plant Extracts
+C0032085,Plant Oils
+C0032120,Plasma Proteins
+C0032136,Plasmids
+C0032140,Plasminogen
+C0032145,Plasminogen Inactivators
+C0032712,Porphyrins
+C0032821,potassium
+C0032824,Potassium Channel
+C0032974,Pregnancy Proteins
+C0033024,Prekallikrein
+C0033235,Procollagen
+C0033362,Proinsulin
+C0033382,proline
+C0033488,propolis
+C0033559,Prostaglandins E
+C0033567,epoprostenol
+C0033603,protamines
+C0033621,protein C
+C0033684,Proteins
+C0033692,Proteoglycan
+C0033706,prothrombin
+C0033712,Proto-Oncogene Proteins
+C0033742,Protozoan Proteins
+C0033954,Psychosine
+C0034085,Pulmonary Surfactants
+C0034330,pyrrolidonecarboxylic acid
+C0034335,Pyrrolizidine Alkaloids
+C0034471,R Factors
+C0034720,Rattlesnake Venoms
+C0034987,"Regulatory Sequences, Nucleic Acid"
+C0035682,RNA Precursors
+C0035693,"RNA, Double-Stranded"
+C0035695,Heterogeneous Nuclear RNA
+C0035700,"RNA, Nuclear"
+C0036001,S-Adenosylhomocysteine
+C0036248,Saxitoxin
+C0036425,Scleroproteins
+C0036450,Scorpion Venoms
+C0036581,selenium
+C0036720,serine
+C0036733,Serine Proteinase Inhibitors
+C0036751,serotonin
+C0036764,Serpins
+C0036774,"serum albumin, bovine"
+C0036825,Serum Proteins
+C0036863,Sex Attractants
+C0037377,Snail Venom
+C0037380,Snake Venoms
+C0037473,sodium
+C0037492,Sodium Channel
+C0037564,Sodium Urate Monohydrate
+C0037686,sorbic acid
+C0037912,Spider Venoms
+C0038179,starch
+C0038419,Streptolysins
+C0038585,Substance P
+C0038774,sulfur
+C0038889,Endogenous Surfactants
+C0039290,Tandem Repeat Sequences
+C0039554,"Terminator Regions, Genetic"
+C0039561,Terpenes
+C0039705,Tetrodotoxin
+C0040005,threonine
+C0040059,Thromboxane B2
+C0040061,Thromboxanes
+C0040079,Thymidine Monophosphate
+C0040238,tin
+C0040291,Tissue Extracts
+C0040549,Toxin
+C0040577,Trace Elements
+C0040679,Transferrin
+C0040691,Transforming Growth Factors
+C0040815,trehalose
+C0041004,Triglycerides
+C0041199,Troponin
+C0041243,Trypsinogen
+C0041244,Trypsinogen 1
+C0041365,Tumor Markers
+C0041366,"Biomarkers, Tumor"
+C0041455,collagen type I
+C0041479,tyramine
+C0041485,tyrosine
+C0041536,ubidecarenone
+C0041538,Ubiquitin
+C0041942,urea
+C0041980,uric acid
+C0042052,Urobilinogen
+C0042105,ursodiol
+C0042285,valine
+C0042439,"Plant Proteins, Dietary"
+C0042525,Veratridine
+C0042526,Veratrine
+C0042700,Viper Venoms
+C0042736,Viral Proteins
+C0042971,von Willebrand factor
+C0043040,wasp venoms
+C0043314,xanthine
+C0043318,Xanthines
+C0043335,Xenobiotics
+C0043481,zinc
+C0043791,"1,2-diacylglycerol"
+C0047420,3-hydroxy-3-methylglutaryl-coenzyme A
+C0048044,vigabatrin
+C0051028,AICA ribonucleotide
+C0051080,alanylglutamine
+C0051336,alpha-carotene
+C0051356,alpha-Endorphin
+C0051405,alpha-Linolenic Acid
+C0052198,Apolipoprotein E2
+C0053932,Bone Morphogenetic Proteins
+C0054862,Catecholamine Plasma Membrane Transport Proteins
+C0055023,Vitronectin
+C0055363,Chloride Channels
+C0055389,acetylcholine chloride
+C0055817,citrate carrier
+C0055819,citric acid
+C0057437,Deoxyhemoglobin
+C0059090,enamelin
+C0059249,annexin A5
+C0059954,exophthalmos producing substance
+C0060095,Fatty Acid-Binding Proteins
+C0060323,Fibrin fragment D
+C0060663,formycin diphosphate
+C0060993,Galanin
+C0061041,gamma-Endorphin
+C0061472,glutamic acid
+C0061671,"ITGA2B protein, human"
+C0061928,GTPase-Activating Proteins
+C0062534,Hepatocyte Growth Factor
+C0062725,hippuric acid
+C0063017,"PPY protein, human"
+C0063740,involucrin
+C0064582,lactic acid
+C0064635,Lamins
+C0065011,link protein
+C0065058,Lipoprotein (a)
+C0065827,Measles Virus Nucleoprotein
+C0066689,Mojave toxin
+C0067724,N-acetylglutamate
+C0067787,N-acetyltalosaminuronic acid
+C0068925,Nonheme Iron Proteins
+C0069065,Viral Nonstructural Proteins
+C0069477,omega-N-Methylarginine
+C0069600,orellanine
+C0069675,Bone Morphogenetic Protein 3
+C0069906,P-Glycoproteins
+C0070410,perforin
+C0070939,phosphoethanolamine
+C0071189,"IGFBP1 protein, human"
+C0071788,Potassium-Hydrogen Antiporters
+C0072027,procalcitonin
+C0072108,Proliferating Cell Nuclear Antigen
+C0072348,Protein C Inhibitor
+C0072393,protein S
+C0072434,prothrombin complex concentrates
+C0072436,prothrombin fragment 1.2
+C0072879,Quinolinic Acid
+C0073434,"RNA, Mitochondrial"
+C0074187,scombrotoxin
+C0074383,Serotonectin
+C0074529,Silk
+C0074926,Soy Proteins
+C0075301,streptolysin O
+C0075338,Struvite
+C0076560,Thrombospondins
+C0077400,Troponin C
+C0077401,Troponin I
+C0077404,Troponin T
+C0078058,Vascular Endothelial Growth Factor A
+C0079119,Chlorophyll Binding Proteins
+C0079183,Cyclins
+C0079281,Endothelin-1
+C0079282,Endothelin-2
+C0079284,Endothelin
+C0079323,Extracellular Matrix Proteins
+C0079408,"Gene Products, vif"
+C0079883,N-Methylaspartate
+C0080113,Retinoblastoma Protein
+C0081487,Aggrecans
+C0082774,"RNA, Guide"
+C0083528,N(6)-carboxymethyllysine
+C0083725,Neurofibromatosis Type 1 Protein
+C0085193,Ion Pumps
+C0085252,Synapsins
+C0085401,tau Proteins
+C0085418,Neurofilament Proteins
+C0085805,Androgen Binding Protein
+C0085845,aspartate
+C0086860,Promoter
+C0103575,Antifreeze Proteins
+C0106006,3-Hydroxybutyrate
+C0106269,Chloride-Bicarbonate Antiporters
+C0107264,brown adipose tissue uncoupling protein
+C0108280,alpha Catenin
+C0109273,chaperonin
+C0113216,Desmogleins
+C0113218,desmoglein 2
+C0113222,Desmoglein 3
+C0114838,dopamine transporter
+C0120446,guanidine
+C0122546,"UBTF protein, human"
+C0122592,"GHR protein, human"
+C0123256,Insulin-Like Growth-Factor Binding Protein 1
+C0123257,Insulin-Like Growth Factor Binding Protein 2
+C0125258,Lamin Type A
+C0125259,Lamin Type B
+C0125631,Leukotriene A4
+C0127092,Max protein
+C0132298,neurotrophic factor
+C0132800,Norepinephrine Plasma Membrane Transport Proteins
+C0133195,Nuclear Matrix-Associated Proteins
+C0133860,"fatty acids, omega-6"
+C0136157,Peroxynitrite
+C0139916,ran GTP-Binding Protein
+C0144227,"SWI3 protein, S cerevisiae"
+C0147139,Thrombospondin 1
+C0162574,"Glycation End Products, Advanced"
+C0162772,Reactive Oxygen Species
+C0163275,Fibrin split products
+C0163314,"Fatty Acid-Binding Proteins, Intestinal-Specific"
+C0166033,I kappa B beta protein
+C0168424,tensin
+C0170657,serotonin transporter
+C0174807,Disintegrins
+C0178555,chemical cofactor
+C0178645,oxygen free radical
+C0178681,Homovanillate
+C0178785,orotate
+C0178882,ursodeoxycholate
+C0205752,Endogenous Opiates
+C0205753,Opioid Peptide
+C0205821,Leukotrienes B
+C0210587,"High-Density Lipoproteins, Pre-beta"
+C0212320,Core-Binding Factor
+C0215844,Chloride Anion Exchanger
+C0219433,"POSTN protein, human"
+C0220839,glutamate
+C0242194,"Anion Exchange Protein 1, Erythrocyte"
+C0242210,Binding Proteins
+C0242643,P-Glycoprotein
+C0242701,Serotonin Agents
+C0242958,DNA Adducts
+C0243021,Cell Cycle Proteins
+C0243041,Molecular Chaperones
+C0243043,Heat-Shock Proteins 70
+C0244104,pyruvate
+C0245726,Integrin beta3
+C0248805,Sodium-Glucose Transporter 1
+C0252274,"HD protein, human"
+C0253023,Tumor Necrosis Factor Ligand Superfamily Member 6
+C0259540,delayed rectifier potassium channel
+C0282151,dopamine hydrochloride
+C0282575,Micronutrients
+C0282651,Selectins
+C0284965,Integration Host Factors
+C0287850,"S100A4 protein, human"
+C0288263,L-Type Calcium Channels
+C0288881,Qa-SNARE Proteins
+C0290741,Multidrug Resistance-Associated Proteins
+C0292147,Importins
+C0293060,FKBP12-rapamycin associated protein
+C0300061,centromere protein F
+C0301278,Paralytic shellfish toxin
+C0302071,Fibrinogen antibody
+C0302072,Prothrombin antibody
+C0302073,Tissue factor antibody
+C0302078,Factor X antibody
+C0302583,iron
+C0304180,Shellfish toxin
+C0314768,Bacterial exotoxin
+C0369083,Cytomegalovirus DNA
+C0369169,Epstein-Barr virus DNA
+C0373561,Ionized calcium
+C0376643,Insect Proteins
+C0377274,Collectins
+C0378533,Shal Potassium Channels
+C0378781,"TAL1 protein, human"
+C0385486,CLC-5 chloride channel
+C0389073,"S100A12 protein, human"
+C0390113,"ARMET protein, human"
+C0393016,vaccinia-CEA vaccine
+C0443747,Placental protein 1
+C0520496,Leukotriene A
+C0527443,bone morphogenetic protein 2
+C0529134,"ST13 protein, human"
+C0530601,"RBPMS protein, human"
+C0531296,CHS protein
+C0531328,DEFICIENS Protein
+C0533325,"TWIST1 protein, human"
+C0533668,"ANGPT1 protein, human"
+C0533670,Angiopoietin-1
+C0534100,SUMO-1 Protein
+C0535219,"SMC3 protein, human"
+C0535350,Mucin 5AC
+C0539211,"NOTCH4 protein, human"
+C0540301,C1 esterase inhibitor
+C0577749,Phytochemicals
+C0580773,Coral snake venom
+C0582263,Structural protein
+C0596087,Angiogenesis Inhibitors
+C0596944,microorganism toxin
+C0597427,secretory protein
+C0597880,antigenic peptide transporter
+C0598849,Symporters
+C0599635,water channel
+C0600137,Blood Urea Nitrogen
+C0600447,"RNA, Spliced Leader"
+C0600472,Long Interspersed Nucleotide Element-1
+C0611285,"APP protein, human"
+C0633372,RGS Proteins
+C0651363,"CRIP2 protein, human"
+C0657307,"CTNNA2 protein, human"
+C0664336,survivin
+C0665816,Peroxynitrous Acid
+C0666361,"TNFSF11 protein, human"
+C0666364,TRANCE protein
+C0667477,"TNFRSF11A protein, human"
+C0671954,"CD3EAP protein, human"
+C0673093,4-hydroxybutyric acid
+C0675313,"EHF protein, human"
+C0678848,Gated Ion Channel
+C0686792,Adrenarche
+C0700164,proven venom
+C0724584,"coagulation factor IX, human"
+C0752118,T-Type Calcium Channels
+C0752246,N-type calcium channels
+C0752247,P-Type Calcium Channels
+C0752275,"Calcium Channels, R-Type"
+C0754710,Amino-terminal pro-brain natriuretic peptide
+C0755085,osteomodulin protein
+C0755123,Ski-interacting protein
+C0759379,ClC-3 channel
+C0761993,"ABCG2 protein, human"
+C0764906,"OSA protein, Drosophila"
+C0768673,"AKAP9 protein, human"
+C0770546,"heparin, porcine"
+C0795677,"von Willebrand factor, human"
+C0806033,epinephrine and norepinephrine
+C0806123,Fetal fibronectin
+C0815019,excitatory neurotransmitters
+C0815048,toxic proteins
+C0815090,Ligand-Gated Ion Channels
+C0815278,Neurosteroids
+C0870883,Metabolite
+C0887821,"Antifreeze Proteins, Type I"
+C0887827,Protein Sorting Signals
+C0887848,GTP-Binding Protein beta Subunits
+C0887849,GTP-Binding Protein gamma Subunits
+C0898753,"SAFB protein, human"
+C0903738,Adaptor Protein Complex 2
+C0907411,"Lectins, C-Type"
+C0907959,"TACC1 protein, human"
+C0910379,copine VII
+C0916169,"LEFTY2 protein, human"
+C0919262,"DNA, B-Form"
+C0919293,Host Factor 1 Protein
+C0935992,Telomerase RNA Component
+C0949837,Sodium-Bicarbonate Symporters
+C0949860,Isoprostanes
+C0949861,F2-Isoprostanes
+C0950472,RNA-Binding Protein FUS
+C0950625,Neural Cell Adhesion Molecule L1
+C0963377,Semaphorin-3A
+C0964024,"BIRC7 protein, human"
+C0969348,"TP53INP1 protein, human"
+C0969669,Fibrillar Collagen
+C0994452,Ubiquitins
+C1097121,Endocrine-Gland-Derived Vascular Endothelial Growth Factor
+C1098706,human AVP protein
+C1099354,"RNA, Small Interfering"
+C1113649,Angiopoietins
+C1123018,"Virulence Factors, Bordetella"
+C1135611,Iron-Binding Proteins
+C1136170,Virulence Factors
+C1136316,Integrin beta Chains
+C1137456,"CYR61 protein, human"
+C1137947,"SET protein, human"
+C1138529,"MCPH1 protein, human"
+C1141015,Adenine Nucleotide Translocase
+C1142892,N(epsilon)-(malondialdehyde)lysine
+C1144026,"EIF2C2 protein, human"
+C1144195,"ATRN protein, human"
+C1144465,"CETP protein, human"
+C1171892,"VEGF protein, human"
+C1172410,"ASK protein, human"
+C1172779,Endocannabinoids
+C1173118,"FABP2 protein, human"
+C1174851,diphoterine
+C1175290,"AGR3 protein, human"
+C1175541,"PLP1 protein, human"
+C1179435,Protein Component
+C1257061,ciguatoxin 3
+C1257900,Colicin Plasmids
+C1257994,Matrix Attachment Regions
+C1257998,Cytochromes a3
+C1258027,Endothelium-Dependent Relaxing Factors
+C1268902,Purine analog-containing product
+C1291185,Microorganism DNA
+C1291204,2-hydroxybutyrate
+C1292266,Coagulation protein
+C1292267,procoagulant
+C1305957,Cardiac troponin I
+C1307126,"factor VIII, human"
+C1307640,"AFP protein, human"
+C1308727,"RBBP8 protein, human"
+C1309143,"PTTG1 protein, human"
+C1311116,"RBPJ protein, human"
+C1313661,"UBB protein, human"
+C1313790,"TAPBP protein, human"
+C1313794,"RBX1 protein, human"
+C1321892,"KDM5B protein, human"
+C1332006,ACF complex
+C1332172,Adenovirus Protein
+C1332296,Angiogenesis Promoter
+C1333198,Cytoplasmic Protein
+C1333498,Extracellular Protein
+C1334162,"IGBP1 protein, human"
+C1334283,Ion Channel Protein
+C1335535,"Protein, Organized by Origin"
+C1335594,"MRAS protein, human"
+C1335884,SWI1
+C1335962,Signaling Protein
+C1336511,Stress-Induced Protein
+C1336668,TRAP Complex
+C1336789,Transcription Repressor/Corepressor
+C1337342,Bovine thrombin
+C1363844,Mediator of activation protein
+C1366394,"STAT5A protein, human"
+C1366674,"NUP214 protein, human"
+C1366753,STAT protein
+C1366910,Calmodulin 1
+C1367790,Small Nuclear Ribonucleoprotein Polypeptide F
+C1384660,"NLRP3 protein, human"
+C1430180,"TRAP1 protein, human"
+C1431343,"GDF15 protein, human"
+C1431519,"TP63 protein, human"
+C1431594,"AKAP4 protein, human"
+C1431767,"cni protein, Drosophila"
+C1431883,"BCLAF1 protein, human"
+C1431931,"ALF protein, human"
+C1432222,"WHSC1L1 protein, human"
+C1433105,"GRASP protein, human"
+C1433368,"KRT20 protein, human"
+C1434618,"SCGB1D2 protein, human"
+C1435325,"ITSN1 protein, human"
+C1435727,"FABP6 protein, human"
+C1435815,"LTF protein, human"
+C1438152,"SHC2 protein, human"
+C1439340,"SLC6A3 protein, human"
+C1442881,"SLC25A4 protein, human"
+C1442882,"SLC25A5 protein, human"
+C1445578,recombinant human bone morphogenetic protein-2
+C1447046,"GAL protein, human"
+C1447107,"HGF protein, human"
+C1447906,"INHBB protein, human"
+C1448177,"TNF protein, human"
+C1448598,"SKIL protein, human"
+C1448833,"CAMLG protein, human"
+C1449108,"SH2B2 protein, human"
+C1449672,Humic Substances
+C1449886,"Adaptor Proteins, Signal Transducing"
+C1451683,"TJP1 protein, human"
+C1452534,"ACE protein, human"
+C1453118,"CABIN1 protein, human"
+C1453297,"CFC1 protein, human"
+C1453415,"SLA protein, human"
+C1453587,"TFPI2 protein, human"
+C1453673,"CLU protein, human"
+C1454475,"TCF21 protein, human"
+C1454489,"MAPT protein, human"
+C1454580,"AXIN2 protein, human"
+C1455316,"SERPINA1 protein, human"
+C1455357,"SLC4A3 protein, human"
+C1455531,"JAG2 protein, human"
+C1456447,"SLC6A2 protein, human"
+C1458135,"YWHAQ protein, human"
+C1505133,"SLC5A2 protein, human"
+C1505203,"HP protein, human"
+C1506024,Voltage-Dependent Anion Channels
+C1506603,"ZFP36 protein, human"
+C1506872,"CTNNA1 protein, human"
+C1511165,Bioreductive Agent
+C1517938,Long Interspersed Elements
+C1519266,Serum Hyaluronic Acid
+C1526982,Recombinant Stem Cell Factor
+C1527194,Recombinant Transforming Growth Factor
+C1528289,"MUC2 protein, human"
+C1529821,"CDKN1A protein, human"
+C1530795,"BID protein, human"
+C1563386,Ether-A-Go-Go Potassium Channels
+C1564132,Neurotransmitter Transport Proteins
+C1564868,Lantibiotics
+C1564905,Plakins
+C1564997,"SLC5A1 protein, human"
+C1565154,Sodium-Glucose Transporter 2
+C1567880,Intracellular Calcium-Sensing Proteins
+C1569730,"insulin-like growth factor 2, human"
+C1570446,"TNFSF14 protein, human"
+C1570610,"FN1 protein, human"
+C1570897,"CLDN6 protein, human"
+C1571455,"C3 protein, human"
+C1571495,"BIRC5 protein, human"
+C1571527,"Platelet-Derived Growth Factor C, human"
+C1571638,Small-Conductance Calcium-Activated Potassium Channels
+C1571681,"SERPINA9 protein, human"
+C1608576,"FSCN1 protein, human"
+C1608638,"SPARCL1 protein, human"
+C1611561,"S100A7 protein, human"
+C1611909,"SLC19A1 protein, human"
+C1612054,"ELOC protein, human"
+C1612271,"Proton-Coupled Folate Transporter, human"
+C1612757,"MYOCD protein, human"
+C1613884,"VCP protein, human"
+C1620101,"SERPINE1 protein, human"
+C1622669,"Platelet Basic Protein, human"
+C1664181,"LTB protein, human"
+C1698754,"IL6 protein, human"
+C1702088,"IL5 protein, human"
+C1702300,"IL1B protein, human"
+C1721009,Keratin-1
+C1721255,flotillin-2
+C1738809,"CART protein, human"
+C1738970,"ABCB1 protein, human"
+C1738978,"GRIN2B protein, human"
+C1739912,"CDH1 protein, human"
+C1740186,"SKAP2 protein, human"
+C1741275,"AIRE protein, human"
+C1742120,"sodium channel, voltage-gated, type II, alpha 1"
+C1743434,"ASIC2 protein, human"
+C1744064,"MUC4 protein, human"
+C1764827,Isolate - microorganism
+C1872514,talactoferrin alfa
+C1875873,"2,3-Dimercaptosuccinic Acid"
+C1949480,"protein C, human"
+C1956032,Cardiotoxins
+C1999216,Inhibitor
+C2001620,Mucin-2
+C2002434,"NFKBIA protein, human"
+C2351743,"ACTN1 protein, human"
+C2698218,Midline 1 RING Finger Protein
+C2698903,"JAG1 protein, human"
+C2713669,"SERPINA5 protein, human"
+C2717481,"SERPINC1 protein, human"
+C2717839,Nucleoplasmins
+C2717951,Co-Repressor Proteins
+C2744539,"THBD protein, human"
+C2827464,"CAP-Gly Domain-Containing Linker Protein 1, human"
+C2828369,"prothrombin, human"
+C2934853,"TRPC4AP protein, human"
+C2936457,Host-Derived Cellular Factors
+C2936529,Inflammasomes
+C2975591,"killin protein, human"
+C2976467,"EPO protein, human"
+C2981622,Neurofilament Medium Polypeptide
+C2985243,Microprocessor Complex Subunit DGCR8
+C2985261,"NUT Family Member 1, human"
+C2987634,Agonist
+C3178792,RNA Isoforms
+C3179007,Prostatein
+C3202973,Transferrins
+C3253439,"HOTS protein, human"
+C3272384,"G Protein-Activated Inward Rectifier Potassium Channel 4, Human"
+C3273385,Protein CASC5
+C3273838,"Protein S100-B, human"
+C3492243,"YWHAZ protein, human"
+C3494197,Voltage-Gated Sodium Channels
+C3494329,NAV1.1 Voltage-Gated Sodium Channel
+C3494330,NAV1.2 Voltage-Gated Sodium Channel
+C3494331,NAV1.3 Voltage-Gated Sodium Channel
+C3494363,Tight Junction Proteins
+C3503750,Acid Sensing Ion Channels
+C3503758,Degenerin Sodium Channels
+C3538889,"Troponin T, Cardiac Muscle"
+C3540538,Dystonin
+C3658228,S100 Calcium Binding Protein beta Subunit
+C3658238,Gasotransmitters
+C3658274,Peroxisomal Bifunctional Enzyme
+C3658334,Peripherins
+C3665615,"Solute Carrier Family 12, Member 3"
+C3711683,"HAMP protein, human"
+C3712788,"MGA protein, human"
+C3811107,Tubulin-Specific Chaperone Cofactor E-Like Protein
+C3811710,"Kininogen-1, human"
+C3813125,"Islet Amyloid Polypeptide, human"
+C3828541,Plant or Plant Part Extract
+C3848529,nitrite ion
+C3849998,EGF Family of Proteins
+C3853746,Securin
+C3854324,Free hemoglobin (substance)
+C3872595,Human papillomavirus DNA
+C3884528,"HBEGF protein, human"
+C3884533,"BTC protein, human"
+C3884847,ma zi ren wan
+C3887812,"Substance P, human"
+C3888341,"Multimerin-1, human"
+C3889653,Shelterin
+C3889727,Viral Interleukin-6 Homolog
+C3891560,Alarmins
+C3896701,Aminoadipic Semialdehyde
+C3899962,BTC Gene Product
+C4042761,Biopesticides
+C4042797,Pathogen-Associated Molecular Pattern Molecules
+C4048280,"T-Cell Surface Glycoprotein CD4, human"
+C4048587,"Serotransferrin, human"
+C4048686,"Annexin A5, human"
+C4048712,factor IX complex
+C4049851,Putative Peripheral Benzodiazepine Receptor-related Protein
+C4255013,ORAI1 Protein
+C4255255,Huntingtin Protein
+C4277604,Calcium Release Activated Calcium Channels
+C4277622,Mitochondrial Uncoupling Proteins
+C4277679,SEC Translocation Channels
+C4283741,"Neuromedin N, human"
+C4283824,"Beta-Arrestin-2, human"
+C4283901,"Neurotensin, human"
+C4284063,"Platelet Glycoprotein V, human"
+C4289789,Cell-Free DNA
+C4308013,"PTCH1 protein, human"
+C4316927,"Endothelin-1, human"
+C4316932,"MYC Box-Dependent-Interacting Protein 1, human"
+C4318409,"Humanin, human"
+C4319655,NADPH Oxidase 2
+C4319821,Solute Carrier Family 22 Member 5
+C4321287,Human Cytomegalovirus Envelope Glycoprotein B
+C4321441,Prostaglandin E2 Metabolite
+C4329663,Choline Metabolite
+C4520807,Lamin A-C
+C4521269,HEAT Repeat-Containing Protein 3
+C4521302,"Angiotensin-1, human"
+C4690199,Extracellular Polymeric Substance Matrix
+C4721527,"Coagulation Factor XII, human"
+C4721672,"N-Chimaerin, human"
+C4743777,Activator
+C4744447,CYP3A4 Substrate
+C4744940,Irreversible Inhibitor
+C5197706,Cyclams
+C5197890,"Animal Proteins, Dietary"
+C5203062,Sodium/Potassium/Calcium Exchanger 4

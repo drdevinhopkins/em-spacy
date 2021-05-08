@@ -1,0 +1,593 @@
+cui,name
+C0000727,"Abdomen, Acute"
+C0000729,Abdominal Cramps
+C0000737,Abdominal Pain
+C0001726,Affective Symptoms
+C0002962,Angina Pectoris
+C0003564,Aphonia
+C0003578,Apnea
+C0003862,Arthralgia
+C0004134,Ataxia
+C0004604,Back Pain
+C0005874,Blushing
+C0005904,Body Temperature Changes
+C0006625,Cachexia
+C0007859,Neck Pain
+C0007939,Syphilitic chancre
+C0008031,Chest Pain
+C0008033,Pleuritic pain
+C0008035,Chest wall pain
+C0008039,Cheyne-Stokes Respiration
+C0009024,Clonus
+C0009806,Constipation
+C0009812,Constitutional Symptom
+C0010200,Coughing
+C0010201,Chronic cough
+C0010520,Cyanosis
+C0011991,Diarrhea
+C0012833,Dizziness
+C0013395,Dyspepsia
+C0013404,Dyspnea
+C0013421,Dystonia
+C0013428,Dysuria
+C0013456,Earache
+C0013911,Emaciation
+C0014724,Eructation
+C0015230,Exanthema
+C0015411,Eye Manifestations
+C0015468,Facial Pain
+C0015644,Muscular fasciculation
+C0015672,Fatigue
+C0015967,Fever
+C0016199,Flank Pain
+C0016204,Flatulence
+C0016382,Flushing
+C0016512,Foot pain
+C0017672,Glossalgia
+C0018520,Halitosis
+C0018681,Headache
+C0018834,Heartburn
+C0018926,Hematemesis
+C0018989,Hemiparesis
+C0018991,Hemiplegia
+C0019079,Hemoptysis
+C0019214,Hepatosplenomegaly
+C0019559,Hip joint pain
+C0019825,Hoarseness
+C0020175,Hunger
+C0020429,Hyperalgesia
+C0020450,Hyperemesis Gravidarum
+C0020453,Hyperesthesia
+C0022346,Icterus
+C0023218,Leg cramps
+C0023222,Pain in lower limb
+C0023380,Lethargy
+C0023533,Leukorrhea
+C0024031,Low Back Pain
+C0024902,Mastodynia
+C0025287,Meningism
+C0025587,Metatarsalgia
+C0026821,Muscle Cramp
+C0026825,Flaccid Muscle Tone
+C0026837,Muscle Rigidity
+C0026838,Muscle Spasticity
+C0026961,Mydriasis
+C0027066,Myoclonus
+C0027424,Nasal congestion (finding)
+C0027497,Nausea
+C0027498,Nausea and vomiting
+C0027769,Nervousness
+C0027796,Neuralgia
+C0028081,Night sweats
+C0028084,Nightmares
+C0028643,Numbness
+C0029089,Ophthalmoplegia
+C0029166,Oral Manifestations
+C0030193,Pain
+C0030196,Pain in limb
+C0030200,"Pain, Intractable"
+C0030201,"Pain, Postoperative"
+C0030214,"Myoclonus, Palatal"
+C0030794,Pelvic Pain
+C0032617,Polyuria
+C0032781,Posterior rhinorrhea
+C0033775,Pruritus Ani
+C0034880,Hyperacusis
+C0034886,Rectal pain
+C0036396,Sciatica
+C0036572,Seizures
+C0037011,Shoulder Pain
+C0037088,Signs and Symptoms
+C0037089,"Signs and Symptoms, Digestive"
+C0037090,"Signs and Symptoms, Respiratory"
+C0037285,Skin Manifestations
+C0037317,Sleep disturbances
+C0037383,Sneezing
+C0037763,Spasm
+C0037771,"Paraparesis, Spastic"
+C0038450,Stridor
+C0039070,Syncope
+C0039591,Pain in testicle
+C0040416,Tonic Pupil
+C0040460,Toothache
+C0040485,Torticollis
+C0040822,Tremor
+C0042256,Pruritus of vagina
+C0042571,Vertigo
+C0042963,Vomiting
+C0043144,Wheezing
+C0085593,Chills
+C0085602,Polydipsia
+C0085606,Urgency of micturition
+C0085624,Burning sensation
+C0085631,Agitation
+C0085636,Photophobia
+C0085641,Pustular rash
+C0087169,Withdrawal Symptoms
+C0149746,Orthostasis
+C0149758,poor dentition
+C0150055,Chronic pain
+C0151315,Neck stiffness
+C0151442,Non-specific Back Pain
+C0151564,Cogwheel Rigidity
+C0151767,Liver tender
+C0151786,Muscle Weakness
+C0151825,Bone pain
+C0151826,Retrosternal pain
+C0151827,Eye pain
+C0151908,Dry skin
+C0152032,Urinary hesitation
+C0152116,Spasmodic torticollis
+C0152149,Mittelschmerz
+C0152165,Persistent vomiting
+C0152169,Renal Colic
+C0158369,Swelling of limb
+C0159066,Abdominal rigidity
+C0162298,Joint stiffness
+C0178782,Orofacial Pain
+C0184567,Acute onset pain
+C0220870,Lightheadedness
+C0221100,Hangover from any Alcohol or Other Drugs substance
+C0221150,Swallowing painful
+C0221151,Projectile vomiting
+C0221166,Paraparesis
+C0221170,Muscular stiffness
+C0221200,Koplik spots
+C0221201,Macular rash
+C0221232,Welts
+C0221261,Koilonychia
+C0221423,Illness (finding)
+C0221512,Stomach ache
+C0221585,Joint or joint related complaint
+C0221586,Spine complaint
+C0221588,Muscle complaint
+C0221597,Migratory joint pain
+C0221727,Pain in esophagus (finding)
+C0221730,Perioral numbness
+C0221776,Oral pain
+C0221785,Pain in wrist
+C0231218,Malaise
+C0231239,Fluctuation
+C0231451,Hyperextension
+C0231528,Myalgia
+C0231529,Tenalgia
+C0231592,Joint crepitus
+C0231613,Occipital headache
+C0231617,Catch - Finding of sensory dimension of pain
+C0231618,Corkscrewing
+C0231710,Pain in buttock
+C0231749,Knee pain
+C0231765,Wilson's sign
+C0231780,Heel pain
+C0231785,Carpopedal spasm
+C0231807,Dyspnea on exertion
+C0231852,Paradoxical respiration
+C0231890,Fremitus
+C0231891,Vocal fremitus finding
+C0232283,Plateau cardiac murmur
+C0232286,Precordial pain
+C0232288,Chest pain on exertion
+C0232292,Chest tightness
+C0232462,Decrease in appetite
+C0232476,Absent peristalsis
+C0232487,Abdominal discomfort
+C0232492,Upper abdominal pain
+C0232493,Epigastric pain
+C0232495,Lower abdominal pain
+C0232498,Abdominal tenderness
+C0232502,Umbilical discharge
+C0232597,Acute vomiting
+C0232598,Chronic vomiting
+C0232602,Retching
+C0232608,Nasal regurgitation
+C0232726,Rectal tenesmus
+C0232766,Asterixis
+C0232849,Bladder pain
+C0232943,Intermenstrual heavy bleeding
+C0233187,Braxton Hicks contractions
+C0233200,Cullen's sign
+C0233205,Halo sign
+C0233212,Crowning
+C0233221,Fetal descent
+C0233226,Fetal Extension
+C0233232,Internal fetal rotation
+C0233401,Psychiatric symptom
+C0233407,Disorientation
+C0233762,"Hallucinations, Auditory"
+C0233763,"Hallucinations, Visual"
+C0233765,"Hallucinations, Olfactory"
+C0233766,"Hallucinations, Gustatory"
+C0234133,Extrapyramidal sign
+C0234179,Brudzinski's sign
+C0234230,"Pain, Burning"
+C0234233,Sore to touch
+C0234238,Ache
+C0234244,Tissue Pain
+C0234245,Visceral Pain
+C0234250,"Pain, Referred"
+C0234253,Rest pain
+C0234254,Radiating pain
+C0234255,Night pain
+C0234369,Trembling
+C0234374,Coarse Tremor
+C0234376,Action Tremor
+C0234378,Static Tremor
+C0234379,Resting Tremor
+C0234461,aphasic
+C0234542,Epileptic aura
+C0234913,Erythematous rash
+C0234966,Astasia
+C0235014,Bulging fontanelle
+C0235018,NUMBNESS LOCALIZED
+C0235031,Neurologic Symptoms
+C0235068,"Scotoma, Scintillating"
+C0235108,Feeling tense
+C0235162,Difficulty sleeping
+C0235169,Excitability
+C0235218,Warm skin
+C0235242,"Syncope, Effort"
+C0235250,Hyperemesis
+C0235267,Redness of eye
+C0235299,Right upper quadrant pain
+C0235568,Bronchorrhea
+C0235634,Renal angle tenderness
+C0235706,back discomfort
+C0235707,Lumbo-sacral pain
+C0235710,Chest discomfort
+C0236000,Jaw pain
+C0236078,Pain in scrotum
+C0237089,signs/symptoms-physical
+C0237322,Tenting - skin
+C0237326,Dyschezia
+C0238551,Left lower quadrant pain
+C0238637,Anal pain
+C0238656,Ankle pain
+C0238741,Upper back pain
+C0239091,CONJUNCTIVAL ERYTHEMA
+C0239182,Watery diarrhea
+C0239223,External ear pain
+C0239233,Early satiety
+C0239266,Pain in elbow
+C0239272,Elbow stiff
+C0239313,exercise induced
+C0239377,Arm Pain
+C0239511,Numbness of face
+C0239589,Pain in finger
+C0239596,Stiff finger
+C0239653,Pruritus on foot
+C0239739,Tenderness of gums
+C0239783,Inguinal pain
+C0239842,Tremor of hands
+C0239886,Frontal headache
+C0239888,Headache recurrent
+C0239957,Hip stiff
+C0240007,Inguinal mass
+C0240094,Joint tenderness
+C0240129,Knee stiff
+C0240211,Lip swelling
+C0240327,"Taste, Metallic"
+C0240419,Muscle tenderness
+C0240444,Pachyonychia
+C0240608,Osler's node
+C0240717,Perineal pain
+C0240805,Prodrome
+C0240841,Widened pulse pressure
+C0240928,Salt craving
+C0240940,Scalp pain
+C0241039,Pain of left shoulder joint
+C0241040,Pain of right shoulder joint
+C0241042,Shoulder stiff
+C0241057,Burning sensation of skin
+C0241136,Pain of skin
+C0241144,Petechiae of skin
+C0241235,Purulent sputum
+C0241310,Suprapubic pain
+C0241374,Thigh pain
+C0241416,Pain in toe
+C0241462,Tooth sensitivity to heat
+C0241706,Feculent vomiting
+C0241898,Generalized fatigue
+C0241902,Grunting respiration
+C0242429,Sore Throat
+C0242453,Prostatism
+C0242706,Hyperoxia
+C0262397,Breast tenderness
+C0264272,Purulent rhinitis
+C0266836,Infantile Colic
+C0267028,Cheilodynia
+C0270697,Post-Lumbar Puncture Headache
+C0270790,Quadriparesis
+C0271188,Visual halos (disorder)
+C0277794,Extreme exhaustion
+C0277821,Extrapyramidal Rigidity
+C0277845,Retropulsion
+C0277848,Hoover's sign
+C0277849,Psoas sign
+C0277873,Nasal Flaring
+C0277976,Rovsing's sign
+C0277977,Murphy's sign
+C0277978,Obturator sign
+C0278007,Normal bowel habits
+C0278134,Absence of sensation
+C0278141,Excruciating pain
+C0278144,Dull pain
+C0278145,Stabbing pain
+C0278146,Shooting pain
+C0278147,Radicular pain
+C0281856,Generalized aches and pains
+C0282005,Swelling of scrotum
+C0282666,Very Low Birth Weight
+C0302539,spells (neurological symptom)
+C0312414,Menstrual spotting
+C0312416,Morning Sickness
+C0312422,Blackout - symptom
+C0314719,Dryness of eye
+C0332601,Cushingoid facies
+C0333243,Pitting edema
+C0333274,Purulent discharge
+C0333422,Gummatous inflammation
+C0341742,Acute retention of urine
+C0344304,Generalized abdominal pain
+C0349410,Single organ dysfunction
+C0392156,Akathisia
+C0392171,Influenza-like symptoms
+C0392674,Exhaustion
+C0393588,"Dystonia, Paroxysmal"
+C0393756,Hangover from alcohol
+C0401148,Acute constipation
+C0401149,Chronic constipation
+C0404484,Chronic pelvic pain of female
+C0406833,Wound erythema
+C0409326,Anterior knee pain
+C0422943,Visual symptoms
+C0423006,Discharge from eye
+C0423621,Temporal headache
+C0423625,Bilateral earache
+C0423636,Cardiac pain
+C0423641,Left Flank Pain
+C0423701,Urinary Tract Pain
+C0424790,Rigor - Temperature-associated observation
+C0424810,Periorbital swelling
+C0425443,No respiratory symptoms
+C0425449,Gasping for breath
+C0425791,Peau d'orange surface of breast
+C0426070,Flexed fetal attitude
+C0426359,Urinary symptoms
+C0426575,No gastrointestinal symptom
+C0426576,Gastrointestinal symptom
+C0426636,Urgent desire for stool
+C0426908,Telescoping of limb at hip
+C0426980,Motor symptoms
+C0427008,Stiffness
+C0427086,Involuntary Movements
+C0455270,Sharp pain
+C0458257,"Pain, Splitting"
+C0458259,"Pain, Crushing"
+C0474368,Labor Pain
+C0474585,Feces color: tarry
+C0476223,Crossed laterality
+C0476273,Respiratory distress
+C0476280,Musculoskeletal chest pain
+C0476281,Non-cardiac chest pain
+C0497293,vertigo/dizziness
+C0497364,Localized eruption of skin
+C0497366,skin color change
+C0497431,pregnancy vomiting/nausea
+C0497481,Pain in penis
+C0518179,Change in voice (finding)
+C0518214,Perceived quality of life
+C0520825,Platypnea
+C0520962,Localized pain
+C0520963,Diffuse pain
+C0521516,Polymyalgia
+C0521800,Central cyanosis
+C0521989,Associated symptom
+C0522046,Cough suppression
+C0522051,Acute chest pain
+C0522067,Liver pain
+C0522251,Sinus pain
+C0522357,"Vertigo, Paroxysmal"
+C0525041,Neurobehavioral Manifestations
+C0542132,Lower Thigh Pain
+C0542476,Forgetful
+C0548823,gastrointestinal distress
+C0549209,Feeling jittery
+C0559687,Congestion of throat
+C0560024,Swelling of eyelid
+C0562483,Persistent cough
+C0564821,Pain in right arm
+C0567083,Tender body of uterus
+C0567085,Pain of uterus
+C0574002,Edema of foot (finding)
+C0574785,Lower Urinary Tract Symptoms
+C0575064,Skeletal muscle tender
+C0575090,Equilibration disorder
+C0576836,Pinna tender
+C0577573,Mass of body region
+C0578044,Pain of ear structure
+C0578050,Pain of lymph node
+C0578051,Pain of oral cavity structure
+C0578454,Neck swelling
+C0581362,Anorectal pain
+C0586407,Skin symptom
+C0596240,Cancer Pain
+C0596601,gastrointestinal gas
+C0597470,skin irritation/irritant
+C0599766,Recovery of Function
+C0600142,Hot flushes
+C0677500,Stinging Sensation
+C0677600,Inspiratory stridor
+C0679309,physical symptom
+C0687713,Gastrointestinal Pain
+C0699896,Acute back pain
+C0700153,Myotonus (finding)
+C0700200,Presyncope
+C0740389,Swelling in the elbows
+C0740418,Chronic back pain
+C0740577,Acute abdominal pain
+C0740903,allergic symptom
+C0741034,anginal equivalent
+C0741451,Battle Sign
+C0741933,cardiac symptom
+C0742857,Acute onset cough
+C0743323,dyspnea acute
+C0744633,Acute headache
+C0745411,irregular bleeding
+C0745417,ischemic pain
+C0746674,Generalized muscle weakness
+C0747149,Uncontrolled pain
+C0747150,pain unilateral
+C0749874,upper respiratory symptom
+C0750323,Intractable vomiting
+C0750403,Proximal weakness
+C0750731,"Physical Appearance, Body"
+C0751077,"Diplopia, Horizontal"
+C0751188,Post-Dural Puncture Headaches
+C0751192,Vertex Headache
+C0751295,Memory Loss
+C0751378,Neurologic Signs
+C0751401,Ophthalmoparesis
+C0751407,"Pain, Migratory"
+C0751534,Syncopal Episode
+C0751535,"Syncope, Cardiogenic"
+C0751536,"Syncope, Convulsive"
+C0751564,Pill Rolling Tremor
+C0751837,Gait Ataxia
+C0751900,"Tic, Motor"
+C0752252,Neuromuscular Manifestations
+C0752303,Urological Manifestations
+C0812426,Kidney problem
+C0848332,Spots on skin
+C0848337,gastric distention
+C0848771,neurological disability
+C0849791,sinus drainage
+C0849963,Feeling nervous
+C0850149,Dry cough
+C0850758,Pelvic pain female
+C0853619,Localized swelling
+C0853813,Local Reaction
+C0853945,Oral mucosal blisters
+C0853946,pain aggravated
+C0854069,Tumor pain
+C0857057,blotchy
+C0857180,Lower Ribs Pain
+C0857494,Unresponsive to stimuli
+C0857516,floppy
+C0860603,Anxiety symptoms
+C0871189,Psychotic symptom
+C0877167,Psychomotor skills impaired
+C0877303,Post-Procedural Pain
+C0877781,Hemicrania
+C0917801,Sleeplessness
+C0948715,Infusion-Related Reaction
+C0948786,Blanching
+C1112500,skin tenting
+C1260880,Rhinorrhea
+C1280008,Abdominal angina
+C1282310,Intermittent pain
+C1282799,Penile swelling
+C1291077,Abdominal bloating
+C1304408,Urticarial vasculitis
+C1321587,Breathing abnormally deep
+C1321898,Blood in stool
+C1333034,Chronic Cancer Pain
+C1334804,Motor Manifestations
+C1397014,Imbalance
+C1409715,Sensory Change
+C1446787,Cramping sensation quality
+C1456399,Crushing sensation
+C1457887,Symptoms
+C1511887,Diagnostic or Prognostic Factor
+C1517205,Flare
+C1565249,Mobility Limitation
+C1619712,"Pain, Procedural"
+C1662979,Peritoneal Pain
+C1705500,Flasher - visual manifestation
+C1709099,Muscular Tic
+C1710621,Vasovagal Reaction
+C1740793,Post-tussive vomiting
+C1850830,Exercise-induced myalgia
+C2004489,Regurgitation
+C2013199,Oppositional Behavior
+C2032420,Pain in right hand
+C2126412,Pain of left forearm
+C2129214,Loose stool
+C2141086,Pain of left eye
+C2169806,recurrent muscle twitches (symptom)
+C2201627,Pain of right eye
+C2219850,Loud snoring
+C2228804,Mastodynia of right breast
+C2242577,Oromandibular dystonia
+C2242996,Has tingling sensation
+C2347315,NCI Criterion
+C2363731,Oropharyngeal pain
+C2364082,Sense of smell impaired
+C2364111,Ageusia
+C2364135,Discomfort
+C2609319,Papulopustular Rash
+C2732413,Postexertional fatigue
+C2926602,"Discharge, body substance"
+C2936373,Electroencephalography Phase Synchronization
+C2985217,Job Strain
+C2985287,Dilated Anus
+C2985289,Early Pregnancy Symptom
+C2985299,Impending Labor
+C2985336,Urge to Push
+C3160897,Opioid-Induced Constipation
+C3257803,Watery eyes
+C3266098,Numbness of saddle area
+C3494358,Prodromal Symptoms
+C3494359,Prodromal States
+C3494360,Prodromal Period
+C3494361,Prodromal Stage
+C3640010,Killing Pain
+C3640016,Pressing Pain
+C3640017,Tearing Pain
+C3665346,Unspecified visual loss
+C3714552,Weakness
+C3714772,Recurrent fevers
+C3808668,Episodic pain
+C3829514,Intrapartum fever
+C3838912,Acute ankle pain
+C3839361,Acute arthralgia of knee
+C3839719,Headache due to reversible cerebral vasoconstriction syndrome
+C3839861,Medically Unexplained Symptoms
+C3887611,Restlessness
+C3888418,Colicky Pain
+C3900051,Amotivation
+C4025811,Anemic pallor
+C4042866,Symptom Flare Up
+C4048158,Convulsions
+C4054314,Ostomy Site Pain
+C4293679,Pruritis on breast
+C4293680,Pruritis on hand
+C4293708,Recurrent paroxysmal headache
+C4477048,Heliotrope rash
+C4477064,Fish odor
+C4527152,Tricuspid Valve Regurgitation Velocity
+C4531172,Cold paresis
+C4551516,Hip pain
+C4551520,Intention tremor
+C4552061,Mandibular pain
+C4732758,Gastrocnemius myalgia
+C5139160,Paroxysmal rectal pain

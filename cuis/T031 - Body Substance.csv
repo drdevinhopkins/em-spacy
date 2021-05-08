@@ -1,0 +1,214 @@
+cui,name
+C0002638,Amniotic Fluid
+C0003662,Aqueous Humor
+C0003964,Peritoneal Fluid (body substance)
+C0005388,Bile fluid
+C0005767,Blood
+C0005768,In Blood
+C0005835,Blood Stains
+C0005889,Body Fluids
+C0005909,Body water (substance)
+C0006279,Bronchoalveolar Lavage Fluid
+C0006736,Calculi
+C0007806,Cerebrospinal Fluid
+C0007872,Cervix Mucus
+C0009438,Common Bile Duct Calculi
+C0011343,Dental Cementum
+C0011350,Dental Enamel
+C0011429,Dentin
+C0012621,Body Fluid Discharge
+C0014166,Endolymph
+C0015349,Extracellular Fluid
+C0015380,Extravascular Lung Water
+C0015388,Exudate
+C0015389,Exudates and Transudates
+C0015733,Feces
+C0015925,fetal blood
+C0016709,Fresh frozen plasma
+C0017119,Gastric Acid
+C0017133,Gastric Juice (substance)
+C0017177,Gastrointestinal Contents
+C0020191,Hyalin
+C0021866,Intracellular Fluid
+C0022892,Labyrinthine Fluids
+C0024202,Lymph
+C0025047,Meconium
+C0026131,Milk (body substance)
+C0026140,"Milk, Human"
+C0026727,Mucous body substance
+C0030296,pancreatic juice
+C0031059,Perilymph
+C0032105,Plasma
+C0034161,Pus
+C0036087,saliva
+C0036537,Bodily secretions
+C0036614,Seminal fluid
+C0038056,Sputum
+C0038352,Gastric Content
+C0038984,Sweat
+C0039097,Synovial Fluid
+C0039409,Tears body substance
+C0040767,Transudate
+C0042018,Urinary Calculi
+C0042036,Urine
+C0042965,Vomitus
+C0162367,Interstitial Fluid
+C0162371,Umbilical Cord Blood
+C0178913,Blood specimen
+C0206289,Nasal Lavage Fluid
+C0225378,Upper respiratory tract mucus
+C0225386,Breath
+C0225387,Exhaled air (substance)
+C0225392,Nasal mucus
+C0225778,Pleural fluid
+C0225973,Pericardial fluid (substance)
+C0227977,Prostatic fluid
+C0229096,Vitreous humor
+C0229664,peripheral blood
+C0229665,Blood arterial
+C0229667,Venous blood substance
+C0229671,Serum
+C0233929,Emission - Male genitalia finding
+C0242216,Biliary calculi
+C0302143,Casts body substance
+C0333028,Mixed calculus
+C0333033,Fecalith
+C0333121,Hyaline casts
+C0344391,Granular casts
+C0370199,Aspirate substance
+C0370220,Platelet rich plasma
+C0370231,whole blood
+C0376496,Dentinal Fluid
+C0392908,Vaginal secretion
+C0427896,Crystal - human material
+C0439056,Throat swab sample
+C0440421,Droppings
+C0440741,Aged serum
+C0444077,Nail Specimen
+C0444082,Scrapings (specimen)
+C0444095,Hair Specimen
+C0444099,Skin Specimen
+C0444146,Nasopharyngeal washings (specimen)
+C0444159,Sputum specimen
+C0444192,Nasopharyngeal swab (specimen)
+C0444253,Arterial blood specimen
+C0444279,Respiratory sample
+C0450129,Blood component
+C0486805,Fragments
+C0504082,Body substance
+C0504085,Body Excretions
+C0558301,Undigested food
+C0600083,"Discharge, Body Substance, Sample"
+C0600608,Cyst Fluid
+C0682554,Serous fluid
+C0700071,curettage specimen
+C0729291,Rib bone marrow
+C0740486,Earwax
+C0750852,Physiological sludge
+C0856234,Submandibular Duct Stone
+C0857285,Marrow aspirate (substance)
+C0860209,Gallbladder Sludge
+C1179481,Ingested food
+C1179837,Inhaled air
+C1179993,Portion of vitreous humor
+C1179994,Vitreous humor proper
+C1183487,Regular intercellular matrix
+C1186706,Bolus of ingested food
+C1253937,Pericardial effusion body substance
+C1253943,Pleural effusion fluid
+C1261248,Urine sediment (substance)
+C1272568,Oral secretion
+C1305621,Bloody discharge substance
+C1305623,Purulent discharge substance
+C1458136,Renal stone substance
+C1511229,Blood and Blood Products
+C1514899,Respiratory System Fluid or Secretion
+C1527250,"Colloid, body substance"
+C1532372,Respiratory secretion
+C1533157,Block Specimens
+C1550100,Specimen Type - Serum
+C1550610,SpecimenType - Basophils
+C1550611,Specimen Type - Blood arterial
+C1550615,Specimen Type - Blood venous
+C1550616,Specimen Type - Bone
+C1550619,Burn Specimen
+C1550621,Specimen Type - Cardiac muscle
+C1550622,Specimen Type - Cannula
+C1550623,Cervix Specimen
+C1550624,Specimen Type - Conjunctiva
+C1550625,SpecimenType - Cornea
+C1550626,SpecimenType - Cyst
+C1550629,SpecimenType - Ear
+C1550631,Specimen Type - Electrode
+C1550632,Endocardium Specimen
+C1550633,Endometrium Specimen
+C1550634,Specimen Type - Eosinophils
+C1550635,Specimen Type - Erythrocytes
+C1550636,Eye Specimen
+C1550637,Specimen Type - Fibroblasts
+C1550638,Specimen Type - Filter
+C1550639,Specimen Type - Fistula
+C1550642,Specimen Type - Genital
+C1550647,Specimen Type - Leukocytes
+C1550651,Specimen Type - Lymphocytes
+C1550652,Specimen Type - Macrophages
+C1550655,Specimen Type - Patient
+C1550656,Placenta Specimen
+C1550659,Specimen Type - Skeletal muscle
+C1550661,Specimen Type - Stool = Fecal
+C1550663,Specimen Type - Throat
+C1550668,SpecimenType - Tissue lung
+C1550672,Specimen Type - Ulcer
+C1550675,Urethra specimen
+C1550677,Specimen Type - Whole body
+C1550680,Specimen Type - Wound
+C1556060,Specimen Type - Breast milk
+C1561530,Specimen Type - Sweat
+C1561531,Specimen Type - Meconium
+C1561557,Group Specimen
+C1576419,Specimen Type - Sputum
+C1608383,whole blood specimen
+C1608524,Saliva - SpecimenType
+C1609077,Plasma - SpecimenType
+C1610731,Amniotic fluid - Specimen Type
+C1610733,Urine - SpecimenType
+C1611838,Tears - SpecimenType
+C1619816,Cervical mucus - SpecimenType
+C1706515,Matrix substance
+C1719994,Animal hide
+C2317432,Effusion (substance)
+C2347026,Biospecimen
+C2362762,Peritoneal Dialysis Fluid (body substance)
+C2699330,Abdominal Fluid
+C2700398,Specimen type - Transudate
+C2712342,Bladder stone (substance)
+C2717761,Nipple Aspirate Fluid
+C2753459,mucus layer
+C2756969,Semen
+C2827483,Fixed Specimen
+C2827485,Dried Specimen
+C2827486,Fresh Specimen
+C2919642,Specimen from trachea obtained by aspiration (specimen)
+C2919644,Swab of endocervix
+C2936350,"Plaque, Atherosclerotic"
+C2963137,Portion of urine
+C2983684,Total Tissue
+C2985282,Cervical Mucus Plug
+C3274653,Core Specimen
+C3274654,Tissue Scroll
+C3669207,Nasal swab (specimen)
+C3669362,Soft stool specimen (specimen)
+C3687742,Oropharyngeal swab
+C3828525,Pleural Fluid Supernatant
+C3887660,Salivary Duct Stone (specimen)
+C3897072,Centrifuged Smear Slide
+C3897249,Umbilical Cord Serum
+C4018897,Lymphocyte component of blood
+C4048266,Urine Casts
+C4053879,Venous Cord Blood
+C4055440,Arterial Cord Blood
+C4316915,Salivary calculus -- substance
+C4510876,Bronchial fluid
+C4521697,Semen component
+C4685003,Blood Inflammatory Marker
+C4744409,Bronchoalveolar Biopsy Specimen

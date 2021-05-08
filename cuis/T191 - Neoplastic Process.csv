@@ -1,0 +1,974 @@
+cui,name
+C0000735,Abdominal Neoplasms
+C0001418,Adenocarcinoma
+C0001618,Tumors of Adrenal Cortex
+C0001624,Adrenal Gland Neoplasms
+C0001630,Adrenal Rest Tumor
+C0001815,Primary Myelofibrosis
+C0002793,Anaplasia
+C0002989,Epithelioid hemangioma of skin
+C0003463,Anus Neoplasms
+C0003614,Appendiceal Neoplasms
+C0004991,Benign neoplasm of colon
+C0005396,Bile Duct Neoplasms
+C0005426,Biliary Tract Neoplasm
+C0005684,Malignant neoplasm of urinary bladder
+C0005695,Bladder Neoplasm
+C0005699,Blast Phase
+C0005967,Bone neoplasms
+C0006118,Brain Neoplasms
+C0006142,Malignant neoplasm of breast
+C0006413,Burkitt Lymphoma
+C0006826,Malignant Neoplasms
+C0007097,Carcinoma
+C0007099,Carcinoma in Situ
+C0007102,Malignant tumor of colon
+C0007103,Malignant neoplasm of endometrium
+C0007107,Malignant neoplasm of larynx
+C0007113,Rectal Carcinoma
+C0007114,Malignant neoplasm of skin
+C0007115,Malignant neoplasm of thyroid
+C0007120,Bronchioloalveolar Adenocarcinoma
+C0007121,Bronchogenic Carcinoma
+C0007124,Noninfiltrating Intraductal Carcinoma
+C0007125,"Carcinoma, Ehrlich Tumor"
+C0007129,Merkel cell carcinoma
+C0007131,Non-Small Cell Lung Carcinoma
+C0007134,Renal Cell Carcinoma
+C0007279,Carotid Body Paraganglioma
+C0007528,Cecal Neoplasms
+C0007659,Cementoma
+C0007798,Cerebral Ventricle Neoplasms
+C0007847,Malignant tumor of cervix
+C0007855,Cervical polyp
+C0008493,"Hydatidiform Mole, Invasive"
+C0008523,Choroid Neoplasms
+C0009375,Colonic Neoplasms
+C0009402,Colorectal Carcinoma
+C0009404,Colorectal Neoplasms
+C0009761,Conjunctival Neoplasms
+C0009777,Conn Adenoma
+C0010276,Craniopharyngioma
+C0010673,Endometrial cystic hyperplasia
+C0011649,Dermoid Cyst
+C0013291,Duodenal Neoplasms
+C0013930,"Embolism, Tumor"
+C0014126,Endocervical polyp
+C0014132,Endocrine Gland Neoplasms
+C0014536,Epidural Neoplasms
+C0014859,Esophageal Neoplasms
+C0015461,Facial Neoplasms
+C0015558,Fallopian Tube Neoplasms
+C0016045,fibroma
+C0016978,gallbladder neoplasm
+C0017075,Ganglioneuroma
+C0017150,Gastrinoma
+C0017185,Gastrointestinal Neoplasms
+C0017416,"Genital Neoplasms, Female"
+C0017525,Giant Cell Tumors
+C0017570,Gingival Neoplasms
+C0017638,Glioma
+C0018553,"Hamartoma Syndrome, Multiple"
+C0018671,Head and Neck Neoplasms
+C0018809,Heart Neoplasm
+C0018915,Hemangioendothelioma
+C0018916,Hemangioma
+C0018920,"Hemangioma, Cavernous"
+C0019618,Histiocytosis
+C0019621,"Histiocytosis, Langerhans-Cell"
+C0019623,Malignant histiocytosis
+C0019829,Hodgkin Disease
+C0020217,Hydatidiform Mole
+C0020659,Hypothalamic Neoplasms
+C0020876,Ileal Neoplasms
+C0021432,Infratentorial Neoplasms
+C0021670,insulinoma
+C0021841,Intestinal Neoplasms
+C0022374,Jejunal Neoplasms
+C0022665,Kidney Neoplasm
+C0023055,Laryngeal neoplasm
+C0023267,Fibroid Tumor
+C0023418,leukemia
+C0023434,Chronic Lymphocytic Leukemia
+C0023443,Hairy Cell Leukemia
+C0023448,Lymphoid leukemia
+C0023449,Acute lymphocytic leukemia
+C0023452,Childhood Acute Lymphoblastic Leukemia
+C0023453,L2 Acute Lymphoblastic Leukemia
+C0023467,"Leukemia, Myelocytic, Acute"
+C0023470,Myeloid Leukemia
+C0023473,"Myeloid Leukemia, Chronic"
+C0023474,"Leukemia, Myeloid, Chronic-Phase"
+C0023484,"Leukemia, Plasma Cell"
+C0023487,Acute Promyelocytic Leukemia
+C0023492,"Leukemia, T-Cell"
+C0023493,Adult T-Cell Lymphoma/Leukemia
+C0023532,"Leukoplakia, Oral"
+C0023903,Liver neoplasms
+C0024232,Lymphatic Metastasis
+C0024299,Lymphoma
+C0024305,"Lymphoma, Non-Hodgkin"
+C0024314,Lymphoproliferative Disorders
+C0024620,Primary Malignant Liver Neoplasm
+C0024623,Malignant neoplasm of stomach
+C0024694,Mandibular Neoplasms
+C0024958,Maxillary Sinus Neoplasms
+C0025202,melanoma
+C0025267,Multiple Endocrine Neoplasia Type 1
+C0025268,Multiple Endocrine Neoplasia Type 2a
+C0025269,Multiple Endocrine Neoplasia Type 2b
+C0025284,Meningeal Neoplasms
+C0026470,Monoclonal Gammopathy of Undetermined Significance
+C0026640,Mouth Neoplasms
+C0026725,Mucous polyp of cervix
+C0026764,Multiple Myeloma
+C0026987,Myelofibrosis
+C0026998,"Acute Myeloid Leukemia, M1"
+C0027022,Myeloproliferative disease
+C0027086,Myoma
+C0027149,Myxoma
+C0027439,Nasopharyngeal Neoplasms
+C0027627,Neoplasm Metastasis
+C0027651,Neoplasms
+C0027656,"Neoplasms, Connective Tissue"
+C0027662,Multiple Endocrine Neoplasia
+C0027665,"Neoplasms, Nerve Tissue"
+C0027668,"Neoplasms, Vascular Tissue"
+C0027671,Neoplastic Processes
+C0027672,"Neoplastic Syndromes, Hereditary"
+C0027708,Nephroblastoma
+C0027809,Neurilemmoma
+C0027830,neurofibroma
+C0027831,Neurofibromatosis 1
+C0027832,Neurofibromatosis 2
+C0027859,Acoustic Neuroma
+C0027960,Nevus
+C0027962,Melanocytic nevus
+C0028880,Odontogenic Tumors
+C0029185,Orbital Neoplasms
+C0029295,Oropharyngeal Neoplasms
+C0029417,Osteoblastoma
+C0029423,Cartilaginous exostosis
+C0029440,Osteoma
+C0029441,Osteoid osteoma
+C0029463,Osteosarcoma
+C0029897,Otorhinolaryngologic Neoplasms
+C0030185,"Paget's Disease, Mammary"
+C0030186,Paget Disease Extramammary
+C0030297,Pancreatic Neoplasm
+C0030421,Paraganglioma
+C0030422,Extra-Adrenal Paraganglioma
+C0030472,Paraneoplastic Syndromes
+C0030521,Parathyroid Neoplasms
+C0030581,Parotid Neoplasms
+C0031118,Peripheral Nervous System Neoplasms
+C0031149,Peritoneal Neoplasms
+C0031511,Pheochromocytoma
+C0032000,Pituitary Adenoma
+C0032019,Pituitary Neoplasms
+C0032463,Polycythemia Vera
+C0032580,Adenomatous Polyposis Coli
+C0032966,"Pregnancy Complications, Neoplastic"
+C0033578,Prostatic Neoplasms
+C0034885,Rectal Neoplasms
+C0034887,Rectal polyp
+C0035288,"Reticuloendotheliosis, X-linked"
+C0035335,Retinoblastoma
+C0035358,Retroperitoneal Neoplasms
+C0036210,Malignant neoplasm musculoskeletal
+C0036220,Kaposi Sarcoma
+C0037293,Skin tag
+C0037579,Soft Tissue Neoplasms
+C0038478,Struma Ovarii
+C0038558,Submandibular Gland Neoplasms
+C0038874,Supratentorial Neoplasms
+C0040137,Thyroid Nodule
+C0040582,Tracheal Neoplasms
+C0041182,Trophoblastic Neoplasms
+C0041341,Tuberous Sclerosis
+C0042065,Genitourinary Neoplasms
+C0042076,Urologic Neoplasms
+C0042133,Uterine Fibroids
+C0042162,Uveal Neoplasms
+C0042465,"Venereal Tumors, Veterinary"
+C0042929,Polyp of vocal cord
+C0042995,Vulvar Neoplasms
+C0079218,"Fibromatosis, Aggressive"
+C0079740,High Grade Lymphoma (neoplasm)
+C0085090,"Lymphoma, AIDS-Related"
+C0085138,Choroid Plexus Neoplasms
+C0085183,"Neoplasms, Second Primary"
+C0085269,"Plasma Cell Granuloma, Pulmonary"
+C0085653,Pyogenic granuloma
+C0085669,Acute leukemia
+C0085750,Adenosis of Breast
+C0086692,Benign Neoplasm
+C0086768,Pancreatic Cholera
+C0149640,Cecum Carcinoma
+C0149925,Small cell carcinoma of lung
+C0151241,Atrial myxoma
+C0151779,Cutaneous Melanoma
+C0152013,Adenocarcinoma of lung (disorder)
+C0153364,Malignant tumor of gum
+C0153373,Malignant neoplasm of cheek mucosa
+C0153381,Malignant neoplasm of mouth
+C0153382,Malignant neoplasm of oropharynx
+C0153392,Malignant neoplasm of nasopharynx
+C0153405,Malignant neoplasm of pharynx
+C0153425,Malignant tumor of small intestine
+C0153426,Malignant neoplasm of duodenum
+C0153437,Malignant neoplasm of cecum
+C0153446,Malignant neoplasm of anus
+C0153452,Malignant neoplasm of gallbladder
+C0153453,Malignant tumor of extrahepatic bile duct
+C0153467,Malignant tumor of peritoneum
+C0153470,Malignant neoplasm of spleen
+C0153494,Malignant tumor of pleura
+C0153500,Malignant neoplasm of heart
+C0153504,Malignant tumor of mediastinum
+C0153560,Kaposi's sarcoma of skin
+C0153562,Kaposi's sarcoma of palate
+C0153572,Malignant Placental Neoplasm
+C0153579,Malignant neoplasm of fallopian tube
+C0153594,Malignant neoplasm of testis
+C0153601,Malignant neoplasm of penis
+C0153603,Malignant neoplasm of spermatic cord
+C0153604,Malignant neoplasm of scrotum
+C0153614,Malignant neoplasm of ureteric orifice
+C0153618,Malignant tumor of renal pelvis
+C0153619,Malignant neoplasm of ureter
+C0153633,Malignant neoplasm of brain
+C0153640,Malignant neoplasm of cerebellum
+C0153685,Secondary malignant neoplasm of kidney
+C0153687,Secondary malignant neoplasm of skin
+C0153690,Secondary malignant neoplasm of bone
+C0153876,Acute lymphoid leukemia in remission
+C0153888,Chronic myeloid leukemia in remission
+C0153957,benign neoplasm of heart
+C0154003,Benign neoplasm of vulva
+C0154017,Benign neoplasm of bladder
+C0154050,Hemangioma of intracranial structure
+C0154051,Hemangioma of retina
+C0154073,Carcinoma in situ of skin
+C0156369,Uterine Polyp
+C0162608,"Neoplasms, Post-Traumatic"
+C0162678,Neurofibromatoses
+C0178874,Tumor Progression
+C0205622,Microinvasive tumor
+C0205649,"Adenoma, Monomorphic"
+C0205699,Carcinomatosis
+C0205748,Dysplastic Nevus
+C0205770,Choroid Plexus Papilloma
+C0205944,"Sarcoma, Epithelioid"
+C0206186,"Leukoplakia, Hairy"
+C0206630,Endometrial Stromal Sarcoma
+C0206631,Lipomatous neoplasm
+C0206632,Angiolipoma
+C0206633,Angiomyolipoma
+C0206641,Osteochondromatosis
+C0206643,"Neoplasms, Fibrous Tissue"
+C0206646,"Fibromatosis, Abdominal"
+C0206649,"Neoplasms, Fibroepithelial"
+C0206655,Alveolar rhabdomyosarcoma
+C0206656,Embryonal Rhabdomyosarcoma
+C0206657,Alveolar Soft Part Sarcoma
+C0206658,Smooth Muscle Tumor
+C0206663,"Neuroectodermal Tumor, Primitive"
+C0206667,Adrenal Cortical Adenoma
+C0206682,Follicular thyroid carcinoma
+C0206685,Acinar Cell Carcinoma
+C0206686,Adrenocortical carcinoma
+C0206695,"Carcinoma, Neuroendocrine"
+C0206697,"Carcinoma, Skin Appendage"
+C0206698,Cholangiocarcinoma
+C0206702,Klatskin Tumor
+C0206706,Verrucous carcinoma
+C0206712,Mucoepidermoid Tumor
+C0206715,"Neoplasms, Neuroepithelial"
+C0206720,Squamous Cell Neoplasms
+C0206729,Neurofibrosarcoma
+C0206731,Angiofibroma
+C0206736,"Nevus, Blue"
+C0206737,"Nevus, Intradermal"
+C0206743,Rhabdoid Tumor
+C0206754,Neuroendocrine Tumors
+C0220597,Adult Hodgkin Lymphoma
+C0220605,Adult Non-Hodgkin Lymphoma
+C0220612,Childhood Non-Hodgkin Lymphoma
+C0220615,Adult Acute Myeloblastic Leukemia
+C0220620,Gastrointestinal Carcinoid Tumor
+C0220633,Uveal melanoma
+C0220636,Malignant neoplasm of salivary gland
+C0220644,Childhood Hodgkin Lymphoma
+C0220645,Childhood Soft Tissue Sarcoma
+C0220648,Renal Pelvis and Ureter Urothelial Carcinoma
+C0220650,Metastatic malignant neoplasm to brain
+C0220654,Meningeal Carcinomatosis
+C0220656,Malignant ascites
+C0221013,"Mastocytosis, Systemic"
+C0221269,Pseudolymphoma
+C0235754,Bladder papilloma
+C0235782,Gallbladder Carcinoma
+C0235974,Pancreatic carcinoma
+C0238033,Carcinoma of Male Breast
+C0238152,Cardiac Sarcoma
+C0238196,Small intestine carcinoma
+C0238198,Gastrointestinal Stromal Tumors
+C0238246,Hemangioma of liver
+C0238463,Papillary thyroid carcinoma
+C0240803,Primary cerebral lymphoma
+C0241961,Angiomyolipoma of kidney
+C0242363,Islet Cell Tumor
+C0242379,Malignant neoplasm of lung
+C0242404,Myofibroblastoma
+C0242647,Mucosa-Associated Lymphoid Tissue Lymphoma
+C0259781,Compound nevus of skin
+C0262401,Carcinoma of ampulla of Vater
+C0264239,Polyp of maxillary sinus
+C0265985,Mongolian Spot
+C0265987,Nevus comedonicus
+C0266490,Nasal glial heterotopia
+C0267573,Anal polyp
+C0268381,Primary amyloidosis
+C0272203,Indolent Systemic Mastocytosis
+C0277521,Transmissible canine venereal tumor
+C0278554,Recurrent Rectal Cancer
+C0278556,Anal cancer recurrent
+C0278679,Renal cell carcinoma recurrent
+C0278701,Gastric Adenocarcinoma
+C0278704,Malignant Childhood Neoplasm
+C0278711,Stage I Kidney Wilms Tumor
+C0278722,DS Stage I Plasma Cell Myeloma
+C0278723,DS Stage II Plasma Cell Myeloma
+C0278764,Adult Burkitt Lymphoma
+C0278767,Stage I Chronic Lymphocytic Leukemia
+C0278787,"Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive"
+C0278852,Stage I Thyroid Gland Follicular Carcinoma AJCC v7
+C0278853,Stage II Thyroid Gland Follicular Carcinoma AJCC v7
+C0278854,Stage IV Thyroid Gland Follicular Carcinoma AJCC v7
+C0278879,Childhood Burkitt Lymphoma
+C0278996,Malignant Head and Neck Neoplasm
+C0279000,Liver and Intrahepatic Biliary Tract Carcinoma
+C0279068,Childhood Solid Neoplasm
+C0279083,"Meningeal Chronic Myelogenous Leukemia, BCR-ABL1 Positive"
+C0279087,Recurrent Kaposi Sarcoma
+C0279530,Malignant Bone Neoplasm
+C0279543,Philadelphia chromosome positive chronic myelogenous leukemia
+C0279584,Childhood B Acute Lymphoblastic Leukemia
+C0279593,Adult B Acute Lymphoblastic Leukemia
+C0279625,Adult Acute Promyelocytic Leukemia with PML-RARA
+C0279637,Anal carcinoma
+C0279651,Gallbladder adenocarcinoma
+C0279661,Acinar cell carcinoma of pancreas
+C0279672,Cervical Adenocarcinoma
+C0279702,Conventional (Clear Cell) Renal Cell Carcinoma
+C0279706,Thymic Lymphoepithelioma-Like Carcinoma
+C0279719,Pancreatic Beta Cell Adenoma
+C0279930,Anterior Urethral Malignant Neoplasm
+C0279931,Posterior Urethral Malignant Neoplasm
+C0280099,Adult Solid Neoplasm
+C0280100,Solid Neoplasm
+C0280281,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+C0280298,Anterior Tongue Squamous Cell Carcinoma
+C0280299,Squamous cell carcinoma of buccal mucosa
+C0280533,cholangiocarcinoma of the extrahepatic bile duct
+C0280803,Primary central nervous system lymphoma
+C0281361,Adenocarcinoma of pancreas
+C0281869,Hodgkin's disease in remission
+C0282606,Myomatous neoplasm
+C0302592,Cervix carcinoma
+C0311220,Cutaneous pseudolymphoma
+C0332568,Pad Mass
+C0333873,Squamous intraepithelial lesion
+C0334039,Nephrogenic metaplasia
+C0334121,Inflammatory Myofibroblastic Tumor
+C0334254,Lymphoepithelial carcinoma
+C0334276,Adenocarcinoma in Situ
+C0334303,Alveolar adenoma
+C0334342,Skin appendage adenoma
+C0334383,Intraductal carcinoma and lobular carcinoma in situ
+C0334416,Parasympathetic paraganglioma
+C0334418,"Extra-adrenal paraganglioma, malignant"
+C0334419,Malignant pheochromocytoma
+C0334431,Melanocytoma
+C0334473,Intramuscular lipoma
+C0334478,Bizarre leiomyoma
+C0334486,Low Grade Endometrial Stromal Sarcoma
+C0334520,"Teratoma, Malignant"
+C0334523,Dermoid cyst with secondary tumor
+C0334525,"Struma ovarii, malignant"
+C0334526,Strumal carcinoid
+C0334529,"Hydatidiform Mole, Partial"
+C0334532,Venous hemangioma
+C0334533,Arteriovenous hemangioma
+C0334580,Protoplasmic astrocytoma
+C0334608,Angiomatous Meningioma
+C0334664,Mast Cell Neoplasm
+C0334674,Acute panmyelosis with myelofibrosis
+C0334684,Renal Adenoma
+C0338078,Non-Functioning Pituitary Gland Neoplasm
+C0341790,Neoplasm of scrotum
+C0343083,Intravascular papillary endothelial hyperplasia
+C0345555,Carcinoma of soft palate
+C0345563,Neoplasm of buccal mucosa
+C0345602,Parotid Gland Carcinoma
+C0345607,Carcinoma of submandibular gland
+C0345617,Neoplasm of middle ear
+C0345630,Neoplasm of nasal cavity
+C0345668,Neoplasm of ethmoidal sinus
+C0345672,Neoplasm of frontal sinus
+C0345676,Neoplasm of sphenoidal sinus
+C0345713,Neoplasm of glottis
+C0345726,Neoplasm of supraglottis
+C0345746,Neoplasm of subglottis
+C0345804,Gastric Body Carcinoma
+C0345832,Neoplasm of small intestine
+C0345904,Malignant neoplasm of liver
+C0345905,Intrahepatic Cholangiocarcinoma
+C0345912,Benign neoplasm of gallbladder
+C0345913,Extrahepatic Bile Duct Neoplasm
+C0345916,Neoplasm of ampulla of Vater
+C0346054,Verruciform xanthoma of skin
+C0346210,Vulval intraepithelial neoplasia
+C0346260,Neoplasm of renal pelvis
+C0346300,Pituitary carcinoma
+C0346328,Meningioma of optic nerve sheath
+C0346330,Neoplasm of acoustic nerve
+C0346402,Malignant neoplasm of adrenal cortex
+C0346421,Chronic eosinophilic leukemia
+C0346609,Primary malignant neoplasm of pericardium
+C0346612,Malignant tumor of endocardium
+C0346627,Intestinal Cancer
+C0346629,Malignant neoplasm of large intestine
+C0346647,Malignant neoplasm of pancreas
+C0346903,Malignant neoplasm of cerebrum
+C0346957,Disseminated Malignant Neoplasm
+C0346976,Secondary malignant neoplasm of pancreas
+C0346990,Carcinomatosis of peritoneal cavity
+C0347016,Secondary malignant neoplasm of spinal cord
+C0347129,Dysplasia of anus
+C0347197,Benign neoplasm of oral cavity
+C0347276,Benign neoplasm of anus
+C0347284,Benign tumor of pancreas
+C0347354,Benign neoplasm of ear
+C0347493,Cervix adenomatous polyp
+C0347524,Benign tumor of endocrine gland
+C0348374,Malignant Central Nervous System Neoplasm
+C0348393,Malignant tumor of lymphoid hemopoietic and related tissue
+C0349502,Dermoid cyst of skin
+C0349527,Fibrous tissue neoplasm of skin
+C0349534,Carcinoma of anal margin
+C0349538,Malignant melanoma of anus
+C0349554,Vaginal intraepithelial neoplasia grade 1
+C0349561,Bartholin's gland carcinoma
+C0349574,Neoplasm of pericardium
+C0349631,Richter's syndrome
+C0349675,Hypergranular promyelocytic leukemia
+C0375071,Malignant neoplasm of vulva
+C0376358,Malignant neoplasm of prostate
+C0376527,Skull Base Neoplasms
+C0376544,Hematopoietic Neoplasms
+C0376545,Hematologic Neoplasms
+C0431098,Malignant melanoma in precancerous melanosis
+C0431128,Papillary craniopharyngioma
+C0432360,Neurofibromatosis type 5
+C0432487,Post-transplant lymphoproliferative disorder
+C0474740,Cerebellopontine Angle Tumor
+C0474824,Halo nevus
+C0474844,Neuronal and mixed neuronal-glial tumor
+C0476089,Endometrial Carcinoma
+C0476147,Chondrogenic Neoplasm
+C0476203,Synovial Neoplasm
+C0495106,Vulval intraepithelial neoplasia grade 1
+C0495107,Vulval intraepithelial neoplasia grade 2
+C0496779,Malignant neoplasm of appendix
+C0496828,Malignant neoplasm of lateral wall of bladder
+C0496842,Malignant neoplasm of pituitary gland
+C0496899,"Benign neoplasm of brain, unspecified"
+C0497243,Neoplasm of cardiovascular system
+C0518959,Left atrial myxoma
+C0518960,Right atrial myxoma
+C0521158,Recurrent tumor
+C0524802,Optic Nerve Neoplasms
+C0541912,Duodenal Cancer
+C0543478,Residual Tumor
+C0549379,Recurrent Carcinoma
+C0549463,X-Linked Lymphoproliferative Disorder
+C0549473,Thyroid carcinoma
+C0553580,Ewings sarcoma
+C0553647,calcifying aponeurotic fibroma
+C0555198,Malignant Glioma
+C0563211,Carcinoma of anal canal
+C0563312,IgM monoclonal gammopathy of uncertain significance
+C0585129,Retroperitoneal sarcoma
+C0585442,Osteosarcoma of bone
+C0588125,Nodular tenosynovitis
+C0595989,Carcinoma of larynx
+C0596046,Neoplasm of adrenal medulla
+C0596263,Carcinogenesis
+C0598798,Lymphoid neoplasm
+C0600139,Prostate carcinoma
+C0677055,CARCINOMA OF VULVA
+C0677608,Chorioangioma
+C0677861,Bilateral Malignant Neoplasm
+C0677865,Brain Stem Glioma
+C0677866,Brain Stem Neoplasms
+C0677898,Invasive Malignant Neoplasm
+C0677930,Primary Neoplasm
+C0677932,Progressive Neoplastic Disease
+C0677936,Refractory Malignant Neoplasm
+C0678213,Complete hydatidiform mole
+C0678222,Breast Carcinoma
+C0684249,Carcinoma of lung
+C0684516,Benign bone neoplasm
+C0684550,Secondary malignant neoplasm of vertebral column
+C0685938,Malignant neoplasm of gastrointestinal tract
+C0686377,CNS metastases
+C0687150,Parathyroid Gland Adenocarcinoma
+C0687702,Cancer Remission
+C0699790,Colon Carcinoma
+C0699791,Stomach Carcinoma
+C0699885,Carcinoma of bladder
+C0699889,Malignant Female Reproductive System Neoplasm
+C0699893,Skin carcinoma
+C0700101,Urethral Carcinoma
+C0728864,Malignant neoplasm of nasal cavity
+C0740083,Carcinoma of glottis
+C0740372,Gastrointestinal lymphoma
+C0740457,Malignant neoplasm of kidney
+C0740487,Maxillary Sinus Carcinoma
+C0742136,Condyloma acuminata of cervix
+C0746408,mass lesion
+C0746787,Cancer of Neck
+C0747273,Malignant tumour of parotid gland
+C0750887,Adrenal Cancer
+C0750974,"Brain Tumor, Primary"
+C0750977,Recurrent Brain Neoplasm
+C0751366,Radiation-Induced Cancer
+C0751428,"Peripheral Nerve Neoplasms, Malignant"
+C0751569,Genitourinary Cancer
+C0751571,Cancer of Urinary Tract
+C0751589,"Cancer, Supratentorial"
+C0751593,Infratentorial Cancer
+C0751606,Adult Acute Lymphocytic Leukemia
+C0751620,"Central Nervous System Neoplasms, Primary"
+C0751623,Second Primary Cancers
+C0751886,"Brain Stem Neoplasms, Primary"
+C0796549,Recurrent tumors of the Ewing's family
+C0796563,Localized Malignant Neoplasm
+C0850572,Adenomatous polyp of colon
+C0852937,Endobronchial Lipoma
+C0852976,Retro-Orbital Neoplasm
+C0853715,Breast Hemangioma
+C0853968,Recurrent Inflammatory Breast Carcinoma
+C0854196,Hepatobiliary Neoplasm
+C0854486,Functioning Pituitary Gland Adenoma
+C0854793,Non-Resectable Malignant Liver Neoplasm
+C0854804,Stage IV Chronic Lymphocytic Leukemia
+C0854914,Bilateral Retinoblastoma
+C0854917,Rhabdoid Tumor of the Kidney
+C0855095,Small Lymphocytic Lymphoma
+C0859865,Otic polyp
+C0861727,Metastatic Pancreatic Adenocarcinoma
+C0864875,Malignant neoplasm of anorectum
+C0877373,Advanced Malignant Neoplasm
+C0877578,Treatment related secondary malignancy
+C0877858,Aleukemic leukemia
+C0878500,Intraepithelial Neoplasia
+C0887846,Aleukemic Leukemia Cutis
+C0917817,Neurofibromatosis 3
+C0920506,Environment-Related Malignant Neoplasm
+C0935681,Non-Hematologic Malignancy
+C0948348,Tumor Associated Fever
+C0948627,Malignant Lymph Node Neoplasm
+C0948749,Retroperitoneal Carcinoma
+C0949059,Polyp of large intestine
+C1112382,Epiglottic Carcinoma
+C1135868,Gestational Trophoblastic Neoplasms
+C1136033,Cutaneous Mastocytosis
+C1136042,"Neuroma, Acoustic, Bilateral"
+C1136085,Monoclonal Gammapathies
+C1140680,Malignant neoplasm of ovary
+C1168327,High-Grade Prostatic Intraepithelial Neoplasia
+C1168328,Low Grade Prostatic Intraepithelial Neoplasia
+C1176475,Ductal Carcinoma
+C1257877,"Pheochromocytoma, Extra-Adrenal"
+C1260966,Central odontogenic fibroma
+C1263885,Neoplasm of cerebrum
+C1263895,Neoplasm of oculomotor nerve
+C1263897,Neoplasm of trigeminal nerve
+C1266094,"Thymoma, type B1"
+C1266129,Atypical Lipoma
+C1266131,Chondroid lipoma
+C1266173,Chondroid chordoma
+C1266184,Atypical Teratoid Rhabdoid Tumor
+C1269955,Tumor Cell Invasion
+C1272677,Benign mixed epithelial and stromal tumor of kidney
+C1275237,Storiform collagenoma
+C1275278,Extraskeletal Myxoid Chondrosarcoma
+C1275420,Extra-abdominal fibromatosis
+C1290353,Neoplasm of epiglottis
+C1290401,Neoplasm of endocardium
+C1290403,Neoplasm of epicardium
+C1290407,Neoplasm of great vessels
+C1292769,Precursor B-cell lymphoblastic leukemia
+C1292772,"Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative"
+C1292778,Chronic myeloproliferative disorder
+C1299237,Endocervical Carcinoma
+C1299239,Carcinoma of subglottis
+C1299240,Carcinoma of supraglottis
+C1300346,Desmoplastic fibroblastoma
+C1301355,Myelodysplastic-Myeloproliferative Diseases
+C1301361,"Post-transplant lymphoproliferative disorder, polymorphic"
+C1304517,Extrarenal rhabdoid tumor
+C1306459,Primary malignant neoplasm
+C1306460,Primary malignant neoplasm of lung
+C1318558,Congenital melanocytic nevus
+C1332165,Combined Lung Small Cell Carcinoma and Lung Adenocarcinoma
+C1332166,Gastroesophageal Junction Adenocarcinoma
+C1332206,Adult Lymphoma
+C1332226,Alcohol-Related Carcinoma
+C1332257,Adenocarcinoma of anus
+C1332265,Anal Kaposi Sarcoma
+C1332266,Anal Leiomyoma
+C1332268,Anal Lymphoma
+C1332271,Perianal Squamous Intraepithelial Neoplasia
+C1332274,Paget Disease of the Anus
+C1332304,Anterior Tongue Carcinoma
+C1332306,Anterior Tongue Neoplasm
+C1332328,Appendix Lymphoma
+C1332353,Atypical Small Acinar Proliferation of the Prostate Gland
+C1332356,Autonomic Nervous System Neoplasm
+C1332549,Bilateral Carcinoma
+C1332865,Cavernous Sinus Meningioma
+C1332948,Childhood Brain Germinoma
+C1332977,Childhood Leukemia
+C1332979,Childhood Lymphoma
+C1332986,Childhood Osteosarcoma
+C1333000,Childhood Kidney Angiomyolipoma
+C1333019,Central Nervous System Chondroma
+C1333083,Colon Burkitt Lymphoma
+C1333087,Colon Ganglioneuroma
+C1333091,Colon Kaposi Sarcoma
+C1333177,Lymphoproliferative Disorder of the Skin
+C1333371,Eccrine Neoplasm
+C1333383,Encapsulated Thymoma
+C1333417,Epidural Spinal Canal Meningioma
+C1333428,EBV-Related Carcinoma
+C1333431,EBV-Related Lymphoma
+C1333432,EBV-Related Malignant Neoplasm
+C1333438,Erythroid Neoplasm
+C1333482,Exaggerated placental site
+C1333495,Extra-Adrenal Retroperitoneal Paraganglioma
+C1333500,Extragastrointestinal Gastrointestinal Stromal Tumor
+C1333600,Hereditary Malignant Neoplasm
+C1333620,Flat Ductal Epithelial Atypia of the Breast
+C1333750,Gallbladder Mucinous Adenocarcinoma
+C1333763,Gastric Cardia Carcinoma
+C1333767,Gastric Gastrin-Producing Neuroendocrine Tumor
+C1333790,Gastric Teratoma
+C1333802,Gastrointestinal Stromal Tumor of the Gastrointestinal Tract
+C1333962,Hepatic Angiomyolipoma
+C1333963,Liver Neuroendocrine Tumor
+C1334008,High Grade Sarcoma
+C1334206,Intermediate Grade Ductal Breast Carcinoma In Situ
+C1334261,Intraorbital Meningioma
+C1334264,Intraspinal Meningioma
+C1334356,Labia Majora Carcinoma
+C1334357,Labia Minora Carcinoma
+C1334413,Low Grade Ductal Breast Carcinoma In Situ
+C1334445,Lung Hilum Carcinoma
+C1334593,Malignant Intracranial Neoplasm
+C1334596,Malignant Leptomeningeal Neoplasm
+C1334602,Malignant Kidney Mixed Epithelial and Stromal Tumor
+C1334616,Malignant Pulmonary Artery Neoplasm
+C1334617,Malignant Pulmonary Vein Neoplasm
+C1334620,Malignant Smooth Muscle Neoplasm
+C1334757,Middle Cranial Fossa Meningioma
+C1334763,Midgut Carcinoid Tumor
+C1334798,Monomorphic Post-Transplant Lymphoproliferative Disorder
+C1334826,Multiple Lobular Capillary Hemangiomas
+C1334942,Neoplastic Post-Transplant Lymphoproliferative Disorder
+C1334968,Nodular Lymphocyte Predominant Hodgkin Lymphoma
+C1334977,Non functioning pancreatic endocrine tumor
+C1335101,Occupational Malignant Neoplasm
+C1335146,Osteogenic Neoplasm
+C1335302,Pancreatic Ductal Adenocarcinoma
+C1335362,Parotid monomorphic adenoma
+C1335377,Periampullary Adenocarcinoma
+C1335378,Pericardial Carcinomatosis
+C1335383,Periocular Meningioma
+C1335387,Peripheral Ganglioneuroblastoma
+C1335391,Peritoneal and Retroperitoneal Neoplasm
+C1335426,Plasma Cell Post-Transplant Lymphoproliferative Disorder
+C1335433,Pleural Carcinomatosis
+C1335448,Posterior Cranial Fossa Meningioma
+C1335488,Primary Lung Meningioma
+C1335721,Recurrent Urinary System Carcinoma
+C1335724,Refractory Hematologic Malignancy
+C1335729,Refractory Neoplasm
+C1335737,Recurrent Hematologic Malignancy
+C1335747,Kidney Extraskeletal Osteosarcoma
+C1335749,Renal Pelvis Carcinoma
+C1335777,Retroperitoneal Hemangiopericytoma
+C1336022,Solar Radiation-Related Malignant Neoplasm
+C1336317,Stage II Skin Cancer
+C1336318,Stage II Lung Small Cell Carcinoma AJCC v7
+C1336445,Stage IV Uveal Melanoma AJCC v7
+C1336481,Stage I Skin Cancer
+C1336482,Stage I Lung Small Cell Carcinoma AJCC v7
+C1336494,Stage I Uveal Melanoma AJCC v7
+C1336518,Subglottic Hemangioma
+C1336538,"Supratentorial Embryonal Tumor, Not Otherwise Specified"
+C1336546,Synovial Hemangioma
+C1336810,Transplant-Related Hematologic Malignancy
+C1336869,Unresectable Malignant Neoplasm
+C1336905,Endometrial Endometrioid Adenocarcinoma
+C1337011,Well Differentiated Pancreatic Endocrine Tumor
+C1367536,Nasopharyngeal Angiofibroma
+C1368019,Paget Disease
+C1368683,Epithelioma
+C1368871,Pediatric Neoplasm
+C1369136,Metastatic Anal Canal Carcinoma
+C1370446,Recurrent Plasma Cell Myeloma
+C1370932,Renal Pelvis and Ureter Carcinoma
+C1377785,Nasal cavity carcinoma
+C1377917,Stage I Nasopharyngeal Carcinoma
+C1384426,Hairy leukoplakia of tongue
+C1439275,Disseminated carcinoma
+C1456781,Benign melanocytic nevus
+C1458156,Recurrent Malignant Neoplasm
+C1511048,Bartholin Gland Adenoma
+C1511104,Benign Struma Ovarii
+C1511320,Breast Myofibroblastoma
+C1512433,High Grade Cervical Squamous Intraepithelial Neoplasia
+C1512441,High-Risk Cancer
+C1512779,Neoplasm of the inner ear
+C1514197,"Polycythemia Vera, Polycythemic Phase"
+C1514517,Prostate Stromal Proliferation of Uncertain Malignant Potential
+C1516170,Cancer Cell Growth
+C1516437,Cervical Wilms Tumor
+C1516669,Clonal Evolution
+C1518005,Low Grade Cervical Squamous Intraepithelial Neoplasia
+C1518691,Ovarian Biphasic or Triphasic Teratoma
+C1519670,Tumor Angiogenesis
+C1520082,Vulvar Glandular Neoplasm
+C1522057,Acute Enteritis of the Mouse Intestinal Tract
+C1522378,"Leukemia, Large Granular Lymphocytic"
+C1533161,Eccrine Poroma
+C1533592,Malignant Paraganglionic Neoplasm
+C1621719,Lymphoepithelioid lymphoma (clinical)
+C1698088,Malignant Solid Neoplasm
+C1704236,Perifollicular fibroma
+C1704273,Endometrial Polyp
+C1704981,Hyperparathyroidism-Jaw Tumor Syndrome
+C1706698,Acidophil Stem Cell Pituitary Gland Adenoma
+C1706980,Bone Leiomyoma
+C1707251,Cancer Other
+C1707401,Classical Poroma
+C1707444,Columnar Cell Change of the Breast
+C1708107,Functioning Pancreatic Neuroendocrine Tumor
+C1708653,Laryngeal Lymphoepithelial Carcinoma
+C1708993,Metaplastic thymoma
+C1709035,Minimally Invasive Thymoma
+C1709263,Nonestrogen-Dependent Malignant Neoplasm
+C1744708,Tracheal Carcinoma
+C1834582,"MYELOPROLIFERATIVE SYNDROME, TRANSIENT"
+C1861848,PARAGANGLIOMAS 4
+C1879321,Acute Myeloid Leukemia (AML-M2)
+C1880017,Central Nervous System Carcinoma
+C1882062,Neoplastic disease
+C1883338,"Thyroid Gland Follicular Carcinoma, Minimally Invasive"
+C1883411,Tumor Replacement
+C1955861,T-Cell Large Granular Lymphocyte Leukemia
+C1959588,Angioma
+C1959589,"Angioma, Cavernous"
+C1961099,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+C1961102,Precursor Cell Lymphoblastic Leukemia Lymphoma
+C1997217,Low grade glioma
+C2103465,Posterior Cranial Fossa Neoplasm
+C2205024,Neuroendocrine carcinoma of appendix
+C2205189,Anal Canal Neuroendocrine Carcinoma
+C2239176,Liver carcinoma
+C2314896,Familial Atypical Mole Melanoma Syndrome
+C2317797,Vulvar hemangioma
+C2346458,ISS Stage I Plasma Cell Myeloma
+C2347914,Recurrent Childhood Spinal Cord Neoplasm
+C2349952,Oropharyngeal Carcinoma
+C2350019,Solitary Pulmonary Nodule
+C2700007,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly
+C2732473,Ductal Carcinoma In Situ with Microinvasion
+C2739810,Lentigo maligna melanoma
+C2826320,Refractory Neutropenia
+C2826321,Refractory Thrombocytopenia
+C2828182,Stage I Gestational Trophoblastic Tumor AJCC v7
+C2828183,Stage IA Gestational Trophoblastic Tumor AJCC v7
+C2828185,Stage II Gestational Trophoblastic Tumor AJCC v7
+C2828191,Stage IV Gestational Trophoblastic Tumor AJCC v7
+C2828205,Stage IV Bone Cancer AJCC v7
+C2930967,Gastro-enteropancreatic neuroendocrine tumor
+C2931367,"Thyroid cancer, follicular"
+C2931822,Nasopharyngeal carcinoma
+C2931882,Renal cell carcinoma 1
+C2939419,Secondary Neoplasm
+C2939420,Metastatic Neoplasm
+C2939462,Immunoglobulin deposition disease
+C2945767,Childhood Malignant Liver Neoplasm
+C2981706,Stage IIA Uveal Melanoma AJCC v7
+C2981707,Stage IIB Uveal Melanoma AJCC v7
+C2981708,Stage IIIA Uveal Melanoma AJCC v7
+C2981709,Stage IIIB Uveal Melanoma AJCC v7
+C2981710,Stage IIIC Uveal Melanoma AJCC v7
+C2982437,Stage II Nasopharyngeal Carcinoma AJCC v7
+C2984900,Malignant Adrenal Gland Composite Pheochromocytoma
+C2986655,Functioning Endocrine Neoplasm
+C2986656,Non-Functioning Endocrine Neoplasm
+C2986665,Early-Stage Breast Carcinoma
+C2987260,Esophageal Neuroendocrine Tumor
+C2987519,Cervical carcinoma stage II AJCC v7
+C3179349,Gastrointestinal Stromal Sarcoma
+C3272421,Malignant Gastric Gastrointestinal Stromal Tumor
+C3272477,Ampulla of Vater Neuroendocrine Tumor
+C3272480,Ampulla of Vater Neuroendocrine Carcinoma
+C3272529,Intestinal Neuroendocrine Tumor
+C3272767,Appendix Neuroendocrine Tumor
+C3272849,Anal Canal Neuroendocrine Tumor
+C3273047,Perihilar Intrahepatic Cholangiocarcinoma
+C3273048,Peripheral Intrahepatic Cholangiocarcinoma
+C3273116,Gallbladder Well Differentiated Endocrine Tumor/Carcinoma
+C3273119,Gallbladder Neuroendocrine Tumor G1
+C3273133,Bile Duct Biliary Intraepithelial Neoplasia
+C3273942,Gonadal Teratoma
+C3463824,MYELODYSPLASTIC SYNDROME
+C3665596,Warts
+C3839685,"Perivascular epithelioid tumor, benign"
+C3887461,Head and Neck Carcinoma
+C3887662,Intraspinal Neoplasm
+C3897042,Smoldering Systemic Mastocytosis
+C3897071,Childhood Breast Carcinoma
+C3899187,Extranodal Extension
+C3899345,Distal Urethral Carcinoma
+C3899369,Direct Extension
+C3899643,Childhood Rectal Carcinoma
+C3899644,Childhood Protoplasmic Astrocytoma
+C3899675,Childhood Bladder Carcinoma
+C4021901,Neoplasm of fatty tissue
+C4022443,Neoplasm of the outer ear
+C4024217,Spinal neurofibromas
+C4042788,Left-Sided Breast Neoplasms
+C4042789,Right-Sided Breast Neoplasms
+C4048306,Multiple endocrine neoplasia Type 2
+C4048328,cervical cancer
+C4050504,Ectomesenchymal Chondromyxoid Tumor
+C4054121,Rat Insulinoma
+C4054122,Rat Adrenal Gland Pheochromocytoma
+C4054727,Infant Acute Lymphoblastic Leukemia
+C4086152,Childhood Astrocytoma
+C4086159,Childhood Gastrointestinal Stromal Tumor
+C4087471,Metastatic Cholangiocarcinoma
+C4273669,Primary pulmonary lymphoma
+C4274414,Epstein-Barr virus associated gastric carcinoma
+C4274947,Multiple endocrine neoplasia type 4
+C4275152,Adult heart tumor
+C4280784,Craniofacial teratoma
+C4287893,Gastroesophageal Junction Small Cell Carcinoma
+C4288303,Recurrent Malignant Solid Neoplasm
+C4289845,Canine Hepatocellular Carcinoma
+C4289946,"B Acute Lymphoblastic Leukemia, Philadelphia Chromosome Negative"
+C4329780,Early T Acute Lymphoblastic Leukemia
+C4518348,Ectopic pituitary adenoma
+C4520735,"Stage 0 Nasopharyngeal Carcinoma AJCC v6, v7, and v8"
+C4520772,Stage 0 Gallbladder Cancer AJCC v6 and v7
+C4520899,Stage IV Anal Canal Cancer AJCC v6 and v7
+C4520919,Stage I Uterine Corpus Cancer AJCC v6
+C4521784,Pathologic Stage IA Gastric Cancer AJCC v8
+C4521787,Pathologic Stage IIA Gastric Cancer AJCC v8
+C4521788,Pathologic Stage IIB Gastric Cancer AJCC v8
+C4521790,Pathologic Stage IIIA Gastric Cancer AJCC v8
+C4521791,Pathologic Stage IIIB Gastric Cancer AJCC v8
+C4521792,Pathologic Stage IIIC Gastric Cancer AJCC v8
+C4521806,Stage IV Anal Cancer AJCC v8
+C4522245,Atypical Spitz Nevus
+C4525203,Stage III Hepatocellular Carcinoma AJCC v8
+C4525204,Stage IIIA Hepatocellular Carcinoma AJCC v8
+C4525205,Stage IIIB Hepatocellular Carcinoma AJCC v8
+C4525297,Stage 0 Gallbladder Cancer AJCC v8
+C4525300,Stage IIA Gallbladder Cancer AJCC v8
+C4525301,Stage IIB Gallbladder Cancer AJCC v8
+C4525371,Rhesus Monkey Lymphoma
+C4525492,Rat Neoplasms
+C4525539,Horse Sarcoid
+C4525541,Rattlesnake Fibroma
+C4525742,Colon Neuroendocrine Tumor
+C4525743,Rectal Neuroendocrine Tumor
+C4528668,Refractory Acute Myeloid Leukemia
+C4551538,Refractory Plasma Cell Myeloma
+C4551548,Grade III Childhood Astrocytoma
+C4551683,Adrenal Gland Pheochromocytoma
+C4551763,Stage I Cervical Cancer AJCC v6 and v7
+C4551764,Stage II Cervical Cancer AJCC v6
+C4551868,Stage IIB Cervical Cancer AJCC v6 and v7
+C4551869,Stage I Nasopharyngeal Carcinoma AJCC v7
+C4553239,Stage II Prostate Cancer AJCC v8
+C4553250,Stage IIA Cervical Cancer AJCC v8
+C4553253,Stage IIA Prostate Cancer AJCC v8
+C4553413,Stage IIB Cervical Cancer AJCC v8
+C4553416,Stage IIB Prostate Cancer AJCC v8
+C4553419,Stage III Cervical Cancer AJCC v8
+C4553572,Stage III Prostate Cancer AJCC v8
+C4553578,Stage III Thyroid Gland Papillary Carcinoma AJCC v8
+C4553583,Stage IIIA Cervical Cancer AJCC v8
+C4553620,Stage I Cervical Cancer AJCC v8
+C4553665,Stage IIIB Cervical Cancer AJCC v8
+C4682751,Stage IIC Prostate Cancer AJCC v8
+C4682752,Stage IIIA Prostate Cancer AJCC v8
+C4683622,Stage A Chronic Lymphocytic Leukemia
+C4683623,Stage B Chronic Lymphocytic Leukemia
+C4683624,Stage C Chronic Lymphocytic Leukemia
+C4684879,Metastatic Bile Duct Carcinoma
+C4687640,Cardiac Germ Cell Tumor
+C4688276,Recurrent EBV-Related Lymphoma
+C4688336,Childhood Malignant Solid Neoplasm
+C4688340,Unresectable Malignant Solid Neoplasm
+C4707263,Non-functioning paraganglioma
+C4721412,Malignant Pancreatic Insulinoma
+C4721444,Burkitt Leukemia
+C4721532,"Lymphoma, Non-Hodgkin, Familial"
+C4722085,Malignant neoplasm of colon and/or rectum
+C4722276,Anaplastic Sarcoma of the Kidney
+C4722419,Extrapulmonary Small Cell Carcinoma
+C4722524,Blood Vessel Tumors
+C4724830,Unresectable Carcinoma
+C4724976,Unresectable Sarcoma
+C4725025,Recurrent Acute Leukemia
+C4725093,Unresectable Melanoma
+C4725594,Thoracic Esophagus Adenocarcinoma
+C4725596,Cervical Esophagus Adenocarcinoma
+C4725671,High-Risk Neuroblastoma
+C4725708,Body Cavity Primary Effusion Lymphoma
+C4725845,Metastatic Gastroesophageal Junction Adenocarcinoma
+C4725855,Non-IgM Monoclonal Gammopathy of Undetermined Significance
+C4726566,Extracranial Solid Neoplasm
+C4727143,Metastatic Unresectable Malignant Neoplasm
+C4727172,Unresectable Chordoma
+C4727838,Advanced Melanoma
+C4744375,Sellar Chondroid Chordoma
+C4745063,Biliary Tract Carcinoma
+C4745064,Recurrent Biliary Tract Carcinoma
+C4749271,Aleukemic mast cell leukemia
+C4763555,Monoclonal Gammopathy of Renal Significance
+C5190781,Pituitary dermoid and epidermoid cysts
+C5197703,Extranodal Tumor Deposits
+C5203125,Metastatic Biliary Tract Carcinoma
+C5203967,Canine Nephroblastoma
+C5204259,Kidney Leiomyoma
+C5204261,Peripheral Lung Parenchyma Tumor
+C5204262,Central Lung Parenchyma Tumor
+C5204270,Kidney Solitary Fibrous Tumor
+C5204786,Advanced Malignant Thymoma
+C5205551,High Risk Meningioma
+C5205935,Prostate Wilms Tumor
+C5206510,EBV-Related Sarcoma
+C5206511,EBV-Related Leiomyosarcoma
+C5206794,Refractory Biliary Tract Carcinoma
+C5206797,Metastatic Gallbladder Carcinoma

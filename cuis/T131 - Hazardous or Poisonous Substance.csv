@@ -1,0 +1,272 @@
+cui,name
+C0000300,2-Naphthylamine
+C0000325,20-Methylcholanthrene
+C0000379,"3,4-Methylenedioxyamphetamine"
+C0001157,aconite
+C0001223,Acrylonitrile
+C0001963,methanol
+C0001994,Aldicarb
+C0002073,Alkylating Agents
+C0002583,aminopterin
+C0002602,Amitrole
+C0002771,Analgesics
+C0003036,aniline
+C0003136,Ant Venoms
+C0003380,antimony
+C0003640,Propoxur
+C0003818,arsenic
+C0003899,Arthropod Venoms
+C0004482,azathioprine
+C0004519,Azoxymethane
+C0004630,Bacterial Toxins
+C0004920,Bee Venoms
+C0005036,benzene
+C0005038,lindane
+C0005139,beryllium
+C0006050,botulinum toxin type A
+C0006055,Botulinum Toxins
+C0006463,busulfan
+C0006632,cadmium
+C0007018,carbon monoxide
+C0007022,Carbon Tetrachloride
+C0007090,Carcinogens
+C0007468,Caustics
+C0007991,Chemical Warfare Agents
+C0008209,chlorine
+C0008230,Chlorobenzenes
+C0008238,chloroform
+C0008356,Cholera Toxin
+C0008574,chromium
+C0008776,Ciguatoxins
+C0009161,Cobra Neurotoxin Proteins
+C0009170,cocaine
+C0009223,Cnidarian Venoms
+C0009950,Convulsants
+C0010369,Crotalid Venoms
+C0010868,Cytotoxin
+C0011037,Dichlorodiphenyldichloroethane
+C0011892,heroin
+C0012013,Diazinon
+C0012151,Diesel Exhaust
+C0012203,diethylstilbestrol
+C0012429,Dimethylhydrazines
+C0012550,Diphtheria Toxin
+C0012590,Cobra Cardiotoxin Proteins
+C0013007,"2,5-Dimethoxy-4-methylamphetamine"
+C0013328,Chlorpyrifos
+C0013757,Elapid Venoms
+C0014264,Endotoxins
+C0014372,Enterotoxins
+C0015063,Ethyl Methanesulfonate
+C0015078,Ethylene Chlorohydrin
+C0015081,ethylene dichloride
+C0015082,Ethylene Dichlorides
+C0015083,ethylene glycol
+C0015087,ethylene oxide
+C0015104,Ethylmercuric Chloride
+C0015266,Exfoliatins
+C0015309,Exotoxins
+C0015919,Fertilizers
+C0016564,formaldehyde
+C0016849,Furaldehyde
+C0018533,Hallucinogens
+C0018626,Hazardous Substances
+C0018627,Hazardous Waste
+C0019124,Hemotoxins
+C0019236,Herbicides
+C0019432,Hexachlorobenzene
+C0020270,hydrogen cyanide
+C0020274,hydrofluoric acid
+C0020299,Hydrophid Venoms
+C0020731,Pertussis Toxin
+C0021265,Industrial Waste
+C0021572,Insect Repellents
+C0021576,Insecticides
+C0021577,plant insecticide
+C0022108,Irritants
+C0023175,lead
+C0024192,Lye
+C0024334,Lysergic Acid Diethylamide
+C0024547,malathion
+C0024813,Marine Toxins
+C0025033,mechlorethamine
+C0025424,mercury
+C0025611,methamphetamine
+C0025671,Methomyl
+C0025709,Methyl Parathion
+C0025748,methylene chloride
+C0025794,Methylmercury Compounds
+C0025800,Methylnitronitrosoguanidine
+C0026814,Muscarine
+C0026874,Mustard Gas
+C0026879,Mutagens
+C0027415,Narcotics
+C0027934,Neurotoxins
+C0028040,nicotine
+C0028160,Nitrogen Dioxide
+C0028832,Octopus Venoms
+C0030480,Paraoxon
+C0030493,Paraquat
+C0030514,Parathion
+C0030855,Pentachlorophenol
+C0031252,Pesticide Synergists
+C0031253,Pesticides
+C0031591,Phosgene
+C0032086,Phytotoxin
+C0032334,podofilox
+C0032346,Poisons
+C0033440,Propanil
+C0034335,Pyrrolizidine Alkaloids
+C0034629,Radon
+C0034720,Rattlesnake Venoms
+C0035158,Batroxobin
+C0035569,Ricin
+C0035805,Rodenticides
+C0036233,Sarin
+C0036248,Saxitoxin
+C0036450,Scorpion Venoms
+C0036860,carbaryl
+C0037366,Smoke
+C0037377,Snail Venom
+C0037380,Snake Venoms
+C0037390,Snuff Tobacco
+C0037498,Sodium Cyanide
+C0037517,sodium hydroxide
+C0037643,Soman
+C0037912,Spider Venoms
+C0038777,sulfur dioxide
+C0039185,T-2 Toxin
+C0039536,Teratogens
+C0039617,tetanus toxin
+C0039637,Tetrachloroethylene
+C0039654,Tetradecanoylphorbol Acetate
+C0039694,Tetranitromethane
+C0039705,Tetrodotoxin
+C0039736,thalidomide
+C0040329,Tobacco
+C0040549,Toxin
+C0040845,tretinoin
+C0040904,Trichloroethanes
+C0041070,Trinitrotoluene
+C0042479,Venoms
+C0042578,Vesicants
+C0042700,Viper Venoms
+C0043031,warfarin
+C0043040,wasp venoms
+C0043335,Xenobiotics
+C0045437,"2,4,6-trichlorophenol"
+C0045574,"2,5-hexanedione"
+C0047006,"3,4-methylenedioxyethamphetamine"
+C0048243,4-dichlorobenzene
+C0048451,4-methoxyamphetamine
+C0050961,Agent Orange
+C0051543,amatoxin
+C0052416,arsenic trioxide
+C0052423,arsine
+C0053251,benzotrichloride
+C0054041,brevetoxin
+C0054119,bromodichloromethane
+C0054413,cadmium nitrate
+C0054414,cadmium oxide
+C0055615,chromic acid
+C0056792,"cyclopenta(c,d)pyrene"
+C0059385,Staphylococcal enterotoxin A
+C0060600,Fly Ash
+C0064880,lewisite
+C0066230,methyl bromide
+C0066234,methyl cellosolve
+C0066372,methyleugenol
+C0066661,MMDA
+C0066689,Mojave toxin
+C0067064,myotoxin A
+C0067113,N'-nitrosonornicotine
+C0068685,nickel monoxide
+C0068808,nitric acid
+C0069389,Okadaic Acid
+C0069600,orellanine
+C0070455,permethrin
+C0070813,phosphine
+C0074187,scombrotoxin
+C0074447,Shiga Toxin
+C0074448,Shiga Toxin 1
+C0074449,Shiga Toxin 2
+C0074721,Sodium Azide
+C0075247,stibine
+C0075762,tabun
+C0079021,Biohazardous Substance
+C0082003,chlorendic acid
+C0085163,Crack Cocaine
+C0085241,Monocrotaline
+C0086190,Illicit Drugs
+C0112081,D-D mixture
+C0115471,Midomafetamine
+C0117028,EXD
+C0148323,Shiga Toxins
+C0178629,exhaust
+C0202474,strychnine
+C0221793,Opiate Alkaloids
+C0239059,Cigarette smoke (substance)
+C0242402,Opioids
+C0242508,Recreational Drugs
+C0282066,Engine Exhaust
+C0282108,cocaine hydrochloride
+C0301224,Nerve gas
+C0301278,Paralytic shellfish toxin
+C0302836,Smoking tobacco
+C0304180,Shellfish toxin
+C0308269,Advantage brand of Imidacloprid
+C0314768,Bacterial exotoxin
+C0376196,Opiates
+C0376218,warfarin sodium
+C0392419,Industrial fungicide
+C0439994,Tobacco smoke
+C0444414,Biocides
+C0524525,Corrosives
+C0534727,trachynilysin
+C0544309,repellent
+C0556607,Methylated spirit
+C0556611,Cleaning fluid
+C0556614,Thinners
+C0556615,Paint thinners
+C0565926,poppers
+C0580773,Coral snake venom
+C0596691,hepatotoxin
+C0596702,high energy particle
+C0599787,toxicant
+C0650224,chloromethyl methyl ether
+C0687130,Substance of abuse
+C0702263,Counter brand of Terbufos
+C0728873,Monitor brand of insecticide
+C0729410,Lacrimogenic gas
+C0729417,Mosquito repellant
+C0752449,superwarfarin
+C0813802,Mace brand of omega-Chloroacetophenone
+C0813971,Environmental Tobacco Smoke
+C0872297,toxalbumin
+C0887732,azathioprine sodium
+C0949307,formalin
+C0950580,sentinel
+C1113670,Nerve Agents
+C1121703,"S-(N,N-diethylaminoethyl) isobutyl methylphosphothiolate"
+C1123018,"Virulence Factors, Bordetella"
+C1136170,Virulence Factors
+C1176299,Mimic brand of tebufenozide
+C1256754,Toxic Actions
+C1257061,ciguatoxin 3
+C1510837,Airborne Particulate Matter
+C1705093,Respirable Ceramic Fiber
+C1711105,b-Hexachlorocyclohexane
+C1955854,Biological Warfare Agents
+C1956032,Cardiotoxins
+C2362548,Inhalants of Abuse
+C2599894,Organophosphonates
+C2974592,"3,4-methylenedioxypyrovalerone"
+C3273750,Orbit (brand of fungicide)
+C3886502,brevetoxin 1
+C4050366,Petroleum Hydrocarbon Compound
+C4321332,cyanide
+C4742560,novichok
+C5200970,Nerve agent GA
+C5202954,V-Series Nerve Agent VG
+C5202959,V-Series Nerve Agent VS
+C5202961,V-Series Nerve Agent VX

@@ -1,0 +1,178 @@
+cui,name
+C0001617,Adrenal Cortex Hormones
+C0001655,corticotropin
+C0002006,aldosterone
+C0002844,Androgens
+C0002845,"Androgens, Synthetic"
+C0002860,androstenedione
+C0005308,betamethasone
+C0006100,Bradykinin
+C0006668,calcitonin
+C0008214,chlormadinone acetate
+C0008328,cholecystokinin
+C0010124,Corticosterone
+C0010132,corticotropin-releasing hormone
+C0010137,cortisone
+C0010139,Cortodoxone
+C0010192,cosyntropin
+C0010961,danazol
+C0011701,desmopressin
+C0011824,dextrothyroxine
+C0012472,dinoprostone
+C0013340,dydrogesterone
+C0014361,Glucagon-Like Peptides
+C0014563,epinephrine
+C0014822,Erythropoietin
+C0014912,estradiol
+C0014939,estrogens
+C0014942,estrone
+C0016280,fludrocortisone
+C0016774,"Follicle Stimulating Hormone, Human"
+C0017132,Gastric Inhibitory Polypeptide
+C0017151,Gastrins
+C0017687,glucagon
+C0017710,Glucocorticoids
+C0017963,"glycoprotein hormones, alpha subunit"
+C0018062,chorionic gonadotropin
+C0018064,Equine Gonadotropins
+C0019467,Hexestrol
+C0019932,Hormones
+C0019935,hormone analog
+C0020063,"PTH protein, human"
+C0020268,hydrocortisone
+C0020343,Hydroxycorticosteroids
+C0020387,Hydroxyprogesterones
+C0021571,Insect Hormones
+C0021641,Insulin
+C0023566,levonorgestrel
+C0023607,luteinizing hormone
+C0023610,gonadorelin
+C0025147,medroxyprogesterone
+C0025175,megestrol
+C0025219,melatonin
+C0025815,methylprednisolone
+C0026160,Mineralocorticoids
+C0026594,motilin
+C0028351,norepinephrine
+C0028833,octreotide
+C0030095,oxytocin
+C0030520,parathyroid hormone
+C0032015,Pituitary Hormones
+C0032016,"Pituitary Hormones, Anterior"
+C0032017,posterior pituitary hormones
+C0032052,Human Placental Lactogen
+C0032082,Plant Growth Regulators
+C0032952,prednisone
+C0033306,Progestins
+C0033308,progesterone
+C0033554,Prostaglandins
+C0035031,Relaxin
+C0036534,secretin
+C0036884,Gonadal Steroid Hormones
+C0037657,Somatomedins
+C0037659,somatostatin
+C0037663,Growth Hormone
+C0039601,testosterone
+C0040105,Thymopoietins
+C0040125,Antithyroid Agents
+C0040134,thyroid (USP)
+C0040135,Thyroid Hormones
+C0040160,thyrotropin
+C0040162,thyrotropin-releasing hormone
+C0040165,levothyroxine
+C0041014,liothyronine
+C0041017,Reverse Triiodothyronine
+C0042395,vasoactive intestinal peptide
+C0042413,Vasopressins
+C0042866,vitamin D
+C0045010,17-alpha-hydroxyprogesterone
+C0050668,Activins
+C0054015,nesiritide
+C0057965,diethylstilbestrol dipropionate
+C0060692,fosfestrol
+C0063684,Amylin
+C0065743,Mating Factor
+C0065864,medroxyprogesterone acetate
+C0065879,megestrol acetate
+C0071011,Phytoestrogens
+C0071554,polyestradiol phosphate
+C0076641,"Thyrotropin, beta Subunit"
+C0077275,triptorelin
+C0079691,levothyroxine sodium
+C0086135,desmopressin acetate
+C0106132,"Chorionic Gonadotropin, beta Subunit, Human"
+C0138318,Arginine Vasopressin-Neurophysin II Preproprotein
+C0145185,terlipressin
+C0169964,somatropin
+C0242275,epidermal growth factor
+C0279174,Pituitary Agent
+C0299583,leptin
+C0301817,Prohormone (substance)
+C0301819,Gonadal Hormones
+C0301822,Adrenal medulla hormone (substance)
+C0304812,Pituitary hormone preparation
+C0304870,"Insulin, Long-Acting"
+C0356365,"Insulin, Short-Acting"
+C0356369,Biphasic Insulins
+C0376180,Gastrin
+C0546882,liothyronine sodium
+C0582261,Enzyme inhibitor protein
+C0591454,Epipen
+C0597049,Neurohormones
+C0597288,progesterone analog
+C0616274,fludrocortisone acetate
+C0687670,Mullerian duct inhibiting substance
+C0701195,DDAVP
+C0717752,"estrogens, esterified (USP)"
+C0724649,octreotide acetate
+C0729349,Serum cortisol
+C0732611,Selective Estrogen Receptor Modulators
+C0733758,follicle stimulating hormone
+C0770558,human calcitonin
+C0772088,"glucagon, human"
+C0772289,"corticotropin-releasing factor, human"
+C0795635,"insulin, regular, human"
+C0876232,glucagon (rDNA)
+C0885650,"Parathyroid, Homeopathic preparation"
+C0912332,Glucagon-Like Peptide 2
+C1141639,human chorionic gonadotropin
+C1144709,Natriuretic Peptides
+C1258629,"NPPA protein, human"
+C1314785,Placental Lactogen
+C1317554,Natriuretic Peptides B
+C1445654,Adrenal hormone preparation
+C1456408,liraglutide
+C1523997,Recombinant Corticotropin
+C1527128,Recombinant Vasopressin
+C1527137,Recombinant melatonin
+C1527152,Recombinant Human Chorionic Gonadotropin
+C1533581,Therapeutic Insulin
+C1535531,Recombinant Thyroid-Stimulating Hormone
+C1562292,Incretins
+C1659046,"secretin human, synthetic"
+C1704206,Recombinant Oxytocin
+C1704298,Recombinant Luteinizing Hormone
+C1704385,Recombinant Calcitonin
+C1705480,vasopressin (USP)
+C1720756,Emergency Contraceptives
+C1882913,Recombinant parathyroid hormone
+C2709270,Natriuretic peptide
+C3537250,"ESTROGENS, SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM"
+C3540025,Progestogen systemic hormonal contraceptives
+C3540744,"Progestogens, endocrine therapy drugs"
+C3540745,PROGESTOGEN SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+C3540777,"Glucocorticoids, Systemic"
+C3541386,"Estrogens, endocrine therapy drugs"
+C3714500,Human Growth Hormone
+C3714928,"Angiotensin-2, Human"
+C3887671,"Vasoactive Intestinal Peptide, human"
+C4082165,"Oxytocin, human"
+C4520794,"Gonadoliberin-1, human"
+C4520797,"Gastrin, human"
+C4520829,"Cholecystokinin, human"
+C4521280,"Gonadoliberin-2, human"
+C4521441,"Thyrotropin-Releasing Hormone, human"
+C4521464,Apelin Receptor Early Endogenous Ligand
+C4721525,Therapeutic Estradiol
+C4721528,"Gastric Inhibitory Polypeptide, human"
+C4721537,Therapeutic Testosterone

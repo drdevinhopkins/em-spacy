@@ -1,0 +1,327 @@
+cui,name
+C0005479,Biomaterials
+C0005934,Bone Cements
+C0006341,Bucrylate
+C0006935,capsule (pharmacologic)
+C0007649,"Cellulose, Oxidized"
+C0009361,Colloids
+C0009570,Composite Resins
+C0011324,Dental Amalgam
+C0011379,Dental Materials
+C0011414,"Dental Restoration, Temporary"
+C0013058,Dosage Forms
+C0013183,Drug Implants
+C0013983,Emollients
+C0014035,Enbucrilate
+C0015237,Pharmaceutical Excipient
+C0015399,Eye Drops
+C0016004,Fibrin Tissue Adhesive
+C0017243,Gel
+C0017597,Glass Ionomer Cements
+C0017814,glutaral
+C0019006,Hemodialysis Solutions
+C0020266,Hydrocolloids
+C0022014,Ion Exchange Resins
+C0023115,latex
+C0023742,Liniments
+C0026647,Mouthwash
+C0028736,Nylons
+C0028912,Ointments
+C0029083,Ophthalmic Solution
+C0032485,Polyethylene Terephthalates
+C0032521,Polymers
+C0032582,Polypropylenes
+C0032602,polysorbates
+C0032604,Polystyrenes
+C0032616,Polyurethanes
+C0032861,Powder dose form
+C0035192,"Resins, Synthetic"
+C0037111,Silicone Oils
+C0037114,silicones
+C0038854,Suppository
+C0038888,Surface-Active Agents
+C0038960,Suspensions
+C0039225,Tablet Dosage Form
+C0039226,Delayed Release Oral Tablet
+C0040277,Tissue Adhesives
+C0042238,Vaginal Cream
+C0042254,Vaginal Foam
+C0042444,Drug vehicle
+C0043076,Waxes
+C0043492,Zinc Oxide-Eugenol Cement
+C0059927,Exact brand biomedical or dental material
+C0060390,finesse
+C0075660,Surgicel
+C0076994,Triad Acrylic Resin
+C0108411,Carbon Fiber
+C0115137,durapatite
+C0168634,BaseLine dental cement
+C0181074,Graft material
+C0181075,Bone graft - material
+C0206238,Artificial skin
+C0243003,Bone Substitutes
+C0259862,Drug emulsion
+C0284447,Simulate composite resin
+C0290627,Reliance resin cement
+C0302587,Radio-Opaque acrylic resin
+C0304290,Chewable Tablet
+C0304638,Lipstick
+C0304651,Ophthalmic Ointment
+C0347995,Dental microfilm
+C0356770,Vaginal lubricant
+C0358508,Hemofiltration solution
+C0391770,octyl 2-cyanoacrylate
+C0440138,Amalgam (silver) dental filling material
+C0440814,Skin allograft
+C0445403,Human patch material
+C0450127,Allograft surgical material
+C0450138,Cultured skin (substance)
+C0460977,Plaster
+C0461725,Nasal Spray
+C0490767,"LINER, CAVITY, CALCIUM HYDROXIDE"
+C0490787,Silver point
+C0492835,"Bandages, Liquid"
+C0525069,Pharmaceutical Solutions
+C0559189,Autograft Material
+C0593225,Irrigation Solution
+C0598322,Inhalant dose form
+C0599034,Silicone Gels
+C0600484,Hydrogels
+C0659450,Secure - resin cement
+C0677536,Artificial graft material
+C0678430,Elixir
+C0700158,Direction brand of orthodontic bonding material
+C0701413,Sol brand of Polymethyl Methacrylate
+C0705539,Emollient Cream
+C0720135,Ear Drops brand of carbamide peroxide
+C0740034,Nylon dental material
+C0775055,Bar Soap Dosage Form
+C0812395,Gum as an ingredient
+C0917735,concise
+C0917843,Prolene
+C0968849,Nexus (resin cement)
+C0991503,Chewable Bar
+C0991505,Extended Release Oral Capsule
+C0991507,Extended Release Oral Tablet
+C0991508,Extended Release Suspension
+C0991509,Oral Flakes
+C0991510,Foam drug form
+C0991513,Intraperitoneal Solution
+C0991514,Intravenous Solution Dose Form
+C0991523,Conventional release nasal cream (dose form)
+C0991525,Nasal Inhalant
+C0991531,Ophthalmic Gel
+C0991536,Oral Solution
+C0991542,Otic Suspension
+C0991547,Rectal Suppository
+C0991549,Sustained Release Buccal Tablet
+C0991550,Syrup Drug Form
+C0991551,Topical Cream
+C0991554,Topical Ointment
+C0991566,Bead Dosage Form
+C0991568,Drops - Drug Form
+C0991575,Inhalation Powder
+C0991580,Rectal Ointment
+C0991582,Sublingual Tablet
+C0991583,Tincture
+C0991585,Topical Powder
+C0993159,Oral Tablet
+C0993595,Enema
+C0993608,Disk Drug Form
+C0993610,Oral Pellet
+C0994475,Pills
+C1112870,Aerosol Dose Form
+C1136199,Vaginal Suppository
+C1154182,Spray Dosage Form
+C1154184,Oral Spray
+C1154185,Topical Spray
+C1154191,Rectal Gel
+C1160726,Oral Foam
+C1160728,Topical Gel
+C1160731,Oral Powder
+C1177045,Snap brand of resin
+C1272883,Injection
+C1272892,Intravenous infusion (product)
+C1272901,Intravesical solution
+C1272907,Endocervical gel
+C1272919,Oral Dosage Form
+C1272923,Dental dosage form
+C1272936,Parenteral dosage form
+C1272938,Rectal Dosage Form
+C1272939,Nasal dosage form
+C1272941,Vaginal Dosage Form
+C1272978,Prolonged-release eye drops
+C1272980,Eye lotion
+C1272986,Ear powder
+C1272995,Otic stick
+C1273000,Nasal solution spray
+C1273014,Effervescent vaginal tablet
+C1273015,Medicated Vaginal Tampon Dosage Form
+C1273619,Oral Liquid Product
+C1273620,Oral emulsion
+C1273629,Soluble Tablet Dosage Form
+C1273632,Effervescent powder (basic dose form)
+C1273633,Effervescent granules
+C1273635,Prolonged-release oral granules
+C1273638,Hard Capsule Dosage Form
+C1273639,Soft Capsule Dosage Form
+C1273642,Coated Tablet Dosage Form
+C1273644,Effervescent tablet
+C1273646,Modified-release oral tablet
+C1300458,Nebulizer solution
+C1300459,Suspension for nebulizer
+C1306043,Nasal wash
+C1321899,Paste
+C1321911,Chewing Gum
+C1330638,ADAPT PASTE
+C1337412,Eye drops suspension
+C1337443,Aerosol Mist Dosage Form
+C1337479,Liquid Soap Dosage Form
+C1337528,Globule Dosage Form
+C1337560,Reconstituted Oral Drop Dosage Form
+C1337561,Reconstituted Oral Solution Dosage Form
+C1337587,Fluid Extract Dosage Form
+C1337590,Concentrated Oral Dosage Form
+C1337591,Hypodermic Tablet Dosage Form
+C1337602,Enteric Coated Tablet Dosage Form
+C1378128,Cream
+C1378554,Crystals
+C1378566,Solid Dose Form
+C1378701,Gum Dose Form
+C1382100,Solution Dosage Form
+C1509132,Douche
+C1530215,DERMABOND
+C1533128,Body tissue patch material
+C1550094,Viral Transport medium
+C1552164,Artificial dentition
+C1696465,placebo
+C1697794,Liquid Dosage Form
+C1704229,Drug Implant
+C1704277,Shampoo Dosage Form
+C1704608,Film Dosage Form
+C1704612,Tampon Dosage Form
+C1704638,Cone Dosage Form
+C1704673,Gas Dosage Form
+C1704747,Tape Dosage Form
+C1704760,Cigarette Dosage Form
+C1705210,Graft Dosage Form
+C1705215,Lubricant Excipient
+C1705308,Soap Dosage Form
+C1705332,Printing Ink Excipient
+C1705364,Douche Dosage Form
+C1705365,Dressing Dosage Form
+C1705368,Diaphragm Dosage Form
+C1705511,Flavor Excipient
+C1705741,Sponge Dosage Form
+C1705851,Extract Dosage Form
+C1706068,Suture Dosage Form
+C1706069,Swab Dosage Form
+C1706094,Dental Cement Material
+C1706253,Binder Excipient
+C1706306,Intrauterine Device Dosage Form
+C1706355,Culture Dose Form
+C1706363,Packing Dosage Form
+C1706582,Stick Dosage Form
+C1706744,Aerosol Foam Dosage Form
+C1707424,Oral coated capsule
+C1707506,Controlled Release Dosage Form
+C1707664,Delayed Release Dosage Form
+C1707792,Disintegrant Excipient
+C1707794,Dispensing Tablet Dosage Form
+C1707796,Dispersing Excipient
+C1707968,Extended Release Dosage Form
+C1707972,Extended Release Core Dosage Form
+C1707974,Patch - Extended Release Film
+C1708470,Immediate Release Dosage Form
+C1709007,Metered Powder Dosage Form
+C1710261,Sustained Release Dosage Form
+C1710340,Gastro-resistant oral particles tablet
+C1710439,Topical Dosage Form
+C1710682,Wound Dressing Material
+C1720286,Metered Aerosol Dosage Form
+C1720499,Metered Gel Dosage Form
+C1875022,DILUENT
+C1875408,IV SOLUTIONS
+C1879759,Augmented Cream Dosage Form
+C1879760,Augmented Lotion Dosage Form
+C1879852,Biting Capsule Dosage Form
+C1880111,Cloth Dosage Form
+C1880165,Concentrate Dosage Form
+C1880415,Drop Solution Dosage Form
+C1881216,Insert Dosage Form
+C1881454,Lotion Shampoo Dosage Form
+C1882953,Ring Dosage Form
+C1883308,Thermal Fill
+C1883550,Wash Dosage Form
+C1947940,Oil Dosage Form
+C1947975,Sedative Filling (dental material)
+C1999262,Pack
+C2346961,Bandage Dosage Form
+C2347103,Medicated Soap Dosage Form
+C2347396,Ophthalmic Dosage Form
+C2347459,Pediatric Liquid Dosage Form
+C2347559,Capsule 12 Hour Sustained Release Dosage Form
+C2347867,Controlled Release Capsule Dosage Form
+C2347868,Controlled Release Liquid Dosage Form
+C2348222,Aerosol Solution Dosage Form
+C2348643,Tablet 12 Hour Sustained Release Dosage Form
+C2349082,Urethral Dosage Form
+C2349183,Colloidal Solution or Suspension Dosage Form
+C2684044,Augmented Gel Dosage Form
+C2700349,21 Day Tablet Dosage Form
+C2700468,Mouthwash Dosage Form
+C2700469,Gargle Dosage Form
+C2752151,Homeopathic Extract Dosage Form
+C2936385,Silica Gel
+C2960508,Orodispersible tablet
+C2981265,Lyophilized powder
+C3494477,Skin Cream
+C3639095,Cellular Sheet Dosage Form
+C3665462,raw sugar
+C3818933,Chewable Capsule Dosage Form
+C3853847,Dry Powder Inhaler
+C3897884,Polyethylene Glycol Hydrogel
+C4505052,Platelet-Rich Fibrin
+C4520701,Potassium exchange resin (substance)
+C4520839,Emulsion (basic dose form)
+C4521311,Pledget (basic dose form)
+C4525438,Chewable Gel Dosage Form
+C4706462,Dental paste
+C4721490,Lacquer Dosage Form Category
+C4721535,Pessary Dosage Form
+C4721714,Tea Dosage Form Category
+C4721837,Plaster Dosage Form
+C4721983,Dispersion Dosage Form Category
+C4722238,Plaster Dosage Form Category
+C4722240,Pouch Dosage Form Category
+C4722351,Cream Dosage Form Category
+C4722352,Paste Dosage Form Category
+C4722398,Patch Dosage Form Category
+C4722465,Liquid Dose Form Category
+C4722630,Solution Dosage Form Category
+C4722631,Tablet Dosage Form Category
+C4722658,Syrup Dosage Form Category
+C4722666,Concentrated Solution Dosage Form Category
+C4723847,Bladder Irrigation Solution Dosage Form
+C4724031,Suspension Dosage Form Category
+C4724086,Ointment Dosage Form Category
+C4724135,Pouch Dosage Form
+C4724154,Shampoo Dosage Form Category
+C4724156,Powder Dosage Form Category
+C4724189,Suppository Dosage Form Category
+C4724251,Gel Dosage Form Category
+C4724281,Transdermal Patch Dosage Form
+C4724403,Herbal Tea Dosage Form
+C4724746,Solvent Dosage Form Category
+C4725308,Gel in Pressurized Container
+C4725338,Intestinal Gel Dosage Form
+C4725393,Nebulization Solution Dosage Form
+C4725406,Oral Solution in Single-dose Container
+C4725424,Plaster for Provocation Test Dosage Form
+C4725538,Solution for Provocation Test Dosage Form
+C4725568,Suspension for Oral Suspension Dosage Form
+C4725590,Vaginal Delivery System Dosage Form
+C4744851,Intrauterine Gel Dosage Form
+C4763584,Live Animal Dosage Form
+C5191273,Bioengineered graft of skin
+C5197738,Microplastics

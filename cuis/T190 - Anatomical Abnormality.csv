@@ -1,0 +1,326 @@
+cui,name
+C0003534,Aphakia
+C0003843,Arterio-Arterial Fistula
+C0003855,Arteriovenous fistula
+C0005937,Bone Cysts
+C0009080,Clubbed Fingers
+C0009376,Colonic Polyps
+C0009917,Contracture
+C0009918,Contracture of joint
+C0011361,Dental Fistula
+C0012811,Colon diverticulum anatomic structure
+C0012817,Diverticulum
+C0014511,Epithelial cyst
+C0014670,Equinus Deformity
+C0014851,Esophageal Cyst
+C0014854,Esophageal diverticulum
+C0014856,Esophageal Fistula
+C0016169,pathologic fistula
+C0016202,Flatfoot
+C0018536,Hallux Valgus
+C0018564,Hand deformities
+C0019270,Hernia
+C0019287,Epigastric hernia
+C0019294,"Hernia, Inguinal"
+C0019326,Ventral Hernia
+C0020449,Hyperdistention
+C0021945,Body part inversion
+C0022821,Kyphosis deformity of spine
+C0022906,Lacrimal Duct Obstruction
+C0024636,Malocclusion
+C0026683,Mucocele
+C0031094,Periodontal Pocket
+C0032584,polyps
+C0034089,Pulmonary Valve Stenosis
+C0038355,Stomach Diverticulum
+C0039147,Syrinx formation
+C0040427,Tooth Abnormalities
+C0040588,Tracheoesophageal Fistula
+C0042140,Uterine Prolapse
+C0079943,Oral Fistula
+C0149614,Adnexal Mass
+C0149952,Torsion of ovary
+C0152237,Talipes Calcaneovalgus
+C0154823,Retinal defect
+C0155116,Descemet's membrane fold
+C0155219,Vascular anomaly of eyelid
+C0155509,Labyrinthine fistula
+C0158113,Contracture of joint of hand
+C0158570,Vascular anomaly
+C0162870,Iliac Aneurysm
+C0178282,Hernia of abdominal cavity
+C0221224,Invagination
+C0234649,Abnormal saccadic eye movement
+C0235761,Perforation of nasal septum
+C0237021,Complex ovarian cyst
+C0238127,Coronary arteriovenous fistula
+C0238397,Pulmonary artery stenosis
+C0238669,Aortic root dilatation
+C0240309,Hyperplasia of midface
+C0241665,Abnormal venous morphology
+C0259770,Epithelial inclusion cyst
+C0264998,Fistula of artery
+C0265008,Aortocaval fistula
+C0265098,Basilar artery occlusion
+C0266752,Twin placenta
+C0269199,Stenosis of cervix
+C0269269,Inversion of nipple (disorder)
+C0269852,Vasa Previa
+C0270679,Brain stem herniation
+C0271004,Absent anterior chamber of eye
+C0271134,Deformed Pupil
+C0302142,Deformity
+C0332472,abnormal fragmented structure
+C0332482,Abnormal shape
+C0332886,Coarctation
+C0333056,protrusion
+C0333062,Hernia sac
+C0333068,Flexion contracture
+C0333145,Hemorrhagic cyst
+C0333157,Colloid Cysts
+C0333262,Vesicle (morphologic abnormality)
+C0333311,Sequestrum
+C0333440,Hyaline body
+C0339823,Cyst of nasal cavity
+C0341059,Lip pit
+C0341365,Colonic fistula
+C0342347,Cyst of parathyroid
+C0343296,Deformity of femur
+C0345903,Anal skin tag
+C0345996,Milium Cyst
+C0375511,Prominence of the zygomatic bone
+C0392014,Trachea displaced
+C0399357,Talon cusp
+C0409355,Flexion contracture of the knee
+C0410264,Contracture of tendo achilles
+C0423772,Cutaneous Fistula
+C0432593,Varus angulation
+C0500526,Absent right coronary artery
+C0500527,Absent left coronary artery
+C0520720,Tarlov Cysts
+C0521618,Stenosis of ureter
+C0521620,Dilatation of ureter
+C0546297,Hallux Varus
+C0546964,Genu recurvatum
+C0553686,Cerebral herniation
+C0575157,Deformity of spine
+C0576093,Knee joint valgus deformity
+C0585984,Laryngotracheomalacia
+C0596028,"Overjet, Dental"
+C0744321,Gastrointestinal arteriovenous malformation
+C0747987,Abnormal prostate morphology
+C0751002,"Aneurysm, Posterior Communicating Artery"
+C0752155,Central Nervous System Vascular Malformations
+C0752156,Dural Arteriovenous Fistula
+C0850304,Popliteal aneurysm
+C0851256,Pseudocoarctation
+C0854911,Central Nervous System Epidermoid Cyst
+C0920299,Overriding toe
+C0948112,Chest Wall Cyst
+C1096086,Deformity of lower limb
+C1136179,Hammer Toe
+C1260954,Morphologically altered structure
+C1265601,Solitary mass
+C1265679,"Wound, healed (morphologic abnormality)"
+C1265787,Single cyst
+C1269700,Caliectasis
+C1285498,Vegetation
+C1298820,Aneurysm of aortic root
+C1302869,Exfoliative lesion (morphologic abnormality)
+C1305740,Overbite
+C1320468,Nephrogenic rest
+C1328407,Hip Dysplasia
+C1385263,Deformity of face
+C1388233,Aneurysm of descending thoracic aorta
+C1389016,ATRIOVENTRICULAR CANAL DEFECT
+C1399793,skin fold (abnormality)
+C1444214,Impatent structure
+C1504507,Bronchial Stricture
+C1510420,Cavitation
+C1536875,Renal arteriovenous malformation
+C1578482,Abduction deformity of foot
+C1689985,Absence (morphologic abnormality)
+C1695776,Vertebral wedging
+C1838659,Deformed rib cage
+C1840643,DIAPHRAGMATIC HERNIA 1
+C1842083,Abnormality of the ribs
+C1842696,Posterior rib gap
+C1847878,Sternal pit
+C1848873,Abnormality of the diaphragm
+C1849338,Abnormal umbilicus morphology
+C1851303,Abnormal renal collecting system morphology
+C1854510,Abnormality of the cranial nerves
+C1855299,Forearm undergrowth
+C1855418,Thoracolumbar kyphosis
+C1857284,Diaphragmatic Hernia 2
+C1858085,Malar flattening
+C1858565,Duplicated collecting system
+C1859477,Hypoplasia of proximal radius
+C1860450,Calcaneovalgus deformity
+C1860493,Abnormality of the sternum
+C1861329,Spinal canal stenosis
+C1865027,Hypoplastic iliac wing
+C2051831,Pectus excavatum
+C2183966,Abnormal lip morphology
+C2315229,Deformity of facial bone
+C2674737,Abnormality of finger
+C2711450,Enlargement (morphologic abnormality)
+C3278509,Spinal fusion
+C3494419,Dentofacial Deformities
+C3494422,Retrognathia
+C3495676,Anorectal Malformations
+C3536734,Hypoplastic pelvis
+C3669037,Rotation (malposition) (morphologic abnormality)
+C3714535,"Malocclusion, Angle class II"
+C3854333,Narrowing
+C3887489,Clubbing of toes
+C3887590,Stricture of ureter
+C3888580,Malignant Bowel Obstruction
+C4013429,Underdeveloped tragus
+C4018871,Abnormality of the respiratory system
+C4020750,Hypoplasia of the vestibular nerve
+C4020825,Irregular capital femoral epiphysis
+C4020942,Prominent xiphoid process
+C4020943,Bifid xiphoid process
+C4021026,Abnormal tendon morphology
+C4021060,Hyperplastic labia majora
+C4021065,Fullness of paranasal tissue
+C4021067,Accessory cranial suture
+C4021071,Agenesis of the small intestine
+C4021088,Prominent calcaneus
+C4021111,Short 5th toe
+C4021141,Common origin of the right brachiocephalic artery and left common carotid artery
+C4021153,Aplasia of the vestibular nerve.
+C4021166,Bridged palmar crease
+C4021167,Tapered toe
+C4021171,Prominent tragus
+C4021174,"Microtia, third degree"
+C4021175,"Microtia, first degree"
+C4021183,Serpiginous crus of helix
+C4021203,Agenesis of molar
+C4021224,Abnormality of the twelfth cranial nerve
+C4021225,Abnormality of the eleventh cranial nerve
+C4021299,Abnormality of dentin
+C4021372,Accessory anterior naris
+C4021453,Aplasia of the 2nd finger
+C4021468,Deviation of the 2nd finger
+C4021469,Short 3rd finger
+C4021474,Short middle phalanx of the 3rd finger
+C4021475,Absent middle phalanx of 3rd finger
+C4021476,Broad middle phalanx of the 3rd finger
+C4021524,Abnormal adipose tissue morphology
+C4021571,Abnormal vestibulo-ocular reflex
+C4021577,Abnormality of somatosensory evoked potentials
+C4021598,Distal tibial bowing
+C4021602,Crowded maxillary incisors
+C4021649,Short fifth metatarsal
+C4021698,Broad radius
+C4021745,Abnormality of the musculature
+C4021746,Abnormality of the ilium
+C4021764,Abnormality of the abdominal organs
+C4021777,Abnormality of the larynx
+C4021789,Abnormality of the vertebral column
+C4021790,Abnormality of the skeletal system
+C4021793,Abnormality of renin-angiotensin system
+C4021794,Abnormality of the adrenal glands
+C4021797,Abnormality of the thorax
+C4021808,Abnormality of earlobe
+C4021812,Abnormality of the head
+C4021814,Accessory oral frenulum
+C4021868,Defect of palpebral conjunctiva
+C4021875,Tall chin
+C4021910,Narrow foramen obturatorium
+C4021954,Triceps hypoplasia
+C4022176,Upper lip pit
+C4022378,Broad 5th toe
+C4022543,Accessory scrotum
+C4022814,Abnormal trabecular meshwork morphology
+C4022877,Verrucous papule
+C4022904,Abnormal gallbladder morphology
+C4022912,Notched primary central incisor
+C4022927,Extra fontanelles
+C4022991,Abnormal respiratory epithelium morphology
+C4023017,Intracranial internal carotid artery dissection
+C4023108,Abnormal pectoral muscle morphology
+C4023252,Anomalous origin of coronary artery from the pulmonary artery
+C4023293,Imperforate atrioventricular valve
+C4023332,Abnormal corneal endothelium morphology
+C4023345,Duodenal aganglionosis
+C4023346,Aganglionosis of the small intestine
+C4023401,Abnormality of hair density
+C4023455,Depressed glabella
+C4023528,Abnormality of skin morphology
+C4023546,Abnormality of canine
+C4023557,Abnormality of dental structure
+C4023573,Abnormal number of permanent teeth
+C4023609,Abnormality of the common coagulation pathway
+C4023610,Abnormality of the intrinsic pathway
+C4023611,Abnormality of the extrinsic pathway
+C4023915,Abnormally low-pitched voice
+C4024155,Narrow nasal septum
+C4024168,Thickened ears
+C4024363,Symphalangism of middle phalanx of 3rd finger
+C4024589,Aplasia/Hypoplasia of the mandible
+C4024622,Wide capital femoral epiphyses
+C4024689,Abnormality of the calcaneus
+C4024753,Abnormal retinal vascular morphology
+C4024933,Acute demyelinating polyneuropathy
+C4024965,Frontal cortical atrophy
+C4025003,Aortic tortuosity
+C4025005,Abnormal ventricular filling
+C4025048,Elongated radius
+C4025084,Tapered phalanx of finger
+C4025087,Long phalanx of finger
+C4025145,Cortical irregularity
+C4025179,Abnormality of the zygomatic arch
+C4025251,Abnormality of the vertebral endplates
+C4025320,Craniofacial asymmetry
+C4025394,Small scaphoid
+C4025617,Atlantoaxial abnormality
+C4025630,Abnormal bone structure
+C4025691,Abnormality of the calvaria
+C4025727,Abnormality of the upper respiratory tract
+C4025732,Tubulointerstitial abnormality
+C4025752,Abnormal cardiac ventricle morphology
+C4025758,Abnormal myocardium morphology
+C4025785,Abnormality of the foot musculature
+C4025818,Abnormality of skeletal maturation
+C4025823,Abnormality of the endocrine system
+C4025837,Abnormality of the periorbital region
+C4072983,Abnormality morphology of the macular vasculature
+C4073114,Umbilical cord cyst
+C4073115,Umbilical vein varix
+C4073185,Abnormality of ophthalmic artery
+C4073212,Abnormal mandibular ramus morphology
+C4073219,Abnormality of orbicularis oris muscle
+C4073241,Abnormality of nasopharyngeal adenoids
+C4073254,Abnormality of geniohyoid muscle
+C4073262,Abnormality of inferior alveolar artery
+C4073269,Abnormality of infra-orbital nerve
+C4082169,Metatarsus Varus
+C4082185,Unicameral bone cyst
+C4317152,Dimple chin
+C4476534,Subperiosteal bone resorption
+C4476599,Sawtooth acanthosis
+C4476620,Portosystemic collateral veins
+C4476698,Oval pupil
+C4476718,Abnormality of the corneal limbus
+C4476763,Fossa navicularis urethral stricture
+C4476806,Fused labia majora
+C4477006,Membranous vitreous appearance
+C4477059,Dilatation of celiac artery
+C4477061,Dilatation of Inferior mesenteric artery
+C4520679,Abnormal macular morphology
+C4531072,Luse bodies
+C4531090,Vascular malformation of the lip
+C4531111,Herpetiform vesicles
+C4531138,Short telomere length
+C4531173,Macular purpura
+C4531220,Coronary sinus enlargement
+C4531221,Atrial septal hypertrophy
+C4531247,Dilated left subclavian artery
+C4531294,Periorbital ecchymosis with tarsal plate sparing
+C4551978,Short forearm
+C4721788,Bifid ribs
+C5139269,Areolar fullness
+C5209225,Spontaneous conjunctival filtering bleb

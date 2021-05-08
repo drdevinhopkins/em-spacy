@@ -1,0 +1,551 @@
+cui,name
+C0001559,Inhalation Drug Administration
+C0001758,Aftercare
+C0002423,ambulatory care services
+C0004908,Bed Conversion
+C0005824,Blood pressure determination
+C0007436,"Catheterization, Peripheral"
+C0007698,Centralized Hospital Services
+C0008076,Child Guidance
+C0008078,Child health care
+C0008093,Child Welfare
+C0009449,Communicable Disease Control
+C0009585,Comprehensive Dental Care
+C0009586,Comprehensive Health Care
+C0009818,Consultation
+C0009853,Continuity of Patient Care
+C0010210,Counseling
+C0010337,Care of intensive care unit patient
+C0011017,"Day Care, Medical"
+C0011143,Defensive Medicine
+C0011211,Delivery of Health Care
+C0011332,Dental Care for Disabled
+C0011365,Dental Health Services
+C0011396,Denture Repair
+C0012158,Diet Surveys
+C0012159,Diet therapy
+C0012622,Discharge Planning
+C0013164,Drug Compounding
+C0013191,Drug Labeling
+C0013893,Eligibility Determination
+C0013961,Emergency medical service
+C0015187,Euthanasia
+C0016471,Food Inspection
+C0016615,Foster Home Care
+C0017313,patient care
+C0017463,Geriatric Assessment
+C0018570,Hand Disinfection
+C0018693,Health Care Rationing
+C0018726,Health Plan Implementation
+C0018747,Health Services
+C0018749,Health Services Administration
+C0019700,HIV Seroprevalence
+C0019855,Home Care Services
+C0019860,Home Nursing
+C0019948,Hospital Administration
+C0019978,Hospital Planning
+C0019982,Hospital Referral
+C0019993,Hospitalization
+C0020042,Hotlines
+C0020043,Home visit (procedure)
+C0021626,Institutional Practice
+C0021634,Insufflation
+C0021677,Insurance Claim Review
+C0021682,Health Insurance
+C0021685,"Insurance, Hospitalization"
+C0021688,"Insurance, Long-Term Care"
+C0021694,"Insurance, Psychiatric"
+C0021695,"Insurance, Surgical"
+C0021711,Neonatal Intensive Care
+C0021889,Intraoperative Care
+C0023677,Life Support Care
+C0023977,long-term care
+C0024870,Mass Screening
+C0024913,"Materials Management, Hospital"
+C0025076,"Medical Decision Making, Computer-Assisted"
+C0025084,Medical History Taking
+C0025355,Mental Health Services
+C0026426,Blood pressure monitoring
+C0027452,National Health Insurance
+C0028079,Night Care
+C0028682,Care given by nurses
+C0028704,"Nursing, Team"
+C0028900,Office Visits
+C0030546,Parental Notification
+C0030610,Partnership Practice
+C0030672,Patient Acceptance of Health Care
+C0030673,Patient Admission
+C0030674,Patient advocacy
+C0030677,Patient Care Management
+C0030678,Patient Care Planning
+C0030679,Patient Care Team
+C0030685,Patient Discharge
+C0030695,Patient Monitoring
+C0030698,Patient Outcome Assessment
+C0030699,Patient Participation
+C0030700,Patient Readmission
+C0030704,Patient Transfer
+C0030768,Peer Review
+C0031148,Peritoneal lavage
+C0031809,Physical Examination
+C0032782,Postnatal Care
+C0032786,Postoperative Care
+C0032895,"Practice Management, Medical"
+C0033052,Prenatal care
+C0033061,Preoperative Care
+C0033080,Prescription procedure
+C0033101,pretesting
+C0033109,Preventive Health Services
+C0033137,Primary Health Care
+C0033325,Forecast of outcome
+C0034107,Pulse taking
+C0034117,Puncture procedure
+C0034379,Quality of Health Care
+C0034927,Patient referral
+C0034928,Referral and Consultation
+C0035649,Risk Management
+C0035843,Rooming-in Care
+C0036870,Sex Counseling
+C0037943,Spinal Puncture
+C0038280,Sterilization for infection control
+C0039548,terminal patient care
+C0040296,Tissue Procurement
+C0040757,Transportation of Patients
+C0079161,Infectious Disease Contact Tracing
+C0079278,"Endoscopy, Gastrointestinal"
+C0080100,Refusal to Treat
+C0085130,Competitive Medical Plans
+C0085204,Universal Precautions
+C0085554,Episode of Care
+C0085555,Hospice Care
+C0085557,Infectious disease prevention / control
+C0085559,intensive care
+C0085566,"Process Assessment, Health Care"
+C0085971,Case management (procedure)
+C0086208,Emergency Health Services
+C0086265,Ethical Review
+C0086388,Health Care
+C0086751,"Health Services, Outpatient"
+C0086930,Risk Assessment
+C0086969,Self-Management
+C0150122,Active listening
+C0150123,Activity care
+C0150155,Bowel care procedure
+C0150156,Bowel training (regime/therapy)
+C0150158,Cardiac care
+C0150162,Caregiver support (regime/therapy)
+C0150177,Vision therapy
+C0150181,Coping support
+C0150192,Ear care
+C0150270,Medication Management
+C0150301,Perineal care
+C0150318,Radiation therapy management
+C0150355,Spiritual support
+C0150369,Preventive monitoring
+C0150399,Urinary incontinence care
+C0150404,Taking vital signs
+C0150521,Comfort measures
+C0150523,Encouragement of compliance
+C0150544,Diabetic care
+C0150600,Advice
+C0150706,Perioperative Care
+C0162648,Telemedicine
+C0175636,Act of Documentation
+C0184617,Care for Medication Side Effects
+C0184627,Physical Health Care
+C0184634,Ventilator care
+C0184635,Tracheostomy care
+C0184640,Maintaining a safe environment
+C0184642,Bedrest care
+C0184643,Mental health care
+C0184644,"History taking, mental health"
+C0184657,Bladder care
+C0184666,Hospital admission
+C0184758,Patient disposition
+C0184781,Evaluating response to treatment
+C0184806,Chart review by physician
+C0184830,Chart opening
+C0184959,Instillation (procedure)
+C0189586,Puncture of artery (procedure)
+C0193158,Anoscopy
+C0194261,Ureteroscopy
+C0199168,Medical service
+C0199171,medical procedure
+C0199174,General treatment
+C0199182,History taking
+C0199219,Inspection (procedure)
+C0200044,Gynecological examination
+C0200345,Specimen Collection
+C0202048,Glucose measurement by monitoring device
+C0204511,Psychiatric follow-up
+C0204695,Feeding patient
+C0204742,Secluding patient
+C0204759,Special care of dentures
+C0204977,Home care of patient
+C0206130,Uncompensated Care
+C0206196,Dental Care for Chronically Ill
+C0220825,Evaluation
+C0232464,Gargling (function)
+C0242783,Disease Notification
+C0242796,"Home Care Services, Hospital-Based"
+C0242963,Perinatal Care
+C0243024,Patient-Centered Care
+C0259945,hospital care
+C0278329,Prescribed
+C0282485,Managed Competition
+C0282664,Point-of-Care Systems
+C0344211,Supportive care
+C0349676,Clinical regeneration
+C0376306,Oral Examination
+C0376636,Disease Management
+C0376698,"Infection Control, Dental"
+C0376708,Unnecessary Procedures
+C0398523,Bone marrow aspiration procedure
+C0403349,Sperm Retrieval
+C0405457,Breast Milk Expression
+C0420037,Neurological screening
+C0422202,Notifications (procedure)
+C0441548,Fitting - action
+C0441587,Clinical act of insertion
+C0441640,Tapering - action
+C0441704,Typing Classification
+C0443331,Turnover technique
+C0445414,Wrapping (procedure)
+C0481523,Surgical follow-up
+C0489633,Review of systems (procedure)
+C0496675,Medical care
+C0516382,Implementation of aseptic technique
+C0517667,Assessment of passive right hip joint movement
+C0541653,Chart evaluation by healthcare professional
+C0557034,Assisting (procedure)
+C0557055,Reassuring (procedure)
+C0559465,Fetal heart monitoring
+C0561862,Evoked potentials monitoring
+C0579118,Home environment assessment
+C0582103,Medical Examination
+C0584541,Discharge to hospital (procedure)
+C0586003,Discharge from hospital
+C0586247,Medicolegal procedure
+C0587569,Physician service
+C0587597,Obstetrics service
+C0587599,Pediatric service
+C0587668,Surgical service
+C0587695,Trauma surgery service
+C0588388,General observation
+C0589121,Follow-up visit
+C0596720,hospital patient care
+C0596893,medical appointment
+C0597279,preadmission patient care
+C0597720,interdisciplinary collaboration
+C0598836,checkup examination
+C0600015,Emotional support
+C0600380,Ethics Consultation
+C0679674,Spiritual Therapies
+C0679809,Health Risk Assessment
+C0679830,patient assessment
+C0679831,Patient History
+C0679841,treatment program
+C0679878,acute care
+C0680255,Discharge (release)
+C0699910,Study of epidemiology
+C0699943,Public health service
+C0700287,Reporting
+C0700325,Patient observation
+C0729338,Care provision regimes
+C0733511,Medical Surveillance
+C0805586,Challenge
+C0806914,Medication administered
+C0809949,Admission activity
+C0814459,brief intervention
+C0850441,referral to allergist
+C0854573,Prolonged Surgery
+C0871311,screening tests
+C0871549,Withholding Treatment
+C0885924,Circulatory care
+C0885957,Eye care (regime/therapy)
+C0886296,Nursing interventions
+C0886414,Body temperature measurement
+C0947323,Dispensing medication
+C0949637,Advance Directive Adherence
+C0994454,Home care aspects
+C1113679,patient safety
+C1136313,After-Hours Care
+C1138559,Voluntary Programs
+C1144866,Multi-disciplinary team
+C1161057,Funeral arrangements assessment
+C1171174,Care or Perform
+C1171178,Alcohol abuse prevention
+C1171179,Allergy management
+C1171180,Blood specimen care
+C1171181,Breastfeeding support
+C1171183,Encouragement of compliance with medication regimen
+C1171186,Contraception care
+C1171189,Drug abuse prevention
+C1171199,Promotion of infertility
+C1171200,Labor care
+C1171201,Medical Regimen Orders
+C1171215,Renal care
+C1171216,Reproductive care
+C1171217,Sexual behavior analysis
+C1171220,Stool specimen care
+C1171221,Substance abuse prevention
+C1261322,Evaluation procedure
+C1272386,Mouth care management
+C1272406,Encouragement of dietary compliance
+C1273712,Grading system used
+C1273869,Intervention regimes
+C1279986,Procedure on heart
+C1292960,Procedure on lung
+C1301725,Documented
+C1305866,Weighing patient
+C1318493,Inflation procedure
+C1318957,Care of patient undergoing electroconvulsive therapy
+C1328956,Telehealth
+C1446911,Scheduling (procedure)
+C1449559,Donor Selection
+C1456630,Assisted Living
+C1512343,Head and Neck Surgery
+C1512346,Patient Visit
+C1513044,Media Intervention
+C1514413,Prevention of High-Risk Behavior
+C1514821,Registration
+C1514918,Retrieval - action
+C1515089,Surgical Management
+C1515187,Take
+C1515927,Alternative Medical System
+C1516193,Cancer Detection
+C1516615,Clinical Management
+C1516879,Enrollment
+C1517876,Lifestyle Therapy
+C1518360,Non-Invasive Cancer Detection
+C1522577,follow-up
+C1533810,Placement action
+C1540833,Social support (regime/therapy)
+C1546457,financial - billing arrangement
+C1548806,Abortion - Consent Type
+C1548816,Angiogram - Consent Type
+C1548817,Angioplasty - Consent Type
+C1548819,Antipsychotic Medications - Consent type
+C1548821,Autopsy - Consent type
+C1548823,Consent Type - Biliary Drainage
+C1548825,Consent Type - biopsy
+C1548828,Consent Type - Cardiac Catheterization
+C1548829,Consent Type - Coronary Angiography
+C1548837,Consent Type - Colonoscopy
+C1548838,Contact Lenses Consent
+C1548848,Consent Type - Drug Screening
+C1548850,Consent Type - Endometrial Biopsy
+C1548852,Consent Type - ERCP
+C1548866,Consent Type - Intrauterine Device
+C1548873,Consent Type - IVP
+C1548874,Consent Type - Laser Photocoagulation
+C1548877,Consent Type - Liver Biopsy
+C1548878,Consent Type - Lumbar Puncture
+C1548886,Consent Type - Myelogram
+C1548892,Oral Contraceptives - Consent Type
+C1548893,Organ Donation Consent Type
+C1548899,Consent Type - Photographs
+C1548917,Consent Type - Sigmoidoscopy
+C1548938,Consent Type - Venogram
+C1551345,acute inpatient encounter
+C1553482,First fill against an order
+C1553487,Daily Fill
+C1553496,field - patient encounter
+C1553497,virtual patient encounter
+C1553498,home health encounter
+C1553500,emergency encounter
+C1553526,Substance Admin Substitution - formulary
+C1553890,Pharmaceutical - ActMedicalServiceCode
+C1555301,Supply Appropriate
+C1555302,Replacement - supply
+C1555304,Weekend Supply
+C1555324,inpatient encounter
+C1555457,Provision of recurring care for chronic illness
+C1555459,Oncology Service
+C1555460,Alternative Level of Care
+C1555465,Display adjudication result
+C1555670,travel charge
+C1556141,Controlled substance monitoring program
+C1561560,ambulatory encounter
+C1561964,Positioning patient (procedure)
+C1608381,Consent Mode - Verbal
+C1611232,Medication Therapy Management
+C1621943,Energy Management
+C1698490,short stay encounter
+C1704289,Clinical Services
+C1705181,Repair - Remedial Action
+C1709895,Remedial Action
+C1710032,Screening
+C1736163,Overmedication
+C1830365,Emergent care
+C1879795,Behavioral Dietary Intervention
+C1881966,Nanoparticle-Mediated Drug Delivery
+C1883350,Titrate
+C1948125,occupational therapy care
+C1948126,physical therapy care
+C1948182,genetics (procedure)
+C2229507,sensory exam
+C2317067,Medication Reconciliation
+C2347682,Private Health Insurance
+C2348003,Agent Administration
+C2348080,Dechallenge
+C2348625,Sweep
+C2350442,Nasal Lavage
+C2350518,Electronic Prescribing
+C2350596,Biosurveillance
+C2362912,Moving and Lifting Patients
+C2607925,Early Detection of Cancer
+C2713310,Medical Home
+C2717795,Teaching Rounds
+C2717890,"Medicine, Mongolian Traditional"
+C2718016,Compassionate Use
+C2718027,Medical Tourism
+C2718034,Code Team
+C2720502,Mental health assessment
+C2735050,Prehospital care
+C2735310,Care management
+C2825496,Birth Method of Delivery
+C2825545,Gestational Weeks Assessment
+C2826232,Dose Adjustment
+C2826260,Test Occurrence
+C2922257,Specimen care (regime/therapy)
+C2930505,Goals of Care
+C2936279,Drug Substitution
+C2936303,Inappropriate Prescribing
+C2936317,Health Facility Administration
+C2936643,Standard of Care
+C2945670,Assessment of active right hip joint movement
+C2958078,Psychosocial care (regime/therapy)
+C2958365,rnrx communication care
+C2963216,Vital signs measurements
+C2985400,Serum Tumor Marker Test
+C2986584,Dental Whitening
+C2986593,Tailored Intervention
+C3162149,Violence control
+C3178994,Disease Eradication
+C3179039,"Pharmaceutical Services, Online"
+C3242004,colonoscopy prep
+C3242005,surgical prophylaxis
+C3244104,act care provision
+C3244160,certified ophthalmology care
+C3244162,certified otolaryngology care
+C3244172,certified thoracic surgery care
+C3244184,certified acute coronary syndrome care
+C3244187,certified bariatric surgery care
+C3244198,certified migraine headache care
+C3244202,certified chronic obstructive pulmonary disease care
+C3245491,investigational monitoring program
+C3251800,Diversional Care
+C3251805,Social Worker Service
+C3251806,Respiratory Therapist Service
+C3251807,Perioperative injury care
+C3251809,Peritoneal dialysis care
+C3251814,Fluid Intake Measurement
+C3251815,fluid output measurement
+C3272250,Post-Cardiac Transplant Evaluation
+C3274430,Physical Medical Procedure
+C3274571,Clinical Study Follow-up
+C3274817,Index Colonoscopy
+C3275086,Home Hospice
+C3494236,Advanced Trauma Life Support Care
+C3494237,Advanced Trauma Life Support
+C3494290,Patient Handoff
+C3494292,Nursing Handoff
+C3494320,Health Impact Assessment
+C3494402,Secondary Care
+C3494403,Tertiary Healthcare
+C3530199,Sharing Agreements
+C3537005,Iron supplement therapy
+C3541326,Recursive Partitioning Assessment
+C3640644,Short Term General Hospital -- activity
+C3658216,Clinical Laboratory Services
+C3658337,Ambulance Diversion
+C3661582,Vitamin K supplement therapy
+C3661584,Vitamin C supplement therapy
+C3661587,Vitamin A supplement therapy
+C3661593,Biotin supplement therapy
+C3665378,psychosocial assessment/care
+C3669138,Visual inspection (procedure)
+C3714401,Management of caffeine intake
+C3714402,Management of alcohol intake
+C3714592,Immersion
+C3812897,General medical service
+C3824919,Insurance Claim
+C3826004,Medical screening
+C3828271,Saline Flush
+C3831018,Control Cleansing
+C3850087,Culturally Competent Care
+C3853158,Meal set-up management
+C3853617,Patient care - patient profile query reason
+C3854344,Cardiovascular Examination
+C3858559,discharge instruction entry
+C3858560,patient education entry
+C3858586,clinical decision support intervention review
+C3888021,enrollment - coverage
+C3889687,Clinical Observation
+C3890590,Radiation Shielding
+C3897812,Psychosocial Support for Caregiver
+C3898067,Other Intervention or Procedure
+C3898604,Lethal Injection and Exsanguination Euthanasia
+C3898696,Intravenous Lethal Injection Euthanasia
+C3898708,Intracardiac Lethal Injection Euthanasia
+C3898714,Internet-Based Intervention
+C3899107,Follow-Up Care
+C3900036,Anesthetized Lethal Injection Euthanasia
+C4019071,Transitional Care
+C4019079,Patient Transition
+C4039291,Recommendation for pelvic rest
+C4040108,Promotion of conception
+C4040192,Administration of fluid therapy
+C4040432,Implementation of cluster care
+C4042755,Medical Overuse
+C4042765,Clinical Decision Support
+C4042781,Black Box Warning
+C4042802,Telerehabilitation
+C4042852,"Crew Resource Management, Healthcare"
+C4042889,Children's Health Insurance Program
+C4046039,Overtreatment
+C4076187,Referral to medical rapid response team
+C4082936,Hemodynamic Monitoring
+C4084924,Clinical Evaluation
+C4224068,Legal Liability / Liability Insurance
+C4273579,Hemodialysis care
+C4277663,Intersectoral Collaboration
+C4277744,Patient Comfort
+C4288107,Train Staff about Medication Use Process
+C4288300,Report Adverse Events
+C4288317,REMS Counsel Patient
+C4288782,Maintain Healthcare Records
+C4289039,Get Lab Test or Monitoring
+C4289583,Enroll in the REMS
+C4289584,Enroll Patient in the REMS
+C4304600,Review of major housing adaptation
+C4316882,Dental Surgical Services
+C4321464,Guideline Concordant Care
+C4329797,Estimated Body Weight
+C4505099,Antimicrobial Stewardship
+C4505227,Early Goal-Directed Therapy
+C4521541,"Human Cells, Tissues, and Cellular and Tissue-Based Products Processing"
+C4522246,"Human Cells, Tissues, and Cellular and Tissue-Based Products Storage"
+C4527298,Risk Assessment for Thromboembolism
+C4528395,Protocol Risk Assessment
+C4552767,Medical Missions
+C4552907,Hospital Rounds
+C4553486,Intraoperative Nerve Monitoring
+C4684780,Standard Treatment
+C4704793,"Insurance, Vision"
+C4721475,rnrx personal care (treatment)
+C4722129,Dispensing
+C4722131,Implantation Method of Administration
+C4722257,STEPS to Enhance Physical Activity
+C4722307,Geography-Based Enrollment
+C4722308,Algorithm-Based Enrollment
+C4724363,coordination of care
+C4728259,emergency room treatment
+C4744407,Rooming
+C5197770,Learning Health System
+C5197873,Shared Medical Appointments
+C5197880,School Mental Health Services
+C5197918,Quaternary Prevention
+C5202876,Treatment Planning
+C5205785,Dynamometry

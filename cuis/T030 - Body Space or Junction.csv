@@ -1,0 +1,258 @@
+cui,name
+C0001208,Acromioclavicular joint structure
+C0003087,Ankle joint structure
+C0004168,Atlanto-Axial joint
+C0004169,Atlantooccipital joint structure
+C0005853,Blood-Air Barrier
+C0007473,Structure of cavernous sinus
+C0007769,Cerebral aqueduct
+C0007799,Cerebral Ventricles
+C0010265,Structure of posterior fossa of cranial cavity
+C0010272,Joint structure of suture of skull
+C0011403,Dental Pulp Cavity
+C0013075,Structure of rectouterine pouch
+C0013455,middle ear
+C0013770,Elbow joint structure
+C0014537,Structure of epidural space
+C0014871,Esophagogastric Junction
+C0015028,Ethmoid sinus structure
+C0015352,Extracellular Space
+C0016125,Finger joint structure
+C0016519,Structure of foramen magnum
+C0016734,Frontal Sinus
+C0019558,Hip Joint
+C0021721,Intercellular Junctions
+C0022417,Joints
+C0022745,Knee joint
+C0024957,Maxillary Sinus
+C0025525,Metacarpophalangeal joint structure
+C0025589,Metatarsophalangeal joint structure
+C0027423,Nasal cavity
+C0029180,Ocular orbit
+C0030471,Nasal sinus
+C0034015,Symphysis pubis structure
+C0034099,Pulp Chamber
+C0034667,Ranvier's Nodes
+C0035359,Retroperitoneal Space
+C0035878,Structure of cochlear window
+C0036036,Sacroiliac joint structure
+C0037009,Joint structure of shoulder region
+C0037885,Sphenoidal sinus
+C0037922,Spinal Canal
+C0038291,Sternoclavicular joint structure
+C0038527,Subarachnoid Space
+C0038541,Subdural space
+C0039062,Synapses
+C0039493,Temporomandibular Joint
+C0042606,Vestibule
+C0043265,Radiocarpal joint structure
+C0086881,Pulp Canals
+C0149556,Fourth ventricle structure
+C0152279,Lateral ventricle structure
+C0178802,Pleural cavity
+C0206117,Gap Junctions
+C0221941,Mucocutaneous junction
+C0221955,Sweat gland duct structure
+C0222662,Medullary cavity of bone
+C0222666,Structure of epiphyseal line
+C0222711,Internal acoustic meatus of temporal bone
+C0222712,Jugular foramen
+C0223085,Structure of intervertebral foramen
+C0223670,Obturator foramen
+C0224497,Articular space
+C0224507,Synovial joint structure
+C0224511,Fibrous joint structure
+C0224512,Syndesmosis structure
+C0224517,Dento-alveolar joint
+C0224518,Cartilaginous joint structure
+C0224520,Symphysis structure
+C0224521,Facet joint structure
+C0224548,Structure of fontanel of skull
+C0224620,Carpometacarpal joint structure
+C0224681,Costovertebral joint structure
+C0224693,Structure of obturator canal
+C0224724,Structure of tarsometatarsal joint
+C0225091,Structure of carpal canal
+C0225265,Femoral triangle structure
+C0225269,Femoral canal structure
+C0225275,Structure of femoral ring
+C0225295,Ischiorectal fossa structure
+C0225319,Interstitial space
+C0225377,Structure of upper respiratory tract cavity
+C0225427,Structure of nasal vestibule
+C0225566,Laryngeal ventricle
+C0225591,Structure of tracheal lumen
+C0225849,Structure of ostium of superior vena cava
+C0225851,Structure of ostium of inferior vena cava
+C0225892,Structure of outflow tract of right ventricle
+C0225972,Pericardial cavity
+C0225983,Structure of perivascular space
+C0225997,Lumen of artery
+C0226045,Ostium of right coronary artery
+C0226504,Structure of venous sinus
+C0226862,Structure of straight sinus
+C0226863,Structure of torcular Herophili
+C0226864,Structure of transverse sinus
+C0226895,Structure of rima oris
+C0226896,Oral cavity
+C0226897,Vestibule of mouth
+C0226924,Commissure of the Lip
+C0226971,Structure of gustatory pore
+C0227147,Structure of retropharyngeal area
+C0227148,Structure of lateral pharyngeal space
+C0227164,Structure of pharyngeal recess
+C0227170,Structure of piriform recess
+C0227203,Structure of gastric foveola
+C0227237,Structure of pyloric ostium of stomach
+C0227411,Anal canal
+C0227427,Structure of anal sinus
+C0227498,Structure of porta hepatis
+C0227511,Structure of gallbladder fossa of liver
+C0227530,Space of Disse
+C0227532,Space of Mall
+C0227557,Structure of right hepatic duct
+C0227672,Renal sinus
+C0227680,Structure of ureteropelvic junction
+C0227740,Navicular fossa of spongy urethra
+C0227744,Urethral orifice
+C0227841,Cervical canal structure
+C0227842,Structure of internal os
+C0227844,Uterine cavity
+C0228133,Cranial epidural space
+C0228134,Spinal epidural space
+C0228150,Cisterna superioris
+C0228187,Structure of fissure of Sylvius
+C0228198,superior frontal sulcus (human only)
+C0228226,Structure of collateral sulcus
+C0228258,Structure of Reil's limiting sulcus
+C0229094,Posterior chamber of eyeball
+C0229286,Structure of lacus lacrimalis
+C0229289,Lacrimal sac
+C0229390,Recessus epitympanicus structure
+C0229427,Pneumatic mastoid cell
+C0229454,Structure of posterior semicircular duct
+C0229872,Faucial pillar
+C0229876,Structure of tonsillar crypt
+C0229984,Anatomical space structure
+C0230039,Structure of pterygopalatine fossa
+C0230044,Structure of anterior fossa of cranial cavity
+C0230045,Structure of middle fossa of cranial cavity
+C0230136,Structure of intercostal space
+C0230139,Thoracic cavity structure
+C0230140,Structure of right thoracic cavity
+C0230141,Structure of left thoracic cavity
+C0230197,Structure of extraperitoneal space
+C0230212,Omental Bursa
+C0230277,Superior pelvic aperture
+C0230976,Structure of amniotic cavity
+C0242255,Tympanic cavity
+C0242358,Tight Junctions
+C0262251,inferior frontal sulcus (human only)
+C0262278,Lunate Sulcus
+C0333343,Body cavities
+C0376491,Structure of articular disc of temporomandibular joint
+C0391889,Synostosis
+C0444567,Ostium
+C0444575,Buccal space
+C0446478,Structure of second intercostal space
+C0446484,Structure of ninth intercostal space
+C0446487,Structure of tenth intercostal space
+C0447744,Scapulothoracic joint
+C0447748,Structure of interphalangeal joint of thumb
+C0450432,Venous anastomosis
+C0458078,Fissure of lung
+C0458394,Cerebral sulcus
+C0458851,Cavity of uterus
+C0458952,Vaginal introitus structure
+C0459470,Hand joint structure
+C0459556,Chamber of eye
+C0459612,Sciatic foramen
+C0459804,Retrobulbar space (body structure)
+C0500470,Anatomical anastomosis
+C0502420,Suture Joint
+C0502723,Structure of joint cavity
+C0503989,Cavity of left atrium
+C0503990,Cavity of left ventricle
+C0504048,Outflow part of right atrium
+C0504074,Decussation
+C0505381,Synovial cavity of joint
+C0505384,Cavity of right atrium
+C0506230,Abdominopelvic cavity
+C0507096,Cavity of right cardiac chamber
+C0507097,Cavity of left cardiac chamber
+C0524461,Structure of lumen of body system
+C0559769,Pelvic cavity structure
+C0559884,Bicipital groove
+C0595944,Anterior nares
+C0682581,Intracellular Space
+C0682624,Sinusoid
+C0684079,Structure of body compartment
+C0699803,Synarthrosis
+C0730169,Inferior radioulnar joint structure
+C0734933,Ureterovesical junction
+C0738120,Valve of navicular fossa
+C0741204,ARCH
+C0827002,Synovial joint of pelvic girdle
+C0836913,Fossa
+C0923271,Right half of thoracic cavity
+C0923272,Left half of thoracic cavity
+C0926800,Ostium of Eustachian tube
+C0926861,Masticator space
+C0927950,Canal for auditory tube
+C0929359,Right third upper molar tooth socket
+C0930313,Mylohyoid Ridge
+C0932508,Proximal interphalangeal joint
+C0932510,Structure of distal interphalangeal joint
+C0933795,Structure of half of thoracic cavity lateral to midsagittal plane
+C0934462,Submandibular space structure
+C1178983,Synaptic connectivity
+C1179874,Ribbon synapse
+C1179882,Chemical synapse
+C1179886,Cell cavity
+C1180098,Tissue space
+C1183800,Set of subarachnoid sulci
+C1184475,Auscultatory triangle
+C1184697,Groove for occipital sinus
+C1185718,Cistern
+C1185742,Commissure
+C1185785,External cervical os
+C1235660,Notch
+C1261046,Glenoid structure
+C1261212,External urethral orifice
+C1262468,Structure of intercarpal joint
+C1267548,Maxillary vestibule
+C1268230,Submaxillary space
+C1268231,Submental space
+C1282013,Spinal cord sulcus
+C1283893,Entire body cavity
+C1288300,Structure of posterior semicircular canal
+C1288313,Structure of metatarsal joint
+C1288332,Anterior semicircular canal
+C1305231,Sinus - general anatomical term
+C1322271,Wrist joint
+C1512765,Infratentorial Cistern
+C1512880,Internal Parieto-Occipital Fissure
+C1515104,Sylvian Cistern
+C1516290,Cardia Orifice
+C1517043,External Parieto-Occipital Fissure
+C1518590,Opening of the Vena Cava
+C1518964,Volkmann's canal
+C1527245,Tarsal Joints
+C1744592,Structure of parieto-occipital fissure
+C1819185,symmetric synapse
+C1955857,Peritoneal Stomata
+C2333100,Cavity of tunica vaginalis
+C2350554,Cranial Fontanelles
+C3146289,Anatomic bifurcation
+C3641675,Carpometacarpal Joint 1
+C3665376,Structure of paracolic gutter (body structure)
+C3686739,Structure of celomic cavity
+C3870603,Anorectal
+C4085247,Space of intercostal compartment
+C4239574,Set of recesses
+C4246408,Retropharyngeal space of neck
+C4328868,GABA-ergic synapse
+C4684508,L4-L5 Intervertebral Space
+C4743721,L5-S1 Intervertebral Space
+C4763263,Intersphinteric groove
+C5231294,Intra-abdominal proper structure

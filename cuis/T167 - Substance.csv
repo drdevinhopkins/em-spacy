@@ -1,0 +1,103 @@
+cui,name
+C0001861,Air (substance)
+C0001863,Air bubble
+C0005332,Bezoars
+C0008038,Oral Tobacco
+C0012682,Disinfectants
+C0013330,Dust
+C0016613,Fossil Fuels
+C0016614,Fossils
+C0016710,Fresh Water
+C0017109,Natural Gas
+C0017780,Glues
+C0021264,Industrial Oils
+C0027946,Neutrons
+C0030739,Peat
+C0032167,Plastics
+C0036082,Saline Solution
+C0036499,Seawater
+C0037592,Soil
+C0037633,Solutions
+C0038818,Sunscreening Agents
+C0040338,Smokeless Tobacco
+C0043045,Waste Products
+C0043217,Wood material
+C0043220,Wool
+C0060317,fiberglass
+C0086805,Photons
+C0183753,Swab specimen
+C0282222,Lubricants
+C0302908,Liquid substance
+C0302909,solid substance
+C0304063,Wood dust
+C0337081,Compressed Air
+C0370003,Specimen
+C0439861,Substance
+C0439962,Mixture
+C0440266,Debris
+C0444185,Pus specimen
+C0444207,Vaginal swab (specimen)
+C0444318,Milk Specimen
+C0457784,Particulate (substance)
+C0520510,Materials
+C0557857,Concrete
+C0567416,Molecule
+C0593554,Depigmenting agent
+C0598248,Antifreeze
+C0599638,Drinking Water
+C0678527,cocaine contaminant
+C0729428,Dry cleaning agent
+C0868994,moisture
+C1095832,Cotton material
+C1254373,Etiologic Agent
+C1289919,Intravenous fluid
+C1292472,Tube specimen
+C1292474,Catheter tip specimen
+C1382104,Gel physical state
+C1382107,Suspension substance
+C1382110,powder physical state
+C1519355,Slice
+C1522472,section sample
+C1550099,Sediment
+C1550141,control substance
+C1550147,Pretreatment (substance)
+C1550506,product - ParticipationType
+C1550602,additive ingredient
+C1550603,stabilizer - ingredient
+C1550628,Drain - SpecimenType
+C1550648,Line Specimen
+C1550649,Line Arterial Specimen
+C1550679,Wick Specimen
+C1551386,Gel - ContainerSeparator
+C1561572,film - layer
+C1611690,Snow (substance)
+C1696723,lactose - non-drug agent
+C1697819,solvents - non-drug agent
+C1697820,soy - non-drug agent
+C1698408,shellfish - non-drug agent
+C1704353,fluid - substance
+C1705217,Medium (Substance)
+C1709595,Pooled Sample
+C1711238,Mist
+C1720884,Particulate Matter
+C1720935,Plant Exudates
+C1720936,Plant Gums
+C1881970,Nanoparticle Chemical Composition
+C1882347,Permanent Section
+C1883043,Slurry
+C2347862,Continuous Phase
+C2349995,Emission substance
+C2827365,Contaminant
+C2828366,Extract (substance)
+C2986569,Buildup
+C3179446,Lignite
+C3641126,Racemate
+C3853614,Sterilant
+C3853628,Granule
+C3891814,Substrate
+C3898767,Inducer
+C4019381,Granulocyte component of blood
+C4042921,Saline Waters
+C4055124,Dissolvable Tobacco
+C4086783,Red Material
+C4522126,Platelets Additive Solution

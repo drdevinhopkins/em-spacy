@@ -1,0 +1,383 @@
+cui,name
+C0000768,Congenital Abnormality
+C0000772,Multiple congenital anomalies
+C0000846,Agenesis
+C0001080,Achondroplasia
+C0001193,Apert syndrome
+C0002452,Amelogenesis Imperfecta
+C0002902,Anencephaly
+C0003076,Aniridia
+C0003119,Anophthalmos
+C0003466,"Anus, Imperforate"
+C0003492,Aortic coarctation
+C0003516,Aortopulmonary Septal Defect
+C0003706,Arachnodactyly
+C0003803,Arnold Chiari Malformation
+C0003857,Congenital arteriovenous malformation
+C0006131,Branchioma
+C0006288,Bronchopulmonary Sequestration
+C0007772,Intracranial Arteriovenous Malformation
+C0008297,Choanal Atresia
+C0008340,Choledochal Cyst
+C0008626,Congenital chromosomal disease
+C0008924,Cleft upper lip
+C0008925,Cleft Palate
+C0009439,"Choledochal Cyst, Type I"
+C0009677,Congenital macroglossia
+C0009681,Anomalous pulmonary artery
+C0010074,Coronary Vessel Anomalies
+C0010417,Cryptorchidism
+C0010626,Embryonic cyst
+C0011436,Dentinogenesis Imperfecta
+C0011813,Dextrocardia
+C0011981,Diaphragmatic Eventration
+C0013274,Patent ductus arteriosus
+C0013364,"Dysautonomia, Familial"
+C0013580,Ectopia Cordis
+C0014065,Congenital cerebral hernia
+C0014116,Endocardial Cushion Defects
+C0014527,Epidermolysis Bullosa
+C0015306,Hereditary Multiple Exostoses
+C0015393,Eye Abnormalities
+C0016508,Congenital Foot Deformity
+C0016522,"Foramen Ovale, Patent"
+C0016842,Congenital pectus excavatum
+C0018566,Congenital Hand Deformities
+C0018798,Congenital Heart Defects
+C0018816,Heart Septal Defects
+C0018817,Atrial Septal Defects
+C0018818,Ventricular Septal Defects
+C0019556,"Hip Dysplasia, Canine"
+C0020302,Hydrophthalmos
+C0024433,Macrostomia
+C0025312,Meningomyelocele
+C0025521,Inborn Errors of Metabolism
+C0025958,Microcephaly
+C0025988,Microglossia
+C0025990,Micrognathism
+C0026010,Microphthalmos
+C0026034,Microstomia
+C0026985,Myelodysplasia
+C0027794,Neural Tube Defects
+C0031192,Persistent Ostium Primum
+C0031900,Pierre Robin Syndrome
+C0032209,Platybasia
+C0033324,Prognathism
+C0035238,Congenital abnormality of respiratory system
+C0035353,Congenital retrognathism
+C0035615,Right aortic arch (disorder)
+C0036868,Sex Chromosome Aberrations
+C0036875,Disorders of Sex Development
+C0037221,Situs Inversus
+C0037268,Skin Abnormalities
+C0037917,Spina Bifida Cystica
+C0039685,Tetralogy of Fallot
+C0040759,Congenital Transposition
+C0040761,Transposition of Great Vessels
+C0041022,Trilogy of Fallot
+C0041207,"Truncus Arteriosus, Persistent"
+C0042063,Urogenital Abnormalities
+C0079037,Branchial Clefts-Congenital disorder
+C0079352,Congenital torticollis
+C0079541,Holoprosencephaly
+C0080174,Spina Bifida Occulta
+C0080178,Spina Bifida
+C0085758,"Aganglionosis, Colonic"
+C0149530,Congenital heart block
+C0149630,Bicuspid aortic valve
+C0149955,Annular pancreas
+C0151491,Congenital musculoskeletal anomalies
+C0152021,Congenital heart disease
+C0152233,Congenital ankyloblepharon
+C0152240,Uterus bilocularis
+C0152423,Congenital small ears
+C0152424,Common ventricle
+C0152436,"Hymen, Imperforate"
+C0152438,Sprengel deformity
+C0158618,Congenital stenosis of mitral valve
+C0158623,Congenital anomaly of coronary artery
+C0158646,Cleft palate with cleft lip
+C0158698,Congenital malformation of the urinary system
+C0158731,Congenital pectus carinatum
+C0158734,Polydactyly of toes
+C0158738,Syndactyly of toes with fusion of bones
+C0158784,Accessory skeletal muscle
+C0175754,Agenesis of corpus callosum
+C0175755,Congenital absent nipple
+C0220668,Congenital contractural arachnodactyly
+C0220685,Achondrogenesis type 2
+C0220810,Congenital defects
+C0221182,Chordee
+C0221199,Abnormal palmar creases
+C0221210,Congenital malrotation of intestine
+C0221214,Vascular ring
+C0221353,Horseshoe Kidney
+C0221354,Frontal bossing
+C0221358,Long narrow head
+C0221365,Double ureter
+C0235832,Congenital hernia
+C0235833,Congenital diaphragmatic hernia
+C0238210,Malrotation of kidney
+C0238395,Male Pseudohermaphroditism
+C0238506,Congenital posterior urethral valves
+C0239399,Short extremities
+C0240912,Vertical Talus
+C0243050,Cardiovascular Abnormalities
+C0243066,Atresia
+C0259779,Fibrous Dysplasia
+C0265283,"Atelosteogenesis, type 1"
+C0265529,Plagiocephaly
+C0265552,Congenital macrodactylia
+C0265554,Ectrodactyly
+C0265563,Congenital dislocation of radial head
+C0265594,Congenital absence of hand
+C0265654,Tarsal Coalition
+C0265673,Congenital kyphosis
+C0265695,Congenital fusion of ribs
+C0265699,Congenital hernia of foramen of Morgagni
+C0265700,Congenital hernia of foramen of Bochdalek
+C0265736,Congenital anomaly of nose
+C0265740,Arrhinia
+C0265783,Congenital hypoplasia of lung
+C0265797,Congenital emphysema
+C0265865,Mesocardia
+C0265870,Congenital absence of coronary sinus
+C0265878,Preductal coarctation of aorta
+C0265908,Congenital atresia of pulmonary artery
+C0265962,Ichthyosis linearis circumflexa
+C0266011,Accessory nipple
+C0266037,Peg-shaped teeth
+C0266061,Open Bite
+C0266111,Bifid tongue
+C0266122,Cleft uvula
+C0266174,Duodenal atresia
+C0266190,Congenital atresia of colon
+C0266196,Malrotation of colon
+C0266215,Anorectal atresia
+C0266225,Persistent cloaca
+C0266231,Ectopic anus
+C0266294,Unilateral agenesis of kidney
+C0266305,Fused Kidney
+C0266345,Congenital urethral valve
+C0266362,Ambiguous Genitalia
+C0266371,Streak ovary
+C0266383,Uterine Anomalies
+C0266387,Bicornuate uterus
+C0266389,Uterus unicornis
+C0266414,Imperforate vagina
+C0266470,Cerebellar Hypoplasia
+C0266541,Microphakia
+C0266574,Ablepharon
+C0266576,Accessory eyelid
+C0266589,Congenital ear anomaly NOS (disorder)
+C0266597,Congenital atresia of external auditory canal
+C0266609,Accessory tragus
+C0266610,Preauricular dimple
+C0266614,Bat ear
+C0266624,Sinus of branchial cleft (disorder)
+C0266632,Ectopic spleen
+C0266682,Celosomus
+C0266684,Fetus in fetu
+C0266717,Acardius
+C0268287,Deficiency of steroid 21-monooxygenase
+C0268358,"Osteogenesis imperfecta, dominant perinatal lethal"
+C0270805,Hemiplegic cerebral palsy
+C0278457,Indeterminate sex
+C0282160,Aplasia Cutis Congenita
+C0332877,Congenital premature fusion
+C0332878,Congenital contracture
+C0332907,Congenital absence
+C0332915,Congenital failure of fusion
+C0332996,Persistent embryonic structure
+C0338596,Spastic cerebral palsy
+C0339350,Congenital anomaly of lens
+C0339864,Bifid epiglottis
+C0340803,Capillary malformation (disorder)
+C0341787,Bifid scrotum
+C0344490,Sacral agenesis
+C0344511,Atresia of nasolacrimal duct
+C0344523,"Cataract, congenital, cerulean type 1"
+C0344529,Cornea plana
+C0344539,Hypoplasia of iris
+C0344688,Patent Ductus Venosus
+C0344724,Ostium secundum atrial septal defect
+C0344893,Right cardiac ventricular dilatation
+C0344917,Left ventricular outflow tract obstruction
+C0345001,unicuspid aortic valve
+C0345065,Cervical aortic arch
+C0345088,Kinking of descending aorta
+C0345200,Congenital dysmotility of small intestine
+C0345237,Short segment Hirschsprung's disease
+C0345240,Total intestinal aganglionosis
+C0345259,Band of Ladd
+C0345319,Cyst of hydatid of Morgagni
+C0345326,Congenital phimosis
+C0345371,Hypoplasia of lower limb
+C0345375,Congenital hypoplasia of femur
+C0345394,Hypoplasia of spine
+C0345397,Accessory rib
+C0345419,Cutis marmorata telangiectatica congenita
+C0349788,Arrhythmogenic Right Ventricular Dysplasia
+C0375530,Congenital Ureteropelvic Junction Obstruction
+C0376634,Craniofacial Abnormalities
+C0392482,Common atrium
+C0393791,Congenital facial nerve palsy
+C0399526,Class III malocclusion
+C0404533,Decreased anogenital distance
+C0406612,Encephalocraniocutaneous lipomatosis
+C0410529,Hypochondroplasia (disorder)
+C0410538,Pseudoachondroplasia
+C0426799,Congenital hypoplasia of clavicle
+C0426816,Absence of rib
+C0431376,Cobblestone Lissencephaly
+C0431414,Sacral dysgenesis
+C0431478,Posteriorly rotated ear
+C0431501,Bilateral arterial duct
+C0431603,Ectopic liver
+C0431663,Bilateral Cryptorchidism
+C0431664,Unilateral Cryptorchidism
+C0431777,Withered limb
+C0431810,Overgrowth of upper limb
+C0431863,Carpal synostosis
+C0431890,Hypoplasia of thumb
+C0431904,Ulnar polydactyly of fingers
+C0432098,Cleft Soft Palate
+C0432215,Progressive pseudorheumatoid dysplasia
+C0432306,Ichthyosis Bullosa of Siemens
+C0432355,Hypoplasia of nipple
+C0497552,Congenital neurologic anomalies
+C0521570,Retinal arteriovenous malformation
+C0521574,Ectopic cilia of eyelid
+C0541978,GENE GENETIC ABNORMALITY
+C0542519,Congenital absence of kidney
+C0543874,"Apraxia, oculomotor, Cogan type"
+C0546966,Monilethrix
+C0546969,"Preauricular Fistulae, Congenital"
+C0549173,Congenital atresia of rectum
+C0555206,Chiari malformation type II
+C0596364,Congenital disease of brain
+C0596371,congenital neuromuscular disorder
+C0600031,Congenital absence of spleen
+C0678230,Congenital Epicanthus
+C0685206,Domed head
+C0685628,Full supernumerary rib
+C0685638,Thoracoceloschisis
+C0685682,Single naris
+C0685707,Muscular ventricular septum defect
+C0685787,Cleft face
+C0700639,"Pyloric Stenosis, Hypertrophic"
+C0728829,Congenital pes cavus
+C0728895,Absent finger
+C0749794,"Upper Extremity Deformities, Congenital"
+C0752165,Central Nervous System Venous Angioma
+C0795690,Congenital omphalocele
+C0917804,"Arteriovenous Malformations, Cerebral"
+C0919576,Premature Closure of Ductus Arteriosus
+C0947885,Congenital Dental Disorder
+C0949331,Gonadal Agenesis
+C1261470,Congenital meningocele
+C1261504,Congenital absence of both testes
+C1290511,Anodontia of Permanent Dentition
+C1306503,Congenital exomphalos
+C1319016,"Nephrogenic rest, intralobar"
+C1384670,Single umbilical artery
+C1389018,Atrioventricular Septal Defect
+C1395852,Polydactyly preaxial type 1
+C1397452,Pulmonary Fistula
+C1398522,Cleft palate and bilateral cleft lip
+C1527388,Amniotic Bands
+C1533649,congenital renal arteriovenous malformation
+C1619700,RENAL ADYSPLASIA
+C1705254,Neonatal Deformity
+C1720771,Testicular Hydrocele
+C1737329,Dysmorphism
+C1739389,Urachal Remnant
+C1832117,Short humerus
+C1834934,Type I truncus arteriosus
+C1837218,"Cleft palate, isolated"
+C1840235,SOLITARY MEDIAN MAXILLARY CENTRAL INCISOR
+C1840311,Laryngeal cleft
+C1842778,Atrial septal defect 2
+C1842878,Short 5th finger
+C1844554,Absent fingernail
+C1844752,Butterfly vertebrae
+C1845118,"SHORT STATURE, IDIOPATHIC, X-LINKED"
+C1848192,Absent facial hair
+C1848869,Absent external genitalia
+C1849075,Relative macrocephaly
+C1849364,Absent earlobe
+C1856659,Polysplenia
+C1857041,"Ectodermal dysplasia, ectrodactyly, and macular dystrophy"
+C1858854,MEGALENCEPHALIC LEUKOENCEPHALOPATHY WITH SUBCORTICAL CYSTS
+C1859049,CCHS WITH HIRSCHSPRUNG DISEASE
+C1862689,Stahl ear
+C1865866,Congenital sensorineural hearing loss
+C1961121,Congenital vascular anomaly
+C1971810,Congenital cardiovascular disorder
+C2315717,Cryptotia
+C2609249,Ureterovesical junction obstruction
+C2750604,Median cleft lip and palate
+C2827468,Congenital Coronary Artery Abnormality
+C2919441,Isolation of left subclavian artery
+C2931507,Sternal cleft
+C2936423,Echogenic Bowel
+C2936858,Congenital adrenal hyperplasia due to 21 hydroxylase deficiency
+C2937220,Congenital abnormality of vein
+C2981150,Uranostaphyloschisis
+C2985290,Fetal Alcohol Spectrum Disorders
+C3165130,Subarterial ventricular septal defect
+C3273258,Congenital Systemic Disorder
+C3274516,Single Ventricle Defect
+C3278811,Thumb aplasia
+C3279790,Atrial Septal Defect 3
+C3280777,VENTRICULAR SEPTAL DEFECT 1
+C3280783,VENTRICULAR SEPTAL DEFECT 2
+C3280785,VENTRICULAR SEPTAL DEFECT 3
+C3472165,Anomalous origin of right coronary artery from pulmonary artery
+C3495549,Patent ductus arteriosus - persisting type
+C3496048,Malrotation of intestine with midgut volvulus
+C3536741,Discordant ventriculoarterial connection
+C3887527,Fused cervical vertebrae
+C3887851,Basilar invagination
+C3888391,Nonnuclear polymorphic congenital cataract
+C3899505,Congenital Disruption
+C4020699,Congenital dermal melanocytosis
+C4020964,Fibrous cardiac diverticulum
+C4020965,Cardiac diverticulum
+C4021136,Type III truncus arteriosus
+C4021137,Type II truncus arteriosus
+C4022002,Thoracoabdominal wall defect
+C4022171,Periauricular skin pits
+C4022693,Posteriorly placed anus
+C4023283,Thoracoabdominal ectopia cordis
+C4023364,Short fetal humerus length
+C4023799,Foot asymmetry
+C4023810,Acromelia of the upper limbs
+C4024628,Aplasia of the epiglottis
+C4024777,Absent extraocular muscles
+C4025023,Extrapulmonary sequestrum
+C4025324,Abnormality of the cheek
+C4025891,"Ambiguous genitalia, female"
+C4055188,Congenital Neurogenic Bladder
+C4086185,Cleft Maxilla
+C4274730,Polyrrhinia
+C4282128,PATENT DUCTUS ARTERIOSUS 1
+C4302907,Agenesis of internal carotid artery
+C4310753,PATENT DUCTUS ARTERIOSUS 3
+C4476646,Central diaphragmatic hernia
+C4476977,Purely bicuspid aortic valve
+C4551488,Bifid uvula
+C4551489,Ureter duplex
+C4551491,Congenital absence of penis
+C4551493,Situs inversus totalis
+C4551596,Abnormal renal morphology
+C4551649,Congenital Dysplasia Of The Hip
+C4551905,Pulmonary Venous Return Anomaly
+C4703575,Left Isomerism
+C4749275,Congenital stenosis of cervical spinal canal
+C4749282,Ectasia of left atrial appendage
+C4749284,Familial bicuspid aortic valve
+C4749300,Pseudounicornuate uterus
+C5197884,Anomalous Left Coronary Artery
+C5200821,Congenital Biliary Dilatation
+C5209221,Radial artery aplasia

@@ -1,0 +1,332 @@
+cui,name
+C0001707,Aerophagy
+C0001723,"Affective Disorders, Psychotic"
+C0001816,Agnosia
+C0001818,Agoraphobia
+C0001940,Alcohol Amnestic Disorder
+C0001956,Alcohol Use Disorder
+C0001969,Alcoholic Intoxication
+C0001973,"Alcoholic Intoxication, Chronic"
+C0002622,Amnesia
+C0002624,Retrograde amnesia
+C0002625,Amnestic Disorder
+C0003113,Anomia
+C0003125,Anorexia Nervosa
+C0003431,Antisocial Personality Disorder
+C0003467,Anxiety
+C0003469,Anxiety Disorders
+C0003537,Aphasia
+C0003550,Broca Aphasia
+C0003635,Apraxias
+C0003910,Articulation Disorders
+C0003944,As If Personality
+C0004352,Autistic Disorder
+C0004444,Avoidant Personality Disorder
+C0004842,Battered Child Syndrome
+C0004930,Behavior Disorders
+C0004936,Mental disorders
+C0005586,Bipolar Disorder
+C0005887,Body Dysmorphic Disorders
+C0006009,Borderline intellectual disability
+C0006325,Bruxism
+C0006370,Bulimia
+C0006895,Capgras Syndrome
+C0007398,Catatonia
+C0008060,child abuse behavior
+C0008062,Child Sexual Abuse
+C0008066,Child Behavior Disorders
+C0008073,Developmental Disabilities
+C0008909,Claustrophobia
+C0009171,Cocaine Abuse
+C0009241,Cognition Disorders
+C0009426,Combat Disorders
+C0009595,Obsessive-Compulsive Personality
+C0009676,Confusion
+C0009792,Consciousness Disorders
+C0009946,Conversion disorder
+C0009983,Coprophagia
+C0011206,Delirium
+C0011251,Delusional disorder
+C0011253,Delusions
+C0011265,Presenile dementia
+C0011570,Mental Depression
+C0011581,Depressive disorder
+C0011757,Developmental Coordination Disorder
+C0012746,Dissociative disorder
+C0013146,Drug abuse
+C0013362,Dysarthria
+C0013415,Dysthymic Disorder
+C0013473,Eating Disorders
+C0013528,Echolalia
+C0013772,Elder Abuse
+C0013895,Elimination Disorders
+C0014089,Functional encopresis
+C0015269,Exhibitionism
+C0015480,Factitious Disorders
+C0016142,Firesetting Behavior
+C0016811,Non-organic enuresis
+C0018524,Hallucinations
+C0018779,"Hearing Loss, Functional"
+C0019337,Heroin Dependence
+C0019681,Histrionic Personality Disorder
+C0020701,Hysteria
+C0020703,Dissociative Hysteria
+C0020903,Illusions
+C0021122,"Disruptive, Impulse Control, and Conduct Disorders"
+C0021125,Impulsive Behavior
+C0021449,Inhalant Abuse
+C0024713,Manic Disorder
+C0024809,Marijuana Abuse
+C0025261,Memory Disorders
+C0025362,Mental Retardation
+C0026106,Mild Mental Retardation
+C0026351,Moderate intellectual disability
+C0026552,Morphine Dependence
+C0026773,Dissociative Identity Disorder
+C0026785,Munchausen Syndrome
+C0027412,Opioid-Related Disorders
+C0027804,Neurasthenia
+C0027932,Neurotic Disorders
+C0028768,Obsessive-Compulsive Disorder
+C0029095,Opioid abuse
+C0029225,Organic delusional disorder
+C0029227,"Delirium, Dementia, Amnestic, Cognitive Disorders"
+C0029232,Organic mood disorder
+C0029233,Organic personality disorder
+C0029261,Orgasmic Disorder
+C0030319,Panic Disorder
+C0030477,Paranoid Personality Disorder
+C0030482,Paraphilias
+C0030975,Perceptual Disorders
+C0031212,Personality Disorders
+C0031391,Phencyclidine Abuse
+C0031572,"Phobia, Social"
+C0031873,Pica Disease
+C0033797,Pseudodementia
+C0033931,Psychophysiologic Disorders
+C0033936,"Psychoses, Alcoholic"
+C0033941,"Psychoses, Substance-Induced"
+C0033958,"Psychosis, Brief Reactive"
+C0033975,Psychotic Disorders
+C0036039,Sadism
+C0036341,Schizophrenia
+C0036358,Schizophreniform Disorders
+C0036857,Severe intellectual disability
+C0036939,Shared Paranoid Disorder
+C0037320,Night Terrors
+C0037650,Somatoform Disorder
+C0038044,Spousal Abuse
+C0038273,Stereotypic Movement Disorder
+C0038436,Post-Traumatic Stress Disorder
+C0038441,"Stress Disorders, Traumatic"
+C0038443,"Stress, Psychological"
+C0038506,Stuttering
+C0038586,Substance Use Disorders
+C0038587,Substance Withdrawal Syndrome
+C0040188,Tic disorder
+C0040336,Tobacco Use Disorder
+C0040702,Transient Tic Disorder
+C0040953,Trichotillomania
+C0041671,Attention Deficit Disorder
+C0041696,Unipolar Depression
+C0041891,Transient Organic Mental Disorder
+C0042693,Violence
+C0085159,Seasonal Affective Disorder
+C0085277,Munchausen Syndrome by Proxy
+C0085281,Addictive Behavior
+C0085628,Stupor
+C0085632,Apathy
+C0085633,Mood swings
+C0085762,Alcohol abuse
+C0086168,Dissociation
+C0086181,Intravenous Drug Abuse
+C0086209,Emotional Stress
+C0086769,Panic Attacks
+C0149623,behavior disturbance
+C0149720,Abuse of laxatives
+C0150080,Social Communication Disorder
+C0151772,Manic psychosis
+C0152119,Alcoholic paranoia
+C0178417,Anhedonia
+C0178546,Mental disorder in childhood
+C0206073,Domestic Violence
+C0220702,SCHIZOPHRENIA 1 (disorder)
+C0221074,"Depression, Postpartum"
+C0232600,Self-induced vomiting
+C0233469,Blunted affect
+C0233477,Dysphoric mood
+C0233494,Tension
+C0233514,Abnormal behavior
+C0233523,Antisocial behavior
+C0233532,Maladaptive behavior associated with physical illness
+C0233577,Mimicry
+C0233601,Spraying behavior
+C0233651,Perseveration
+C0233656,Mental condensation
+C0233660,Mental blocking
+C0233671,Bizarre delusion
+C0233705,Cancerophobia
+C0233746,Perceptual disturbance
+C0233754,Derealization
+C0233794,Memory impairment
+C0233795,"Amnesia, Anterograde"
+C0233800,Confabulation
+C0233818,Impaired judgement
+C0233954,Forcible sexual assault
+C0234022,Anorgasmia
+C0234512,Prosopagnosia
+C0234523,"Apraxia, Ideomotor"
+C0234985,Mental deterioration
+C0235013,Hypervigilance
+C0236720,Hallucinogen Persisting Perception Disorder
+C0236733,Amphetamine-Related Disorders
+C0236736,Cocaine-Related Disorders
+C0236748,Organic anxiety disorder
+C0236788,Bipolar II disorder
+C0236816,"Stress Disorders, Traumatic, Acute"
+C0236818,Selective Mutism
+C0237123,Alcohol or Other Drugs use
+C0237236,Sexual assault
+C0240735,Personality Change
+C0241424,Tongue biting
+C0241845,combative
+C0242151,violent
+C0242510,Drug usage
+C0259860,psychiatric emergencies
+C0270327,Bedwetting
+C0270549,Generalized Anxiety Disorder
+C0278061,Abnormal mental state
+C0278076,Behavioral tic
+C0281774,acute psychosis
+C0281875,Illicit medication use
+C0302826,Expressed Emotion
+C0338462,Semantic Dementia
+C0338656,Impaired cognition
+C0338777,Opium Dependence
+C0338831,Manic
+C0344315,Depressed mood
+C0349204,Nonorganic psychosis
+C0349231,Phobic anxiety disorder
+C0349464,Wernicke-Korsakoff Syndrome
+C0349769,Abuse of diuretics
+C0376338,"Diagnosis, Psychiatric"
+C0393760,Initial insomnia
+C0393761,Middle insomnia
+C0394996,Acute alcoholic intoxication
+C0395005,Psychogenic polydipsia
+C0424295,Hyperactive behavior
+C0424296,Social disinhibition
+C0424318,Bullying
+C0424359,Self-Neglect
+C0424605,Developmental delay (disorder)
+C0438696,Suicidal
+C0439857,Dependence
+C0474404,Victimizing others
+C0476254,Dyslexia
+C0476480,Physical violence
+C0497327,Dementia
+C0524528,Pervasive Development Disorder
+C0525045,Mood Disorders
+C0541798,Early Awakening
+C0549393,alcohol problem
+C0549622,Sexual Dysfunction
+C0554978,Racing thoughts
+C0556374,Drunk driving
+C0557874,Global developmental delay
+C0558066,Intrusive thoughts
+C0563625,Agnosia for Pain
+C0595861,Parasuicide
+C0596170,Binge eating disorder
+C0600104,Obsessive compulsive behavior
+C0683278,Mental Suffering
+C0683357,excessive drinking
+C0686346,Gender Dysphoria
+C0687132,heavy drinking
+C0700031,Anxiety attack
+C0700178,Alcoholic blackout
+C0700201,Dyssomnias
+C0701811,Poor short-term memory
+C0740858,Substance abuse problem
+C0741146,anxiety acute
+C0748061,psychiatric hospitalization
+C0751265,Learning Disabilities
+C0751772,REM Sleep Behavior Disorder
+C0752299,Sleep Wake Transition Disorders
+C0812393,Cancer patients and suicide and depression
+C0815107,Psychological Distress
+C0850310,Possessed
+C0851578,Sleep Disorders
+C0852733,Completed Suicide
+C0853193,Bipolar I disorder
+C0855228,Eating disorder symptom
+C0855263,Somatic Type Delusional Disorder
+C0856054,Mental Status Change
+C0856975,Autistic behavior
+C0860634,Psychogenic coma
+C0917816,Mental deficiency
+C0920253,Emergence Delirium
+C0935572,Stalking (behavior)
+C1112258,Phobia of Driving
+C1112573,Delayed Orgasm
+C1142430,Psychogenic seizure
+C1142436,Sundowning
+C1263846,Attention deficit hyperactivity disorder
+C1269683,Major Depressive Disorder
+C1270972,Mild cognitive disorder
+C1306341,Mental handicap
+C1306597,Psychiatric problem
+C1392786,Cognitive changes
+C1456784,Paranoia
+C1510456,Wernicke Aphasia
+C1510472,Drug Dependence
+C1510586,Autism Spectrum Disorders
+C1527344,Dysphonia
+C1535926,Neurodevelopmental Disorders
+C1696701,Skin-picking
+C1704373,Compulsive Personality Disorder
+C1704427,Alcoholic Korsakoff Syndrome
+C1838069,SCHIZOPHRENIA 3 (disorder)
+C1839839,MAJOR AFFECTIVE DISORDER 2
+C1855263,Disorganized thinking
+C1864153,SCHIZOPHRENIA 5
+C1868649,PANIC DISORDER 1
+C2062763,Benzodiazepine abuse
+C2267227,Bulimia Nervosa
+C2362914,clinical depression
+C2733359,Psychogenic tremor
+C2748208,Executive dysfunction
+C2825032,Withdrawal (dysfunction)
+C2830004,Somnolence
+C2930747,Shell Shock
+C2939186,Disturbance in mood
+C2985224,Substance Intoxication Delirium
+C2985225,Substance Withdrawal Delirium
+C2987469,Substance induced psychotic disorder
+C3251820,Maternity blues
+C3274502,Opiate Withdrawal Syndrome
+C3489576,Sexual Violence
+C3496069,cocaine use
+C3665983,Oral aversion
+C3714756,Intellectual Disability
+C3840121,Avoidant Restrictive Food Intake Disorder
+C3887551,Memory dysfunction
+C3887605,Nightmare Disorder
+C4021799,Restrictive behavior
+C4021982,Abnormal eating behavior
+C4022657,Abnormal drinking behavior
+C4041080,Neurocognitive Disorders
+C4042784,Feeding and Eating Disorders
+C4042834,Compassion Fatigue
+C4048283,Phonological Disorder
+C4324621,Opioid Use Disorder
+C4505163,Food Addiction
+C4505278,"Substance Abuse, Oral"
+C4511326,Anxiolytic withdrawal
+C4531101,Impairment in personality functioning
+C4531123,Persistent repetition of actions
+C4551628,Opiate Abuse
+C4721773,Postoperative cognitive dysfunction
+C4735570,Opioid Overdose
+C5197707,Historical Trauma
+C5206799,Cancer-related Cognitive Dysfunction
+C5209209,Alcohol Use Disorder (AUD)

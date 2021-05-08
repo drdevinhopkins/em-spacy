@@ -1,0 +1,718 @@
+cui,name
+C0001161,Acoustic Impedance Tests
+C0001616,Adrenal Cortex Function Tests
+C0001884,Airway Resistance Test
+C0002627,Amniocentesis
+C0002971,Angiocardiography
+C0002978,angiogram
+C0002979,"Angiography, Digital Subtraction"
+C0003515,Aortography
+C0003647,Aptitude Tests
+C0003844,Arteriography
+C0003885,Arthrogram
+C0003904,Arthroscopy
+C0004286,Audiometry
+C0004339,Auscultation
+C0004398,Autopsy
+C0004972,Bender-Gestalt Test
+C0005558,Biopsy
+C0005560,Needle biopsy procedure
+C0005776,blood flow measurement
+C0005803,Blood Glucose Self-Monitoring
+C0005834,Collection of blood specimen for laboratory procedure
+C0005893,Body mass index procedure
+C0005933,Biopsy of bone
+C0005954,Bone marrow biopsy
+C0006153,Breath Tests
+C0006265,Bronchial Provocation Tests
+C0006282,Contrast bronchogram
+C0006290,Bronchoscopy
+C0006293,Bronchospirometry
+C0007089,Carcinogenicity Tests
+C0007185,"Cardiography, Impedance"
+C0007208,Cardiotocography
+C0007438,Swan-Ganz Catheterization
+C0007723,Cephalometry
+C0007767,Cerebral Angiography
+C0008307,Cholangiography
+C0008310,Endoscopic Retrograde Cholangiopancreatography
+C0008327,Cholecystography
+C0008509,Chorionic Villi Sampling
+C0009378,colonoscopy
+C0010702,Cystoscopy
+C0011410,Dental Pulp Test
+C0011900,Diagnosis
+C0011904,"Diagnostic Techniques, Cardiovascular"
+C0011905,Computer Assisted Diagnosis
+C0011906,Differential Diagnosis
+C0011908,"Diagnostic Techniques, Otological"
+C0011909,"Diagnostic Techniques, Endocrine"
+C0011911,Laboratory Diagnosis
+C0011914,"Diagnosis, Oral"
+C0011918,"Diagnostic Techniques, Surgical"
+C0011919,"Diagnostic Techniques, Urological"
+C0011923,Diagnostic Imaging
+C0011930,"Diagnostic Tests, Routine"
+C0013516,Echocardiography
+C0013518,Contrast echocardiography procedure
+C0013520,"Echocardiography, Doppler"
+C0013798,Electrocardiogram
+C0013799,"Electrocardiography, Ambulatory"
+C0013801,Holter Electrocardiography
+C0013819,Electroencephalography
+C0013839,Electromyography
+C0013853,Electronystagmography
+C0014245,Endoscopy (procedure)
+C0014873,Esophagoscopy
+C0015260,Exercise stress test
+C0015945,Fetal Monitoring
+C0016234,Flexible fiberoptic sigmoidoscopy
+C0016313,Fluorescein Angiography
+C0016356,Fluoroscopy
+C0017121,Gastric Acidity Determination
+C0017191,Gastrointestinal transit procedure
+C0017195,Endoscopy of stomach
+C0017654,Glomerular Filtration Rate
+C0017728,Glucose Clamp Technique
+C0018786,Hearing Tests
+C0018793,Heart Auscultation
+C0018795,Cardiac Catheterization Procedures
+C0018803,Heart Function Tests
+C0020710,Hysteroscopy
+C0020940,Immersion Investigative Technique
+C0021044,Immunohistochemistry
+C0021705,Intelligence Tests
+C0021819,"Interview, Psychological"
+C0021881,Intradermal Tests
+C0023072,Laryngoscopy
+C0024119,Pulmonary function tests
+C0024129,Lung Volume Measurements
+C0024485,Magnetic Resonance Imaging
+C0024487,Magnetic Resonance Spectroscopy
+C0026014,Micropunctures
+C0026995,Myelography
+C0027431,Nasal Provocation Tests
+C0027646,Diagnostic Neoplasm Staging
+C0027853,Neurologic Examination
+C0027902,Neuropsychological Tests
+C0028792,Occult blood screen
+C0029090,Ophthalmoscopy
+C0030198,Pain Measurement
+C0030247,Palpation
+C0030646,Patch Tests
+C0030735,Peak expiratory flow rate measurement
+C0030987,Percussion
+C0031150,Laparoscopy
+C0031213,Personality inventories
+C0031214,Personality Tests
+C0031545,Venography - procedure
+C0031734,Photic Stimulation
+C0032283,"Pneumomediastinum, Diagnostic"
+C0032322,"Pneumoperitoneum, Artificial"
+C0032323,Pneumoradiography
+C0032743,Positron-Emission Tomography
+C0032976,Pregnancy Tests
+C0033053,Prenatal Diagnosis technique
+C0033251,Proctoscopy
+C0033903,Psychological Techniques
+C0033905,Psychological Tests (procedure)
+C0034108,"Oximetry, Pulse"
+C0034573,"Radiography, Abdominal"
+C0034575,"Radiography, Dental"
+C0034578,"Radiography, Interventional"
+C0034579,Panoramic Radiography
+C0034606,Radionuclide Imaging
+C0034941,Pupillary reflex test
+C0035227,Respiratory Function Tests
+C0037075,Sigmoidoscopy (procedure)
+C0037295,Skin Test End-Point Titration
+C0037296,Hypersensitivity skin testing
+C0037981,Spirometry
+C0039451,Telemetry
+C0039810,thermography
+C0039985,Plain chest X-ray
+C0040345,Uterine Monitoring
+C0040395,tomography
+C0040398,"Tomography, Emission-Computed"
+C0040399,"Tomography, Emission-Computed, Single-Photon"
+C0040404,"Tomography, X-Ray"
+C0040405,X-Ray Computed Tomography
+C0040420,Tonometry
+C0040656,Cutaneous Oximetry
+C0040706,Transillumination
+C0040862,Trial of Labor
+C0041290,Tuberculin Test
+C0041618,Ultrasonography
+C0042070,Urography
+C0042293,Valsalva Maneuver
+C0042434,Vectorcardiography
+C0042596,Vestibular Function Tests
+C0042792,Vision Screening
+C0042793,Vision Tests
+C0042815,Visual Analog Pain Scale
+C0042825,Visual field study
+C0043161,Whole-Body Counting
+C0043299,Diagnostic radiologic examination
+C0079304,Esophagogastroduodenoscopy
+C0079595,Imaging Techniques
+C0079637,"Monitoring, Intraoperative"
+C0080264,"Ultrasonography, Mammary"
+C0080265,"Ultrasonography, Prenatal"
+C0085532,Coronary angiography
+C0085704,Exploratory laparotomy
+C0085814,Anonymous Testing
+C0085846,Fine-needle biopsy
+C0086143,Diagnostic tests
+C0086305,Fluorescence Angiography
+C0150496,Cardiac monitoring
+C0150866,Biopsy of skin procedure
+C0150887,Synovial biopsy
+C0162481,Doppler Ultrasound (procedure)
+C0162650,Intrauterine Cordocentesis
+C0162701,Polysomnography
+C0162734,Echo-Planar Imaging
+C0177666,Percutaneous Breast Biopsy
+C0177804,Bone Mineral Density Test
+C0178862,Thermometry
+C0184646,Mental health screening
+C0184899,Exploratory incision
+C0184921,Excision biopsy
+C0184980,Endoscopic biopsy
+C0185283,Muscle biopsy
+C0189024,Endoscopy of nose
+C0189025,Nasopharyngoscopy
+C0189281,Direct laryngoscopy with biopsy
+C0189391,Fiberoptic bronchoscopy
+C0189396,Bronchoscopy and biopsy of bronchus
+C0189785,Endomyocardial biopsy (procedure)
+C0189896,Catheterization of right heart
+C0189897,Catheterization of left heart
+C0190482,Biopsy of temporal artery
+C0190979,Venous blood sampling
+C0191244,Biopsy of pericardium
+C0191321,Punch biopsy of skin (procedure)
+C0192152,Wedge Biopsy
+C0192232,Pharyngoscopy
+C0192466,Esophagogastroscopy
+C0192472,Endoscopic biopsy of stomach
+C0192919,Sigmoidoscopy with biopsy
+C0193050,Biopsy of rectum (procedure)
+C0193114,Biopsy of anus
+C0193156,Endoscopic biopsy of rectum
+C0193388,Biopsy of liver (procedure)
+C0193504,Endoscopic retrograde cholangiography
+C0194073,Kidney biopsy
+C0194595,Endoscopy of urethra
+C0195314,Cervical biopsy (procedure)
+C0195324,Conization
+C0199221,Bimanual examination
+C0199230,Screening for cancer
+C0199231,Screening for venereal disease
+C0199551,Cardiac electrophysiologic stimulation and recording study
+C0199666,Measurement of central venous pressure
+C0199747,Allergy testing
+C0199900,Rectal examination
+C0200045,Manual pelvic examination (procedure)
+C0200048,Vaginal Examination
+C0200068,Contraction stress test
+C0200069,Infertility study
+C0200125,Nerve conduction study
+C0200150,Visual acuity testing
+C0201971,Cosyntropin test
+C0202616,"Radiologic examination, osseous survey, complete"
+C0202670,MRI without contrast
+C0202671,MRI with contrast
+C0202691,CAT scan of head
+C0202784,Routine chest X-ray
+C0202823,Chest CT
+C0202840,CT of abdomen with contrast
+C0202910,Pulmonary Arteriogram
+C0202930,Renal arteriography (procedure)
+C0203057,Upper gastrointestinal tract series
+C0203075,Barium Enema
+C0203085,Percutaneous transhepatic cholangiography
+C0203108,Intravenous pyelogram (procedure)
+C0203110,Retrograde pyelogram
+C0203126,Cystography
+C0203201,Magnetic Resonance Imaging (MRI) of Pelvis
+C0203378,"Echocardiography, Three-Dimensional"
+C0203379,"Echocardiography, Four-Dimensional"
+C0203408,Echography of kidney
+C0203418,Transvaginal echography
+C0203425,Fetal biophysical profile
+C0203634,Nuclear medicine procedure
+C0203668,Radioisotope scan of bone
+C0203669,Whole Body Imaging
+C0203683,Radioisotope scan of lung
+C0203762,Hepatobiliary Iminodiacetic Acid Scan
+C0203860,Imaging of brain
+C0206054,"Echocardiography, Transesophageal"
+C0206065,Karnofsky Performance Status
+C0206077,"Ultrasonography, Doppler, Transcranial"
+C0220908,Screening procedure
+C0221533,cardiography
+C0231628,Bowstring test
+C0231664,Allen test
+C0231723,Ortolani's test procedure
+C0232029,Airway conductance
+C0242844,"Ultrasonography, Doppler, Color"
+C0242845,"Ultrasonography, Doppler, Duplex"
+C0242846,"Ultrasonography, Doppler, Pulsed"
+C0242876,"Blood Pressure Monitoring, Ambulatory"
+C0242880,Tilt-Table Test
+C0242882,"Monitoring, Ambulatory"
+C0242890,Toxicity Tests
+C0243032,Magnetic Resonance Angiography
+C0260074,Ophthalmoscope and ophthalmoscopy
+C0262485,Flash
+C0281588,Assessment of quality of life
+C0282493,Surgical Endoscopy
+C0282596,"Magnetic Resonance Imaging, Cine"
+C0282662,Bedside Testing
+C0282674,Remote Consultation
+C0332140,"Diagnosis, clinical"
+C0372299,Percutaneous Biopsy of Kidney
+C0372629,Fetal non-stress test
+C0373345,Transrectal Ultrasound
+C0373440,Cerebral blood flow radionuclide study
+C0374190,Anorectal manometry
+C0376443,Endoscopic Ultrasound
+C0376444,Echo Endoscopy
+C0376529,Capnography
+C0392823,Direct examination of larynx
+C0396473,Bronchoscopic irrigation
+C0401276,Diagnostic endoscopic examination of ureter
+C0401640,Needle biopsy of prostate
+C0401641,Transrectal biopsy of prostate
+C0404066,Endometrial scraping
+C0405917,Limited thoracotomy
+C0411904,Radiography of elbow
+C0412110,Hypotonic duodenography
+C0412118,Double contrast barium enema (procedure)
+C0412155,Retrograde cystography
+C0412156,Stress cystogram
+C0412159,Retrograde urethrogram
+C0412198,Fistulography
+C0412290,Peripheral angiography
+C0412375,Radioisotope scan of lymphatic system
+C0412472,Total body water measurement
+C0412512,Ultrasound study of eye
+C0412564,Fetal echocardiography
+C0412585,CAT scan of brain
+C0412670,Digital slit-beam radiograph
+C0412692,Magnetic Resonance Imaging (MRI) of Heart
+C0419349,Femoral artery puncture for laboratory test
+C0419358,Exploration with a probe
+C0419360,Slit lamp biomicroscopy (procedure)
+C0422392,Screening Method
+C0427316,Calf squeeze test
+C0429089,Electrocardiogram Q waves test
+C0430022,diagnostic procedure
+C0430153,Gastrointestinal apt test
+C0430161,Secretin Stimulation Test
+C0430449,Forensic examination
+C0430462,Transthoracic echocardiography
+C0430467,Cardiac Electrophysiology
+C0430501,Microscopic Angioscopy
+C0430511,Vital capacity test
+C0430561,Skin prick test
+C0430689,Electromyography of stomach
+C0430797,Electrocorticogram
+C0430838,Quantitative sensory test
+C0430862,Applanation tonometry
+C0430876,Fluorescence Imaging
+C0430888,Intraocular pressure test
+C0431056,Photography of patient
+C0431080,Diagnostic assessment
+C0441621,Sampling - Surgical action
+C0441633,Scanning
+C0441677,Accelerometry
+C0442842,Conventional angiography
+C0444186,Smear test
+C0451306,Mini-mental state examination
+C0455973,Retinoscopy
+C0456852,Image-Guided Biopsy
+C0456853,CT guided biopsy
+C0457276,Radiographic imaging - action
+C0457575,Finger-prick sampling (procedure)
+C0472844,Fiberoptic esophagoscopy
+C0472851,Rigid esophagoscopy
+C0473935,Radiolabeled somatostatin analog study
+C0474783,Delayed hypersensitivity skin test for phytohemagglutinin
+C0489438,APACHE II score
+C0489482,Ejection fraction (procedure)
+C0497101,Diagnostic endoscopy
+C0521316,Gallium scan
+C0546547,Bone Marrow Aspiration and Biopsy
+C0546783,Vascular imaging
+C0549104,In vivo test of hypersensitivity
+C0553794,Diagnostic lumbar puncture
+C0554740,Pelvis X-ray
+C0554756,Doppler studies
+C0558534,Percutaneous liver biopsy
+C0558539,Surgical biopsy of bone
+C0560563,Fluoroscopic guidance
+C0560738,VQ - Ventilation perfusion scan
+C0563454,Taking of swab
+C0565118,Surgical biopsy
+C0577780,Biopsy of pylorus
+C0581276,Needle biopsy of liver
+C0581495,Urethrogram
+C0596350,communicable disease diagnosis (procedure)
+C0596412,dental disorder diagnosis
+C0596417,dental visualization
+C0596473,Early Diagnosis
+C0596612,genetic disorder diagnosis
+C0597037,nervous system disorder diagnosis
+C0597356,rapid diagnosis
+C0597688,whole body radionuclide scanning
+C0598801,Diffusion weighted imaging
+C0677490,Pulmonary angiogram
+C0679543,physical performance testing
+C0679557,histological diagnosis
+C0679575,Neuroimaging
+C0683443,tests and testing
+C0683444,Behavior Test
+C0683457,State-trait anger expression inventory
+C0696216,"Skin test for tuberculosis, Tine test"
+C0699829,Renal clearance diagnostic test
+C0700223,Esophageal motility - nuclear medicine
+C0729619,Computed tomography imaging - action
+C0740178,Antenatal screening procedures
+C0741195,apgar
+C0742919,Computed Tomography with Contrast
+C0750430,Work-up
+C0750862,Dental examination
+C0807679,Radiology studies
+C0814244,Dietary Assessment
+C0842481,Internal Cardiotocography
+C0843886,diagnostic thoracentesis
+C0845889,musculoskeletal ultrasound
+C0846137,thyroid study
+C0846574,psychiatric assessment
+C0847244,"Diagnostic endoscopy, EAR"
+C0848214,peak flow measurement
+C0849974,Pulmonary Function Test/Forced Expiratory Volume 1
+C0849994,gi series
+C0850293,electrophysiological studies
+C0860888,"Tomography, Spiral Computed"
+C0870300,Assessment: Cognition
+C0871813,medical diagnosis
+C0877853,"Spectroscopy, Nuclear Magnetic Resonance"
+C0887832,"Imaging, Three-Dimensional"
+C0887874,"Electrophysiologic Techniques, Cardiac"
+C0887875,Transesophageal Electrophysiologic Study
+C0887964,Animal Use Alternatives
+C0917711,MRI Scans
+C0918037,Arteriogram
+C0919393,Blood Circulation Time
+C0919654,prostate exam
+C0920208,"Echocardiography, Stress"
+C0920367,"Tomography, Optical Coherence"
+C0920670,urinary tract imaging
+C0920688,Cancer Diagnosis
+C0920696,cerebrovascular imaging
+C0920722,Ovulation Prediction
+C0935912,Computed Tomographic Colonography
+C0936232,Puncture biopsy
+C0949592,"Photography, Dental"
+C0994163,"Cholangiopancreatography, Magnetic Resonance"
+C0994541,Fetal Pulse Oximetry
+C1095971,Orthostatic blood pressure
+C1096012,Cardiac telemetry
+C1136118,"Toxicity Tests, Chronic"
+C1136216,Diffusion Magnetic Resonance Imaging
+C1168098,pulmonary arterial pressure
+C1168320,Paced Atrial Rhythm
+C1257736,"Tomography, Optical"
+C1262068,sensory level
+C1266817,Functional residual capacity measurement
+C1275583,Computerized axial tomography of brain with radiopaque contrast
+C1275990,Allen picture test
+C1293091,Pre-surgery evaluation
+C1293900,Hand grip
+C1293903,Vagal stimulation
+C1301645,Rigid bronchoscopy
+C1304881,Myocardial biopsy
+C1305742,Oxygen consumption measurement
+C1305849,Diastolic blood pressure measurement
+C1305867,Somatosensory evoked potentials measurement
+C1306036,Forced expiratory volume procedure
+C1306620,Systolic blood pressure measurement
+C1306645,Plain x-ray
+C1314734,Nonstress test
+C1318309,Core needle biopsy
+C1318509,Esophagram
+C1319069,Point-of-Care Testing
+C1319072,Anal Pap Smear
+C1335957,Left Ventricular Fractional Shortening
+C1384495,Cardiovascular stress testing
+C1384593,Digital Rectal Examination
+C1444581,Direct Ophthalmoscopy
+C1444582,Indirect ophthalmoscopy
+C1446476,Electrophysiology studies
+C1449565,Dermoscopy
+C1449681,"Blood Pressure Monitoring, Home"
+C1449682,"Blood Pressure Monitoring, Self"
+C1449699,Tumor Burden
+C1449832,Nuchal Translucency Screen
+C1455714,Thallium Myocardial Perfusion Imaging Stress Test
+C1455743,Psychosocial assessment (procedure)
+C1456025,Intravascular ultrasound
+C1504583,CT Urography
+C1510477,Endometrial biopsy
+C1510483,Fine needle aspiration biopsy
+C1511879,Diagnostic Methods and Reagents
+C1511888,Diagnostic or Prognostic Test
+C1512095,Dynamic Enhanced CT
+C1512577,Hysterosonography
+C1512697,Incremental Spiral CT
+C1512797,Inspired Oxygen Fraction Test
+C1513743,Multimodal Imaging
+C1513876,Nasopharyngeal Laryngoscopy
+C1514691,"Radiation Non-Ionizing, Diagnostic Imaging"
+C1514967,stereotactic imaging
+C1516774,Computerized Thermal Imaging
+C1517324,Functional Imaging
+C1518002,Low-Dose Spiral CT
+C1518156,Magnetic Resonance Elastography
+C1518654,Other Imaging Modalities
+C1519650,Triple-Phase Spiral CT
+C1519704,Two-Phase Spiral CT
+C1520142,Whole-Body Scintigraphy
+C1522684,Laser-Induced Fluorescence Endoscopy
+C1522706,magnetic resonance spectroscopic imaging
+C1531652,Chest imaging
+C1536105,Computed Tomography Angiography
+C1541308,Venous Sampling
+C1547664,Diagnostic Radiology Modality
+C1548745,Specimen Collection Method - Scrapings <Scrapings
+C1562021,Anterior superior iliac spine compression test
+C1562624,Spring test
+C1563022,Backward bending test
+C1623258,Electrocardiography
+C1627359,Flexion test
+C1655737,cardiac ultrasound
+C1659593,Sialogram
+C1699633,PET/CT scan
+C1704505,Tender Points
+C1704539,Compression of the Fourth Ventricle
+C1704746,Bioelectric Impedance Analysis
+C1707501,Contrast-enhanced Magnetic Resonance Imaging
+C1707835,Dynamic Optical Breast Imaging
+C1708092,Forced Expiratory Volume in 6 Seconds
+C1710031,Disease Screening
+C1721048,Capsule Endoscopy
+C1831914,Dynamic Contrast-Enhanced Magnetic Resonance Imaging
+C1880282,Dental Percussion Procedure
+C1880304,Diagnostic Laparoscopy
+C1880637,Exploratory Surgery
+C1881134,Image Study
+C1882082,New Diagnosis Procedure
+C1955928,Elasticity Imaging Techniques
+C1955929,Sonoelastography
+C1956055,Cervical Length Measurement
+C1956110,Cone-Beam Computed Tomography
+C1956111,Spiral Cone-Beam Computed Tomography
+C1960255,MRI of bone
+C1960377,Assessment of sense of balance
+C1960498,Continuous pulse oximetry
+C1961093,Dix-Hallpike maneuver
+C1962945,Radiographic imaging procedure
+C1964256,Illumination (procedure)
+C1964257,Observation - diagnostic procedure
+C2041475,CT of chest without contrast
+C2116889,Toe Brachial Index
+C2230206,Vision Assessment
+C2239180,Urodynamic studies (procedure)
+C2315935,Computed tomography of abdomen and pelvis with contrast
+C2318073,portable x-ray of chest
+C2347027,Biospecimen Collection
+C2347585,Central Pathology Review
+C2348813,Transabdominal Ultrasound
+C2350390,Myocardial Perfusion Imaging
+C2350393,Perfusion Imaging
+C2355577,Metabolic equivalent measurement
+C2368278,intraoperative ultrasound (procedure)
+C2370811,Bronchial brush biopsy
+C2585900,Transesophageal echocardiography with contrast
+C2711710,Imaging of lung
+C2711858,Imaging of head
+C2717949,Voltage-Sensitive Dye Imaging
+C2825166,Stress Cardiac Magnetic Resonance Imaging
+C2825532,Apgar Test
+C2825558,Red Reflex Test
+C2826145,Fluid Attenuated Inversion Recovery
+C2936236,Cardiac Imaging Techniques
+C2939268,CT of abdomen and pelvis without contrast
+C2982003,Nerve Conduction Velocity Test
+C2983697,Arm Recoil Test
+C2984587,Wire-Guided Localization
+C2985274,Assessment of Fetal Presentation
+C2985277,Bacterial Vaginosis Screening
+C2985331,ST Waveform Analysis
+C2985342,Varicella Zoster Virus Screening
+C2985343,Assessment of Fetal Condition
+C2985535,Radiologic Examination
+C2985537,Gastric Acid Secretion Test
+C2985547,Scintimammography
+C2986383,Lesion Identification
+C2986546,Target Lesion Identification
+C2986547,Non-Target Lesion Identification
+C2986548,New Lesion Identification
+C2986744,Dynamic Scan
+C2986746,Emission scan
+C2986747,End Diastolic Volume Imaging
+C2986801,Planar Imaging
+C2986813,Rectilinear Scan
+C2986834,Transmission Scan
+C3164094,CT of head and neck with contrast
+C3178877,Functional Neuroimaging
+C3179006,Neoplasm Grading
+C3179130,Multidetector Computed Tomography
+C3272310,Cardiac Computerized Tomographic Angiography
+C3272313,Non-Invasive Cardiac Stress Test
+C3272319,Cardiac Diagnostic Procedure
+C3472245,Single Photon Emission Computed Tomography Computed Tomography
+C3494253,Narrow Band Imaging
+C3494508,Stress Test
+C3515769,CT scan chest with contrast
+C3539032,AV Fistulagram
+C3541459,Papanicolaou Test
+C3541902,Measured Tumor Identification
+C3641261,Not Measured Tumor Identification
+C3658201,Head Impulse Test
+C3658203,Neurophysiological Monitoring
+C3665494,"Radiography, Thoracic"
+C3669002,Dynamic extension test (procedure)
+C3697035,Knee effusion stroke test
+C3697685,Wilson test
+C3810814,Myocardial Infarction ECG Assessment
+C3812282,Ventricular Arrhythmia ECG Assessment
+C3814839,Supraventricular Arrhythmia ECG Assessment
+C3815113,Forced Expiratory Volume in 1 Second to Forced Vital Capacity Ratio Measurement
+C3825392,Duplex ultrasonography
+C3827010,Fetal Doppler Monitoring
+C3827656,Ventricular Tachyarrhythmia ECG Assessment
+C3828463,Prostate Saturation Biopsy
+C3829528,Intermittent Auscultation
+C3839032,Positive airway pressure nap study
+C3853703,Pacemaker ECG Assessment
+C3853833,Supraventricular Tachyarrhythmia ECG Assessment
+C3854375,Laser speckle contrast imaging
+C3863730,digital tomosynthesis
+C3888015,Stress Electrocardiography
+C3889415,Biodynamic Imaging
+C3896576,Direct Electrocortical Stimulation
+C3897003,Dynamic Contrast-Enhanced Ultrasound Imaging
+C3897397,T2 and Fluid Attenuated Inversion Recovery MRI
+C3897780,Radiologic Imaging Procedure
+C3898061,P100 Latency
+C3898096,Optical Doppler Tomography
+C3898136,Nitric Oxide Breath Test
+C3898213,N75 to P100 Peak to Peak Amplitude
+C3898477,Magnetic Resonance Thermal Imaging
+C3898596,Limb Associated Lesion Identification
+C3898624,Laser Doppler Imaging
+C3898703,Intraoperative Imaging
+C3898884,High-B-Value Diffusion-Weighted Imaging
+C3899117,Fiber-Optic Spectroscopy
+C3899333,Dynamic Susceptibility Contrast-Enhanced Magnetic Resonance Imaging
+C3899379,Diffuse Optical Imaging
+C3899513,Computed Tomography-Guided Optical Sensor-Guided Percutaneous Needle Biopsy
+C3899514,Computed Tomography Perfusion Imaging
+C4028269,Nuclear magnetic resonance imaging brain
+C4041471,CT cystography
+C4042833,Surgical Clearance
+C4042877,Clinical Decision-Making
+C4049704,Lipid R1 MRI
+C4049798,Total Respiratory System Resistance
+C4050158,Depth of Respiration Test
+C4050410,Susceptibility Weighted Imaging
+C4054003,Specific Airway Resistance
+C4054118,Rebound Tonometry
+C4054139,Quantitative Coronary Angiography
+C4054417,Near-Infrared Fluorescence Endoscopy
+C4054449,Myocardial Contractility Measurement
+C4054740,Imaging Transcranial Doppler Ultrasonography
+C4075962,Low dose computed tomography of thorax
+C4076759,Vasoreactivity test
+C4082175,Maximal Expiratory Pressure Test
+C4083126,Maximal Inspiratory Pressure Test
+C4085887,Inspiratory Vital Capacity Test
+C4086289,External Examination
+C4086565,Maternal-Fetal Examination
+C4086729,Pathologic Examination
+C4274338,Magnetic resonance enterography
+C4274910,Computed tomography of small intestine with contrast
+C4277579,Maximal Respiratory Pressures
+C4277732,Balloon Enteroscopy
+C4277740,Walk Test
+C4285221,Diffusion Spectrum Imaging
+C4285457,Fibrosis Assessment
+C4287652,Perfusion-Weighted Magnetic Resonance Imaging
+C4305209,MRI of abdomen and pelvis without contrast
+C4305244,CT of chest and abdomen without contrast
+C4316938,Dental diagnostic imaging
+C4331246,Restaging
+C4331506,Volumetric Contrast-Enhanced Ultrasound Imaging
+C4521168,Peak Inspiratory Pressure -- diagnostic test
+C4521256,Glomerulopathy Assessment
+C4521419,Glomerulitis Assessment
+C4521521,Mitotic Figure Assessment
+C4522186,Peak Cough Flow
+C4524267,Focused Assessment with Sonography for Trauma
+C4525750,Calculated Left Ventricular Ejection Fraction
+C4525751,Estimated Left Ventricular Ejection Fraction
+C4525811,Banff Renal Diagnostic Category Assessment
+C4525812,Intimal Arteritis Assessment
+C4525833,Pulmonary Blood Flow Assessment
+C4525841,Quantitative Organ Enlargement Assessment
+C4527249,Full-thickness Skin Biopsy of Nipple and Areola
+C4527250,Assessment of Distress
+C4527261,Bone Radiography
+C4527264,Multiphasic Computed Tomography of the Abdomen and Pelvis
+C4527265,Computed Tomography of the Chest and Abdomen with Contrast
+C4527287,Low Dose Computed Tomography of the Whole Body
+C4527291,X-ray of Primary Site
+C4527393,Magnetic Resonance Whole Body Diffusion-Weighted Imaging
+C4528174,HPV Self-Collection
+C4528336,"Range of Motion, Dorsiflexion"
+C4528369,Forced Expiratory Volume at Peak Expiratory Flow
+C4528379,Peak Expiratory Flow Time
+C4528383,Forced Inspiratory Vital Capacity
+C4529960,Heart Health Tests
+C4552054,Radionuclide imaging of liver using radioactive isotope
+C4684838,Conventional Imaging
+C4684965,Restriction Spectrum Imaging
+C4687933,Transthoracic Echocardiography With Contrast
+C4687952,Qualitative Histopathologic Examination
+C4704706,Diagnostic Screening Programs
+C4704780,Extended Focused Assessment with Sonography for Trauma
+C4721416,Radionuclide biliary patency study
+C4721829,Radiographic Examination
+C4722226,Cerebral Blood Flow Assessment
+C4722417,Myelofibrosis Assessment
+C4723846,Contrast-Enhanced Mammography
+C4724956,Contrast-Enhanced Ultrasound
+C4725668,Hepatic Perfusion Imaging
+C4725843,Advanced Magnetic Resonance Imaging
+C4726590,Cardiac Synchronization
+C4743635,Gradient Echo MRI
+C4743788,Targeted Imaging
+C4744450,Diagnostic Fiberoptic Endoscopic Examination
+C4744497,MR Sialography
+C4744828,T2 (Observed)-Weighted Imaging
+C4745054,Static Imaging
+C4745060,Neurocognitive Assessment
+C4761640,Axillary Reverse Mapping
+C4763552,Multi-detector Computed Tomography Angiography
+C5197776,Microwave Imaging
+C5204478,Core Biopsy of Bone
+C5204508,Psychomotor Assessment
+C5204771,Transvaginal Biopsy
+C5205786,Multiple Inert Gas Elimination Technique
+C5206575,10-2 Visual Field Testing
+C5206576,Spectral Domain-Optical Coherence Tomography
+C5206692,Hand Function Test
+C5206952,MR Urography

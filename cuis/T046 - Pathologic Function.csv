@@ -1,0 +1,815 @@
+cui,name
+C0000786,Spontaneous abortion
+C0000810,Incomplete spontaneous abortion
+C0000817,"Abortion, Septic"
+C0000821,Threatened abortion
+C0000832,Abruptio Placentae
+C0000887,Acantholysis
+C0001075,Achlorhydria
+C0001122,Acidosis
+C0001349,Acute-Phase Reaction
+C0001364,Massive Hepatic Necrosis
+C0001511,Tissue Adhesions
+C0002064,"Alkalosis, Respiratory"
+C0002940,Aneurysm
+C0002994,Angioedema
+C0003090,Ankylosis
+C0003130,Anoxia
+C0003132,Anoxic Encephalopathy
+C0003860,Arteritis
+C0004044,Asphyxia
+C0004144,Atelectasis
+C0004239,Atrial Flutter
+C0004331,Auriculo-Ventricular Dissociation
+C0004368,Autoimmune state
+C0004372,Autolysis
+C0005001,Benign prostatic hypertrophy
+C0005417,Biliary Fistula
+C0005959,Bone marrow hyperplasia
+C0006110,Brain Death
+C0006114,Cerebral Edema
+C0006157,Breech Presentation
+C0006663,Calcinosis
+C0007642,Cellulitis
+C0007994,chemically induced
+C0008301,Choking
+C0008519,Ectopic Tissue
+C0008767,Cicatrization
+C0009566,Complication
+C0009568,Transplanted Organ Complication
+C0009760,Conjunctival hemorrhage
+C0010037,Corneal edema
+C0010392,Crush syndrome
+C0010828,Cytopenia
+C0011071,Sudden death
+C0011103,Decerebrate State
+C0011164,Abnormal degeneration
+C0011304,Demyelination
+C0011378,Dental Leakage
+C0012359,Pathological Dilatation
+C0013182,Drug Allergy
+C0013418,Dystocia
+C0013491,Ecchymosis
+C0013604,Edema
+C0013609,Localized Edema
+C0013687,effusion
+C0013922,Embolism
+C0013926,Air Embolism
+C0013928,Fat embolism (disorder)
+C0013990,Pathological accumulation of air in tissues
+C0014591,Epistaxis
+C0014595,Epithelial atrophy
+C0014860,Esophageal Perforation
+C0015376,Extravasation
+C0015402,Eye Hemorrhage
+C0015668,Fat necrosis
+C0015927,Fetal Death
+C0015930,Fetal Distress
+C0015944,"Fetal Membranes, Premature Rupture"
+C0015959,Fetomaternal Transfusion
+C0016059,Fibrosis
+C0016385,Cardiac Flutter
+C0016398,"Focal Infection, Dental"
+C0016470,Food Allergy
+C0016549,Foreign-Body Reaction
+C0016663,Pathological fracture
+C0016665,"Fractures, Ununited"
+C0017181,Gastrointestinal Hemorrhage
+C0017565,Gingival Hemorrhage
+C0017566,Gingival Hyperplasia
+C0018128,"Graft Occlusion, Vascular"
+C0018134,Graft vs Host Reaction
+C0018188,Granuloma
+C0018193,"Granuloma, Foreign-Body"
+C0018924,Hemarthrosis
+C0018944,Hematoma
+C0018946,"Hematoma, Subdural"
+C0019054,Hemolysis (disorder)
+C0019064,Hemopericardium
+C0019065,Hemoperitoneum
+C0019066,Nontraumatic hemoperitoneum
+C0019080,Hemorrhage
+C0019123,Hemothorax
+C0020224,Polyhydramnios
+C0020507,Hyperplasia
+C0020517,Hypersensitivity
+C0020522,Delayed Hypersensitivity
+C0020523,Immediate hypersensitivity
+C0020542,Pulmonary Hypertension
+C0020546,Hypertensive crisis
+C0020564,Hypertrophy
+C0020565,Hypertrophy of Breast
+C0020581,Hyphema
+C0020683,Hypovolemic Shock
+C0020963,Immune Tolerance
+C0021308,Infarction
+C0021359,Infertility
+C0021368,Inflammation
+C0021376,Chronic inflammation
+C0021386,Necrotizing granulomatous inflammation
+C0021655,Insulin Resistance
+C0021870,Intracerebral hematoma
+C0022116,Ischemia
+C0022876,Premature Obstetric Labor
+C0023052,Laryngeal Edema
+C0023182,Cerebrospinal fluid leak
+C0023653,Lichenification
+C0023869,Lithiasis
+C0024050,Lower gastrointestinal hemorrhage
+C0024236,Lymphedema
+C0024348,Lysis
+C0025160,Megacolon
+C0025222,Melena
+C0025323,Menorrhagia
+C0025345,Menstruation Disturbances
+C0025874,Metrorrhagia
+C0026266,Mitral Valve Insufficiency
+C0026766,Multiple Organ Failure
+C0026846,Muscular Atrophy
+C0027055,Myocardial Reperfusion Injury
+C0027544,Necrotic debris
+C0027626,Neoplasm Invasiveness
+C0027686,Pathologic Neovascularization
+C0028778,Obstruction
+C0028949,Oligomenorrhea
+C0029163,Oral Hemorrhage
+C0029396,Heterotopic Ossification
+C0029445,Bone necrosis
+C0030660,Pathologic Processes
+C0030922,Peptic Ulcer Hemorrhage
+C0031154,Peritonitis
+C0031526,Philadelphia Chromosome
+C0031542,Phlebitis
+C0031557,Phlegmon
+C0032044,Placenta Accreta
+C0032046,Placenta Previa
+C0032776,Postmenopausal bleeding
+C0032780,Postmortem Changes
+C0032788,Postoperative Hemorrhage
+C0032797,Postpartum Hemorrhage
+C0032816,Post-Traumatic Headache
+C0032914,Pre-Eclampsia
+C0032962,Pregnancy Complications
+C0032984,"Pregnancy, Abdominal"
+C0032987,Ectopic Pregnancy
+C0032993,"Pregnancy, Prolonged"
+C0032994,"Pregnancy, Tubal"
+C0033074,Presbycusis
+C0033785,Pseudarthrosis
+C0034012,Delayed Puberty
+C0034063,Pulmonary Edema
+C0034065,Pulmonary Embolism
+C0034088,Pulmonary Valve Insufficiency
+C0034194,Pyloric Stenosis
+C0034989,"Regurgitation, Gastric"
+C0035228,Respiratory Hypersensitivity
+C0035229,Respiratory Insufficiency
+C0035320,Retinal Neovascularization
+C0035357,Retroperitoneal fibrosis
+C0035405,Rh Sensitization
+C0035410,Rhabdomyolysis
+C0035619,"Ventricular Outflow Obstruction, Right"
+C0035624,Rigor Mortis
+C0035956,"Rupture, Spontaneous"
+C0036089,Salivary Duct Calculi
+C0036429,Sclerosis
+C0036679,Diastasis
+C0036974,Shock
+C0036980,"Shock, Cardiogenic"
+C0036982,"Shock, Hemorrhagic"
+C0036983,Septic Shock
+C0036984,"Shock, Surgical"
+C0036986,"Shock, Traumatic"
+C0037287,Skin nodule
+C0038449,Stricture of artery
+C0038534,Subconjunctival hemorrhage
+C0038536,Subcutaneous Emphysema
+C0038862,Suppurative inflammation
+C0038940,Surgical Wound Dehiscence
+C0038941,Surgical Wound Infection
+C0040038,Thromboembolism
+C0040046,Thrombophlebitis
+C0040053,Thrombosis
+C0040428,Tooth Abrasion
+C0040730,Transplacental hemorrhage
+C0040797,Traumatic hemorrhage
+C0041582,Ulcer
+C0041755,Adverse reaction to drug
+C0041909,Upper gastrointestinal hemorrhage
+C0042024,Urinary Incontinence
+C0042134,Uterine hemorrhage
+C0042135,Uterine Inertia
+C0042143,Uterine Rupture
+C0042300,Valvular regurgitation
+C0042484,Venous Engorgement
+C0042487,Venous Thrombosis
+C0042909,Vitreous Hemorrhage
+C0043241,Wound Infection
+C0079027,Intraoperative Hemorrhage
+C0079924,Oligohydramnios
+C0085298,Sudden Cardiac Death
+C0085598,False labor
+C0085610,Sinus bradycardia
+C0085611,Atrial arrhythmia
+C0085616,Vasospasm
+C0085637,Oculogyric crisis
+C0085649,Peripheral edema
+C0085688,Breast engorgement
+C0087086,Thrombus
+C0149663,Dehiscence
+C0149770,Rectal abscess
+C0149777,Abscess of skin AND/OR subcutaneous tissue
+C0149863,Sigmoid volvulus
+C0149889,Anorectal fistula
+C0151205,Periorbital edema
+C0151521,Bacterial resistance
+C0151526,Premature Birth
+C0151603,Anasarca
+C0151609,Edema of scrotum
+C0151610,Edema of the tongue
+C0151654,Myocardial fibrosis
+C0151686,Growth retardation
+C0151693,Adrenal hemorrhage
+C0151694,Hemorrhage of colon
+C0151699,Intracranial Hemorrhage
+C0151701,Pulmonary hemorrhage
+C0151705,Retroperitoneal Hemorrhage
+C0151735,Injection Site Reaction
+C0151739,Perforation of small intestine
+C0151746,Abnormal renal function
+C0151763,Liver damage
+C0151799,Skin necrosis
+C0151942,Arterial thrombosis
+C0152154,Prolonged labor
+C0152156,Obstructed labor
+C0152158,Failure of lactation
+C0152245,Extravasation of urine
+C0152254,Fatty degeneration
+C0154828,Traction detachment of retina
+C0155676,Pulmonary artery aneurysm
+C0155713,Rupture of papillary muscle
+C0157259,Prolonged first stage of labor
+C0158454,Malunited Fracture
+C0158951,Fetal blood loss
+C0160814,Late effect of radiation
+C0161741,Heat edema
+C0161816,Cardiac complication
+C0161818,Respiratory complication
+C0161819,Gastrointestinal complication
+C0161820,Urinary complication
+C0161836,Complication of medical care
+C0162154,Atrophic scar
+C0162285,Edema of eyelid
+C0162291,Retinal ischemia
+C0162297,Respiratory arrest
+C0162482,Uterine Inversion
+C0162633,Viral Shedding
+C0162834,Hyperpigmentation
+C0178554,cocarcinogen
+C0178721,irritation/irritant
+C0178824,Reactive Hyperemia
+C0206228,"Infectious Disease Transmission, Professional-to-Patient"
+C0206231,Bone Malalignment
+C0206277,Fatal Outcome
+C0206366,Ossification of Posterior Longitudinal Ligament
+C0220787,Endotracheal aspiration
+C0220981,Metabolic acidosis
+C0220982,Ketoacidosis
+C0221103,Visual Suppression
+C0221204,Lytic lesion
+C0221242,Fixed drug eruption
+C0221379,Couvelaire uterus
+C0231274,Intolerant of heat
+C0232100,Exsanguination
+C0232208,Atrioventricular junctional rhythm
+C0232213,Fusion beats
+C0232216,Ventricular escape rhythm
+C0232219,Abnormal cardiac conduction
+C0232352,Vascular insufficiency
+C0232483,Reflux
+C0232841,Bladder dysfunction
+C0232910,Teratogenesis
+C0235029,neurological complication
+C0235063,Respiratory Depression
+C0235097,withdrawal seizures
+C0235280,Ototoxicity
+C0235325,Gastric hemorrhage
+C0235395,Fluid loss
+C0235438,Sacral edema
+C0235490,Peripheral Ischemia
+C0235912,Hemorrhage of liver
+C0235957,myonecrosis
+C0236003,Mucous membrane swelling
+C0236024,Edema of pharynx
+C0236068,Tongue swelling
+C0236178,Intraabdominal hemorrhage
+C0238154,"Hematoma, Epidural, Cranial"
+C0238217,Renal transplant rejection
+C0238442,Pubic Symphysis Diastasis
+C0240059,Ventricular hemorrhage
+C0240278,Lymphatic obstruction
+C0240821,Pseudomembrane
+C0241742,Wound hemorrhage
+C0241816,Global brain atrophy
+C0241938,Hypotonicity
+C0242184,Hypoxia
+C0242648,Vertical Disease Transmission
+C0242656,Disease Progression
+C0242698,"Ventricular Dysfunction, Left"
+C0242707,Right Ventricular Dysfunction
+C0242781,disease transmission
+C0242785,Food-Drug Interactions
+C0242786,High-Risk Pregnancy
+C0242973,Ventricular Dysfunction
+C0243069,Hypoplasia
+C0243082,associated conditions
+C0243087,concomitant disease
+C0243088,sequelae aspects
+C0259768,Wound dehiscence
+C0262431,Compression fracture of vertebral column
+C0262627,Seroma
+C0263591,Drug-induced lupus erythematosus
+C0264316,Supraglottic edema
+C0264879,Heart valve regurgitation
+C0264897,Accessory Atrioventricular Bundle (disorder)
+C0264995,Occlusion of artery (disorder)
+C0265031,Hemorrhoidal Hemorrhage
+C0266648,Blighted ovum
+C0266765,Placenta Increta
+C0266766,Placenta Percreta
+C0267373,Intestinal hemorrhage NOS
+C0267412,Mesenteric Venous Thrombosis
+C0267566,Perirectal abscess
+C0267596,Rectal hemorrhage
+C0267716,Incisional hernia
+C0268000,Body fluid retention
+C0268014,Potassium disorder
+C0268030,Acidemia
+C0268940,Hemorrhage of spermatic cord
+C0269291,"Pregnancy, Heterotopic"
+C0269388,Miscarriage in first trimester
+C0269389,Miscarriage in second trimester
+C0269596,Hemorrhagic complication of pregnancy
+C0269608,Antepartum hemorrhage
+C0269800,Amniotic fluid leaking
+C0269815,Labor and Delivery Complication
+C0269825,Shoulder Dystocia
+C0269841,Tetanic contractions of uterus
+C0269886,Inversion of uterus during delivery
+C0269899,Immediate Postpartum Hemorrhage
+C0270191,Perinatal intraventricular hemorrhage
+C0270215,Neonatal jaundice due to delayed conjugation from breast milk inhibitor
+C0271049,Subretinal hemorrhage
+C0271298,Chemosis of conjunctiva
+C0271413,Hematoma of pinna
+C0274411,Subcutaneous emphysema resulting from a procedure
+C0274435,Transfusion Reaction
+C0277585,Intolerance to drug
+C0277785,Functional disorder
+C0277964,Subcutaneous crepitus
+C0278056,Abnormal pregnancy
+C0281169,Pulmonary Complication
+C0281839,Rupture of esophagus
+C0282683,Tumor Escape
+C0301616,Overexertion
+C0302148,Blood Clot
+C0302295,Eruptions
+C0332448,Infiltration
+C0332534,Induration
+C0332567,Torus
+C0332743,Delayed union of fracture
+C0333106,Bleeding varices
+C0333124,Impaction
+C0333138,Stasis
+C0333169,Partial obstruction
+C0333173,Pseudo-obstruction of gastrointestinal tract
+C0333186,Restenosis
+C0333276,Acute hemorrhage
+C0333278,Chronic hemorrhage
+C0333279,Massive hemorrhage
+C0333286,Splinter hemorrhage
+C0333288,Dissecting hemorrhage
+C0333350,Pannus
+C0333355,Inflammatory disease of mucous membrane
+C0333383,Acute and chronic inflammation
+C0333398,Chronic abscess
+C0333404,Calcified granuloma
+C0333411,Cholesterol granuloma
+C0333416,Spermatogenic granuloma
+C0333418,Non-necrotizing granulomatous inflammation
+C0333438,Hyaline degeneration
+C0333490,Medial degeneration
+C0333509,Liquefactive necrosis
+C0333513,Fibrinoid necrosis
+C0333560,Evolving infarct
+C0333561,Transmural infarct
+C0333564,Corpora amylacea
+C0333584,Protein deposition
+C0333641,Atrophic
+C0333650,Adipose Tissue Atrophy
+C0333951,Growth arrest
+C0333987,Mesothelial hyperplasia
+C0333994,Intraductal Hyperplasia
+C0334000,Adenomatous hyperplasia
+C0334001,Atypical adenomatous hyperplasia
+C0334044,Dysplasia
+C0334094,Proliferation (morphologic abnormality)
+C0334096,Intimal proliferation
+C0334160,Bridging fibrosis
+C0339505,Venous retinal branch occlusion
+C0340496,Congenital complete heart block
+C0340515,Myocardial dysfunction
+C0340529,Cardiac transplant disorder
+C0340530,Cardiac transplant rejection
+C0340654,Arterial hemorrhage
+C0340753,Venous stenosis
+C0340865,Anaphylactoid Reaction
+C0340929,Cardiac pacemaker syndrome
+C0341512,Retroperitoneal hematoma
+C0341934,Transient hypertension of pregnancy
+C0341950,Severe pre-eclampsia
+C0342299,Poor glycemic control
+C0342300,Chronic hyperglycemia
+C0342406,Pituitary hemorrhage
+C0342490,Adrenal atrophy
+C0342579,Electrolyte imbalance
+C0344310,Striae gravidarum
+C0348024,Thyroid dysfunction
+C0349725,Graft infection
+C0376297,Cardiac Death
+C0391817,Drug-induced autoimmune hemolytic anemia
+C0392008,Complication of anesthesia
+C0392025,Enlargement abdomen
+C0392175,Hemorrhage of kidney
+C0392190,Mucositis following radiation therapy
+C0392473,Thrombosis of abdominal aorta
+C0392618,Postoperative infection
+C0392676,Hyperpyrexia
+C0392689,Overhydration
+C0392707,Atopy
+C0393571,Multiple System Atrophy
+C0398353,Hypercapnic respiratory failure
+C0400827,Radiation proctitis
+C0400829,Chronic radiation proctitis
+C0400997,Leakage of bile
+C0401006,Biliary Anastomotic Leakage
+C0403673,Retrograde ejaculation
+C0404472,Torsion of the ovary and fallopian tube
+C0404844,Non-viable pregnancy
+C0404867,"Pregnancy, Angular"
+C0405327,Direct maternal death
+C0409365,Carpal instability
+C0426747,Bleeding from anus
+C0429001,Paired ventricular premature complexes
+C0429892,Type 1 hypersensitivity response
+C0442856,Hypoperfusion
+C0442860,Intravascular thrombosis
+C0443146,Autoimmune reaction
+C0449430,Physiological Stress
+C0452211,Local anaesthetics causing adverse effects in therapeutic use
+C0456057,Fetal stress
+C0456070,Growth delay
+C0456973,Hilar lymphadenopathy
+C0460048,Large bowel obstruction
+C0472374,Lobar cerebral hemorrhage
+C0473390,Threatened Preterm Labor
+C0473391,Retroplacental hematoma
+C0473508,Delayed Postpartum Hemorrhage
+C0474013,Anesthetics adverse reaction
+C0474358,Retinal dot hemorrhage
+C0475319,Pelvic hematoma
+C0475715,Apnea of prematurity
+C0475734,Perinatal intracranial hemorrhage
+C0478664,Localized enlarged lymph nodes
+C0520547,Poor peripheral circulation
+C0520594,Breast Microcalcification
+C0520863,Diastolic dysfunction
+C0520893,Localized desquamation
+C0521169,Compression fracture
+C0521172,Eschar
+C0521174,Microcalcification
+C0521481,Mucous membrane edema
+C0521604,Inflammatory diarrhea
+C0521619,Obstruction of pelviureteric junction
+C0521797,Ectopic aldosterone secretion
+C0522035,Edema of the upper extremity
+C0541782,Atrial standstill
+C0541794,Skeletal muscle atrophy
+C0542069,LE REACTION SYSTEMIC
+C0542571,Facial edema
+C0543419,Sequela of disorder
+C0543507,starvation acidosis
+C0544617,Neurogenic shock (disorder)
+C0544688,complication of disease
+C0544791,Inflammatory fistula
+C0546817,Fluid overload
+C0549124,Arterial embolism
+C0549629,Abnormal delivery
+C0549640,CRANIA NERVE ABNORMALITIES
+C0553692,Brain hemorrhage
+C0553980,Endomyocardial Fibrosis
+C0553987,Arterial air embolus
+C0554103,Intestinal malabsorption of fat
+C0554393,Placental infarct
+C0559477,Perinatal asphyxia
+C0559546,Adverse reactions
+C0559750,Persistent hematuria
+C0576995,Pharyngeal Hemorrhage
+C0577628,Latex allergy
+C0578541,Edema Trunk
+C0578735,Axillary lymphadenopathy
+C0581342,Redundant skin
+C0581394,Swelling of lower limb
+C0585109,Dilutional hyponatremia
+C0588128,Infection and inflammatory reaction due to internal orthopedic fixation device
+C0595862,Vasodilation disorder
+C0595950,Mechanical Detachment
+C0595954,Venous air embolism
+C0596118,aortic occlusion
+C0596237,cancer complication
+C0597167,Islets of Langerhans hyperplasia
+C0597387,respiratory center dysfunction
+C0597396,respiratory hypoxia
+C0597469,skin hyperplasia
+C0600049,Chancre
+C0600228,Cardiopulmonary Arrest
+C0600518,Choroidal Neovascularization
+C0677042,Pathology processes
+C0679221,hypofunction
+C0679317,hypomotility
+C0679429,platelet dysfunction
+C0684336,Impaired health
+C0686763,Bipartite ossification
+C0687133,Drug Interactions
+C0687675,Pregnancy loss
+C0699748,Pathogenesis
+C0700080,Vascular proliferation
+C0700148,Congestion
+C0700198,Pulmonary aspiration
+C0729264,Preterm premature rupture of membranes (disorder)
+C0740384,venous sinus thrombosis
+C0741103,antibiotic allergy
+C0745283,INFECTIOUS PROCESS
+C0747772,Postpartum Complication
+C0748428,Thrombus of right atrium
+C0749095,"Hematoma, Subdural, Chronic"
+C0749098,"Hematoma, Subdural, Acute"
+C0749225,Systolic dysfunction
+C0750020,uterine bleeding heavy
+C0751194,"Hematoma, Subdural, Spinal"
+C0751530,"Subarachnoid Hemorrhage, Aneurysmal"
+C0751803,"Brain Stem Hemorrhage, Traumatic"
+C0751891,"Intracranial Hemorrhage, Hypertensive"
+C0752135,"Pathological Conditions, Anatomical"
+C0752351,Embryo Loss
+C0812341,Latex Allergy Response
+C0848084,Necrosis of kidney
+C0851401,Maternal Complication of Pregnancy
+C0853339,reperfusion arrhythmias
+C0854375,mucosal hemorrhage
+C0854727,Intracranial Tumor Hemorrhage
+C0856150,spinal hematoma
+C0857276,Patellar subluxation
+C0857353,Hypotensive
+C0859290,black spot
+C0860239,Catheter related infection
+C0876998,Thrombus of cardiac chamber
+C0877172,"Hematoma, Epidural, Spinal"
+C0877223,Intestinal Stoma Site Hemorrhage
+C0877248,Adverse event
+C0877326,Bone infarction
+C0877792,"Sleep Disorders, Circadian Rhythm"
+C0878575,Peripheral demyelination
+C0879626,Adverse effects
+C0917798,Cerebral Ischemia
+C0917808,Vegetative State
+C0919661,alternation
+C0919691,Anastomotic Leak
+C0919727,Intraoperative Awareness
+C0919924,pulmonary toxicity
+C0919935,Adrenal Gland Abscess
+C0920165,Vascular Access Complication
+C0920779,Cancer invasiveness
+C0948031,Primary Graft Dysfunction
+C0948309,Pseudohyperkalemia
+C0948782,uterine cramps
+C0995195,Anoxia of brain
+C1096243,Central Line Infection
+C1110554,Cardiovascular occlusion
+C1112728,renal vein occlusion
+C1112793,Vascular Implant Infection
+C1140716,Hypoxic Brain Damage
+C1140999,Contraction (finding)
+C1142175,Vascular Shunt Thrombosis
+C1142471,Central Line Complication
+C1142487,Intestinal Stoma Obstruction
+C1155266,Inflammatory Response
+C1167870,Graft dysfunction
+C1253936,Hydrarthrosis
+C1261281,Disorder of transplanted kidney
+C1261287,Stenosis
+C1262023,dilutional coagulopathy
+C1264603,Post-infectious disorder
+C1265748,Torsion (malposition)
+C1265805,secondary edema
+C1265823,Recurrent inflammation
+C1265832,Focal acute inflammation
+C1265876,Abnormally opaque structure (morphologic abnormality)
+C1265877,Pathologic mineralization
+C1306571,Hepatic Insufficiency
+C1306893,Anomaly of placenta
+C1321133,Bronchial hemorrhage
+C1321523,Ectopic atrial pacemaker
+C1326507,regulation of type IV hypersensitivity
+C1327440,regulation of inflammatory response
+C1327450,type IIb hypersensitivity
+C1333621,Flat Urothelial Hyperplasia
+C1335524,Prostatic Basal Cell Hyperplasia
+C1336895,Urothelial Hyperplasia
+C1368999,Late effect of medical intervention
+C1373218,Decreased Immunologic Activity [PE]
+C1383860,Cardiac Hypertrophy
+C1390029,Anterior Fascicular Block
+C1390214,Internal hemorrhage
+C1390523,Musculoskeletal Complication
+C1408806,Calcification of the auricular cartilage
+C1458140,Bleeding tendency
+C1504419,Pelvic Hemorrhage
+C1504464,Endoleak
+C1510411,metaplastic cell transformation
+C1510412,Pseudoaneurysm
+C1511235,Body Fluid Leakage
+C1514893,physiologic resolution
+C1516670,Clonal Expansion
+C1516855,Endometrial Hyperplasia without Atypia
+C1518537,"Transmission, Occupationally Related"
+C1518979,"Transmission, Perinatal Infection"
+C1519683,Tumor Leakage
+C1520005,Viral Pathogenesis
+C1521846,"Permissiveness, Biological Function"
+C1522058,Coagulative necrosis
+C1527304,Allergic Reaction
+C1527311,Brain Edema
+C1527348,Brain Hypoxia
+C1533618,Fat embolism as early complication of trauma (disorder)
+C1537079,transplantation disease transmission
+C1540677,neuropathology disease
+C1560305,Prolonged QTc interval
+C1561246,Head soft tissue necrosis
+C1561251,Neck soft tissue necrosis
+C1561256,Pelvic soft tissue necrosis
+C1562425,Exhalation rib dysfunction
+C1563028,Rotation dysfunction of the sacrum
+C1608954,Infusion Site Extravasation
+C1692321,Cellular infiltrate
+C1697534,Coronary artery dilatation
+C1698511,Rectal Anastomotic Leakage
+C1698628,Urostomy Site Bleeding
+C1704431,Disorder of electrolytes
+C1704487,Pubic Shear
+C1704489,Extended Rotated Sidebent
+C1704490,Spinal Somatic Dysfunction
+C1720776,"Kindling, Neurologic"
+C1720824,Sudden Cardiac Arrest
+C1720922,Respiratory Aspiration
+C1735356,Hemiretinal vein occlusion
+C1735901,Recurrent deep vein thrombosis
+C1817422,kinin cascade
+C1817423,tissue kallikrein-kinin cascade
+C1817733,plasma kallikrein-kinin cascade
+C1817978,acute inflammatory response
+C1817997,chronic inflammatory response
+C1820377,type II cellular hypersensitivity
+C1831917,Dermatologic Complication
+C1832055,Hepatic Complication
+C1837247,Antenatal intracerebral hemorrhage
+C1850534,"Edema, generalized"
+C1850848,Muscle fiber necrosis
+C1859969,Cerebral white matter agenesis
+C1881154,In-Hospital Cardiac Arrest
+C1947901,Cancer Progression
+C1955864,"Sinus Arrest, Cardiac"
+C1959609,Erosion lesion
+C1960023,Thrombosis of ulnar artery
+C2004491,Cicatrix
+C2062866,Acute occlusion of artery
+C2063616,Drug Induced Thrombocytopenia
+C2265909,smooth muscle hypertrophy
+C2265912,cardiac muscle atrophy
+C2316160,Infection of bloodstream
+C2349110,Vascular Access Device Complications
+C2349423,Medication overuse headache
+C2349671,Postprocedural fever
+C2586211,Thrombosis of blood vessel
+C2699153,Cell Invasion
+C2713497,Saccular Aneurysm
+C2717779,Commotio Cordis
+C2717792,Airway Remodeling
+C2717900,"Upper Extremity Deep Vein Thrombosis, Secondary"
+C2717957,Vasoplegia
+C2718128,Nasal inflammation
+C2721675,Posterior Fossa Syndrome
+C2745965,Emergencies [Disease/Finding]
+C2749202,Abnormal gastrointestinal motility
+C2825055,Recurrence (disease attribute)
+C2909036,Fetus-to-fetus placental transfusion syndrome
+C2921022,Transfusion associated circulatory overload
+C2936490,Out-of-Hospital Cardiac Arrest
+C2937358,Cerebral Hemorrhage
+C2979982,Vaginal Hemorrhage
+C3158581,fever generation
+C3158820,entry of bacterium into host cell
+C3159310,oncogene-induced senescence
+C3203358,Hypoventilation
+C3203360,Suppuration
+C3241936,Non-cardiogenic pulmonary edema
+C3264370,Typical atrial flutter
+C3272317,In Stent Restenosis
+C3272925,Unequivocal Progression
+C3273211,Age-Related Atrophy
+C3273228,Follicular Lymph Node Hyperplasia
+C3495808,Subchorionic hematoma
+C3537055,Pilonidal cyst with abscess
+C3650625,Abnormal uterine bleeding
+C3658220,Atrial Remodeling
+C3662262,Pseudoallergic reaction
+C3662265,Non-allergic hypersensitivity process
+C3665429,Recurrent hemorrhage
+C3665492,Structure showing abnormal deposition of pigment (morphologic abnormality)
+C3665608,Cesarean wound disruption
+C3668885,Cuffing (morphologic abnormality)
+C3671955,Pulmonary overperfusion
+C3698135,Lipohemarthrosis
+C3698285,Nontraumatic intraparenchymal cerebral hemorrhage
+C3714514,Infection
+C3714607,Filtering bleb
+C3805220,Marked Baseline Fetal Heart Rate Variability
+C3826020,Medical emergencies
+C3830526,Device Embolization
+C3838867,Non-aneurysmal subarachnoid intracranial hemorrhage
+C3887513,Avascular necrosis
+C3887532,Ulceration
+C3897493,Stent Thrombosis
+C3898092,Oral Complication
+C3899382,Dialysis Membrane Reaction
+C4021061,Testicular fibrosis
+C4021103,Abnormality of exocrine pancreas physiology
+C4021200,Vegetative auras
+C4021549,Euthyroid hyperthyroxinemia
+C4021646,Prolonged bleeding after surgery
+C4021753,Abnormality of the immune system
+C4021781,Abnormal nervous system electrophysiology
+C4022182,Ectopic respiratory mucosa
+C4022612,Enhanced ristocetin cofactor assay activity
+C4022689,Paraspinal muscle hypertrophy
+C4022789,Regional left ventricular wall motion abnormality
+C4022895,Medial calcification of medium-sized arteries
+C4022910,Hyperoxemia
+C4022917,Iodine contrast allergy
+C4023084,Hallucinatory auras
+C4023142,Prolonged bleeding following procedure
+C4023143,Bleeding with minor or no trauma
+C4023182,Abnormal muscle physiology
+C4023212,Abnormality of adrenal physiology
+C4023506,Epigastric auras
+C4025244,Abnormal atrioventricular conduction
+C4025805,Intermittent jaundice
+C4042763,Postoperative Residual Curarization
+C4048268,Cortical visual impairment
+C4054900,Degeneration of germ cells
+C4055125,Disrupted Suture
+C4055127,Dislodged Catheter
+C4055265,Catheter-Related Inflammation
+C4072908,Induced vaginal delivery
+C4074771,"Sterility, Reproductive"
+C4082928,Mesenteric thrombosis
+C4086444,Hepatic Thrombosis
+C4087225,Immune-Mediated Adverse Reaction
+C4280712,Delayed onset bleeding
+C4280747,Choking episodes
+C4280789,Preterm intraventricular hemorrhage
+C4285763,Sialadenosis
+C4287874,Droplet transmission
+C4288894,Indirect Transmission
+C4289682,Direct Transmission
+C4289744,Contact Transmission
+C4293668,Enteric neuronal degeneration
+C4316895,Anaphylactic shock
+C4476765,Bulbar urethral stricture
+C4505075,Microvascular Rarefaction
+C4521760,Hypersensitivity reaction caused by food
+C4551518,Venous stasis
+C4684772,Serious Adverse Drug Reaction
+C4703466,Abnormal pulmonary valve physiology
+C4703602,Abnormal coagulation factor V activity
+C4708791,Dysregulated host response
+C4721411,Osteolysis
+C4722157,Sodium retention
+C4727074,Intracranial Extension
+C4760637,Retrobulbar hematoma
+C5137640,neuroinflammatory response
+C5139159,Sural nerve atrophy
+C5139202,Indurated nodule
+C5139436,Lower cranial nerve dysfunction
+C5139496,Plant based food allergy
+C5200936,Delayed healing of wound

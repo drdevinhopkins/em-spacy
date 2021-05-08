@@ -1,0 +1,229 @@
+cui,name
+C0000872,Academic Medical Centers
+C0001573,"Admitting Department, Hospital"
+C0002424,Ambulatory Care Facilities
+C0002458,American Heart Association
+C0002907,"Anesthesia Department, Hospital"
+C0005770,Blood Banks
+C0005865,Blue Shield
+C0006418,Burn Centers
+C0006425,Burn Units
+C0006827,Cancer Care Facilities
+C0007151,Cardiac Care Facilities
+C0007670,Centers for Disease Control and Prevention (U.S.)
+C0010066,Coronary Care Units
+C0011344,Dental Clinics
+C0011357,Dental Facilities
+C0013185,Drug Industry
+C0018518,Halfway Houses
+C0018696,Health Care Systems
+C0018704,Health care facility
+C0018720,Health Maintenance Organizations
+C0018732,Health Planning Organizations
+C0019870,Homes for the Aged
+C0019947,hospice environment
+C0019961,Hospital Departments
+C0019987,Hospital Shops
+C0019994,Hospitals
+C0020000,"Hospitals, Chronic Disease"
+C0020004,"Hospitals, Convalescent"
+C0020007,"Hospitals, Federal"
+C0020008,"Hospitals, General"
+C0020017,"Hospitals, Pediatric"
+C0020021,Psychiatric hospital
+C0020025,special hospital
+C0020026,"Hospitals, State"
+C0020028,"Hospitals, University"
+C0020029,"Hospitals, Urban"
+C0021621,Institute of Medicine (U.S.)
+C0021708,intensive care unit
+C0021709,"Intensive Care Units, Neonatal"
+C0021710,Pediatric intensive care unit
+C0022051,International Planned Parenthood Federation
+C0022405,Joint Commission on Accreditation of Healthcare Organizations
+C0022877,Laboratory
+C0022878,Dental laboratory
+C0022879,"Laboratories, Hospital"
+C0023337,Leper Colonies
+C0026331,Mobile Health Unit
+C0027447,"National Center for Health Care Technology, U.S."
+C0027463,"National Institute for Occupational Safety and Health, U.S."
+C0027466,National Institute of Mental Health (U.S.)
+C0027468,United States National Institutes of Health
+C0028659,Nurseries
+C0028688,Nursing Homes
+C0028801,Occupational Health Services
+C0029064,Operating Room
+C0029916,"Outpatient Clinics, Hospital"
+C0031322,Pharmacy facility
+C0031341,"Pharmacy Service, Hospital"
+C0031834,Physicians' Offices
+C0032340,Poison Control Centers
+C0033173,"Hospitals, Private"
+C0034600,"Radiology Department, Hospital"
+C0036376,"Schools, Dental"
+C0036378,"Schools, Medical"
+C0036603,Self-Care Units
+C0037265,skilled nursing facility
+C0037782,Specialty Boards
+C0038942,Surgicenters
+C0040786,Trauma Centers
+C0041708,United States Department of Health
+C0041711,United States Dept. of Health and Human Services
+C0041714,United States Food and Drug Administration
+C0041718,Centers for Medicare and Medicaid Services
+C0041731,United States Occupational Safety and Health Administration
+C0042430,Venereal Disease Research Laboratory
+C0043030,"Wards, General"
+C0043237,World Health Organization
+C0080268,United States Agency for Healthcare Research and Quality
+C0085118,"Oncology Service, Hospital"
+C0085141,United States Indian Health Service
+C0150767,Shelter facility
+C0178547,Child mental health services
+C0178740,mental health organization
+C0221807,Telemetry unit
+C0242795,Home Care Agencies
+C0242936,Pain Clinics
+C0260123,hospital pharmacies
+C0331774,Armour Pharmaceutical Company
+C0331843,Johnson and Johnson
+C0331858,Matrix Pharmaceutical Inc.
+C0331909,summit
+C0331933,Wyeth-Ayerst
+C0331956,R&D Laboratories
+C0331964,Roberts
+C0332050,Crystal Pharmaceuticals
+C0337966,Hospital Ships
+C0392740,Miles Pharmaceuticals
+C0442592,Clinic
+C0557829,Healthcare services
+C0557850,Long term care hospital
+C0562508,Accident and Emergency department
+C0565990,Medical center
+C0587437,Tertiary Care Centers
+C0587438,Day hospital
+C0587500,Radiology department
+C0587502,Stroke unit
+C0587605,Palliative care service
+C0587690,Orthopedic service
+C0587906,Hospital clinic
+C0596183,biomedical facility
+C0596896,medicare/medicaid
+C0600623,Fitness Centers
+C0815184,treatment setting
+C0815266,Drug Company
+C0870667,Psychiatric hospital unit
+C0871869,Psychiatric Units
+C0920545,health organization
+C1305702,Ward (environment)
+C1511233,NCI Board of Scientific Advisors
+C1511511,Cooperative Human Tissue Network
+C1511521,Core Facility
+C1511974,Director's Working Group
+C1512961,Intramural Research Program
+C1513038,Mayo Clinic Cancer Center
+C1513817,NCI-Designated Cancer Center
+C1513882,National Cancer Institute
+C1513893,National Comprehensive Cancer Network
+C1513896,National Institute of Child Health and Human Development (U.S.)
+C1513901,National Institute of Nursing Research (U.S.)
+C1514958,State or Local Health Department
+C1515947,American Lung Association
+C1515950,American Stop Smoking Intervention for Cancer Prevention
+C1516208,Cancer Institute of New Jersey
+C1516210,Cancer Intervention and Surveillance Modeling Network
+C1516380,David H. Koch Institute for Integrative Cancer Research at MIT
+C1516477,Children's Oncology Group
+C1517620,Joining Organizations with Leading Technologies
+C1519429,SWOG
+C1519441,Specialized Center Grant
+C1519805,University of Texas MD Anderson Cancer Center
+C1520209,Yale Cancer Center
+C1546531,Hospital Service - Medical Service
+C1546885,New York Blood Center
+C1546906,Medicare DRG Payor
+C1547182,School type - Dental
+C1547195,Organization unit type - Acute Care
+C1550511,location participation type
+C1551285,Urgent Care Clinic/Center
+C1551301,Clinical Medical Laboratory
+C1551313,Nursing Facility/Intermediate Care Facility
+C1551314,Psychiatric Residential Treatment Facility
+C1551327,Suppliers; Organ Procurement Organization
+C1552438,"Clinic/Center - Oncology, Radiation"
+C1552443,Clinic / Center - Primary Care
+C1552749,Cardiac catheterization lab
+C1552764,Sleep disorders unit
+C1552814,Wound clinic
+C1552887,Berna Products Corporation
+C1555653,Psychatric Care Facility
+C1556110,Agencies - Health Care Provider
+C1629858,Dialysis unit
+C1631606,Cardiac stepdown unit
+C1705420,Integrated Molecular Analysis of Genomes and their Expression Consortium
+C1706786,Ambulatory Surgical Center
+C1707294,Cardiac Catheterization Laboratory
+C1707295,Cardiac Catheterization Suite
+C1708098,Free-Standing Cardiac Catheterization Laboratory
+C1708333,Health Care Organization
+C1708733,Long-Term Care Facility
+C1709628,Practitioners Engaged in Applied Research and Learning Network
+C1709763,Psychiatric Facility
+C1718195,Pediatric unit
+C1882265,Practice-Based Research Collaborative in Evidence-Based Dentistry
+C1955969,National Eye Institute (U.S.)
+C1955974,National Institute on Aging (U.S.)
+C2347788,Clinical Study Lead Organization
+C2347790,Clinical Study Site
+C2350581,"Stations, Quarantine"
+C2350584,National Institute of Neurological Disorders and Stroke (U.S.)
+C2362545,Urgent Care
+C2607850,Institution
+C2711734,Medical intensive care unit
+C2826332,Division of Cardiovascular Diseases
+C2826334,National Center on Minority Health and Health Disparities
+C2826361,Cancer Diagnosis Program
+C2985607,Healthcare Provider Group
+C2985688,Treating Site
+C3242746,community service center
+C3242768,specimen collection site
+C3242770,Medical Laboratory
+C3242859,ERPracticeSetting
+C3242861,HospitalPracticeSetting
+C3275045,Federal Health Care Facility
+C3494217,"Hospitals, Low-Volume"
+C3494218,"Hospitals, High-Volume"
+C3642270,Alvin J Siteman Cancer Center
+C3658282,Secondary Care Centers
+C3838759,Seizure clinic
+C3887620,Cardiology service
+C3897081,Military Healthcare Facility
+C3897160,Workplace Clinic
+C3897480,Student Health Clinic
+C3897811,Public Health Department Facility
+C4038538,Wyeth
+C4076632,Temporary clinic
+C4085574,Preventative Therapy Clinical Trial Setting
+C4085584,Specialized Stand Alone Plan - Vision
+C4224059,Medicare Hospice
+C4284828,Clinical Observation Units
+C4288863,Juno Therapeutics
+C4522322,Dental care - Care provided outside VA facilities
+C4524526,Cord Blood Bank
+C4524527,Hospital Blood Bank
+C4524542,Licensed Biologics Manufacturer
+C4524561,Organ and Tissue Procurement Facility
+C4524562,Plasmapheresis Center
+C4684595,Clinical Laboratory
+C4684837,Imaging Core Lab
+C4722115,Salvage Clinical Trial Setting
+C4722132,Induction Clinical Trial Setting
+C4722399,Mobilization Clinical Trial Setting
+C4722412,Consolidation Clinical Trial Setting
+C4722627,Conditioning Clinical Trial Setting
+C4723826,Maintenance Clinical Trial Setting
+C4725957,Oncology Unit
+C4727113,International Myeloma Working Group
+C4763569,Veterans Health Administration
+C5230764,Internal medicine service

@@ -1,0 +1,202 @@
+cui,name
+C0000232,"2,6-Dichloroindophenol"
+C0000665,oxyquinoline
+C0000983,acetic acid
+C0001204,Acrolein
+C0001730,Affinity Labels
+C0002578,Aminopropionitrile
+C0003162,anthracene
+C0006353,Buffers
+C0006692,edetate calcium disodium
+C0007250,Carmine
+C0007974,Chelating Agents
+C0008238,chloroform
+C0009185,coccidioidin
+C0009924,Contrast Media
+C0010192,cosyntropin
+C0010360,Cross-Linking Reagents
+C0010454,Culture Media
+C0010511,Cyanogen Bromide
+C0011145,deferoxamine
+C0011148,deferoxamine mesylate
+C0012004,diatrizoate
+C0012005,diatrizoate meglumine
+C0012007,diatrizoate sodium
+C0012893,DNA Probes
+C0012894,"DNA Probes, HLA"
+C0012895,"DNA Probes, HPV"
+C0013254,pentetic acid
+C0013343,Dyes
+C0013714,egtazic acid
+C0014444,"Enzymes, Immobilized"
+C0015082,Ethylene Dichlorides
+C0016184,Fixatives
+C0016314,Fluoresceins
+C0016320,Fluorescent Dyes
+C0016576,formic acid
+C0016911,gadolinium
+C0017542,Giemsa stain
+C0018302,guaiac
+C0020231,Hydrazine
+C0020259,hydrochloric acid
+C0020281,hydrogen peroxide
+C0021212,Indicators
+C0021717,Intercalating Agents
+C0022086,Iron Chelating Agents
+C0025746,methylene blue
+C0026381,Molecular Probes
+C0026485,Monomethylhydrazine
+C0027941,Neutral Red
+C0028604,Nucleic Acid Probes
+C0030123,4-aminohippuric acid
+C0030968,peracetic acid
+C0031068,Periodic Acid
+C0031430,phenolsulfonphthalein
+C0032838,potassium permanganate
+C0033602,protamine sulfate (USP)
+C0034131,purified protein derivative of tuberculin
+C0034330,pyrrolidonecarboxylic acid
+C0034423,quinoline
+C0034551,Radioactive Tracers
+C0034758,"Reagent Kits, Diagnostic"
+C0034759,Reagent Strips
+C0034760,Reagents
+C0037216,"4-Acetamido-4'-isothiocyanatostilbene-2,2'-disulfonic Acid"
+C0037498,Sodium Cyanide
+C0037512,gold sodium thiosulfate
+C0037638,Solvents
+C0037914,Spin Labels
+C0038128,Stains
+C0038164,Staphylococcal Protein A
+C0039694,Tetranitromethane
+C0040854,triacetoneamine-N-oxyl
+C0045511,"2,4-Dinitrophenol"
+C0047120,Serotonin azidobenzamidine
+C0048678,4-phenylenediamine
+C0053122,bentiromide
+C0060234,prussian blue insoluble
+C0060255,ferrioxamine B
+C0060520,fluorescein
+C0060600,Fly Ash
+C0061008,gallium nitrate
+C0061856,Gram's stain
+C0064964,lidofenin
+C0065234,Lugol's solution
+C0067453,N-(2-acetamido)-2-aminoethanesulfonic acid
+C0068806,Nitrazine yellow
+C0069715,oxalic acid
+C0070139,patent blue violet
+C0071109,"piperazine-N,N'-bis(2-ethanesulfonic acid)"
+C0071767,potassium hydroxide
+C0073578,basic fuchsin
+C0073949,Safranine T
+C0074127,scarlet red
+C0074721,Sodium Azide
+C0075928,Technetium Tc 99m Dimercaptosuccinic Acid
+C0076731,Titan yellow
+C0085414,"Culture Media, Serum-Free"
+C0123471,India ink stain
+C0147866,fluorescein sodium
+C0148405,Vinegar
+C0162518,"Culture Media, Conditioned"
+C0178627,ethylenediaminetetraacetate
+C0182723,"CANDIDA SPECIES, ANTIBODY DETECTION"
+C0182833,Pneumocystis Carinii reagents
+C0183488,"STAINS, HEMATOLOGY"
+C0183489,Immunofluorescent stain
+C0183493,"STAINS, MICROBIOLOGIC"
+C0211492,"technetium Tc 99m 1,2-bis(bis(2-ethoxyethyl)phosphino)ethane"
+C0217525,"LGALS3BP protein, human"
+C0220832,formate
+C0252873,Fuchsin acid stain
+C0282682,"Antibodies, Blocking"
+C0303029,iodine I-131
+C0303379,Cesium-137
+C0303395,Cobalt-60
+C0303472,Iridium-192
+C0303580,239 Plutonium
+C0303611,technetium 99m
+C0303612,Technetium-99
+C0303722,Americium-241
+C0303878,Biebrich Scarlet
+C0304967,Indium (111-In) pentetate
+C0304984,iothalamate sodium I125
+C0338103,Liothyronine I-131
+C0358514,Diagnostic agents
+C0376446,Reducing Agents
+C0390081,"NAB2 protein, human"
+C0440016,Allergenic extract
+C0490221,"GLUCOSE OXIDASE, GLUCOSE"
+C0490456,HEAVY METALS CONTROL MATERIALS
+C0490497,"ANTISERUM, DIGOXIN"
+C0490499,ALCOHOL CONTROL MATERIALS
+C0490544,"DIGOXIN CONTROL SERUM, RIA"
+C0491287,ACTIVATED PARTIAL THROMBOPLASTIN
+C0491294,IRON STAINS
+C0491312,"STAIN, FETAL HEMOGLOBIN"
+C0491329,"ASSAY, SULFHEMOGLOBIN"
+C0491332,"STAIN, RETICULOCYTE"
+C0491333,"STAINS, HEINZ BODY"
+C0491342,ABNORMAL HEMOGLOBIN QUANTITATION
+C0491374,"ANTISERA, CONTROL FOR NONTREPONEMAL TESTS"
+C0491440,"ANTISERUM, ROCKY MOUNTAIN SPOTTED FEVER"
+C0491527,ANTISTREPTOLYSIN - TITER/STREPTOLYSIN O REAGENT
+C0492416,"CONVERSION TO CREATININE, CREATINE"
+C0492712,"AGENT, CLEARING"
+C0493435,"DNA-REAGENTS, CAMPYLOBACTER SPP."
+C0520458,pentetate calcium trisodium
+C0596089,aniline dye
+C0651007,"4-((1,4,8,11-tetraazacyclotetradec-1-yl)methyl)benzoic acid"
+C0726398,GLUCOSE CONTROL
+C0733796,Gastrografin
+C0742795,contrast dye
+C0768280,nickel acetate
+C0851287,phosphorus 32
+C0879373,Iodinated Contrast Agent
+C0972212,"SFN protein, human"
+C0972569,Electrophoresis Gel
+C0981916,insect allergenic extract
+C1096868,DC Red No. 8
+C1144584,"Oxalicum acidum, oxalic acid, sorrel acid, Homeopathic preparation"
+C1261259,Wright stain
+C1268558,Oxygen (15-O) carbon monoxide
+C1318717,Alkaline phosphatase stain
+C1321796,Water soluble aniline blue stain
+C1335533,Protein Fragment
+C1456509,Tannin
+C1514699,Radioconjugate
+C1518416,"Serum, horse"
+C1522485,Tracer
+C1550604,color additive
+C1612111,human MUC1 protein
+C1831937,F-18 16 alpha-fluoroestradiol
+C1956166,alkoxy
+C2347864,Contrast Agent Name
+C2348747,Genomic Biomarker
+C2349100,Valid Biomarker
+C2350155,Streptozyme
+C2722032,chicken allergenic extract
+C2828294,iodide ion I-131
+C2930749,Radiographic contrast media
+C2936384,Desiccants
+C2986489,Affinity Reagent
+C2986535,Primary Endpoint
+C2986808,Radioactive Label
+C3266603,Blood agar
+C3469601,Eluent
+C3540014,CENTRAL NERVOUS SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+C3540015,CARDIOVASCULAR SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+C3540038,THYROID DIAGNOSTIC RADIOPHARMACEUTICALS
+C3541375,RESPIRATORY SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+C3654009,RENAL SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+C3812213,Fetal Bovine Serum
+C3828678,Oxidized Avidin
+C3850104,Calcium Chelating Agents
+C3890043,Acoustic Coupling Fluid
+C3899110,Fluorine 18 F Fludarabine
+C4281604,dilution
+C4288422,Pathology Ink
+C4329616,Carbon C 11 Metformin
+C4524572,Blood Bank Reagent
+C4524869,Free Radioiodine
+C4554271,PROTHROMBIN TIME

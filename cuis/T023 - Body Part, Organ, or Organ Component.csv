@@ -1,0 +1,1963 @@
+cui,name
+C0000739,Abdominal Muscles
+C0000741,Abducens nerve structure
+C0000905,Accessory nerve structure
+C0000962,Bone structure of acetabulum
+C0001074,Structure of achilles tendon
+C0001162,Acoustic Nerve
+C0001209,Acromion
+C0001428,Adenoidal structure
+C0001575,Uterine adnexae structure
+C0001613,Adrenal Cortex
+C0001625,Adrenal Glands
+C0001629,Adrenal Medulla
+C0001878,Air Sacs
+C0002708,Amygdaloid structure
+C0002759,Anal Sacs
+C0002760,Structure of sphincter ani muscle
+C0003151,Anterior chamber of eye structure
+C0003153,Anterior eyeball segment structure
+C0003461,Anus
+C0003483,Aorta
+C0003484,Abdominal aorta structure
+C0003489,Aortic arch structure
+C0003501,Aortic valve structure
+C0003584,Apocrine Glands
+C0003617,Appendix
+C0003707,Arachnoid mater
+C0003741,Structure of nucleus infundibularis hypothalami
+C0003793,Bone structure of upper limb
+C0003842,Arteries
+C0003847,Structure of arteriole
+C0003943,Arytenoid Cartilage
+C0003956,Ascending aorta structure
+C0004170,Cervical Atlas
+C0004247,Structure of atrioventricular node
+C0004302,Auditory area
+C0004384,"Autonomic Fibers, Postganglionic"
+C0004455,Structure of axillary artery
+C0004456,Structure of axillary vein
+C0004457,Axis vertebra
+C0004768,Bartholin Glands
+C0004781,Basal Ganglia
+C0004789,Structure of basal vein
+C0004811,Structure of basilar artery
+C0004816,Basilar Membrane
+C0004895,Beak
+C0005400,Bile duct structure
+C0005401,Intrahepatic bile duct
+C0005423,Biliary tract structure
+C0005682,Urinary Bladder
+C0005847,Blood Vessel
+C0005854,Blood - brain barrier anatomy
+C0006087,Structure of brachial artery
+C0006090,Brachial plexus structure
+C0006094,Structure of brachiocephalic artery
+C0006095,Structure of brachiocephalic vein
+C0006104,Brain
+C0006121,Brain Stem
+C0006141,Breast
+C0006205,Broad Ligament
+C0006255,Bronchi
+C0006257,Structure of bronchial artery
+C0006270,Bronchioles
+C0006323,Brunner Glands
+C0006382,Bundle of His
+C0006383,Accessory atrioventricular bundle (body structure)
+C0006441,Synovial bursa
+C0006549,C Fibers
+C0006655,Bone structure of calcaneum
+C0006901,Blood capillaries
+C0007272,Carotid Arteries
+C0007275,External carotid artery structure
+C0007276,Internal carotid artery structure
+C0007277,Carotid Body
+C0007281,Structure of carotid sinus
+C0007285,Bone structure of carpus
+C0007458,Cauda Equina
+C0007461,Caudate nucleus structure
+C0007531,Cecum
+C0007569,Celiac Artery
+C0007571,Celiac ganglion
+C0007765,Cerebellum
+C0007770,Structure of cerebral artery
+C0007776,Cerebral cortex
+C0007797,Structure of cerebral vein
+C0007874,Cervix Uteri
+C0008484,Structure of chordae tendineae cordis
+C0008520,Choroid
+C0008779,Ciliary Body
+C0008913,Bone structure of clavicle
+C0009194,Bone structure of coccyx
+C0009195,Cochlear structure
+C0009201,Cochlear Nerve
+C0009368,Colon structure (body structure)
+C0009437,Common bile duct structure
+C0009758,conjunctiva
+C0010031,Cornea
+C0010075,Coronary Vessels
+C0010085,Corpora Allata
+C0010092,Structure of corpus luteum of ovary
+C0010097,Corpus striatum structure
+C0010268,Cranial Nerves
+C0010271,Cranial Sinuses
+C0010352,Avian crop
+C0010482,Cuspid
+C0010672,Cystic duct structure
+C0011106,Decidua
+C0011193,Structure of lateral vestibular nucleus
+C0011325,Dental arch structure
+C0011387,Dental Papilla
+C0011399,Dental Pulp
+C0011416,Dental Sac
+C0011443,Dentition
+C0011444,"Dentition, Mixed"
+C0011665,Structure of Descemet's membrane
+C0011666,Descending aorta
+C0011980,Respiratory Diaphragm
+C0012144,Structure of diencephalon
+C0013293,Greater duodenal papilla structure
+C0013303,Duodenum
+C0013313,Dura Mater
+C0013443,Ear structure
+C0013444,External auditory canal structure
+C0013450,Ear ossicle structure
+C0013453,External Ear
+C0013492,Eccrine Glands
+C0013681,Efferent Pathways
+C0014133,Endocrine Glands
+C0014167,Endolymphatic duct
+C0014180,Endometrium
+C0014533,Epididymis
+C0014540,Epiglottis structure
+C0014570,Epiphysis of bone
+C0014865,Esophageal sphincter
+C0014876,Esophagus
+C0015027,Ethmoid bone structure
+C0015183,Eustachian Tube
+C0015282,Exocrine Glands
+C0015372,extrapyramidal tract
+C0015385,Limb structure
+C0015392,Eye
+C0015426,Eyelid structure
+C0015455,Bone structure of face
+C0015460,Facial Muscles
+C0015462,Facial nerve structure
+C0015560,Fallopian Tubes
+C0015641,Fascia
+C0015642,Fascia lata structure
+C0015665,Fat Body
+C0015801,Structure of femoral artery
+C0015808,Structure of femoral nerve
+C0015809,Femoral vein
+C0015811,Femur
+C0015813,Head of femur
+C0015815,Structure of neck of femur
+C0016068,Fibula
+C0016129,Fingers
+C0016504,Foot
+C0016505,Bone structure of foot
+C0016536,Forearm
+C0016622,Structure of fovea centralis
+C0016732,Frontal bone structure
+C0016733,frontal lobe
+C0016823,Structure of fundus of eye
+C0016976,Gallbladder
+C0017067,Ganglia
+C0017068,Autonomic ganglion
+C0017069,Structure of parasympathetic ganglion
+C0017070,"Ganglia, Spinal"
+C0017071,Sympathetic Ganglia
+C0017129,gastric fundus
+C0017405,Geniculate body structure
+C0017406,Structure of geniculate ganglion
+C0017420,Genitalia
+C0017421,Female genitalia
+C0017422,Male Genital Organs
+C0017558,Gill structure
+C0017651,Globus Pallidus
+C0017679,Glossopharyngeal nerve structure
+C0018067,Gonadal structure
+C0018120,Ovarian Follicle
+C0018283,Epiphysial cartilage
+C0018494,Hair
+C0018534,Hallux structure
+C0018563,Hand
+C0018597,Harderian Gland
+C0018787,Heart
+C0018792,Heart Atrium
+C0018819,Heart Septum
+C0018826,Heart Valves
+C0018827,Heart Ventricle
+C0018870,Heel
+C0019149,Common Hepatic Duct
+C0019155,Structure of hepatic vein
+C0019552,Hip structure
+C0019564,Hippocampus (Brain)
+C0020164,Bone structure of humerus
+C0020417,Hyoid bone structure
+C0020614,Hypoglossal nerve structure
+C0020653,Structure of anterior hypothalamic nucleus
+C0020663,Hypothalamic structure
+C0020664,"Hypothalamus, Anterior"
+C0020669,"Hypothalamus, Middle"
+C0020670,Posterior Hypothalamic Region
+C0020880,Ileocecal Valve
+C0020885,ileum
+C0020887,Structure of iliac artery
+C0020888,Iliac Vein
+C0020889,Bone structure of ilium
+C0021156,Incisor
+C0021358,Inferior Colliculus
+C0021640,Insula of Reil
+C0021724,Structure of intercostal muscle
+C0021815,Intervertebral disc structure
+C0021851,Large Intestine
+C0021852,"Intestines, Small"
+C0021853,Intestines
+C0022077,Iris (Eye)
+C0022122,Bone structure of ischium
+C0022131,Islets of Langerhans
+C0022359,Jaw
+C0022378,Jejunum
+C0022427,Structure of jugular vein
+C0022646,Kidney
+C0022651,Structure of calyx
+C0022655,Structure of cortex of kidney
+C0022663,Kidney Glomerulus
+C0022664,Structure of medulla of kidney
+C0022674,Renal tubule structure
+C0022676,Distal convoluted renal tubule structure
+C0022677,"Kidney Tubules, Proximal"
+C0022742,Knee
+C0022861,Structure of frenulum labii
+C0022889,Labyrinth
+C0022907,Lacrimal gland structure
+C0023050,Laryngeal cartilage
+C0023054,Laryngeal muscle structure
+C0023078,Larynx
+C0023216,Lower Extremity
+C0023217,Leg Bones
+C0023312,Structure of nucleus of lens
+C0023317,"Lens, Crystalline"
+C0023686,Articular ligaments
+C0023739,Frenulum linguae
+C0023759,Lip structure
+C0023884,Liver
+C0023951,Structure of locus ceruleus
+C0023986,Loop of Henle
+C0024091,Bone structure of lumbar vertebra
+C0024093,Lumbosacral plexus structure
+C0024109,Lung
+C0024204,lymph nodes
+C0024496,Main Bronchus
+C0024631,Malleus
+C0024659,"Mammary Glands, Animal"
+C0024661,Mammary Arteries
+C0024670,Mammillary body structure
+C0024687,Mandible
+C0024688,Mandibular Condyle
+C0024695,Structure of mandibular nerve
+C0024764,Bone structure of manubrium
+C0024876,Masseter muscle structure
+C0024890,Masticatory muscles
+C0024947,Maxilla
+C0024949,Structure of maxillary artery
+C0024955,Structure of maxillary nerve
+C0025056,Median eminence of hypothalamus
+C0025058,Structure of median nerve
+C0025148,Medulla Oblongata
+C0025283,Meningeal Arteries
+C0025285,Meninges
+C0025313,"Menisci, Tibial"
+C0025462,Midbrain structure
+C0025465,Mesenteric Arteries
+C0025473,Structure of mesenteric vein
+C0025483,Mesocolon
+C0025526,Metacarpal bone
+C0025584,Metatarsal bone structure
+C0026264,Mitral Valve
+C0026367,Molar tooth
+C0026369,Structure of wisdom tooth
+C0026639,Oral mucous membrane structure
+C0026855,Structure of musculocutaneous nerve
+C0027088,myometrium
+C0027342,Nail plate
+C0027422,Nasal bone structure
+C0027432,Nasal septum structure
+C0027437,Nasolacrimal duct structure
+C0027442,Nasopharynx
+C0027532,Skeletal muscle structure of neck
+C0027713,Nephrons
+C0027740,Nerve
+C0027755,Nerve Net
+C0027787,Neural Analyzers
+C0027792,Neural Pathways
+C0027871,Muscle Spindles
+C0027929,Neurotendinous Spindles
+C0028109,Nipples
+C0028246,Nociceptors
+C0028429,Nose
+C0028783,Structure of obturator nerve
+C0028784,Occipital bone structure
+C0028785,Occipital lobe
+C0028863,Muscle of orbit
+C0028864,Oculomotor nerve structure
+C0028881,Structure of odontoid process of axis
+C0028938,Olfactory Nerve
+C0028977,Omentum
+C0029078,Structure of ophthalmic artery
+C0029082,Structure of ophthalmic nerve
+C0029126,Optic Chiasms
+C0029127,Optic Disk
+C0029129,"Optic Lobe, Nonmammalian"
+C0029130,Optic Nerve
+C0029207,Organ of Corti structure
+C0029894,Structure of otoconia
+C0029939,Ovary
+C0030219,"Palate, Soft"
+C0030274,Pancreas
+C0030288,Pancreatic duct
+C0030352,Structure of papillary muscle
+C0030518,Parathyroid gland
+C0030532,Structure of paraventricular nucleus
+C0030558,Parietal bone structure
+C0030560,Parietal Lobe
+C0030580,Parotid Gland
+C0030647,Patella
+C0030747,Pectoralis Muscles
+C0030786,Hip Bone
+C0030797,Pelvis
+C0030851,penis
+C0031021,Perianal Glands
+C0031050,Pericardial sac structure
+C0031093,Periodontal Ligament
+C0031119,Peripheral Nerves
+C0031173,Structure of common peroneal nerve
+C0031266,Structure of petrous part of temporal bone
+C0031272,Structure of aggregated lymphoid follicle of small intestine
+C0031346,Muscle structure of pharynx
+C0031354,Pharyngeal structure
+C0031774,Structure of phrenic nerve
+C0031869,Pia Mater
+C0031939,Pineal gland
+C0032005,Pituitary Gland
+C0032008,"Pituitary Gland, Anterior"
+C0032009,"Pituitary Gland, Posterior"
+C0032639,Pontine structure
+C0032649,Structure of popliteal artery
+C0032652,Structure of popliteal vein
+C0032717,Portal System
+C0032718,Portal vein structure
+C0033093,Pressoreceptors
+C0033572,Prostate
+C0034001,Structure of pterygoid muscle
+C0034014,Bone structure of pubis
+C0034051,Pulmonary alveolar structure
+C0034052,Pulmonary artery structure
+C0034083,Pulmonary Stretch Receptors
+C0034086,Pulmonary valve structure
+C0034090,Pulmonary veins
+C0034121,Pupil
+C0034196,Pylorus
+C0034518,Structure of radial nerve
+C0034627,Bone structure of radius
+C0034841,Stretch Receptors
+C0034896,Rectum
+C0034910,Red nucleus structure
+C0035065,Structure of renal artery
+C0035092,Structure of renal vein
+C0035216,Respiratory Center
+C0035231,Respiratory Muscles
+C0035278,Structure of rete testis
+C0035298,Retina
+C0035301,Structure of central retinal artery
+C0035322,Structure of retinal pigment epithelium
+C0035327,Structure of central vein of the retina
+C0035330,Structure of blood vessel of retina
+C0035561,Bone structure of rib
+C0035877,Round Ligament of the Uterus
+C0036037,Bone structure of sacrum
+C0036098,Salivary Glands
+C0036099,Minor salivary gland structure
+C0036139,Salt Gland
+C0036186,Saphenous Vein
+C0036270,Scalp structure
+C0036277,Bone structure of scapula
+C0036294,Scent Glands
+C0036385,Structure of medial vestibular nucleus
+C0036394,Structure of sciatic nerve
+C0036410,Sclera
+C0036471,Scrotum
+C0036609,Structure of pituitary fossa
+C0036622,Semicircular canal structure
+C0036624,Semilunar Bone
+C0036628,Seminal Vesicles
+C0036665,Sense Organs
+C0037189,Sinoatrial Node
+C0037197,Structure of sinus of Valsalva
+C0037303,Bone structure of cranium
+C0037658,Somatosensory Cortex
+C0037855,Spermatic Cord
+C0037884,Sphenoid bone structure
+C0037925,Spinal Cord
+C0037938,Spinal meninges
+C0037940,Spinal nerve root structure
+C0037941,Spinal nerve structure
+C0037949,Vertebral column
+C0037953,Spinothalamic Tracts
+C0037959,Structure of spiral ganglion
+C0037991,Splanchnic Nerves
+C0037993,Spleen
+C0037996,Structure of splenic artery
+C0038001,Structure of splenic vein
+C0038152,Stapes
+C0038293,Sternum
+C0038351,Stomach
+C0038530,Structure of subclavian artery
+C0038532,Structure of subclavian vein
+C0038556,Submandibular gland
+C0038564,Submucous Plexus
+C0038588,Substantia Gelatinosa
+C0038879,Structure of sural nerve
+C0038925,Surgical Flaps
+C0038989,Sweat Glands
+C0039027,Structure of superficial middle cerebral vein
+C0039099,Synovial Membrane
+C0039259,Tail
+C0039277,Talus
+C0039316,Tarsal Bones
+C0039433,Tectum Mesencephali
+C0039482,Temporal Arteries
+C0039484,Temporal bone structure
+C0039485,Temporal Lobe
+C0039487,Structure of temporalis muscle
+C0039508,Tendon structure
+C0039529,Structure of tensor tympani muscle
+C0039597,Testis
+C0039729,Thalamic structure
+C0039979,Thoracic Duct
+C0039983,Structure of thoracic nerve
+C0039987,Bone structure of thoracic vertebra
+C0040067,Thumb structure
+C0040132,Thyroid Gland
+C0040184,Bone structure of tibia
+C0040186,Structure of tibial nerve
+C0040357,Toes
+C0040408,Tongue
+C0040421,Palatine Tonsil
+C0040426,Tooth structure
+C0040452,Tooth root structure
+C0040573,Trabecular meshwork structure
+C0040578,Trachea
+C0040748,Transplanted skin
+C0040960,Tricuspid valve structure
+C0040996,Trigeminal nerve structure
+C0041159,Trochlear nerve structure
+C0041445,Tympanic membrane structure
+C0041600,Bone structure of ulna
+C0041602,Structure of ulnar nerve
+C0041951,Ureter
+C0041967,Urethra
+C0042027,Urinary tract
+C0042149,Uterus
+C0042158,Utricle structure
+C0042160,Uvea
+C0042173,Uvula of palate
+C0042232,Vagina
+C0042276,Vagus nerve structure
+C0042366,Vasa Nervorum
+C0042367,Structure of vasa vasorum
+C0042425,Ampulla of Vater
+C0042449,Veins
+C0042458,Inferior vena cava structure
+C0042459,Superior vena cava structure
+C0042460,Vena cava structure
+C0042559,Structure of vertebral artery
+C0042598,Vestibular Nerve
+C0042600,Vestibular nucleus structure
+C0042779,Viscera
+C0042817,Visual Cortex
+C0042905,Vitreous body structure
+C0042930,Vocal cord structure
+C0042993,Vulva
+C0043120,Wernicke Area
+C0043189,Wing
+C0043356,Structure of xiphoid process of sternum
+C0043518,Zona Glomerulosa
+C0043520,Zona Reticularis
+C0043539,Zygomatic bone
+C0078960,Anterior Cruciate Ligament
+C0080039,Posterior Cruciate Ligament
+C0085221,Structure of psoas muscle
+C0085376,Limbus Corneae
+C0085427,Tibial Arteries
+C0085515,Rotator Cuff
+C0085816,Structure of anterior tibial artery
+C0086835,Structure of posterior tibial artery
+C0149546,Structure of frontal pole
+C0149559,Structure of posterior communicating artery
+C0149561,Structure of anterior cerebral artery
+C0149562,Structure of anterior communicating artery
+C0149566,Structure of middle cerebral artery
+C0149573,Structure of posterior inferior cerebellar artery
+C0149575,Structure of superior cerebellar artery
+C0149576,Structure of posterior cerebral artery
+C0149578,Septal Vein
+C0149579,Structure of internal cerebral vein
+C0149589,FACIAL NERVE CANAL
+C0149596,Vestibular fold
+C0149601,Structure of conus medullaris
+C0149603,Structure of anterior spinal artery
+C0150936,Peripheral Blood Vessel
+C0152296,Structure of superior frontal gyrus
+C0152298,Inferior frontal gyrus
+C0152361,Epithalamic structure
+C0152379,Structure of trapezoid body
+C0152402,Structure of lateral corticospinal tract
+C0152403,Structure of ventral corticospinal tract
+C0152405,Optic tract structure
+C0162322,Structure of anal gland
+C0162370,Trochanter
+C0162405,Lymphatic Capillaries
+C0162434,Olfactory Cortex
+C0162435,Olfactory tract
+C0162485,Zygomatic Arch
+C0162512,Neostriatum
+C0162783,Prefrontal Cortex
+C0162857,Structure of radial artery
+C0162858,Structure of ulnar artery
+C0162859,Common carotid artery
+C0162860,Structure of inferior mesenteric artery
+C0162861,Superior mesenteric artery structure
+C0162864,Tunica Intima
+C0175173,Neocortex
+C0175219,central amygdalar nucleus
+C0175226,Diagonal Band of Broca
+C0175252,Paratenial Nucleus
+C0175405,Ventral Tegmental Area
+C0175498,Inferior vestibular nucleus
+C0175518,Nucleus solitarius
+C0175559,Solitary tract
+C0178784,Organ
+C0178825,Rectum/Anus
+C0205029,Skin structure of head
+C0205030,Skin of neck
+C0205039,Bronchial
+C0205042,Coronary artery
+C0205065,Ovarian
+C0205076,Chest wall structure
+C0205797,Inferior hypogastric plexus structure
+C0205826,Lumbar plexus structure
+C0205878,Glomus tympanicum
+C0205950,Calvaria
+C0205955,Posterior root of spinal nerve
+C0205956,Ventral Roots
+C0206066,Rectus Abdominis
+C0206187,"Bile Ducts, Extrahepatic"
+C0206207,Joint Capsule
+C0206248,Pelvic Diaphragm
+C0206251,Autonomic Pathways
+C0206252,"Parasympathetic Fibers, Postganglionic"
+C0206254,Structure of postganglionic sympathetic fiber
+C0206309,Visceral Afferents
+C0206327,Structure of ligamentum flavum
+C0206328,Ankle Lateral Ligament
+C0206329,Anterior longitudinal ligament structure
+C0206330,Posterior longitudinal ligament structure
+C0206331,Longitudinal Ligaments
+C0206332,Structure of patellar ligament
+C0206365,Structure of collateral ligament
+C0206367,Structure of medial collateral ligament of knee joint
+C0206429,"Ganglia, Sensory"
+C0221962,Hair bulb structure
+C0221971,Hair follicle structure
+C0221980,Structure of hair of face
+C0221998,Structure of hyponychium
+C0222001,Structure of nail of finger
+C0222007,Structure of nail of toe
+C0222017,Abdominal skin pouch
+C0222041,Shell - Animal skin appendage
+C0222045,Integumentary scale
+C0222084,Skin structure of face
+C0222088,Skin structure of eyelid
+C0222106,Skin structure of chin
+C0222110,Skin structure of ear
+C0222146,Skin structure of axilla
+C0222165,Skin structure of buttock
+C0222166,Skin structure of abdomen
+C0222173,Skin structure of inguinal region
+C0222204,Skin of upper arm
+C0222213,Skin structure of elbow
+C0222215,Skin structure of forearm
+C0222223,Skin structure of wrist
+C0222224,Skin structure of hand
+C0222269,Skin structure of thigh
+C0222275,Skin structure of knee
+C0222279,Skin structure of lower leg
+C0222286,Skin structure of ankle
+C0222289,Skin structure of foot
+C0222595,Central portion of breast
+C0222600,Right breast
+C0222601,Left breast
+C0222608,Areola
+C0222646,Structure of appendicular skeleton
+C0222647,Structure of long bone
+C0222648,Structure of short bone
+C0222649,Structure of flat bone
+C0222652,Cortex of bone
+C0222670,Apophysis
+C0222671,Metaphysis
+C0222681,Structure of epicondyle
+C0222682,Phalanx Unspecified
+C0222733,Lacrimal bone structure
+C0222734,Palatine bone structure
+C0222748,Structure of ramus of mandible
+C0222758,Structure of body of hyoid bone
+C0222762,Rib Cage
+C0222806,Head of rib structure
+C0223076,Structure of arch of vertebra
+C0223084,Body of vertebra
+C0223087,Structure of anulus fibrosus of intervertebral disc
+C0223603,Lumbosacral spine
+C0223613,Structure of sacral tuberosity
+C0223616,Coccygeal vertebra
+C0223644,Structure of anterior superior iliac spine
+C0223645,Structure of anterior inferior iliac spine
+C0223646,Structure of posterior superior iliac spine
+C0223647,Structure of posterior inferior iliac spine
+C0223649,Iliac tuberosity (body structure)
+C0223651,Iliac crest structure
+C0223666,Structure of inferior ramus of pubis
+C0223667,Structure of superior ramus of pubis
+C0223683,Structure of head of humerus
+C0223685,Structure of surgical neck of humerus
+C0223687,Structure of lesser tuberosity of humerus
+C0223694,Structure of midshaft of humerus
+C0223696,Structure of head of radius
+C0223710,Structure of olecranon
+C0223711,Structure of coronoid process of ulna
+C0223724,Scaphoid bone
+C0223729,Structure of pisiform bone of hand
+C0223733,Structure of capitate bone
+C0223736,Bone structure of trapezium
+C0223739,Structure of triangular bone
+C0223741,Trapezoid bone structure
+C0223792,Phalanx of hand
+C0223828,Structure of phalanx of middle finger
+C0223865,Structure of greater trochanter of femur
+C0223866,Structure of lesser trochanter of femur
+C0223895,Medial malleolus
+C0223896,Structure of tibial tuberosity
+C0223908,Head of fibula structure
+C0223921,Calcaneal tubercle structure
+C0223947,Navicular Bone of Foot
+C0223963,Bone structure of medial cuneiform
+C0224020,Proximal phalanx of foot
+C0224026,Distal phalanx of foot
+C0224086,Belly of skeletal muscle
+C0224087,Perimysium
+C0224097,Skeletal muscle structure of head
+C0224110,Structure of frontal belly of occipitofrontalis muscle
+C0224122,Orbicularis oculi muscle structure
+C0224134,Levator palpebrae superioris structure
+C0224145,Structure of lateral pterygoid muscle
+C0224146,Structure of medial pterygoid muscle
+C0224147,Orbicularis oris muscle structure
+C0224153,Structure of sternocleidomastoid muscle
+C0224155,Digastric muscle structure
+C0224159,Structure of mylohyoid muscle
+C0224160,Structure of geniohyoid muscle
+C0224161,Structure of infrahyoid muscle
+C0224176,Structure of platysma muscle
+C0224178,Structure of cricothyroid muscle
+C0224183,Thyroarytenoid muscle structure
+C0224231,Structure of teres minor muscle
+C0224232,Structure of teres major muscle
+C0224234,Structure of deltoid muscle
+C0224240,Structure of brachialis muscle
+C0224246,Structure of coracobrachialis muscle
+C0224252,Flexor carpi radialis
+C0224254,Flexor carpi ulnaris muscle structure
+C0224258,Flexor digitorum superficialis muscle of hand
+C0224261,Flexor digitorum profundus muscle of hand
+C0224264,Structure of brachioradialis muscle
+C0224267,Structure of extensor carpi radialis brevis muscle
+C0224278,Structure of abductor pollicis longus muscle
+C0224284,Structure of extensor pollicis brevis muscle
+C0224294,Structure of lumbrical muscle of hand
+C0224295,Structure of interosseous muscle of hand
+C0224301,Structure of erector spinae muscle
+C0224334,Skeletal muscle structure of back
+C0224337,Skeletal muscle structure of thorax
+C0224347,Pectoralis minor muscle structure
+C0224361,Structure of trapezius muscle
+C0224362,Structure of latissimus dorsi muscle
+C0224375,External Abdominal Oblique Muscle
+C0224376,Internal Abdominal Oblique Muscle
+C0224378,Structure of transversus abdominis muscle
+C0224382,Skeletal muscle structure of perineum
+C0224384,Structure of levator ani muscle
+C0224388,Structure of puborectalis muscle
+C0224394,Internal anal sphincter
+C0224395,External anal sphincter structure
+C0224417,Structure of iliopsoas muscle
+C0224419,Structure of psoas major muscle
+C0224420,Structure of psoas minor muscle
+C0224422,Internal obturator muscle structure
+C0224423,External obturator muscle structure
+C0224424,Structure of gluteus maximus muscle
+C0224425,Structure of gluteus medius muscle
+C0224434,Structure of sartorius muscle
+C0224435,"Adductor muscle of hip, unspecified"
+C0224439,Structure of gracilis muscle
+C0224440,Structure of quadriceps femoris muscle
+C0224449,Biceps femoris muscle structure
+C0224453,Semitendinosus muscle structure
+C0224458,Triceps surae muscle structure
+C0224463,Tibialis posterior muscle structure
+C0224498,Meniscus structure of joint
+C0224574,Structure of lateral ligament of temporomandibular joint
+C0224575,Structure of sphenomandibular ligament of temporomandibular joint
+C0224576,Structure of stylomandibular ligament of temporomandibular joint
+C0224599,Labrum glenoidale
+C0224698,Structure of labrum of acetabulum
+C0224792,Structure of subacromial bursa
+C0224804,Structure of intratendinous bursa of olecranon
+C0224813,Structure of trochanteric bursa
+C0224824,Prepatellar bursa
+C0224825,Structure of subcutaneous prepatellar bursa
+C0224848,Structure of flexor tendon
+C0224849,Structure of extensor tendon
+C0224856,Tendon sheath
+C0224858,Synovial tendon sheath structure
+C0224868,Tendon of supraspinatus muscle
+C0224873,Triceps tendon
+C0224879,Structure of extensor carpi radialis muscle tendon sheath
+C0224888,Structure of flexor pollicis longus muscle tendon sheath
+C0224909,Structure of flexor tendon of finger
+C0224927,Structure of extensor tendon of finger
+C0224969,Fibrous sheath of toe
+C0224996,Retinaculum
+C0225000,Structure of interspinous ligament
+C0225001,Structure of supraspinous ligament
+C0225034,Structure of anterior sternoclavicular ligament
+C0225035,Structure of posterior sternoclavicular ligament
+C0225049,Structure of sacrospinous ligament
+C0225053,Structure of superior pubic ligament
+C0225054,Structure of arcuate ligament of pubis
+C0225068,Anular ligament of radius
+C0225148,Anterior tibiofibular ligament
+C0225166,Structure of anterior talofibular ligament
+C0225167,Structure of posterior talofibular ligament
+C0225187,External Lateral Ligament of the Ankle
+C0225227,Superficial inguinal ring structure
+C0225261,Iliac fascia structure
+C0225266,Structure of iliotibial tract
+C0225306,Puboprostatic ligament
+C0225357,Muscularis Mucosae
+C0225358,Bladder Detrusor Muscle
+C0225434,Inferior nasal concha
+C0225435,Middle nasal turbinate structure
+C0225442,Trunk of elephant
+C0225489,Anterior nasopharynx
+C0225570,Rima glottidis structure
+C0225594,Structure of carina
+C0225608,Right main bronchus structure
+C0225630,Left main bronchus structure
+C0225691,Alveolar sac
+C0225696,Structure of acinus of lung
+C0225704,Basal segment of lung
+C0225706,Right lung
+C0225720,Structure of lateral segment of right middle lobe of lung
+C0225721,Structure of medial segment of right middle lobe of lung
+C0225730,Left lung
+C0225740,Lingula of left lung
+C0225756,Structure of upper lobe of lung
+C0225758,Structure of lower lobe of lung
+C0225776,Visceral pleura
+C0225777,Parietal pleura
+C0225789,Mediastinal pleura
+C0225832,Structure of auricular appendage
+C0225836,Interatrial septum
+C0225844,Right atrial structure
+C0225846,Myocardium of right atrium
+C0225848,Structure of valve of inferior vena cava
+C0225860,Left atrial structure
+C0225862,Structure of myocardium of left atrium
+C0225870,Ventricular septum
+C0225871,Structure of atrioventricular septum
+C0225880,Structure of myocardium of ventricle
+C0225881,Structure of muscular portion of interventricular septum
+C0225883,Right ventricular structure
+C0225885,Myocardium of right ventricle
+C0225886,Papillary muscle of right ventricle
+C0225889,Septal papillary muscle of right ventricle
+C0225894,Structure of trabecula septomarginalis
+C0225897,Left ventricular structure
+C0225899,Myocardium of left ventricle
+C0225900,Papillary muscle of left ventricle
+C0225912,Outflow tract of left ventricle
+C0225916,Structure of right branch of atrioventricular bundle
+C0225920,Structure of bundle branches
+C0225923,Structure of cardiac valve cusp
+C0225924,Atrioventricular valve
+C0225926,Structure of anulus fibrosus of tricuspid orifice
+C0225928,Structure of leaflet of tricuspid valve
+C0225935,Structure of anulus fibrosus of pulmonary artery
+C0225947,Structure of anulus fibrosus of mitral orifice
+C0225949,Leaflet of mitral valve
+C0225957,Structure of anulus fibrosus of aorta
+C0225969,Structure of parietal pericardium
+C0225975,Serous portion of pericardium
+C0225984,Structure of anatomic arteriovenous anastomosis
+C0225991,Structure of great blood vessel (organ)
+C0226011,Aortic tunica media
+C0226019,Structure of aortic isthmus
+C0226025,Structure of infrarenal aorta
+C0226027,Structure of aortic bifurcation
+C0226032,Anterior descending branch of left coronary artery
+C0226036,Diagonal branch of anterior descending branch of left coronary artery
+C0226037,Structure of circumflex branch of left coronary artery
+C0226040,Structure of obtuse marginal branch of circumflex branch of left coronary artery
+C0226047,Posterior interventricular branch of right coronary artery
+C0226049,Structure of conus artery
+C0226054,Right pulmonary artery
+C0226069,Left pulmonary artery
+C0226104,Structure of lingual artery
+C0226106,Structure of sublingual branch of lingual artery
+C0226109,Structure of facial artery
+C0226117,Structure of occipital artery
+C0226139,Structure of sphenopalatine artery
+C0226141,Structure of inferior alveolar artery
+C0226144,Structure of mental artery
+C0226147,Structure of middle meningeal artery
+C0226149,Structure of masseteric artery
+C0226153,Structure of infraorbital artery
+C0226176,Structure of ciliary artery
+C0226184,Ethmoidal artery
+C0226185,Structure of posterior ethmoidal artery
+C0226186,Structure of anterior ethmoidal artery
+C0226187,Structure of anterior meningeal artery
+C0226228,Structure of anterior temporal artery
+C0226229,Structure of posterior temporal artery
+C0226233,Structure of posterior spinal artery
+C0226237,Structure of labyrinthine artery
+C0226245,Structure of anterior inferior cerebellar artery
+C0226246,Structure of cerebellar artery
+C0226261,Structure of right subclavian artery
+C0226262,Structure of left subclavian artery
+C0226276,Structure of internal thoracic artery
+C0226290,Branch of thoracic aorta
+C0226294,Structure of esophageal artery
+C0226296,Structure of pericardial artery
+C0226323,Structure of ileocolic artery
+C0226328,Structure of middle colic artery
+C0226330,Structure of sigmoid artery
+C0226332,Structure of right renal artery
+C0226333,Structure of left renal artery
+C0226356,Glomerular capillaries structure
+C0226364,Structure of internal iliac artery
+C0226369,Structure of obturator artery
+C0226370,Structure of gluteal artery
+C0226371,Structure of superior gluteal artery
+C0226373,Structure of sciatic artery
+C0226378,Structure of uterine artery
+C0226382,Structure of middle rectal artery
+C0226394,Structure of perineal artery
+C0226398,Structure of external iliac artery
+C0226401,Structure of inferior epigastric artery
+C0226407,Structure of adrenal artery
+C0226408,Structure of lumbar artery
+C0226411,Structure of ovarian artery
+C0226417,Structure of left axillary artery
+C0226421,Structure of lateral thoracic artery
+C0226423,Structure of anterior circumflex humeral artery
+C0226424,Structure of posterior circumflex humeral artery
+C0226425,Structure of deep brachial artery
+C0226436,Common interosseous artery
+C0226438,Structure of right radial artery
+C0226455,Structure of profunda femoris artery
+C0226464,Structure of sural artery
+C0226476,Structure of peroneal artery
+C0226480,Structure of plantar metatarsal artery
+C0226482,Plantar arch
+C0226492,Structure of dorsalis pedis artery
+C0226493,Structure of tarsal artery
+C0226513,Structure of superficial vein
+C0226514,Structure of deep vein
+C0226515,Structure of valve of vein
+C0226524,Structure of maxillary vein
+C0226526,Structure of deep temporal vein
+C0226532,Facial vein structure
+C0226539,Structure of deep facial vein
+C0226540,Structure of external palatine vein
+C0226541,Structure of submental vein
+C0226543,Structure of external jugular vein
+C0226545,Structure of anterior jugular vein
+C0226546,Structure of posterior external jugular vein
+C0226550,Internal jugular vein structure
+C0226555,Structure of lingual vein
+C0226558,Structure of sublingual vein
+C0226559,Structure of deep lingual vein
+C0226560,Structure of vertebral vein
+C0226575,Structure of superior cerebral vein
+C0226586,Structure of deep middle cerebral vein
+C0226587,Structure of anterior cerebral vein
+C0226601,Structure of cerebellar vein
+C0226629,Structure of vein of thorax
+C0226633,Structure of internal thoracic vein
+C0226650,Structure of bronchial vein
+C0226654,Structure of cardiac vein
+C0226658,Structure of valve of coronary sinus
+C0226663,Venae cordis minimae
+C0226670,Structure of left pulmonary vein
+C0226672,Structure of apical branch of superior right pulmonary vein
+C0226674,Structure of posterior branch of superior right pulmonary vein
+C0226686,Structure of inferior left pulmonary vein
+C0226717,Structure of suprarenal vein
+C0226718,Structure of testicular vein
+C0226720,Structure of ovarian vein
+C0226725,Structure of abdominal vein
+C0226742,Structure of superior mesenteric vein
+C0226743,Structure of pancreatic vein
+C0226744,Structure of ileocolic vein
+C0226754,Structure of inferior mesenteric vein
+C0226762,Structure of inferior epigastric vein
+C0226776,Structure of obturator vein
+C0226802,Structure of cephalic vein
+C0226812,Structure of brachial vein
+C0226827,Structure of small saphenous vein
+C0226832,Structure of posterior tibial vein
+C0226833,Structure of anterior tibial vein
+C0226836,Structure of peroneal vein
+C0226841,Structure of profunda femoris vein
+C0226845,Structure of vein of skull
+C0226876,Structure of gastrointestinal mucous membrane
+C0226901,Hard Palate
+C0226910,Structure of parotid papilla
+C0226925,Vermilion border of lip
+C0226927,Structure of mucous membrane of lip
+C0226928,Structure of labial gland
+C0226936,External upper lip
+C0226945,Body of tongue
+C0226958,Root of tongue
+C0226964,Papilla of tongue
+C0226993,Tooth Crowns
+C0227017,Dentinal tubules
+C0227028,Maxillary teeth
+C0227032,Maxillary right third molar
+C0227033,Maxillary right second molar tooth
+C0227034,Maxillary right first molar tooth
+C0227042,Maxillary right central incisor
+C0227043,Maxillary left central incisor
+C0227046,Maxillary left canine
+C0227051,Maxillary left first molar
+C0227052,Maxillary left second molar
+C0227053,Maxillary left third molar
+C0227054,Mandibular left third molar
+C0227059,Mandibular left second premolar tooth
+C0227061,Mandibular left canine tooth
+C0227073,Mandibular right first molar
+C0227085,Deciduous maxillary right central incisor tooth
+C0227086,Maxillary right lateral primary incisor
+C0227087,Maxillary right primary canine
+C0227088,Deciduous maxillary right first molar tooth
+C0227089,Deciduous maxillary right second molar tooth
+C0227091,Maxillary left lateral primary incisor
+C0227092,Maxillary left primary canine
+C0227093,Deciduous maxillary left first molar tooth
+C0227098,Mandibular right first primary molar
+C0227099,Mandibular right second primary molar
+C0227102,Mandibular left primary canine tooth
+C0227103,Mandibular left first primary molar
+C0227104,Deciduous mandibular left second molar tooth
+C0227130,Tooth Socket
+C0227136,Fang (body structure)
+C0227150,Dorsal pharyngeal wall structure
+C0227157,Structure of vallecula of epiglottis
+C0227176,Esophageal mucous membrane
+C0227177,Lamina muscularis of esophageal mucous membrane
+C0227178,Structure of esophageal gland
+C0227186,Cervical part of esophagus
+C0227188,Thoracic esophagus
+C0227192,Inferior esophageal sphincter structure
+C0227199,Structure of gastric rugae
+C0227230,Body of stomach
+C0227254,Fundus of abomasum
+C0227265,Structure of Kerckring's valve
+C0227266,Intestinal Villus
+C0227284,Duodenal mucosa
+C0227296,Papilla of duodenum
+C0227344,Structure of retrocecal appendix
+C0227349,Colonic mucous membrane
+C0227361,Structure of colonic haustra
+C0227374,Ansa spiralis of colon
+C0227375,Ascending colon
+C0227386,Transverse colon
+C0227388,Left colon
+C0227389,Descending colon
+C0227391,Sigmoid colon
+C0227395,Rectal mucous membrane
+C0227414,Anal mucosa
+C0227423,Transition zone of anal mucous membrane
+C0227426,Structure of anal valves
+C0227428,Structure of anal column
+C0227433,Structure of perianal connective tissue
+C0227458,Stensen's duct
+C0227472,Structure of submaxillary duct
+C0227481,Right lobe of liver
+C0227486,Left lobe of liver
+C0227496,Hepatic capsule structure
+C0227514,Portal triad
+C0227518,Hepatic lobule
+C0227519,Structure of hepatic acinus
+C0227560,Structure of left hepatic duct
+C0227605,External genitalia
+C0227608,Structure of hilum of kidney
+C0227612,Structure of inferior pole of kidney
+C0227613,Right kidney
+C0227614,Left kidney
+C0227616,Fibrous capsule of kidney
+C0227617,Structure of fatty capsule of kidney
+C0227624,Structure of anterior superior renal segment
+C0227625,Structure of anterior inferior renal segment
+C0227628,Renal parenchyma
+C0227629,Renal pyramid structure
+C0227637,Structure of perirenal fascia
+C0227662,Macula densa
+C0227665,Both kidneys
+C0227666,Renal pelvis
+C0227675,Structure of major calyx
+C0227676,Structure of minor calyx
+C0227678,Abdominal part of ureter
+C0227683,Structure of left ureter
+C0227701,Posterior wall of urinary bladder
+C0227716,Neck of urinary bladder
+C0227736,Structure of prostatic utricle
+C0227759,Labium
+C0227760,labium majus
+C0227766,labium minus
+C0227771,Clitoral prepuce
+C0227812,Gravid uterus structure
+C0227813,Body of uterus
+C0227814,Structure of horn of uterus
+C0227817,fundus uteri
+C0227824,Structure of uterine serosa
+C0227837,Endocervix
+C0227849,Structure of endometrial stroma
+C0227873,Structure of right ovary
+C0227874,Structure of left ovary
+C0227898,Both ovaries
+C0227900,Right fallopian tube
+C0227902,Left fallopian tube
+C0227936,Body of penis
+C0227937,Corpus cavernosum structure
+C0227948,Glans penis
+C0227950,Neck of glans penis
+C0227952,Foreskin of penis
+C0227958,Structure of base of prostate
+C0227959,Structure of apex of prostate
+C0227965,Prostatic duct
+C0227972,Structure of median lobe of prostate
+C0227976,Posterior lobe of prostate
+C0227980,Structure of left seminal vesicle
+C0227992,Structure of inferior pole of testis
+C0227997,Structure of right testis
+C0227998,Structure of left testis
+C0228013,Structure of efferent ductule of testis
+C0228014,Tunica vaginalis
+C0228015,Structure of parietal layer of tunica vaginalis
+C0228016,Structure of visceral layer of tunica vaginalis
+C0228022,Structure of body of epididymis
+C0228023,Head of epididymis
+C0228067,Infratentorial brain structure
+C0228084,Nerve root structure
+C0228116,Cerebral meninges
+C0228126,Leptomeninges
+C0228130,Pacchionian granulation
+C0228158,Fifth ventricle
+C0228174,Cerebral hemisphere structure (body structure)
+C0228175,Right cerebral hemisphere
+C0228176,Left cerebral hemisphere
+C0228186,Structure of longitudinal cerebral fissure
+C0228196,Cortex of frontal lobe
+C0228263,Structure of limen insulae
+C0228280,Structure of lateral olfactory gyrus
+C0228316,Anterior Nuclear Group
+C0228318,Anterodorsal nucleus of thalamus
+C0228321,Stria medullaris
+C0228329,Medial Dorsal Nucleus
+C0228339,Ventral Lateral Thalamic Nucleus
+C0228341,Lateral posterior nucleus of thalamus
+C0228398,Central gray substance of midbrain
+C0228405,"Corpora quadrigemina, superior colliculus"
+C0228427,Basis pontis
+C0228465,Cerebellar hemisphere structure
+C0228482,Cerebellar vermis structure
+C0228505,Nodulus cerebelli
+C0228575,Structure of posterior gray horn of spinal cord
+C0228576,Dorsal funiculus
+C0228582,Spinal Cord Lateral Horn
+C0228585,Structure of lateral spinothalamic tract
+C0228590,Spinal cord anterior gray column
+C0228591,Structure of ventral spinothalamic tract
+C0228603,Somatic nerve plexus structure
+C0228673,Optic nerve sheath
+C0228686,Oculomotor nucleus
+C0228731,Structure of infraorbital nerve
+C0228754,Structure of facial nerve marginal mandibular branch
+C0228757,Structure of cranial vestibular nucleus
+C0228815,Cervical spinal nerve
+C0228833,Supraclavicular nerve
+C0228834,Medial supraclavicular nerves
+C0228842,Trunk of brachial plexus
+C0228885,Structure of axillary nerve
+C0228919,Structure of saphenous nerve
+C0228922,Sacral nerve
+C0228949,Structure of deep peroneal nerve
+C0228952,Structure of superficial peroneal nerve
+C0228959,Structure of pudendal nerve
+C0229010,Structure of thoracic sympathetic ganglion
+C0229036,Structure of renal plexus
+C0229045,Structure of femoral plexus
+C0229084,Structure of orbital septum
+C0229085,Structure of muscular fascia of eyeball
+C0229088,Soft tissues of orbit
+C0229089,Right eye
+C0229090,Left eye structure
+C0229105,Structure of orbitalis muscle
+C0229109,Structure of lamina episcleralis
+C0229167,Structure of pars plana
+C0229190,Dilator pupillae muscle structure
+C0229199,Structure of retina of right eye
+C0229200,Structure of retina of left eye
+C0229224,Fiber cell of lens
+C0229226,Structure of posterior pole of lens
+C0229243,Ocular adnexa structure
+C0229251,Structure of medial palpebral ligament
+C0229253,Structure of lateral palpebral ligament
+C0229258,Lower eyelid
+C0229271,Conjunctival sac
+C0229274,Structure of palpebral conjunctiva
+C0229298,Right ear structure
+C0229299,Left ear structure
+C0229304,Helix of ear
+C0229312,Tragal part of pinna
+C0229314,Antitragus structure
+C0229315,Ear lobe
+C0229468,Macula of saccule
+C0229477,Spiral Ligament of Cochlea
+C0229531,Structure of pars intermedia of pituitary gland
+C0229559,Structure of right adrenal gland
+C0229560,Structure of left adrenal gland
+C0229575,Structure of thyroid capsule
+C0229581,Structure of right lobe of thyroid gland
+C0229582,Structure of left lobe of thyroid gland
+C0229583,Structure of isthmus of thyroid gland
+C0229654,Lymphoid nodule
+C0229681,Splenic capsule structure
+C0229687,Splenic Red Pulp
+C0229693,Structure of splenic arterioles
+C0229703,Structure of hilum of lymph node
+C0229710,Structure of lymph node of head
+C0229711,Occipital lymph node group
+C0229713,Structure of anterior auricular lymph node
+C0229715,Structure of parotid lymph node
+C0229722,Structure of submandibular lymph node
+C0229723,Structure of submental lymph node
+C0229730,Structure of supraclavicular lymph node
+C0229737,Structure of retropharyngeal lymph node
+C0229740,Structure of prelaryngeal lymph node
+C0229751,"Tracheobronchial lymph node, located near carina"
+C0229755,Internal Mammary Lymph Node
+C0229762,Structure of diaphragmatic lymph node
+C0229767,Structure of superior mesenteric lymph node
+C0229782,Structure of splenic lymph node
+C0229792,Lymph node of mesentery
+C0229796,Structure of ileocolic lymph node
+C0229802,Structure of retroperitoneal lymph node
+C0229822,Obturator lymph node group
+C0229827,Sacral lymph node group
+C0229837,Pararectal lymph node group
+C0229840,Structure of lateral axillary lymph node
+C0229843,Pectoral lymph node group
+C0229847,Structure of epitrochlear lymph node
+C0229889,Lymphatic vessel
+C0229962,Body part
+C0229983,Body organ structure
+C0229985,Surgical margins
+C0230190,Mons pubis
+C0230206,Visceral Peritoneum
+C0230238,Structure of ligament of liver
+C0230254,Structure of transverse mesocolon
+C0230259,Greater omentum
+C0230260,Lesser omentum
+C0230273,Pelvic viscus
+C0230278,Lesser Pelvis
+C0230284,Pelvic wall
+C0230299,Structure of uterine ligament
+C0230312,Structure of mesosalpinx
+C0230329,Right upper extremity
+C0230346,Right upper arm structure
+C0230347,Left upper arm structure
+C0230370,Structure of right hand
+C0230371,Structure of left hand
+C0230388,Index finger
+C0230393,Middle finger structure
+C0230398,Fourth finger
+C0230403,Fifth finger
+C0230425,Structure of right thigh
+C0230426,Structure of left thigh
+C0230443,Structure of left lower leg
+C0230446,Both lower legs
+C0230462,Structure of dorsum of foot
+C0242403,Vomer bone structure
+C0242690,Tibialis anterior muscle structure
+C0242691,Gastrocnemius muscle structure
+C0242693,Plantaris muscle
+C0242694,Soleus muscle structure
+C0242696,Diaphyses
+C0242740,Gastric Stump
+C0262201,Area X
+C0262264,Islands of Calleja
+C0262354,Vallecula of cerebellum
+C0262950,Skeletal bone
+C0278433,Structure of left posterior descending branch of circumflex branch of left coronary artery
+C0278454,All extremities
+C0282335,Respiratory tract structure
+C0282582,Salivary duct structure
+C0282640,Epigastric Arteries
+C0348070,Structure of permanent tooth
+C0348072,Lateral meniscus structure
+C0348073,Medial meniscus structure
+C0376152,Marrow
+C0376161,Comb animal structure
+C0376353,Metencephalon
+C0376381,Cuboid Bone
+C0391892,Alveolar duct
+C0391901,Stomach and stomach
+C0391903,Duodenum and duodenum
+C0391906,Ileum and ileum
+C0391907,Colon and colon
+C0391916,Auricular muscle
+C0392907,Great saphenous vein structure
+C0423866,Lanugo
+C0427245,Pectoral girdle structure
+C0440761,Coronary artery graft (morphologic abnormality)
+C0440790,Solid organ
+C0440949,Hand flap (substance)
+C0444439,Segmental bronchus structure
+C0446633,abdominal organ
+C0446764,Anterior interosseous nerve structure
+C0446768,Posterior interosseous nerve structure
+C0446826,Popliteal nerve
+C0446846,Cervical sympathetic ganglion
+C0446908,Mastoid process
+C0446987,Cardiac wall structure
+C0447028,Structure of intracranial artery
+C0447043,Spinal artery
+C0447055,Branch of left coronary artery
+C0447105,Common Femoral Artery
+C0447106,Superficial femoral artery
+C0447115,Metatarsal artery
+C0447138,Tibial vein structure
+C0447155,Lymph node group
+C0447541,Lobe of liver
+C0447562,Mesorectum
+C0447584,Fundus of urinary bladder
+C0447612,Vaginal wall
+C0447834,Structure of triangular fibrocartilage of wrist
+C0448011,Mental Foramen
+C0448064,Bone structure of hand
+C0448161,Structure of shaft of rib
+C0448168,Bony pelvis
+C0448188,Bone structure of lower limb
+C0448196,Structure of medial condyle of femur
+C0448216,Intercondylar tubercle of tibia
+C0448227,Lateral malleolus
+C0448353,Paraspinal Muscles
+C0448494,Interosseous of foot
+C0448540,Biceps tendon structure
+C0448712,Subcutaneous olecranon bursa
+C0448956,Post-surgical anatomy
+C0450295,Retinal macula
+C0450297,Processus vaginalis
+C0456475,Subglottis structure
+C0456605,Pedicle
+C0456765,Teres
+C0456923,Fast pathway
+C0456924,Slow pathway
+C0456944,Coronary sinus structure
+C0457138,Liver segment
+C0457846,Cervical segment of spinal cord
+C0457886,Root of brachial plexus
+C0458298,Deep cervical lymph node
+C0458337,Limbic lobe
+C0458415,Pelvic part of ureter
+C0458421,Wall of bladder
+C0458450,Prostatic Urethra
+C0458560,Cricothyroid membrane
+C0458563,Alar structure
+C0458578,Upper respiratory tract
+C0458580,Tracheobronchial structure
+C0458582,Upper lip structure
+C0458583,Lower lip structure
+C0458632,Epididymal duct structure
+C0458699,Bony labyrinth structure
+C0458827,Airway structure
+C0458840,Frenulum of labia minora
+C0458842,Vestibular gland structure
+C0458863,Pubocervical ligament
+C0459156,Left bundle branch structure
+C0459376,Tracheostomy stoma (morphologic abnormality)
+C0459385,Brain tissue
+C0459414,Central cord canal structure
+C0459558,Body wall structure
+C0459586,Tarsal plate
+C0459624,Lacrimal duct
+C0459631,Lacrimal canaliculus structure
+C0459649,Layer of retina
+C0459701,First metatarsal structure
+C0459917,Intercostal artery
+C0459922,Intracranial vascular structure
+C0459944,Bone structure of C6
+C0459953,Bone structure of T8
+C0489802,Capillary Beds
+C0489868,peripheral artery
+C0489877,Vasculature of lung
+C0489886,Structure of left subclavian vein
+C0489887,Structure of right subclavian vein
+C0500459,Regional tree segment of artery
+C0500462,Variant artery
+C0500464,Regional segment of venous tree
+C0500486,Crista terminalis branch of sinoatrial nodal artery
+C0500519,Atrial branch of circumflex coronary artery
+C0501116,Right brachiocephalic vein
+C0501117,Right internal jugular vein
+C0501122,Left brachiocephalic vein
+C0501189,Right subcostal vein
+C0501352,Lymphatic plexus
+C0501384,Motor nerve
+C0501385,Sensory nerve
+C0501386,Mixed nerve
+C0501394,Somatic nerve
+C0502298,Hollow viscus
+C0502299,Parenchymatous viscus
+C0502336,Muscular part of interatrial septum
+C0502413,Wall of trachea
+C0503964,Left apical segmental vein
+C0503984,Wall of right atrium
+C0504033,Wall of left atrium
+C0504035,Wall of right ventricle
+C0504042,Posterior wall of left atrium
+C0504053,Wall of left ventricle
+C0504056,Inferior wall of left ventricle
+C0504058,Lateral wall of left ventricle
+C0504089,Serous sac
+C0504090,Pleural sac
+C0504095,Striated muscle fasciculus
+C0504215,Organ part
+C0507105,Membranous part of interatrial septum
+C0507115,Superior segmental bronchus
+C0507236,Anterior bronchopulmonary segment of superior pulmonary vein
+C0507237,Posterior segmental vein
+C0507238,Apical segmental vein
+C0507616,Conducting system of left ventricle
+C0507617,Wall of atrium
+C0507618,Wall of ventricle
+C0507850,Wall of artery
+C0507851,Wall of aorta
+C0520509,Arm Bones
+C0521421,Entire ear
+C0524414,Structure of condyle
+C0524422,Both cardiac atria
+C0524448,Glomerular capsule structure
+C0524463,Structure of organ capsule
+C0524789,Structure of apical foramen of tooth
+C0524810,Perforant Pathway
+C0524930,Transplanted organ
+C0542362,Structure of nail root
+C0545675,Bronchus and lung
+C0545683,Pleura and pleura
+C0545718,Pericardium and pericardium
+C0545725,Blood vessel and blood vessel
+C0545743,coronary artery and coronary artery
+C0545747,pulmonary artery and pulmonary artery
+C0545782,Set of filiform papillae
+C0545841,Jejunum and jejunum
+C0545893,Ureter and ureter
+C0549109,Plantar fascia structure
+C0549113,Supraaortic valve area structure
+C0549115,Structure of vaginal vault
+C0549154,Nerve fasciculus
+C0549207,Bone structure of spine
+C0559280,Anterior wall of bladder
+C0559499,Biceps brachii muscle structure
+C0559502,Triceps brachii muscle structure
+C0559768,Abdomen proper cavity
+C0560737,Bone structure of hamate
+C0576734,Mesenteric artery lymph node group
+C0578853,Posterior eyeball segment structure
+C0580671,Autograft of skin
+C0580781,Structure of apex of left ventricle
+C0581269,Thoracic spine structure
+C0581631,Cervical Spinal Nerve Root
+C0581666,Lumbar spinal nerve root structure
+C0581672,Sacral spinal nerve root structure
+C0581755,Skeletal muscle structure of trunk
+C0582484,Structure of upper urinary system
+C0582791,Bone of limb
+C0582800,Condyle of femur
+C0582802,Digit structure
+C0582818,Superior rectus muscle structure
+C0582819,Inferior rectus muscle structure
+C0582820,Medial rectus muscle structure
+C0582821,Lateral rectus muscle structure
+C0582832,Sacrotuberous ligament
+C0582833,Iliolumbar ligament
+C0584640,Tibial plateau structure
+C0584869,Supraspinatus muscle structure
+C0584876,Bone structure of phalanx of foot
+C0584882,Infraspinatous muscle structure
+C0584884,Subscapularis muscle structure
+C0584895,Posterior muscle of thigh structure
+C0585636,Upper eyelid structure
+C0588054,Cervical lymph node group
+C0588055,Mediastinal lymph node group
+C0588057,Popliteal lymph node group
+C0588058,Abdominal lymph node group
+C0588193,Bone structure of shaft of femur
+C0588196,Bone structure of shaft of fibula
+C0588197,Bone structure of distal fibula
+C0588198,Bone structure of proximal tibia
+C0588199,Bone structure of shaft of tibia
+C0588200,Bone structure of distal tibia
+C0588201,Bone structure of proximal ulna
+C0588204,Bone structure of shaft of ulna
+C0588205,Bone structure of proximal radius
+C0588207,Bone structure of distal radius
+C0588208,Bone structure of shaft of radius
+C0588209,Bone structure of proximal humerus
+C0588210,Bone structure of shaft of humerus
+C0588211,Bone structure of distal humerus
+C0588412,Branch of abdominal aorta
+C0596210,brain commissure
+C0596334,choroid uvea
+C0596392,craniofacial
+C0596394,cutaneous sensory nerve
+C0596416,dental structure
+C0596796,Exoskeleton
+C0597169,Parabrachial Nucleus
+C0597434,sensory cortex
+C0597466,skin derivative
+C0597491,somatic afferent nerve
+C0598782,Appendage
+C0599297,Glomerular Basement Membrane
+C0599298,glomerular endothelium
+C0599333,Epithelium of bronchus
+C0599459,middle column
+C0682620,Portal lobule
+C0682735,Midbrain Raphe Nuclei
+C0684083,Structure of pelvic girdle
+C0687028,Duct (organ) structure
+C0687080,Paw
+C0687082,Proboscis
+C0694599,CA2 field
+C0694649,Left deltoid
+C0694651,Left gluteus medius
+C0694666,Right deltoid
+C0694668,Right gluteus medius
+C0699800,Adductor muscle
+C0699819,Gut
+C0700374,Palate
+C0728985,Cervical spine
+C0729538,Saphenous vein graft
+C0729594,Axillary lymph node group
+C0729857,Perivesical tissue
+C0729865,Upper urinary tract structure
+C0729890,Iliac vessel
+C0729936,Cardiac chamber structure
+C0730067,Tendon and/or tendon sheath structure
+C0730117,Proximal phalanx of finger
+C0734007,Wall of colon
+C0734014,Wall of gallbladder
+C0734912,Sac of tunica vaginalis
+C0734914,Anterior parietal serous pericardium
+C0734915,Lateral parietal serous pericardium
+C0735427,Right hip bone
+C0735428,Left hip bone
+C0736268,Liver parenchyma
+C0736346,Renal column
+C0736448,Wall of body of uterus
+C0736778,Preperitoneal fat
+C0738214,Fatty layer of superficial fascia of abdomen
+C0740005,Rectus sheath
+C0740422,Fundus
+C0741968,carotid
+C0746922,Anatomic Node
+C0750950,Ventral Striatum
+C0752050,Anteroventral Thalamic Nucleus
+C0752060,Septum of Brain
+C0796494,lobe
+C0815008,Subcortex of cerebral hemisphere
+C0815353,Male external urethral sphincter
+C0815393,Fascia of muscle
+C0815974,Branch of axillary artery
+C0815994,Left anterior circumflex humeral artery
+C0815996,Left posterior circumflex humeral artery
+C0815997,Branch of brachial artery
+C0816071,Branch of ulnar artery
+C0816839,Glenoid cavity region of scapula
+C0817319,Right femur
+C0817320,Left femur
+C0819141,Bronchial tree
+C0822815,Perineal membrane
+C0824497,Neurovascular bundle
+C0829833,Left flexor digitorum superficialis
+C0829841,Left flexor digitorum profundus
+C0829855,Left extensor carpi radialis brevis
+C0831919,Synovial tendon sheath of hand
+C0833112,Synovial tendon sheath of extensor digitorum and extensor indicis
+C0833867,Trapezium proper
+C0835053,Structure of metatarsal vein
+C0835690,Synovial tendon sheath of finger
+C0835695,Synovial tendon sheath of toe
+C0836306,Pulmonary arterial tree
+C0836311,Portal venous tree
+C0836916,Abdominal wall structure
+C0917710,Hepatic Duct
+C0920808,Left sternocleidomastoid
+C0920821,Venous tree organ
+C0920995,Subintima
+C0921005,Lobule
+C0922753,Proximal tendon
+C0922772,Wall of inflow part of left ventricle
+C0922773,Wall of outflow part of left ventricle
+C0922960,Variant anatomical structure
+C0923405,Branch of middle cerebral artery
+C0923760,Left anterior inferior cerebellar artery
+C0923792,Branch of posterior cerebral artery
+C0923926,Structure of right optic nerve
+C0923928,Structure of left optic nerve
+C0924008,Deep cerebral vein
+C0924205,Inferior orbital vein
+C0925110,Epicardium proper
+C0925179,Masseteric vein
+C0926368,Hair of chest
+C0927225,Homogeneous organ
+C0927230,Organ with organ cavity
+C0928075,Auricle of external ear
+C0929176,Hilum
+C0929301,Mammary gland
+C0930083,Apocrine sweat gland structure
+C0930465,Mucosa of internal nose
+C0930959,Right index finger
+C0932431,Proximal epiphysis of tibia
+C0932441,Muscle of pelvic diaphragm
+C0932491,Heterogeneous anatomical cluster
+C0932533,Alveolar bone of maxilla
+C0933350,Subdiaphragmatic lymph node group
+C0933549,Systemic artery
+C0933653,Trunk of apical segmental artery
+C0933793,Synovial sac
+C0933845,Parenchyma
+C0934141,Left posterior inferior cerebellar artery
+C0934502,anatomical layer
+C0935106,Arterial tree organ
+C0935624,Capillary vessel
+C0936188,Septum of telencephalon
+C0936236,Corticospinal Tracts
+C0949650,Mushroom Bodies
+C1116428,Breast Duct
+C1116439,posterior fossa
+C1116449,Central Vein
+C1116455,Structure of femoral vessel
+C1135971,Atretic Follicle
+C1140618,Upper Extremity
+C1140621,Leg
+C1176472,Cortex of Organ
+C1178954,Interosseous Membrane
+C1179412,Cell cluster
+C1179583,Wall of orbit
+C1179712,Lateral angle region of scapula
+C1179818,Thyroid gland proper
+C1180033,Structure of wall of blood vessel
+C1181031,Apical ramus of posterior segmental artery
+C1181525,Trunk of brachiocephalic artery
+C1181956,Branch of posterior tibial artery
+C1182550,Branch of superior mesenteric artery
+C1182554,Branch of inferior mesenteric artery
+C1182571,Branch of internal carotid artery
+C1182742,Set of organs
+C1182753,Set of right atrial veins
+C1182755,Set of left atrial veins
+C1182781,Neural tissue of brain
+C1182883,Tip of appendix
+C1182961,Set of vallate papillae
+C1183035,Uterine gland
+C1183092,Segment of biliary tree
+C1183350,Superior part of fibrous pericardium
+C1183351,Inferior part of fibrous pericardium
+C1183352,Anterior part of fibrous pericardium
+C1184740,Tubercle formation
+C1184741,Tuberosity
+C1184742,Eminence
+C1184743,bony process
+C1184808,Plexus
+C1185372,Branch of vertebral artery
+C1185381,Branch of basilar artery
+C1185708,Synovial sheath
+C1185726,Cutaneous vein
+C1185727,Collateral vessel
+C1185738,Column (anatomic)
+C1185740,Tract
+C1186686,Trunk of axillary artery
+C1186763,Stem of Organ
+C1186982,Periarterial lymphatic sheath
+C1186983,anatomic valve
+C1235681,Distal tendon of biceps brachii
+C1235738,T4 thoracic segmental innervation
+C1235740,T3 thoracic segmental innervation
+C1261040,Hair of scalp
+C1261074,Structure of right upper lobe of lung
+C1261075,Structure of right lower lobe of lung
+C1261076,Structure of left upper lobe of lung
+C1261077,Structure of left lower lobe of lung
+C1261082,Left coronary artery structure
+C1261084,Common iliac artery structure
+C1261085,Structure of medial circumflex femoral artery
+C1261103,Fifth toe structure
+C1261316,Right coronary artery structure
+C1261317,Transplanted kidney
+C1266928,Nasal turbinate bone structure
+C1267085,Entire tarsal bone
+C1267140,Flexor tendon of wrist
+C1267157,Hamstring Tendons
+C1267213,Upper aerodigestive tract
+C1267275,Mediastinal pulmonary artery
+C1267594,Pelvic appendix
+C1268087,Upper body structure
+C1268088,Lower body structure
+C1268110,Heart part
+C1268125,Pancreas part
+C1268141,Central nervous system part
+C1268161,Eye part
+C1268166,Spinal cord part
+C1268195,Extremity part
+C1268196,Upper extremity part
+C1268197,Lower extremity part
+C1268205,Spleen part
+C1269782,Distal phalanx of hand
+C1269825,Skeletal muscle structure of chest wall
+C1269845,Structure of hemidiaphragm
+C1275667,Common femoral vein
+C1275670,Collateral branch of vessel
+C1276271,Structure of antecubital vein
+C1279372,Structure of smallest cardiac vein
+C1280599,Terminal bronchiole (body structure)
+C1282080,Branch of internal iliac artery
+C1282090,Branch of external iliac artery
+C1282108,Branch of femoral artery
+C1282110,Branch of popliteal artery
+C1282135,Skin of part of limb
+C1282302,Fibular epiphysis
+C1283383,Spinothalamic tract of medulla
+C1283566,Structure of wing of sphenoid bone
+C1283622,Part of diaphragm
+C1285092,Gland
+C1285107,Structure of lobe of left lung
+C1285145,Structure of viscus
+C1288329,Structure of lower uterine segment
+C1299725,Tympanic bulla
+C1301431,Ileal vein
+C1305188,Right colon
+C1305372,Hilar lymph node
+C1305636,Entire hair of pubis
+C1305694,Medulla
+C1305724,Angle of jaw
+C1306642,Conjunctival glands
+C1314737,Structure of Littre's gland
+C1318154,Root body part
+C1319007,Zygomatic salivary gland
+C1323109,Semicircular duct structure
+C1323110,Cochlear duct
+C1328945,renal epithelium
+C1367111,Accessory thyroid glands
+C1409894,Sphincter
+C1440080,Alveolar
+C1450218,Blood-Nerve Barrier
+C1451819,Upper Esophageal Sphincter
+C1456808,"Nares, entire, anterior or posterior"
+C1510461,Aortic Bodies
+C1510667,Forefoot
+C1510901,Anterior Annular Ligament
+C1510905,Anterior Circumflex Artery
+C1510908,Anterior Inferior Frontal Convolution
+C1510946,Ascending Aorta Branch
+C1510987,Autonomic Nervous System Part
+C1511529,Cortical Vein
+C1511743,Deep Abdominal Muscle
+C1512036,Dorsal Curve
+C1512165,Ectocervical Os
+C1512275,Greater Tuberosity
+C1512650,Immune System Part
+C1512823,Intercostal Artery Branch
+C1512882,Internal Pterygoid Muscle
+C1512897,Interosseous Vein
+C1513051,Mediastinum Part
+C1513268,Microcirculatory Bed
+C1513292,Middle Cuneiform Bone of the Foot
+C1513772,Musculoskeletal System Part
+C1514258,Posterior Circulation Intracranial Artery
+C1514259,Posterior Circumflex Artery
+C1514263,Posterior Mediastinal Artery
+C1514389,Pregnant Uterus
+C1514834,Renal Afferent Vessel
+C1514840,Renal Efferent Vessel
+C1514901,Respiratory System Part
+C1514978,Straight Artery of the Endometrium
+C1515057,Superficial Abdominal Muscle
+C1515341,Thalamencephalon
+C1515933,Alveolus
+C1516032,Aortic Arch Branch
+C1516297,Cardiovascular System Part
+C1516384,Central Artery
+C1516697,Renal collecting tube
+C1516847,Endocrine System Part
+C1516964,Esophageal Opening
+C1517034,External Canal
+C1517045,External Pterygoid Muscle
+C1517465,Digestive System Part
+C1517562,Intrathoracic Lymph Node
+C1517756,Left Inferior Frontal Convolution
+C1518050,Lymph Node Part
+C1518256,Nervous System Part
+C1518593,Optic Commissure
+C1518689,Outer Wall of the Vestibule
+C1518857,Palate Bone
+C1518897,Parieto-Occipital Artery
+C1518991,Outer layer of dura mater
+C1519455,Spinal Cord Column
+C1519456,Tract of spinal cord
+C1519457,Spinal Dorsal Nerve
+C1519470,Spiral Artery of the Endometrium
+C1519832,Urinary System Part
+C1519909,Vagal Triangle
+C1522382,Animal Tarsus
+C1522391,Hindlimb
+C1522460,Thoracic aorta
+C1522466,Tunica Albuginea
+C1522495,Sentinel Lymph Node
+C1522652,Lateral Ligament of the Liver
+C1533572,Forepaw
+C1549090,External Jugular
+C1549094,Auricular
+C1550227,Body Parts - Canal
+C1550232,Body Parts - Cannula
+C1550234,Body Parts - Colostomy
+C1550235,Cord - Body Parts
+C1550236,Coral - body part
+C1550244,Cuff - body part
+C1550254,Body Parts - Epidural
+C1550261,Glans
+C1550262,Gluteal
+C1550291,Perirectal
+C1550293,Pilonidal
+C1550297,Prerenal
+C1550298,Peritonsillar
+C1550311,Subphrenic
+C1550315,Synovial
+C1550316,Tarsal
+C1550324,Vesicular Fluid
+C1552120,Supernumerary maxillary right canine
+C1552150,Supernumerary maxillary right central primary incisor
+C1552154,Js
+C1552158,Supernumerary mandibular right central primary incisor
+C1552160,Supernumerary mandibular right primary canine
+C1556138,Disc - Body Part
+C1561522,Introitus
+C1563055,Interphalangeal joint structure
+C1571705,Follicle
+C1578559,Buccal mucosa
+C1621887,Crypt of Lieberkuhn
+C1628340,Lateral canthal tendon
+C1630649,Forefoot of quadruped
+C1690938,Structure of ankle and/or foot (body structure)
+C1704244,Perianal skin
+C1704302,permanent premolar tooth
+C1705057,Circumferential Resection Margin
+C1706783,Alveolar Artery
+C1707349,Cervical Artery
+C1707451,Communicating Artery
+C1707930,Epigastric Vein
+C1708633,Labial Artery
+C1708673,Left Lung Alveolus
+C1708987,Metacarpal Bone Digit 1
+C1708988,Metacarpal Bone Digit 2
+C1708989,Metacarpal Bone Digit 3
+C1709945,Rib 1
+C1709949,Rib 2
+C1709950,Rib 3
+C1709959,Right Lung Alveolus
+C1710195,Sternal Manubrium
+C1710422,Tibialis Muscle
+C1710579,Upper Jaw Incisor
+C1711224,Metacarpal Bone Digit 5
+C1711241,Sinonasal Tract
+C1711376,Rib 5
+C1735318,Vestibular Labyrinth
+C1744535,Structure of external intercostal muscle
+C1744536,Structure of internal intercostal muscle
+C1744541,Structure of dorsal interosseous muscle of foot
+C1744560,Bulbar urethra
+C1744565,Muscle of anterior abdominal wall
+C1744608,Structure of transverse thoracis muscle
+C1744702,Gluteal muscle
+C1761592,All abdominal viscera
+C1827495,Structure of calcaneal apophysis
+C1880192,Crypt
+C1956251,Left Bundle Branch of His
+C1995013,Set of muscles
+C2004574,Entire smallest cardiac vein
+C2325264,Synovial capsule of joint
+C2325343,Anterior interventricular septum
+C2328510,Interstitium
+C2330022,Pericardial sac proper
+C2330124,Organ component layer
+C2330508,Pelvic brim
+C2332324,Meningeal cluster
+C2333161,Subcortical gray matter
+C2335478,Inferior interventricular septum
+C2337046,Visceral serous pericardium
+C2338048,Cuboid bone proper
+C2338155,grey commissure
+C2339893,Frenulum (anatomical classification)
+C2349956,Leaf of cardiac valve
+C2350571,Microvascular Network
+C2355627,Ventricle
+C2586323,Structure of fascial sheath of eyeball
+C2697906,Left Posterolateral Segment
+C2698201,Auricular Vein
+C2713294,Olecranon Process
+C2936202,Arthropod Antennae
+C2936407,Animal Fins
+C2949802,Maxillary dentition
+C2950507,Set of maxillary periodontia
+C2951429,Gray matter of posterior cingulate gyrus
+C2951843,Leptomeningeal sac
+C2951888,Skull
+C2952973,Set of mandibular periodontia
+C2953246,Parietal lumbar lymph node group
+C2984223,Proximal Muscle
+C2984224,Distal Muscle
+C2985205,Structure of vein of tail
+C2986565,Lymphatic Basin
+C3146295,Triceps
+C3163626,Descending thoracic aorta
+C3178905,Animal Shells
+C3178906,Seashells
+C3241967,Pulmonary lobule
+C3266841,Deciduous tooth
+C3273046,Intrahepatic Large Bile Duct
+C3273702,Para-Spinal Ganglion
+C3495141,Coronary Veins
+C3495330,Dorsolateral fasciculus of the medulla
+C3499125,Sensorimotor Cortex
+C3538724,Proximal Interphalangeal Joint 2
+C3538818,Ramus Intermedius Artery
+C3539929,Metacarpophalangeal Joint 2
+C3539932,Interphalangeal Joint 2
+C3540569,Metacarpophalangeal Joint 3
+C3540576,Metatarsophalangeal Joint 1
+C3540687,Distal Interphalangeal Joint 2
+C3541339,Metacarpophalangeal Joint 1
+C3541347,Distal Left Anterior Descending Artery
+C3542923,Interphalangeal Joint 1
+C3542924,Interphalangeal Joint 3
+C3640672,Distal Circumflex Artery
+C3640673,Distal Interphalangeal Joint 3
+C3640674,Distal Interphalangeal Joint 4
+C3640675,Distal Interphalangeal Joint 5
+C3640682,Interphalangeal Joint 5
+C3640685,Lateral Ramus Intermedius Artery
+C3640690,Left Posterolateral Descending Artery
+C3640691,Metacarpophalangeal Joint 5
+C3640692,Metatarsophalangeal Joint 2
+C3640693,Metatarsophalangeal Joint 3
+C3640695,Metatarsophalangeal Joint 5
+C3640700,Perihilar Lymph Node
+C3640702,Proximal Interphalangeal Joint 3
+C3640703,Proximal Interphalangeal Joint 4
+C3640704,Proximal Interphalangeal Joint 5
+C3640705,Proximal Left Anterior Descending Artery
+C3640709,Right Posterior Descending Artery
+C3640714,Septal Perforator Artery
+C3640715,Third Diagonal Branch Artery
+C3640716,Third left marginal artery
+C3641267,Upper Cervical Lymph Node
+C3658350,Superficial Back Muscles
+C3665375,Throat
+C3665420,Cervical Vertebrae
+C3669027,Bone structure of distal phalanx
+C3669031,Bone structure of middle phalanx
+C3669035,Bone structure of proximal phalanx
+C3686591,Tentacle
+C3714551,Stomach structure
+C3714556,Papilla
+C3829360,L3-L4 Intervertebral Space
+C3829361,L2-L3 Intervertebral Space
+C3829588,Humeral Epicondyle
+C3853547,Hindfoot of quadruped
+C3887642,Hippocampus Proper
+C3887652,Pelvic Bones
+C3890179,Pulmonary Trunk
+C3897409,Synthetic Vessel Graft
+C3897696,Right Ventricular Branch of Right Coronary Artery
+C3898611,Left Posterior Descending Artery
+C3898615,Left Circumflex Artery Ostium
+C3898617,Left Anterior Descending Artery Ostium
+C4042786,Round Ligament of Elbow
+C4042814,Plantar Plate
+C4048756,Right arm
+C4083049,Muscle (organ)
+C4224391,Set of rugae
+C4242602,Skeletal muscle body
+C4243314,Mucosa of respiratory tract
+C4245781,Set of right maxillary periodontia
+C4245782,Set of left maxillary periodontia
+C4246796,Cartilaginous skeleton
+C4247905,Muscle body
+C4281590,Structure of middle lobe of right lung
+C4284103,Left Ventricular Outflow Tract
+C4284305,Right Atrial Appendage
+C4284918,Left Atrial Appendage
+C4288164,Suprapubic Skin
+C4288280,Right Ventricular Free Wall
+C4288841,Left Ventricular Apex Segment
+C4316912,Peroneal Nerve
+C4322531,Zygomaticomaxillary bone complex
+C4521147,Keel structure
+C4522151,Adnexa
+C4528306,Medial Nasal Turbinate
+C4528330,Lateral Humeral Epicondyle
+C4551532,Muscle layer
+C4684509,Hand Digit 2 Middle Phalanx
+C4684510,Hand Digit 3 Middle Phalanx
+C4684514,Hand Digit 2 Proximal Phalanx
+C4684522,Renal Fossa
+C4684527,Supraclavicular Fossa
+C4688469,Parapharyngeal Lymph Node
+C4725122,Parotid Bed
+C4726031,Hand Digit 1 Proximal Phalanx
+C4763181,Right Lisfranc ligament
+C4763277,Left Lisfranc ligament
+C4763278,Lisfranc ligament
+C5197848,Vagal Anti-inflammatory Pathway
+C5205399,Upper Ureter
+C5205402,Abdominal Ureter
+C5205706,Parotid Gland Superficial Lobe
+C5205708,Maxillary Vestibule of the Mouth
+C5205774,Wrist Joint Extensor Tendons
+C5205779,Skin of the Infrascapular Region
+C5206429,Renal Calyx and Pelvis

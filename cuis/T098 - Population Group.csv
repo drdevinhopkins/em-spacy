@@ -1,0 +1,268 @@
+cui,name
+C0001792,Elderly (population group)
+C0002460,American Indians
+C0003988,Asian Americans
+C0004345,Australoid Race
+C0005680,Black race
+C0005795,Blood donor
+C0007457,Caucasoid Race
+C0008096,"Child, Exceptional"
+C0008121,Chinese Americans
+C0013018,Donor person
+C0015031,Ethnic group
+C0015621,Famous Persons
+C0018422,Roma ethnic group
+C0019576,Hispanic Americans
+C0019863,Homeless persons
+C0019898,Homosexuals
+C0021207,Central American Indians
+C0021208,"Indians, North American"
+C0021209,South American Indians
+C0022389,Jews
+C0023226,Legal Guardians
+C0025266,Male population group
+C0025884,Mexican Americans
+C0026093,Migrants
+C0026192,Minority Groups
+C0026193,Minor (person)
+C0026767,Multiple Partners
+C0027361,Persons
+C0027363,Occupational Group
+C0027567,African race
+C0029206,organ donor
+C0030767,Peer Group
+C0033011,Pregnant Women
+C0033176,Private Sector
+C0034043,Puerto Ricans
+C0034510,Racial group
+C0034961,Refugees
+C0035962,Rural Population
+C0036911,Sexual Partners
+C0037179,Unmarried person
+C0038492,student
+C0040288,Tissue Donors
+C0040704,Transient Population Group
+C0040705,Transients and Migrants
+C0042441,Vegetarian (finding
+C0042610,Veterans
+C0042801,Visitors to Patients
+C0043157,Caucasians
+C0043210,Woman
+C0043215,"Women, Working"
+C0078988,Asians
+C0079382,friend
+C0080105,Research Subject
+C0085756,African American
+C0086409,Hispanics
+C0150094,CONSECUTIVE SAMPLE
+C0150775,Social Networks
+C0152035,Chinese People
+C0178443,"Jewish, follower of religion"
+C0178515,Bisexuals
+C0221786,white American
+C0237401,Individual
+C0237945,Military Veterans
+C0238602,Central African
+C0238604,North African
+C0238605,South African
+C0238697,South East Asian
+C0238711,Australian
+C0238884,Canadian
+C0239304,Ethiopian
+C0239307,ethnic european
+C0239310,Northern European
+C0239312,Western European
+C0240069,Israeli
+C0240293,Malaysian race
+C0240321,Mediterranean
+C0240339,Mexican
+C0241297,Sudanese
+C0242268,Emigrants and Immigrants
+C0242444,Population at Risk
+C0242657,Gays
+C0242663,Homeless Youth
+C0260788,Donor of kidney for transplant (person)
+C0282122,Respondents
+C0282163,Immigrant (person)
+C0282204,Native Americans
+C0282540,arab ethnic group
+C0302823,Crime Victims
+C0337611,contact person
+C0337704,"Ashkenazi Jew, follower of religion"
+C0337797,Belgians
+C0337801,Egyptians
+C0337816,Russians
+C0337847,Somalis (ethnic group)
+C0337892,Mongoloid population
+C0337900,Indonesians
+C0337920,Hawaiian population
+C0348050,Living Donors
+C0422771,Black Caribbean
+C0425359,South American
+C0425373,West Indian race
+C0425375,Pakistani race
+C0438971,Other Asian ethnic group
+C0450048,Passenger
+C0450063,Pedestrians
+C0450068,Swimmer
+C0489844,Interviewee
+C0521319,Boyfriend
+C0588053,Graduate (person)
+C0596070,Americas Ethnicity
+C0597010,Special Population
+C0599755,Cohort
+C0679646,Participant
+C0679739,Peer
+C0680022,member
+C0680323,Western society
+C0680413,civilian
+C0680681,victim
+C0681088,coworker
+C0682125,Alaska Natives
+C0682138,Undocumented Immigrants
+C0682177,College student
+C0682287,nursing home resident
+C0682356,Witnesses
+C0683971,General Population
+C0684030,high-risk group
+C0684312,Drivers of Vehicles
+C0687669,Children of alcoholics
+C0687744,Social group
+C0687759,traveler
+C0699726,Offenders
+C0699776,Persian population group
+C0870358,Counselee
+C0949366,Vulnerable Populations
+C1257890,Population Group
+C1257911,Continental Population Groups
+C1331005,Caribbean natives
+C1515945,American Indian or Alaska Native
+C1518424,Not Hispanic or Latino
+C1518563,Older Population
+C1518660,Other Minority
+C1519427,South Asian
+C1521910,Teens
+C1524069,Asian Indian
+C1527360,Heterosexuals
+C1533642,Lesbians
+C1535514,European race
+C1545958,ESCORT
+C1547101,Participation Type - donor
+C1550443,Person Disability Type - Vision impaired
+C1551454,Ottawa race
+C1551458,Bishop Indian
+C1551739,Mcgrath Indians
+C1551777,Douglas Alaska Indian
+C1551807,Council Eskimos
+C1552743,State Ownership
+C1553253,Platinum Eskimo
+C1553327,Sri Lankan race
+C1553330,Nepalese race
+C1553331,Singaporean race
+C1553333,Botswanan race
+C1553335,Zairean race
+C1553355,Iranian race
+C1553378,Latin American
+C1553702,Neighbor
+C1556083,English race
+C1556084,french race
+C1556085,german race
+C1556087,Iraqi race
+C1556088,Liberian race
+C1556089,Nigerian race
+C1556093,Filipino race
+C1556094,Japanese race
+C1556095,Korean race
+C1556096,Race - Taiwanese
+C1556107,Bangladeshi race
+C1561452,Vietnamese race
+C1697767,Friends - (Religious Affiliation)
+C1705274,Operator of Medical Device
+C1705275,Operator - device
+C1706077,user - individual
+C1706450,Legal Adult
+C1707496,Consumer
+C1708335,Healthy Volunteers
+C1708571,Invoker
+C1709065,Mongolian (race)
+C1709355,Other Caregiver
+C1709696,Producer
+C1709854,Recipient
+C1710263,Swedish ethnic group
+C1711254,Finnish ethnic group
+C1882950,Reviewer (person)
+C1883562,Working Group
+C1955958,Mass Casualties
+C1998038,Patient advocate (person)
+C1999167,Old age
+C2347958,Resident (person)
+C2348001,Age Cohort
+C2348150,Sample Study Population
+C2348484,Exposed Population
+C2348534,Steering Committee
+C2348561,Study Population (group)
+C2348745,General Population Cohort
+C2349001,Human Study Subject
+C2349018,Unexposed Population
+C2349156,World Standard Population
+C2355574,Ward (person)
+C2607966,Criminals
+C2698217,Middle Eastern
+C2698999,Caribbean Indian
+C2700280,World
+C2700615,North American (race)
+C2717883,Threatened Species
+C2827413,Men who have Sex with Men
+C2983714,US Citizen
+C2986415,Historical Control Subject
+C2986493,Community Advisory Board
+C2986530,Intervention Group
+C3161473,Spanish Person
+C3179133,Unrelated Donors
+C3245503,National citizen
+C3266856,Transgendered Persons
+C3275078,Donor for Cardiac Transplant
+C3816164,Asthmatics
+C3825277,Overweight persons
+C3826770,Older people
+C3829110,Mexican or Mexican American
+C3853635,Race
+C3887537,Partner
+C4277573,Sexual and Gender Minorities
+C4287972,White South American
+C4287973,White Central American
+C4288606,New Zealander
+C4288881,Intercontinental Ethnicity
+C4289916,Black South American
+C4289917,Black Central American
+C4330269,Household Member
+C4505217,"Smokers, Tobacco"
+C4528333,Reader 3
+C4554605,Non-Smokers -- population group
+C4555205,Ex-Smokers
+C4684768,Secondary Sponsor
+C4727184,Northeastern Asian
+C4727185,Southeastern European
+C4727186,Sub-Saharan African
+C4760587,Indigenous Peoples
+C4761311,Dai Chinese
+C4761392,Lahu Chinese
+C4761399,Chosen Chinese
+C4761403,Oroqen Chinese
+C4761447,She Chinese
+C4761452,Miao Chinese
+C4761455,Man Chinese
+C4761468,Deang Chinese
+C4761517,Gin Chinese
+C4761558,Salar Chinese
+C4761617,Hezhen Chinese
+C4761624,Monba Chinese
+C4761669,Russ Chinese
+C4761672,Li Chinese
+C4761680,Tatar Chinese
+C5197709,Para-Athletes
+C5197894,Atomic Bomb Survivors
+C5203091,Aboriginal North American
+C5205742,Treatment Group
+C5205744,Demographic Group
+C5205795,East Asian

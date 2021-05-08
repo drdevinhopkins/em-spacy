@@ -1,0 +1,242 @@
+cui,name
+C0001299,Acupuncture therapy discipline
+C0002111,Allergy Specialty
+C0002346,Alternative Medicine
+C0002808,Science of Anatomy
+C0002811,"Anatomy, Comparative"
+C0002812,"Anatomy, Regional"
+C0002930,Anesthesiology
+C0004644,Bacteriology
+C0004937,Behavioral Medicine
+C0005523,Biological Psychiatry
+C0005532,biology (field)
+C0005537,Biomechanics
+C0005539,biomedical engineering field
+C0005553,Biophysics
+C0005574,Biotechnology
+C0007189,Cardiology discipline
+C0008088,Child Psychiatry
+C0008138,Chiropractic (field)
+C0009369,Colorectal Surgery Specialty
+C0009471,Community Health Nursing
+C0009473,Community Medicine
+C0010802,Cytogenetics
+C0010819,Cytology
+C0011627,Dermatology field
+C0013851,"Electronics, Medical"
+C0013865,Electrophysiology (science)
+C0013964,emergency medicine (field)
+C0014137,Endocrinology
+C0014413,Environmental Health
+C0014507,Epidemiology
+C0015607,family medicine (field)
+C0016557,Forensic Medicine
+C0017163,gastroenterology (field)
+C0017398,Science of genetics
+C0017401,"Genetics, Biochemical"
+C0017402,Medical Genetics specialty
+C0017467,Geriatric Psychiatry specialty
+C0017469,Geriatrics
+C0018417,Gynecology
+C0018722,Health Occupations
+C0018725,Health Physics
+C0018943,Hematology (discipline)
+C0019638,Histology
+C0020405,Hygiene
+C0021005,Immunogenetics
+C0021782,Internal medicine specialty
+C0022420,"Journalism, Dental"
+C0025085,Medical Illustration
+C0025098,Medical oncology specialty
+C0025118,Medicine
+C0025123,chinese medicine
+C0025124,Traditional Chinese Medicine
+C0025129,"Medicine, East Asian Traditional"
+C0025131,Traditional Medicine
+C0025952,Science of Microbiology
+C0026082,Midwifery
+C0027621,Neonatology
+C0027712,Nephrology Speciality
+C0027817,Neurobiology
+C0027827,Neuroendocrinology
+C0027855,Neurology speciality
+C0027901,Science of neurophysiology
+C0027903,Neuropsychology
+C0027926,Science of neurosurgery
+C0028582,Discipline of Nuclear Medicine
+C0028677,Discipline of Nursing
+C0028707,Science of nutrition
+C0028772,Obstetric Nursing
+C0028773,Discipline of obstetrics
+C0028800,Occupational Health Nursing
+C0028802,occupational medicine field
+C0029087,Ophthalmology specialty
+C0029167,Oral Medicine
+C0029355,Orthopedics
+C0029892,Otolaryngology specialty
+C0030664,Pathology
+C0030668,Oral Pathology specialty
+C0030669,Surgical Pathology specialty
+C0030755,Pediatrics
+C0031063,Perinatology
+C0031330,Pharmacology
+C0031336,Pharmacy (field)
+C0031813,Physical and Rehabilitation Medicine
+C0031842,Physiology
+C0033110,preventive medicine specialty
+C0033873,Psychiatry Specialty
+C0033909,Psychology
+C0033917,"Psychology, Medical"
+C0033927,Psychopathology
+C0034019,public health medicine (field)
+C0034021,Public Health Dentistry
+C0034060,Pulmonary Medicine
+C0034558,Radiobiology
+C0034597,Radiologic Health
+C0034599,Radiology Specialty
+C0034602,Interventional radiology
+C0035452,Rheumatology specialty
+C0036745,Study of serum
+C0037443,"Social Work, Psychiatric"
+C0037777,"Specialties, Dental"
+C0037778,Medical Specialities
+C0037779,"Specialties, Nursing"
+C0037781,"Specialties, Surgical"
+C0038040,sports medicine specialty
+C0038559,Submarine Medicine
+C0038894,Surgery specialty
+C0038908,Specialty of oral surgery
+C0038911,Plastic Surgery Specialty
+C0038931,Perioperative Nursing
+C0039424,"Technology, Dental"
+C0039431,"Technology, Radiologic"
+C0039986,Thoracic Surgery Specialty
+C0040541,Toxicology
+C0040801,Traumatology
+C0041186,Tropical Medicine
+C0042077,Urology
+C0042762,Science of Virology
+C0079920,occupational health specialty
+C0085124,Postanesthesia Nursing
+C0085125,Emergency Nursing
+C0085126,Orthopedic Nursing
+C0086343,general practice (field)
+C0152036,Immunology
+C0178621,Ecotoxicology
+C0205478,Oncologic
+C0206582,"Journalism, Medical"
+C0243005,Radiation Oncology specialty
+C0262668,occupational health and safety
+C0278627,oncology field
+C0279077,Pediatric surgery specialty
+C0282281,Palliative Medicine
+C0282567,"Kinesiology, Applied"
+C0376537,Evidence-Based Medicine
+C0376635,Subacute Care
+C0524727,Discipline of Heart Surgery
+C0557523,Cardiovascular Nursing
+C0557533,Hospice and Palliative Care Nursing
+C0557539,Nephrology Nursing
+C0586901,Colorectal surgeon
+C0596415,Dental pharmacology
+C0596471,ear pharmacology
+C0596559,Family Nursing
+C0596603,Gastrointestinal Pharmacology
+C0596818,Renal Pharmacology
+C0677043,Histopathology
+C0699718,Physical therapy (field)
+C0700619,Science of Morphology
+C0851312,Breast surgery specialty
+C0876934,Neuropathology
+C0949446,Toxinology
+C1136246,"Medicine, Tibetan Traditional"
+C1257974,Regenerative Medicine
+C1271036,Hospital nurse
+C1271040,Other health professional
+C1273849,Infectious Disease Medicine
+C1273859,Medical microbiology field
+C1274037,Cardiothoracic surgery specialty
+C1274038,"Ear, nose and throat surgery"
+C1274039,General surgery specialty
+C1274104,Obstetrics and gynecology (clinical specialty)
+C1274117,Trauma & orthopedics
+C1306847,Rehabilitation - specialty
+C1317851,Home health care specialty
+C1321164,Gynecologic Oncology
+C1321589,Hemophilia - specialty
+C1328813,Metabolomics
+C1444182,Dive medicine
+C1450026,Bariatrics
+C1450477,Systems Biology
+C1511126,Biochemical Endocrinology
+C1511152,Biology of HIV Infection
+C1511772,Dental Epidemiology
+C1511783,Dermatologic Oncology
+C1511798,Developmental Anatomy
+C1512289,Gynecologic Pathology
+C1512717,Infectious Disease Epidemiology
+C1512769,Infusion Nursing
+C1513053,Medical-Surgical Nursing
+C1513058,Medical Occupation
+C1515088,"Surgery, Neonatal Pediatric"
+C1516195,Cancer Etiology
+C1516227,Cancer Science
+C1516295,Cardiopulmonary Physiology
+C1516609,Clinical Endocrinology
+C1516653,Clinical Virology
+C1516739,Comparative Biology
+C1516990,Exercise Physiology
+C1517007,Experimental Ophthalmology
+C1517083,Eye Surgeon
+C1517515,Genetic Toxicology
+C1517936,Long-Term Care Nursing
+C1518305,Neurovirology
+C1518604,Oral Microbiology
+C1518927,Pediatric Hematology/Oncology
+C1518929,Pediatric neurology oncology
+C1519035,"Pharmacology, Biologicals"
+C1519520,Tissue Expediter
+C1520003,Viral Epidemiology
+C1520160,Women's Health Nursing
+C1521825,Cancer Immunology
+C1521993,Respiratory physiology discipline
+C1533719,Discipline of Herbal Medicine
+C1547139,Specialty Type - Ambulatory
+C1547140,Specialty Type - cancer
+C1547142,Specialty Type - Critical care
+C1548354,Specialty Type - Intensive care
+C1548355,Specialty Type - Isolation
+C1641588,Urological oncology
+C1655731,study of epigenetics
+C1689990,Pediatric emergency medicine
+C1704382,Imaging Technology
+C1705869,Ophthalmic surgery specialty
+C1720907,Bariatric Medicine
+C1721027,Forensic Nursing
+C1879848,Biomedicine
+C2004600,Cataract surgery specialty (qualifier value)
+C2347592,Certified Emergency Nurse
+C2347597,Certified Nurse Specialist
+C2347602,Certified Registered Nurse (occupation)
+C2347930,Registered Nurse Practitioner
+C2347991,Advanced Practice Nurse Practitioner
+C2348504,Family Practice Nurse Practitioner (occupation)
+C2350272,Evidence-Based Dentistry
+C2350328,Evidence-Based Nursing
+C2350392,Evidence-Based Emergency Medicine
+C2350576,Wilderness Medicine
+C2698776,Pharmacokinetics: Absorption
+C2718055,Travel Medicine
+C2827416,Patient-Centered Medicine
+C2983660,Safety Pharmacology
+C3494416,Neurotology
+C3714645,Vascular surgery specialty
+C3814533,Hand surgery - surgical specialty
+C3825584,Toxicologists
+C3827686,Urological Surgery
+C4277537,Radiologic and Imaging Nursing
+C4505067,Addiction Medicine
+C4518440,Transplant medicine service
+C4760629,Vascular imaging specialty
+C5192100,Perioperative Medicine
+C5197794,Evidence-Based Pharmacy Practice
